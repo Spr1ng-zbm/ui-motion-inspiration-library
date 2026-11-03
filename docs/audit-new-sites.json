@@ -1724,5 +1724,23 @@
     "action": "点击 START RETROCAST，确认天气播报文本和时钟出现。",
     "observed": "启动后可读天气播报结构，但截图服务超时，无法确认复古视觉质量。",
     "access_notes": "功能入口已响应；视觉核验环境受阻，暂不收录。"
+  },
+  {
+    "name": "UTB 25 周年：动态历史地图",
+    "checked_at": "2026-11-03",
+    "url": "https://jenamdvacetpet.cz/",
+    "result": "blocked",
+    "action": "打开周年体验，读取加载页、Unity画布和时间轴控件。",
+    "observed": "网页结构可读取，但本轮浏览器截图服务持续超时，无法确认场景渲染和核心时间轴交互。",
+    "access_notes": "核验环境受阻，不代表站点失效；未纳入主库。"
+  },
+  {
+    "name": "Dialed Color：颜色记忆滑杆界面",
+    "checked_at": "2026-11-03",
+    "url": "https://dialed.gg/color",
+    "result": "blocked",
+    "action": "打开颜色游戏并点击 Single player。",
+    "observed": "单人入口响应并出现 Let’s go it alone，但截图服务持续超时，未能完成颜色界面的视觉判断。",
+    "access_notes": "核验环境受阻，不代表站点失效；未纳入主库。"
   }
 ]
