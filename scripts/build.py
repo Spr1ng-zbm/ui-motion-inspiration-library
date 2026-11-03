@@ -103,7 +103,8 @@ def build():
     (ROOT/'index.html').write_text(page,encoding='utf-8')
     lines = ['# UI Motion Library · UI 界面与动效灵感库','',
         f'精选 **{len(items)} 条** UI、交互动效、展示视频与实现资源。最后整理：{DATE}。', '',
-        '**使用浏览页：** 下载仓库后直接打开 [index.html](index.html)，支持搜索、分类、平台筛选、本地收藏、随机发现与导出。在线浏览地址如已开通，见仓库 About。','',
+        '**[打开在线灵感库 →](https://spr1ng-zbm.github.io/ui-motion-inspiration-library/)**','',
+        '也可以下载仓库后直接打开 [index.html](index.html)，支持搜索、分类、平台筛选、本地收藏、随机发现与导出。','',
         '[全部数据 JSON](library.json) · [CSV 索引](library.csv) · [检索与核验说明](docs/research-notes.md)','',
         '> 本库保存原链接和简短策展说明。动态效果需打开原站体验；视频未逐一完整播放。小红书因浏览器扩展未连接，本轮没有收录真实笔记。', '',
         '## 从这里开始','']

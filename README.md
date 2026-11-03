@@ -2,7 +2,9 @@
 
 精选 **179 条** UI、交互动效、展示视频与实现资源。最后整理：2026-11-03。
 
-**使用浏览页：** 下载仓库后直接打开 [index.html](index.html)，支持搜索、分类、平台筛选、本地收藏、随机发现与导出。在线浏览地址如已开通，见仓库 About。
+**[打开在线灵感库 →](https://spr1ng-zbm.github.io/ui-motion-inspiration-library/)**
+
+也可以下载仓库后直接打开 [index.html](index.html)，支持搜索、分类、平台筛选、本地收藏、随机发现与导出。
 
 [全部数据 JSON](library.json) · [CSV 索引](library.csv) · [检索与核验说明](docs/research-notes.md)
 
