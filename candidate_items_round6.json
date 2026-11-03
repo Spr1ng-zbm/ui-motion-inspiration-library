@@ -1,0 +1,1027 @@
+[
+  {
+    "name": "197 Historias Ilustradas：插画记忆档案",
+    "url": "https://www.197historiasilustradas.com/",
+    "platform": "独立站",
+    "category": "画廊与导航",
+    "tags": [
+      "文化",
+      "插画",
+      "档案"
+    ],
+    "description": "纪念档案以插画讲述 197 位失踪者的人生，原站提供网格、列表与画廊三种入口。",
+    "kind": "在线演示",
+    "evidence_url": "https://thefwa.com/cases/197-historias-ilustradas",
+    "verification": "candidate：官方来源与响应核查；未浏览器交互或播放验证",
+    "checked_at": "2026-11-03",
+    "http_status": 200,
+    "http_final_url": "https://www.197historiasilustradas.com/",
+    "source_title": "197 Historias Ilustradas",
+    "source_content_evidence": "纪念档案以插画讲述 197 位失踪者的人生，原站提供网格、列表与画廊三种入口。",
+    "review_status": "candidate",
+    "browser_verified": false,
+    "browser_audit_focus": "切换三种视图并打开一位人物，核查作品呈现与返回路径。",
+    "access_notes": "来源研究候选；尚未浏览器查看主体、执行交互或播放，不计实测通过。",
+    "license_note": "仅作视觉参考；复用素材或代码需另查原作者许可。",
+    "author": "++hellohello",
+    "http_method": "GET",
+    "thumbnail_url": "https://www.197historiasilustradas.com/opengraph-image.png",
+    "thumbnail_kind": "原站 Open Graph 图，尚未视觉核验",
+    "source_api_url": "https://thefwa.com/api/cases/197-historias-ilustradas",
+    "award_evidence": [
+      {
+        "id": 12057,
+        "awardedDate": "2026-08-04",
+        "awardFor": "2026-08-04",
+        "type": "FOTD",
+        "name": "FWA of the Day"
+      }
+    ]
+  },
+  {
+    "name": "i-move-u：动作与角色互动重制",
+    "url": "https://i-move-u.alexandrajugovic.com/",
+    "platform": "独立站",
+    "category": "游戏与交互体验",
+    "tags": [
+      "角色",
+      "声音",
+      "复古"
+    ],
+    "description": "Hi-ReS! 为 Mitsubishi 创作的历史互动项目重制页，提供角色选择、场景与重播入口。",
+    "kind": "在线演示",
+    "evidence_url": "https://thefwa.com/cases/reanimated-i-move-u",
+    "verification": "candidate：官方来源与响应核查；未浏览器交互或播放验证",
+    "checked_at": "2026-11-03",
+    "http_status": 200,
+    "http_final_url": "https://i-move-u.alexandrajugovic.com/",
+    "source_title": "i move u · Reanimated 02",
+    "source_content_evidence": "Hi-ReS! 为 Mitsubishi 创作的历史互动项目重制页，提供角色选择、场景与重播入口。",
+    "review_status": "candidate",
+    "browser_verified": false,
+    "browser_audit_focus": "选择角色与场景、重播完整体验，确认动画主体；这是档案重制而非新车产品页。",
+    "access_notes": "来源研究候选；尚未浏览器查看主体、执行交互或播放，不计实测通过。",
+    "license_note": "仅作视觉参考；复用素材或代码需另查原作者许可。",
+    "author": "Hi-ReS!",
+    "http_method": "GET",
+    "source_api_url": "https://thefwa.com/api/cases/reanimated-i-move-u",
+    "award_evidence": [
+      {
+        "id": 12055,
+        "awardedDate": "2026-08-02",
+        "awardFor": "2026-08-02",
+        "type": "FOTD",
+        "name": "FWA of the Day"
+      }
+    ]
+  },
+  {
+    "name": "Noho：家具电商界面重设计",
+    "url": "https://noho.ink/",
+    "platform": "独立站",
+    "category": "品牌与产品界面",
+    "tags": [
+      "家具",
+      "电商",
+      "界面主题"
+    ],
+    "description": "家具网站的非商业重设计概念，界面包含深浅主题与减少动画等显示选项。",
+    "kind": "在线演示",
+    "evidence_url": "https://thefwa.com/cases/noho",
+    "verification": "candidate：官方来源与响应核查；未浏览器交互或播放验证",
+    "checked_at": "2026-11-03",
+    "http_status": 200,
+    "http_final_url": "https://noho.ink/",
+    "source_title": "Noho",
+    "source_content_evidence": "家具网站的非商业重设计概念，界面包含深浅主题与减少动画等显示选项。",
+    "review_status": "candidate",
+    "browser_verified": false,
+    "browser_audit_focus": "检查商品呈现、主题与减弱动画开关；不提交订单。",
+    "access_notes": "来源研究候选；尚未浏览器查看主体、执行交互或播放，不计实测通过。非商业个人重设计，非家具品牌官方商店。",
+    "license_note": "仅作视觉参考；复用素材或代码需另查原作者许可。",
+    "author": "Eugene Morev / Alex Ivanov",
+    "http_method": "GET",
+    "source_api_url": "https://thefwa.com/api/cases/noho",
+    "award_evidence": [
+      {
+        "id": 12046,
+        "awardedDate": "2026-07-25",
+        "awardFor": "2026-07-25",
+        "type": "FOTD",
+        "name": "FWA of the Day"
+      }
+    ]
+  },
+  {
+    "name": "2Advanced Prophecy V4：科幻界面档案",
+    "url": "https://v4prophecy.2advanced.com/",
+    "platform": "独立站",
+    "category": "画廊与导航",
+    "tags": [
+      "科幻",
+      "复古",
+      "声音"
+    ],
+    "description": "2004 年 Prophecy V4 网站由原工作室恢复，通过 Ruffle 在现代浏览器中运行。",
+    "kind": "在线演示",
+    "evidence_url": "https://thefwa.com/cases/2advanced-studios-prophecy",
+    "verification": "candidate：官方来源与响应核查；未浏览器交互或播放验证",
+    "checked_at": "2026-11-03",
+    "http_status": 200,
+    "http_final_url": "https://v4prophecy.2advanced.com/",
+    "source_title": "2advanced Studios [Prophecy]",
+    "source_content_evidence": "2004 年 Prophecy V4 网站由原工作室恢复，通过 Ruffle 在现代浏览器中运行。",
+    "review_status": "candidate",
+    "browser_verified": false,
+    "browser_audit_focus": "点击 Enter Archive，加载后操作主导航并观察转场；确认不是只有档案说明页。",
+    "access_notes": "来源研究候选；尚未浏览器查看主体、执行交互或播放，不计实测通过。",
+    "license_note": "仅作视觉参考；复用素材或代码需另查原作者许可。",
+    "author": "2Advanced Studios",
+    "http_method": "GET",
+    "thumbnail_url": "https://v4prophecy.2advanced.com/images/prophecy-v4-flash-site.png",
+    "thumbnail_kind": "原站 Open Graph 图，尚未视觉核验",
+    "source_api_url": "https://thefwa.com/api/cases/2advanced-studios-prophecy",
+    "award_evidence": [
+      {
+        "id": 12044,
+        "awardedDate": "2026-07-23",
+        "awardFor": "2026-07-23",
+        "type": "FOTD",
+        "name": "FWA of the Day"
+      }
+    ]
+  },
+  {
+    "name": "Shaky Picks：环形卡牌选择",
+    "url": "https://myshaky.com/picks",
+    "platform": "独立站",
+    "category": "游戏与交互体验",
+    "tags": [
+      "移动交互",
+      "卡牌",
+      "状态切换"
+    ],
+    "description": "独立卡牌互动以环形选择、分类与抽取结果组成完整状态流程。",
+    "kind": "在线演示",
+    "evidence_url": "https://thefwa.com/cases/shaky-picks",
+    "verification": "candidate：官方来源与响应核查；未浏览器交互或播放验证",
+    "checked_at": "2026-11-03",
+    "http_status": 200,
+    "http_final_url": "https://myshaky.com/picks",
+    "source_title": "Shaky Picks – Luck, Love & Chaos | Meta Shaky",
+    "source_content_evidence": "独立卡牌互动以环形选择、分类与抽取结果组成完整状态流程。",
+    "review_status": "candidate",
+    "browser_verified": false,
+    "browser_audit_focus": "切换分类、拖动卡环并抽取卡牌，检查过渡和结果层。",
+    "access_notes": "来源研究候选；尚未浏览器查看主体、执行交互或播放，不计实测通过。",
+    "license_note": "仅作视觉参考；复用素材或代码需另查原作者许可。",
+    "author": "Allen Tseng  (Taiwan)",
+    "http_method": "GET",
+    "thumbnail_url": "https://myshaky.com/myimg/Shakypicks.jpg",
+    "thumbnail_kind": "原站 Open Graph 图，尚未视觉核验",
+    "source_api_url": "https://thefwa.com/api/cases/shaky-picks",
+    "award_evidence": [
+      {
+        "id": 12040,
+        "awardedDate": "2026-07-19",
+        "awardFor": "2026-07-19",
+        "type": "FOTD",
+        "name": "FWA of the Day"
+      }
+    ]
+  },
+  {
+    "name": "/zeroz：食品品牌三维章节",
+    "url": "https://otsuka-air.jp/",
+    "platform": "独立站",
+    "category": "品牌与产品界面",
+    "tags": [
+      "食品",
+      "3D",
+      "滚动叙事"
+    ],
+    "description": "大塚制药食品品牌站用三维视觉与分章结构呈现品牌、产品和相关内容。",
+    "kind": "在线演示",
+    "evidence_url": "https://thefwa.com/cases/zeroz-brand-site-p2",
+    "verification": "candidate：官方来源与响应核查；未浏览器交互或播放验证",
+    "checked_at": "2026-11-03",
+    "http_status": 200,
+    "http_final_url": "https://otsuka-air.jp/",
+    "source_title": "/zeroz（ゼロズ）公式サイト | 大塚製薬",
+    "source_content_evidence": "大塚制药食品品牌站用三维视觉与分章结构呈现品牌、产品和相关内容。",
+    "review_status": "candidate",
+    "browser_verified": false,
+    "browser_audit_focus": "滚动并切换章节，核查模型与内容过渡；不将品牌功效文案当作医学结论。",
+    "access_notes": "来源研究候选；尚未浏览器查看主体、执行交互或播放，不计实测通过。",
+    "license_note": "仅作视觉参考；复用素材或代码需另查原作者许可。",
+    "author": "SHIFTBRAIN Inc.",
+    "http_method": "GET",
+    "thumbnail_url": "https://otsuka-air.jp/_astro/ogp.CSVrUM2_.jpg",
+    "thumbnail_kind": "原站 Open Graph 图，尚未视觉核验",
+    "source_api_url": "https://thefwa.com/api/cases/zeroz-brand-site-p2",
+    "award_evidence": [
+      {
+        "id": 12039,
+        "awardedDate": "2026-07-18",
+        "awardFor": "2026-07-18",
+        "type": "FOTD",
+        "name": "FWA of the Day"
+      }
+    ]
+  },
+  {
+    "name": "Pedro Belleza：跨年代界面时光机",
+    "url": "https://www.pedrobelleza.com/",
+    "platform": "独立站",
+    "category": "画廊与导航",
+    "tags": [
+      "复古",
+      "未来界面",
+      "界面主题"
+    ],
+    "description": "作者把作品集设计成从 1986 年 BBS 到 2046 年的界面风格旅行。",
+    "kind": "在线演示",
+    "evidence_url": "https://thefwa.com/cases/pedro-bellezas-personal-website",
+    "verification": "candidate：官方来源与响应核查；未浏览器交互或播放验证",
+    "checked_at": "2026-11-03",
+    "http_status": 200,
+    "http_final_url": "https://www.pedrobelleza.com/",
+    "source_title": "Pedro Belleza · Design & UX Leader | Portfolio 1986-2046",
+    "source_content_evidence": "作者把作品集设计成从 1986 年 BBS 到 2046 年的界面风格旅行。",
+    "review_status": "candidate",
+    "browser_verified": false,
+    "browser_audit_focus": "切换年代，比较导航、排版和交互方式，并确认可以返回。",
+    "access_notes": "来源研究候选；尚未浏览器查看主体、执行交互或播放，不计实测通过。",
+    "license_note": "仅作视觉参考；复用素材或代码需另查原作者许可。",
+    "author": "Pedro Belleza",
+    "http_method": "GET",
+    "thumbnail_url": "https://www.pedrobelleza.com/uploads/og-card.jpg",
+    "thumbnail_kind": "原站 Open Graph 图，尚未视觉核验",
+    "source_api_url": "https://thefwa.com/api/cases/pedro-bellezas-personal-website",
+    "award_evidence": [
+      {
+        "id": 12036,
+        "awardedDate": "2026-07-15",
+        "awardFor": "2026-07-15",
+        "type": "FOTD",
+        "name": "FWA of the Day"
+      }
+    ]
+  },
+  {
+    "name": "moshi-moshi：几何世界交互档案",
+    "url": "https://moshi-moshi.alexandrajugovic.com/",
+    "platform": "独立站",
+    "category": "游戏与交互体验",
+    "tags": [
+      "几何",
+      "声音",
+      "复古"
+    ],
+    "description": "Hi-ReS! 为 NTT Data 创作的历史项目重制页，以海洋、山脉与城市等几何场景组织体验。",
+    "kind": "在线演示",
+    "evidence_url": "https://thefwa.com/cases/reanimated-moshi-moshi",
+    "verification": "candidate：官方来源与响应核查；未浏览器交互或播放验证",
+    "checked_at": "2026-11-03",
+    "http_status": 200,
+    "http_final_url": "https://moshi-moshi.alexandrajugovic.com/",
+    "source_title": "REANIMATED · NTT·DATA / moshi-moshi",
+    "source_content_evidence": "Hi-ReS! 为 NTT Data 创作的历史项目重制页，以海洋、山脉与城市等几何场景组织体验。",
+    "review_status": "candidate",
+    "browser_verified": false,
+    "browser_audit_focus": "选择场景、切换声音并重播，观察日夜与几何变化。",
+    "access_notes": "来源研究候选；尚未浏览器查看主体、执行交互或播放，不计实测通过。",
+    "license_note": "仅作视觉参考；复用素材或代码需另查原作者许可。",
+    "author": "Hi-ReS!",
+    "http_method": "GET",
+    "source_api_url": "https://thefwa.com/api/cases/reanimated-moshi-moshi",
+    "award_evidence": [
+      {
+        "id": 12034,
+        "awardedDate": "2026-07-13",
+        "awardFor": "2026-07-13",
+        "type": "FOTD",
+        "name": "FWA of the Day"
+      }
+    ]
+  },
+  {
+    "name": "evian Gallery of Youth：五室虚拟展馆",
+    "url": "https://celebrating200.evian.com/",
+    "platform": "独立站",
+    "category": "画廊与导航",
+    "tags": [
+      "文化",
+      "展馆",
+      "品牌历史"
+    ],
+    "description": "依云 200 周年虚拟展馆通过五个房间组织品牌历史与阿尔卑斯山来源故事。",
+    "kind": "在线演示",
+    "evidence_url": "https://thefwa.com/cases/evian-gallery-of-youth",
+    "verification": "candidate：官方来源与响应核查；未浏览器交互或播放验证",
+    "checked_at": "2026-11-03",
+    "http_status": 200,
+    "http_final_url": "https://celebrating200.evian.com/",
+    "source_title": "Evian Gallery of Youth",
+    "source_content_evidence": "依云 200 周年虚拟展馆通过五个房间组织品牌历史与阿尔卑斯山来源故事。",
+    "review_status": "candidate",
+    "browser_verified": false,
+    "browser_audit_focus": "进入展馆并浏览多个房间，检查导航、展品展开和返回操作。",
+    "access_notes": "来源研究候选；尚未浏览器查看主体、执行交互或播放，不计实测通过。",
+    "license_note": "仅作视觉参考；复用素材或代码需另查原作者许可。",
+    "author": "UNCANNY / Ethan Chiu",
+    "http_method": "GET",
+    "source_api_url": "https://thefwa.com/api/cases/evian-gallery-of-youth",
+    "award_evidence": [
+      {
+        "id": 12033,
+        "awardedDate": "2026-07-12",
+        "awardFor": "2026-07-12",
+        "type": "FOTD",
+        "name": "FWA of the Day"
+      }
+    ]
+  },
+  {
+    "name": "Weekend Max Mara：Pasticcino 工艺互动",
+    "url": "https://weekend-mm-2026-pasticcino-bag-master.monogrid.io/en/",
+    "platform": "独立站",
+    "category": "品牌与产品界面",
+    "tags": [
+      "时尚",
+      "手工艺",
+      "包袋"
+    ],
+    "description": "MONOGRID 为品牌制作的包袋工艺体验，让访客通过互动了解 Pasticcino Bag 的制作。",
+    "kind": "在线演示",
+    "evidence_url": "https://thefwa.com/cases/weekend-max-mara-pasticcino-bag-world-tour-italian-roots",
+    "verification": "candidate：官方来源与响应核查；未浏览器交互或播放验证",
+    "checked_at": "2026-11-03",
+    "http_status": 200,
+    "http_final_url": "https://weekend-mm-2026-pasticcino-bag-master.monogrid.io/en/",
+    "source_title": "Weekend Max Mara：Pasticcino 工艺互动",
+    "source_content_evidence": "MONOGRID 为品牌制作的包袋工艺体验，让访客通过互动了解 Pasticcino Bag 的制作。",
+    "review_status": "candidate",
+    "browser_verified": false,
+    "browser_audit_focus": "等待脚本主体加载，完成至少一个工艺操作并检查进度与场景切换。",
+    "access_notes": "来源研究候选；尚未浏览器查看主体、执行交互或播放，不计实测通过。HTML 是依赖 JavaScript 的入口壳，独立作品身份由 MONOGRID 的 FWA 项目资料确认；必须核查主资源是否仍正常。",
+    "license_note": "仅作视觉参考；复用素材或代码需另查原作者许可。",
+    "author": "MONOGRID",
+    "http_method": "GET",
+    "source_api_url": "https://thefwa.com/api/cases/weekend-max-mara-pasticcino-bag-world-tour-italian-roots",
+    "award_evidence": [
+      {
+        "id": 12032,
+        "awardedDate": "2026-07-11",
+        "awardFor": "2026-07-11",
+        "type": "FOTD",
+        "name": "FWA of the Day"
+      }
+    ]
+  },
+  {
+    "name": "OPERATOR：空间音乐 App 演示片段",
+    "url": "https://cdn.prod.website-files.com/67e524877e11e4cccb01d63c%2F6904831ec2806809f29dc169_Operator_01-transcode.mp4",
+    "platform": "独立站",
+    "category": "App 与硬件展示",
+    "tags": [
+      "空间计算",
+      "音乐",
+      "Vision Pro"
+    ],
+    "description": "作者发布的空间音乐 App 片段；项目将模块排列、虚拟雕塑与音乐创作相结合。",
+    "kind": "视频",
+    "evidence_url": "https://www.fun-and-awe.io/operator",
+    "verification": "candidate：官方来源与响应核查；未浏览器交互或播放验证",
+    "checked_at": "2026-11-03",
+    "http_status": 200,
+    "http_final_url": "https://cdn.prod.website-files.com/67e524877e11e4cccb01d63c%2F6904831ec2806809f29dc169_Operator_01-transcode.mp4",
+    "source_title": "OPERATOR：空间音乐 App 演示片段",
+    "source_content_evidence": "作者发布的空间音乐 App 片段；项目将模块排列、虚拟雕塑与音乐创作相结合。",
+    "review_status": "candidate",
+    "browser_verified": false,
+    "browser_audit_focus": "播放并拖动进度，确认片段可见音乐模块和空间界面；不能称浏览器内可操作 App。",
+    "access_notes": "来源研究候选；尚未浏览器查看主体、执行交互或播放，不计实测通过。 此条是录像/片段，不能作为在线可操作组件。直接片段由作者 OPERATOR 项目页的 video source 提供；完整项目另有 Vimeo 展示入口。",
+    "license_note": "仅作视觉参考；复用素材或代码需另查原作者许可。",
+    "author": "FUN AND AWE",
+    "http_method": "HEAD",
+    "content_type": "video/mp4",
+    "source_api_url": "https://thefwa.com/api/cases/operator",
+    "award_evidence": [
+      {
+        "id": 12031,
+        "awardedDate": "2026-07-10",
+        "awardFor": "2026-07-10",
+        "type": "FOTD",
+        "name": "FWA of the Day"
+      }
+    ]
+  },
+  {
+    "name": "Mosby’s Files：拟物档案夹导航",
+    "url": "https://www.mosbyfiles.com/",
+    "platform": "独立站",
+    "category": "画廊与导航",
+    "tags": [
+      "档案",
+      "拟物",
+      "文化"
+    ],
+    "description": "建筑历史档案以 CSS 拟物文件夹承担导航，把分类和阅读组织成桌面档案体验。",
+    "kind": "在线演示",
+    "evidence_url": "https://thefwa.com/cases/mosbys-files",
+    "verification": "candidate：官方来源与响应核查；未浏览器交互或播放验证",
+    "checked_at": "2026-11-03",
+    "http_status": 200,
+    "http_final_url": "https://www.mosbyfiles.com/",
+    "source_title": "Mosby’s Files—American Modernist Architecture",
+    "source_content_evidence": "建筑历史档案以 CSS 拟物文件夹承担导航，把分类和阅读组织成桌面档案体验。",
+    "review_status": "candidate",
+    "browser_verified": false,
+    "browser_audit_focus": "打开文件夹和建筑师条目，检查层级、展开/收起与返回路径。",
+    "access_notes": "来源研究候选；尚未浏览器查看主体、执行交互或播放，不计实测通过。",
+    "license_note": "仅作视觉参考；复用素材或代码需另查原作者许可。",
+    "author": "Tubik Studio / Sergii Valiukh / Oleg Savenok / Myky Zhuravlov / Anastasiia Lutsenko / Ernest Asanov",
+    "http_method": "GET",
+    "thumbnail_url": "https://a.storyblok.com/f/290489675855311/1200x630/16e4014d16/og.png",
+    "thumbnail_kind": "原站 Open Graph 图，尚未视觉核验",
+    "source_api_url": "https://thefwa.com/api/cases/mosbys-files",
+    "award_evidence": [
+      {
+        "id": 12026,
+        "awardedDate": "2026-07-05",
+        "awardFor": "2026-07-05",
+        "type": "FOTD",
+        "name": "FWA of the Day"
+      }
+    ]
+  },
+  {
+    "name": "Miu Miu：包袋探索之家",
+    "url": "https://immersivebags.miumiu.com/",
+    "platform": "独立站",
+    "category": "品牌与产品界面",
+    "tags": [
+      "时尚",
+      "空间导航",
+      "商品"
+    ],
+    "description": "Miu Miu 官方包袋展示以可探索的房屋与物品交互引出新系列。",
+    "kind": "在线演示",
+    "evidence_url": "https://thefwa.com/cases/miumiu-a-house-that-we-shaped",
+    "verification": "candidate：官方来源与响应核查；未浏览器交互或播放验证",
+    "checked_at": "2026-11-03",
+    "http_status": 200,
+    "http_final_url": "https://immersivebags.miumiu.com/",
+    "source_title": "Miu Miu - 2026 Bag Campaign",
+    "source_content_evidence": "Miu Miu 官方包袋展示以可探索的房屋与物品交互引出新系列。",
+    "review_status": "candidate",
+    "browser_verified": false,
+    "browser_audit_focus": "进入房屋，操作多个对象并打开包袋内容，检查声音和导航。",
+    "access_notes": "来源研究候选；尚未浏览器查看主体、执行交互或播放，不计实测通过。",
+    "license_note": "仅作视觉参考；复用素材或代码需另查原作者许可。",
+    "author": "Merci-Michel",
+    "http_method": "GET",
+    "thumbnail_url": "https://immersivebags.miumiu.com/share.png?v=ca51000",
+    "thumbnail_kind": "原站 Open Graph 图，尚未视觉核验",
+    "source_api_url": "https://thefwa.com/api/cases/miumiu-a-house-that-we-shaped",
+    "award_evidence": [
+      {
+        "id": 12024,
+        "awardedDate": "2026-07-03",
+        "awardFor": "2026-07-03",
+        "type": "FOTD",
+        "name": "FWA of the Day"
+      }
+    ]
+  },
+  {
+    "name": "FS 60P：实时腕表与页面互动",
+    "url": "https://thewatch.60fps.fr/",
+    "platform": "独立站",
+    "category": "品牌与产品界面",
+    "tags": [
+      "腕表",
+      "科技硬件",
+      "WebGL"
+    ],
+    "description": "60fps 工作室的腕表展示实验将实时 WebGL 表体与周围页面内容结合。",
+    "kind": "在线演示",
+    "evidence_url": "https://thefwa.com/cases/the-watch",
+    "verification": "candidate：官方来源与响应核查；未浏览器交互或播放验证",
+    "checked_at": "2026-11-03",
+    "http_status": 200,
+    "http_final_url": "https://thewatch.60fps.fr/",
+    "source_title": "FS 60P - The timeless automatic watch by 60fps",
+    "source_content_evidence": "60fps 工作室的腕表展示实验将实时 WebGL 表体与周围页面内容结合。",
+    "review_status": "candidate",
+    "browser_verified": false,
+    "browser_audit_focus": "等待表体加载，滚动和尝试指针操作，确认模型如何与内容衔接。",
+    "access_notes": "来源研究候选；尚未浏览器查看主体、执行交互或播放，不计实测通过。",
+    "license_note": "仅作视觉参考；复用素材或代码需另查原作者许可。",
+    "author": "60fps",
+    "http_method": "GET",
+    "thumbnail_url": "https://thewatch.60fps.fr/share-image.webp",
+    "thumbnail_kind": "原站 Open Graph 图，尚未视觉核验",
+    "source_api_url": "https://thefwa.com/api/cases/the-watch",
+    "award_evidence": [
+      {
+        "id": 12020,
+        "awardedDate": "2026-06-30",
+        "awardFor": "2026-06-30",
+        "type": "FOTD",
+        "name": "FWA of the Day"
+      }
+    ]
+  },
+  {
+    "name": "MechStorm：机甲射击游戏 HUD",
+    "url": "https://www.mechstorm.io/",
+    "platform": "独立站",
+    "category": "游戏与交互体验",
+    "tags": [
+      "游戏",
+      "HUD",
+      "机甲"
+    ],
+    "description": "浏览器机甲射击游戏含操作说明、成绩、成就与游戏内 HUD；原站明确限定桌面设备。",
+    "kind": "在线演示",
+    "evidence_url": "https://thefwa.com/cases/mechstorm-p2",
+    "verification": "candidate：官方来源与响应核查；未浏览器交互或播放验证",
+    "checked_at": "2026-11-03",
+    "http_status": 200,
+    "http_final_url": "https://www.mechstorm.io/",
+    "source_title": "すごい MechStorm",
+    "source_content_evidence": "浏览器机甲射击游戏含操作说明、成绩、成就与游戏内 HUD；原站明确限定桌面设备。",
+    "review_status": "candidate",
+    "browser_verified": false,
+    "browser_audit_focus": "用桌面进入游戏，核查操控、生命/计分与结束状态；不用移动端失败替代判断。",
+    "access_notes": "来源研究候选；尚未浏览器查看主体、执行交互或播放，不计实测通过。",
+    "license_note": "仅作视觉参考；复用素材或代码需另查原作者许可。",
+    "author": "Motiondeep",
+    "http_method": "GET",
+    "source_api_url": "https://thefwa.com/api/cases/mechstorm-p2",
+    "award_evidence": [
+      {
+        "id": 12017,
+        "awardedDate": "2026-06-27",
+        "awardFor": "2026-06-27",
+        "type": "FOTD",
+        "name": "FWA of the Day"
+      }
+    ]
+  },
+  {
+    "name": "Le Mans Classic：幕后摄影叙事",
+    "url": "https://lemansclassic.richardmille.com/",
+    "platform": "独立站",
+    "category": "画廊与导航",
+    "tags": [
+      "摄影",
+      "赛车",
+      "文化"
+    ],
+    "description": "Richard Mille 的摄影项目以勒芒经典赛幕后工作人员与场景形成沉浸式摄影叙事。",
+    "kind": "在线演示",
+    "evidence_url": "https://thefwa.com/cases/le-mans-classic",
+    "verification": "candidate：官方来源与响应核查；未浏览器交互或播放验证",
+    "checked_at": "2026-11-03",
+    "http_status": 200,
+    "http_final_url": "https://lemansclassic.richardmille.com/",
+    "source_title": "Le Mans Classic",
+    "source_content_evidence": "Richard Mille 的摄影项目以勒芒经典赛幕后工作人员与场景形成沉浸式摄影叙事。",
+    "review_status": "candidate",
+    "browser_verified": false,
+    "browser_audit_focus": "完整浏览摄影章节，检查图像切换、文字和项目说明入口。",
+    "access_notes": "来源研究候选；尚未浏览器查看主体、执行交互或播放，不计实测通过。",
+    "license_note": "仅作视觉参考；复用素材或代码需另查原作者许可。",
+    "author": "Magnetism / Ludovic Boiteux / Elisa Dubois",
+    "http_method": "GET",
+    "source_api_url": "https://thefwa.com/api/cases/le-mans-classic",
+    "award_evidence": [
+      {
+        "id": 12016,
+        "awardedDate": "2026-06-26",
+        "awardFor": "2026-06-26",
+        "type": "FOTD",
+        "name": "FWA of the Day"
+      }
+    ]
+  },
+  {
+    "name": "Hearst：ELLE × Esquire 好莱坞摄影展",
+    "url": "https://www.hollywoodexhibit2026.com/",
+    "platform": "独立站",
+    "category": "画廊与导航",
+    "tags": [
+      "摄影",
+      "展览",
+      "文化"
+    ],
+    "description": "Hearst 的联合摄影展数字页面，呈现 ELLE 与 Esquire 的好莱坞档案影像。",
+    "kind": "在线演示",
+    "evidence_url": "https://thefwa.com/cases/elle-and-esquire-exhibit-2026",
+    "verification": "candidate：官方来源与响应核查；未浏览器交互或播放验证",
+    "checked_at": "2026-11-03",
+    "http_status": 200,
+    "http_final_url": "https://www.hollywoodexhibit2026.com/",
+    "source_title": "ELLE & Esquire, The New Hollywood Photography Exhibition",
+    "source_content_evidence": "Hearst 的联合摄影展数字页面，呈现 ELLE 与 Esquire 的好莱坞档案影像。",
+    "review_status": "candidate",
+    "browser_verified": false,
+    "browser_audit_focus": "进入展览并切换摄影内容，核查作品信息和导航。",
+    "access_notes": "来源研究候选；尚未浏览器查看主体、执行交互或播放，不计实测通过。",
+    "license_note": "仅作视觉参考；复用素材或代码需另查原作者许可。",
+    "author": "OSMOS / HearstCC / Marjoe Bacus / Daniel Velasquez",
+    "http_method": "GET",
+    "source_api_url": "https://thefwa.com/api/cases/elle-and-esquire-exhibit-2026",
+    "award_evidence": [
+      {
+        "id": 12007,
+        "awardedDate": "2026-06-17",
+        "awardFor": "2026-06-17",
+        "type": "FOTD",
+        "name": "FWA of the Day"
+      }
+    ]
+  },
+  {
+    "name": "FunTech：幻灯片式动态品牌系统",
+    "url": "https://ci.funtech.inc/ja",
+    "platform": "独立站",
+    "category": "文字与排版",
+    "tags": [
+      "品牌系统",
+      "Logo",
+      "排版"
+    ],
+    "description": "FunTech 十周年品牌更新页面以幻灯片形式呈现标志、理念与视觉动画。",
+    "kind": "在线演示",
+    "evidence_url": "https://thefwa.com/cases/funtech-brand-identity",
+    "verification": "candidate：官方来源与响应核查；未浏览器交互或播放验证",
+    "checked_at": "2026-11-03",
+    "http_status": 200,
+    "http_final_url": "https://ci.funtech.inc/ja",
+    "source_title": "FUNTECH BRAND IDENTITY",
+    "source_content_evidence": "FunTech 十周年品牌更新页面以幻灯片形式呈现标志、理念与视觉动画。",
+    "review_status": "candidate",
+    "browser_verified": false,
+    "browser_audit_focus": "逐张切换品牌章节，检查 Logo、排版和过渡的具体变化。",
+    "access_notes": "来源研究候选；尚未浏览器查看主体、执行交互或播放，不计实测通过。",
+    "license_note": "仅作视觉参考；复用素材或代码需另查原作者许可。",
+    "author": "FunTech Inc.",
+    "http_method": "GET",
+    "thumbnail_url": "https://ci.funtech.inc/opengraph-image.jpg?opengraph-image.0fce5683.jpg",
+    "thumbnail_kind": "原站 Open Graph 图，尚未视觉核验",
+    "source_api_url": "https://thefwa.com/api/cases/funtech-brand-identity",
+    "award_evidence": [
+      {
+        "id": 12004,
+        "awardedDate": "2026-06-14",
+        "awardFor": "2026-06-14",
+        "type": "FOTD",
+        "name": "FWA of the Day"
+      }
+    ]
+  },
+  {
+    "name": "Radian：电动越野车配置界面",
+    "url": "https://www.rideradian.com/",
+    "platform": "独立站",
+    "category": "品牌与产品界面",
+    "tags": [
+      "科技硬件",
+      "汽车",
+      "配置器"
+    ],
+    "description": "电动越野摩托车产品页结合滚动章节、硬件信息和自定义配置入口。",
+    "kind": "在线演示",
+    "evidence_url": "https://thefwa.com/cases/radian",
+    "verification": "candidate：官方来源与响应核查；未浏览器交互或播放验证",
+    "checked_at": "2026-11-03",
+    "http_status": 200,
+    "http_final_url": "https://www.rideradian.com/",
+    "source_title": "Radian | Electric Enduro Motorcycle | Pre-Order Now",
+    "source_content_evidence": "电动越野摩托车产品页结合滚动章节、硬件信息和自定义配置入口。",
+    "review_status": "candidate",
+    "browser_verified": false,
+    "browser_audit_focus": "滚动硬件章节并打开配置器，改变选项；不提交预订或付款。",
+    "access_notes": "来源研究候选；尚未浏览器查看主体、执行交互或播放，不计实测通过。",
+    "license_note": "仅作视觉参考；复用素材或代码需另查原作者许可。",
+    "author": "UNCOMMON",
+    "http_method": "GET",
+    "thumbnail_url": "https://cdn.prod.website-files.com/69c0f1e667a0fb75bfd742b5/69fde8458a585749b3897c8f_d1e84a0e9b863a5f0d5075755465bd43_radian.avif",
+    "thumbnail_kind": "原站 Open Graph 图，尚未视觉核验",
+    "source_api_url": "https://thefwa.com/api/cases/radian",
+    "award_evidence": [
+      {
+        "id": 12003,
+        "awardedDate": "2026-06-13",
+        "awardFor": "2026-06-13",
+        "type": "FOTD",
+        "name": "FWA of the Day"
+      }
+    ]
+  },
+  {
+    "name": "Lacoste Ace Breaker：品牌打砖块",
+    "url": "https://members-play.lacoste.com/ace-breaker-rg/",
+    "platform": "独立站",
+    "category": "游戏与交互体验",
+    "tags": [
+      "游戏",
+      "网球",
+      "HUD"
+    ],
+    "description": "Lacoste 官方网球主题打砖块作品，原页面仍提供游戏标题与玩法说明。",
+    "kind": "在线演示",
+    "evidence_url": "https://thefwa.com/cases/lacoste-ace-breaker",
+    "verification": "candidate：官方来源与响应核查；未浏览器交互或播放验证",
+    "checked_at": "2026-11-03",
+    "http_status": 200,
+    "http_final_url": "https://members-play.lacoste.com/ace-breaker-rg/",
+    "source_title": "Lacoste - Ace breaker",
+    "source_content_evidence": "Lacoste 官方网球主题打砖块作品，原页面仍提供游戏标题与玩法说明。",
+    "review_status": "candidate",
+    "browser_verified": false,
+    "browser_audit_focus": "检查活动结束后游戏能否独立游玩，验证操控、分数和重开；不提交抽奖资料。",
+    "access_notes": "来源研究候选；尚未浏览器查看主体、执行交互或播放，不计实测通过。",
+    "license_note": "仅作视觉参考；复用素材或代码需另查原作者许可。",
+    "author": "Merci-Michel",
+    "http_method": "GET",
+    "thumbnail_url": "https://members-play.lacoste.com/ace-breaker-rg/share/share_gb/en.png?v=b63dcca5",
+    "thumbnail_kind": "原站 Open Graph 图，尚未视觉核验",
+    "source_api_url": "https://thefwa.com/api/cases/lacoste-ace-breaker",
+    "award_evidence": [
+      {
+        "id": 12001,
+        "awardedDate": "2026-06-11",
+        "awardFor": "2026-06-11",
+        "type": "FOTD",
+        "name": "FWA of the Day"
+      },
+      {
+        "id": 12022,
+        "awardedDate": "2026-07-01",
+        "awardFor": "2026-06-30",
+        "type": "FOTM",
+        "name": "FWA of the Month"
+      }
+    ]
+  },
+  {
+    "name": "Lacoste Polo Factory：服装工厂互动",
+    "url": "https://members-play.lacoste.com/polo-factory-experience/",
+    "platform": "独立站",
+    "category": "游戏与交互体验",
+    "tags": [
+      "服装",
+      "工厂",
+      "品牌"
+    ],
+    "description": "Lacoste 官方互动工厂体验，用独立场景介绍 Polo 产品的诞生。",
+    "kind": "在线演示",
+    "evidence_url": "https://thefwa.com/cases/lacoste-polo-factory",
+    "verification": "candidate：官方来源与响应核查；未浏览器交互或播放验证",
+    "checked_at": "2026-11-03",
+    "http_status": 200,
+    "http_final_url": "https://members-play.lacoste.com/polo-factory-experience/",
+    "source_title": "The Lacoste Polo Factory Experience",
+    "source_content_evidence": "Lacoste 官方互动工厂体验，用独立场景介绍 Polo 产品的诞生。",
+    "review_status": "candidate",
+    "browser_verified": false,
+    "browser_audit_focus": "进入工厂并完成一个步骤，检查关卡提示、物品操作与进度反馈。",
+    "access_notes": "来源研究候选；尚未浏览器查看主体、执行交互或播放，不计实测通过。",
+    "license_note": "仅作视觉参考；复用素材或代码需另查原作者许可。",
+    "author": "Merci-Michel",
+    "http_method": "GET",
+    "thumbnail_url": "https://members-play.lacoste.com/polo-factory-experience/share.png?v=6fca1084",
+    "thumbnail_kind": "原站 Open Graph 图，尚未视觉核验",
+    "source_api_url": "https://thefwa.com/api/cases/lacoste-polo-factory",
+    "award_evidence": [
+      {
+        "id": 11996,
+        "awardedDate": "2026-06-06",
+        "awardFor": "2026-06-06",
+        "type": "FOTD",
+        "name": "FWA of the Day"
+      }
+    ]
+  },
+  {
+    "name": "Shaky Gotcha：3D 街机与收藏界面",
+    "url": "https://myshaky.com/gotcha",
+    "platform": "独立站",
+    "category": "游戏与交互体验",
+    "tags": [
+      "移动交互",
+      "街机",
+      "HUD"
+    ],
+    "description": "独立街机作品含限时击打、连击、角色收藏与音乐控制，与 Shaky Picks 的抽牌流程不同。",
+    "kind": "在线演示",
+    "evidence_url": "https://thefwa.com/cases/shaky-gotcha",
+    "verification": "candidate：官方来源与响应核查；未浏览器交互或播放验证",
+    "checked_at": "2026-11-03",
+    "http_status": 200,
+    "http_final_url": "https://myshaky.com/gotcha",
+    "source_title": "Shaky Gotcha – Cosmic Strike & Gacha Frenzy | Meta Shaky",
+    "source_content_evidence": "独立街机作品含限时击打、连击、角色收藏与音乐控制，与 Shaky Picks 的抽牌流程不同。",
+    "review_status": "candidate",
+    "browser_verified": false,
+    "browser_audit_focus": "开始一局并观察连击和结算，再查看收藏与音乐面板。",
+    "access_notes": "来源研究候选；尚未浏览器查看主体、执行交互或播放，不计实测通过。",
+    "license_note": "仅作视觉参考；复用素材或代码需另查原作者许可。",
+    "author": "Allen Tseng  (Taiwan)",
+    "http_method": "GET",
+    "thumbnail_url": "https://myshaky.com/myimg/Shakygotcha.jpg",
+    "thumbnail_kind": "原站 Open Graph 图，尚未视觉核验",
+    "source_api_url": "https://thefwa.com/api/cases/shaky-gotcha",
+    "award_evidence": [
+      {
+        "id": 11989,
+        "awardedDate": "2026-05-31",
+        "awardFor": "2026-05-31",
+        "type": "FOTD",
+        "name": "FWA of the Day"
+      }
+    ]
+  },
+  {
+    "name": "Ten Years Away：工作室互动漫画",
+    "url": "https://ten.375.studio/en",
+    "platform": "独立站",
+    "category": "游戏与交互体验",
+    "tags": [
+      "漫画",
+      "滚动叙事",
+      "声音"
+    ],
+    "description": "Studio375 用互动漫画讲述自身十年经历，提供章节年份与声音体验。",
+    "kind": "在线演示",
+    "evidence_url": "https://thefwa.com/cases/ten-years-away-p6",
+    "verification": "candidate：官方来源与响应核查；未浏览器交互或播放验证",
+    "checked_at": "2026-11-03",
+    "http_status": 200,
+    "http_final_url": "https://ten.375.studio/en",
+    "source_title": "Ten Years Away - A graphic novel, of a true story",
+    "source_content_evidence": "Studio375 用互动漫画讲述自身十年经历，提供章节年份与声音体验。",
+    "review_status": "candidate",
+    "browser_verified": false,
+    "browser_audit_focus": "开始漫画，推进多个章节并尝试年份导航，检查过渡与声音状态。",
+    "access_notes": "来源研究候选；尚未浏览器查看主体、执行交互或播放，不计实测通过。",
+    "license_note": "仅作视觉参考；复用素材或代码需另查原作者许可。",
+    "author": "Studio375",
+    "http_method": "GET",
+    "source_api_url": "https://thefwa.com/api/cases/ten-years-away-p6",
+    "award_evidence": [
+      {
+        "id": 11983,
+        "awardedDate": "2026-05-25",
+        "awardFor": "2026-05-25",
+        "type": "FOTD",
+        "name": "FWA of the Day"
+      }
+    ]
+  },
+  {
+    "name": "Dolce&Gabbana Velvet：香氛互动装置展示",
+    "url": "https://www.youtube.com/watch?v=qxRuT8kRDvg",
+    "platform": "YouTube",
+    "category": "App 与硬件展示",
+    "tags": [
+      "界面",
+      "交互装置",
+      "香氛"
+    ],
+    "description": "AQuest 官方发布的香氛交互装置展示，以音乐与香气记忆组织个性化探索流程。",
+    "kind": "视频",
+    "evidence_url": "https://thefwa.com/cases/dg-velvet-collection",
+    "verification": "candidate：官方来源与响应核查；未浏览器交互或播放验证",
+    "checked_at": "2026-11-03",
+    "http_status": 200,
+    "http_final_url": "https://www.youtube.com/watch?v=qxRuT8kRDvg",
+    "source_title": "AQuest -  D&G VELVET - YouTube",
+    "source_content_evidence": "AQuest 官方发布的香氛交互装置展示，以音乐与香气记忆组织个性化探索流程。",
+    "review_status": "candidate",
+    "browser_verified": false,
+    "browser_audit_focus": "播放多个时间段，确认界面、输入方式与状态反馈；不是网页内可操作版本。",
+    "access_notes": "来源研究候选；尚未浏览器查看主体、执行交互或播放，不计实测通过。 此条是录像/片段，不能作为在线可操作组件。",
+    "license_note": "仅作视觉参考；复用素材或代码需另查原作者许可。",
+    "author": "AQuest",
+    "http_method": "GET",
+    "thumbnail_url": "https://i.ytimg.com/vi/qxRuT8kRDvg/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgXShBMA8=&rs=AOn4CLCtaJmW50YK8_wBG9vHkc8HvnyBfg",
+    "thumbnail_kind": "原站 Open Graph 图，尚未视觉核验",
+    "duration_seconds": 123,
+    "published_at": "2026-08-06"
+  },
+  {
+    "name": "Gusto：产品 UI 动效展示短片",
+    "url": "https://ziwvaiplle7bdzaz.public.blob.vercel-storage.com/videos/h264/outpost-gusto-reel-v1-fallback.mp4",
+    "platform": "独立站",
+    "category": "App 与硬件展示",
+    "tags": [
+      "产品UI",
+      "设备展示",
+      "转场"
+    ],
+    "description": "作者为 Outpost Studio 的 Gusto UI 制作的展示短片，将界面模块动画与桌面、笔电、手机场景衔接。",
+    "kind": "视频",
+    "evidence_url": "https://www.krystofjezek.com/work/outpost-gusto",
+    "verification": "candidate：官方来源与响应核查；未浏览器交互或播放验证",
+    "checked_at": "2026-11-03",
+    "http_status": 200,
+    "http_final_url": "https://ziwvaiplle7bdzaz.public.blob.vercel-storage.com/videos/h264/outpost-gusto-reel-v1-fallback.mp4",
+    "source_title": "Gusto：产品 UI 动效展示短片",
+    "source_content_evidence": "作者为 Outpost Studio 的 Gusto UI 制作的展示短片，将界面模块动画与桌面、笔电、手机场景衔接。",
+    "review_status": "candidate",
+    "browser_verified": false,
+    "browser_audit_focus": "播放开头、中段与末段，观察界面模块、光标与转场；确认视频真实内容后再写观察结论。",
+    "access_notes": "来源研究候选；尚未浏览器查看主体、执行交互或播放，不计实测通过。 此条是录像/片段，不能作为在线可操作组件。视频 URL 来自作者页面公开媒体数据；未下载或代替实际播放。",
+    "license_note": "仅作视觉参考；复用素材或代码需另查原作者许可。",
+    "author": "Kryštof Ježek / Outpost Studio",
+    "http_method": "HEAD",
+    "content_type": "video/mp4"
+  },
+  {
+    "name": "Unwoven：图像丝带编织轮播",
+    "url": "https://tympanus.net/Development/Unwoven/",
+    "platform": "独立站",
+    "category": "图像与转场",
+    "tags": [
+      "轮播",
+      "图像",
+      "WebGL"
+    ],
+    "description": "连续图像带被拆成多条丝带，在视口边缘编织与散开，中央重新组成完整照片。",
+    "kind": "在线演示",
+    "evidence_url": "https://tympanus.net/codrops/2026/09/05/building-an-infinite-loom-unravelling-images-into-threads-with-three-js/",
+    "verification": "candidate：官方来源与响应核查；未浏览器交互或播放验证",
+    "checked_at": "2026-11-03",
+    "http_status": 403,
+    "http_final_url": "https://tympanus.net/Development/Unwoven/",
+    "source_title": "Just a moment… | Codrops",
+    "source_content_evidence": "连续图像带被拆成多条丝带，在视口边缘编织与散开，中央重新组成完整照片。",
+    "review_status": "candidate",
+    "browser_verified": false,
+    "browser_audit_focus": "等待自动运动，观察图像边缘条带与中间完整照片；检查连续循环。",
+    "access_notes": "来源研究候选；尚未浏览器查看主体、执行交互或播放，不计实测通过。 命令行 GET 触发连接验证；公开页面读取工具可读到演示标题和主体内容，仍需浏览器确认。",
+    "license_note": "仅作视觉参考；复用素材或代码需另查原作者许可。",
+    "author": "Clément Grellier",
+    "http_method": "GET"
+  },
+  {
+    "name": "On-Scroll SVG Filter Text：滚动文字变形",
+    "url": "https://tympanus.net/Development/OnScrollSVGFilterText/",
+    "platform": "独立站",
+    "category": "文字与排版",
+    "tags": [
+      "文字",
+      "滚动",
+      "SVG"
+    ],
+    "description": "文字标题在滚动中使用不同 SVG 滤镜变化，每段提供独立 Replay 按钮。",
+    "kind": "在线演示",
+    "evidence_url": "https://tympanus.net/codrops/2024/08/22/scroll-based-svg-filter-animations-on-text/",
+    "verification": "candidate：官方来源与响应核查；未浏览器交互或播放验证",
+    "checked_at": "2026-11-03",
+    "http_status": 403,
+    "http_final_url": "https://tympanus.net/Development/OnScrollSVGFilterText/",
+    "source_title": "Just a moment… | Codrops",
+    "source_content_evidence": "文字标题在滚动中使用不同 SVG 滤镜变化，每段提供独立 Replay 按钮。",
+    "review_status": "candidate",
+    "browser_verified": false,
+    "browser_audit_focus": "滚动触发多个标题，再点击 Replay，确认具体变形而非只有静态字体。",
+    "access_notes": "来源研究候选；尚未浏览器查看主体、执行交互或播放，不计实测通过。 命令行 GET 触发连接验证；公开页面读取工具可读到演示标题和主体内容，仍需浏览器确认。",
+    "license_note": "仅作视觉参考；复用素材或代码需另查原作者许可。",
+    "author": "Manoela Ilic / Codrops",
+    "http_method": "GET"
+  },
+  {
+    "name": "Gooey Text Hover：黏液文字菜单",
+    "url": "https://tympanus.net/Development/GooeyTextHover/",
+    "platform": "独立站",
+    "category": "文字与排版",
+    "tags": [
+      "菜单",
+      "悬停",
+      "SVG"
+    ],
+    "description": "菜单文字通过 SVG 滤镜在悬停时变形；作者提供三个不同的示例。",
+    "kind": "在线演示",
+    "evidence_url": "https://tympanus.net/codrops/2020/04/28/morphing-gooey-text-hover-effect/",
+    "verification": "candidate：官方来源与响应核查；未浏览器交互或播放验证",
+    "checked_at": "2026-11-03",
+    "http_status": 403,
+    "http_final_url": "https://tympanus.net/Development/GooeyTextHover/",
+    "source_title": "Just a moment… | Codrops",
+    "source_content_evidence": "菜单文字通过 SVG 滤镜在悬停时变形；作者提供三个不同的示例。",
+    "review_status": "candidate",
+    "browser_verified": false,
+    "browser_audit_focus": "悬停不同菜单项，并切换 01/02/03 示例，检查变形与恢复。",
+    "access_notes": "来源研究候选；尚未浏览器查看主体、执行交互或播放，不计实测通过。 命令行 GET 触发连接验证；公开页面读取工具可读到演示标题和主体内容，仍需浏览器确认。",
+    "license_note": "仅作视觉参考；复用素材或代码需另查原作者许可。",
+    "author": "Manoela Ilic / Codrops",
+    "http_method": "GET"
+  }
+]

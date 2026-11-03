@@ -1,6 +1,6 @@
 # UI Motion Library · UI 界面与动效灵感库
 
-收录 **266 条**具体 UI 界面、可体验动效与作品展示。最后整理：2026-11-03。
+收录 **300 条**具体 UI 界面、可体验动效与作品展示。最后整理：2026-11-03。
 
 **[打开在线灵感库 →](https://spr1ng-zbm.github.io/ui-motion-inspiration-library/)**
 
@@ -40,13 +40,18 @@
 ## 分类目录
 
 - 3D与沉浸：45 条
+- 作品集短片：2 条
 - 图形与图标：9 条
-- 完整界面：79 条
-- 微交互：59 条
-- 文字与排版：9 条
+- 声音与可视化：3 条
+- 完整界面：87 条
+- 应用界面展示：6 条
+- 微交互：60 条
+- 文字与排版：10 条
+- 游戏UI与HUD：2 条
 - 游戏与趣味：9 条
-- 滚动与叙事：12 条
-- 画廊与导航：24 条
+- 滚动与叙事：14 条
+- 画廊与导航：28 条
+- 界面动效短片：5 条
 - 粒子与背景：18 条
 - 组件与合集：2 条
 
@@ -100,6 +105,13 @@
 | deck.gl：纽约出租车轨迹 | 独立站 / 在线演示 | 暗色曼哈顿立体地图上流动橙绿出租车轨迹，尾迹长度可调；建筑高度和发光路线形成清晰的空间层次。 | [打开](https://deck.gl/examples/trips-layer) · [源码](https://github.com/visgl/deck.gl) |
 | deck.gl：六边形空间聚合 | 独立站 / 在线演示 | 深色地图上以蓝绿黄六边形柱体呈现空间密度，调节聚合半径可从细密点阵切换为粗颗粒立体网格。 | [打开](https://deck.gl/examples/hexagon-layer) · [源码](https://github.com/visgl/deck.gl) |
 
+## 作品集短片
+
+| 名称 | 平台 / 类型 | 值得参考 | 原链接 / 实现 |
+|---|---|---|---|
+| Cuberto：2024 工作室作品集 | YouTube / 视频 | Cuberto 2024 Showreel：授权弹窗、三维旅行图标、金融网页等作品快速剪辑，适合参考 UI 展示镜头和立体图形与界面的搭配。 | [打开](https://www.youtube.com/watch?v=bK8eUJ65LyY) |
+| Shakib：35秒 UI/UX 作品集 | YouTube / 视频 | Shakib 2020 UI/UX Showreel：三维设计元素与移动电商界面组合，包含紫色耳机产品详情、色彩选择和圆角参数面板。 | [打开](https://www.youtube.com/watch?v=_CKnqRhebYg) |
+
 ## 图形与图标
 
 | 名称 | 平台 / 类型 | 值得参考 | 原链接 / 实现 |
@@ -113,6 +125,14 @@
 | Airbnb：立体分类图标入场 | 灵感平台 / 视频 | 房屋、热气球和服务铃以立体图标进入分类栏，当前体验图标更突出；参考小尺寸导航中的层次与选中强调。 | [打开](https://60fps.design/shots/airbnb-tab-icon-animation) |
 | Find My：搜索物品放大镜动画 | 灵感平台 / 视频 | 抽屉内的放大镜与物品图标轮转，参考搜寻过程的持续反馈。 | [打开](https://60fps.design/shots/apple-find-my-searching-items-sheet-animation) |
 | glfx：漩涡与六边形图像滤镜演示 | 独立站 / 在线演示 | 同一照片可即时切换漩涡扭曲和六边形像素化，适合参考图像处理的视觉结果与参数预览。 | [打开](https://evanw.github.io/glfx.js/demo) · [源码](https://github.com/evanw/glfx.js) |
+
+## 声音与可视化
+
+| 名称 | 平台 / 类型 | 值得参考 | 原链接 / 实现 |
+|---|---|---|---|
+| Glass Xylophone：玻璃木琴 | 独立站 / 在线演示 | 玻璃螺旋木琴：半透明圆管沿螺旋排列，指针划过时连续染成彩色并渐退，适合参考材质、颜色传播与触碰反馈。 | [打开](https://tympanus.net/Tutorials/Xylophone) |
+| Roland50 Studio：电子乐器控制台 | 独立站 / 在线演示 | Roland 官方周年互动工作室，将复古鼓机与合成器化为圆点、三角音符矩阵，搭配拟物旋钮、拨片和运行反馈。 | [打开](https://roland50.studio) |
+| Music Lab：声音频谱画布 | 独立站 / 在线演示 | 深色画布中的紫蓝绿立体声谱，配一排圆形声源按钮，适合参考声音反馈与频谱峰形动画。 | [打开](https://musiclab.chromeexperiments.com/spectrogram-service) |
 
 ## 完整界面
 
@@ -197,6 +217,25 @@
 | MoMoney 博物馆官网 | 独立站 / 完整界面 | 荧光黄招牌、粗黑字体和硬阴影塑造漫画感，紫色按钮与倾斜彩边照片贯穿博物馆叙事。 | [打开](https://museumofmoney.com) |
 | MANA Yerba Maté | 独立站 / 完整界面 | 立体饮料罐居中，点击箭头切换口味时包装、背景色和整幅趣味插画同步替换，形成完整品牌场景。 | [打开](https://manayerbamate.com) |
 | TrueKind 护肤品牌 | 独立站 / 完整界面 | 皮肤与精华滴管的微距视频铺满首屏，斜体衬线和粗体混排，细小导航及长胶囊按钮保持克制。 | [打开](https://truekindskincare.com) |
+| Cinema Seat Preview：影院选座视角 | 独立站 / 在线演示 | 影院选座原型：弧形座位图与三维观影视角联动，选择座位后镜头进入对应位置，底部信息条同步更新。 | [打开](https://tympanus.net/Demos/CinemaSeatPreview) |
+| Squoosh：图片前后对比与浮动参数面板 | 独立站 / 在线演示 | 全屏图片对比工具 UI：可拖动分割线、左右结果区、浮动压缩设置与实时体积反馈，适合参考参数调整和视觉对比工作流。 | [打开](https://squoosh.app) |
+| Haikei：图形预览与参数编辑工作台 | 独立站 / 在线演示 | 图形生成器 UI：图示侧栏、居中预览和右侧参数形成清晰工作流，波形、渐变等视觉类型可以直接切换并调色。 | [打开](https://app.haikei.app) |
+| PatternPad：几何纹样编辑器 | 独立站 / 在线演示 | 蓝粉几何拼贴与右侧颜色、尺寸、密度面板，适合参考生成式图案编辑器的布局和即时反馈。 | [打开](https://patternpad.com/editor.html) |
+| OKLCH：色域与颜色工作台 | 独立站 / 在线演示 | 黑底大圆角颜色工作台，以彩色色域曲线、3D 表面和菱形滑块联动呈现颜色变化。 | [打开](https://oklch.com) |
+| Plausible：公开网站分析仪表盘 | 独立站 / 在线演示 | 真实分析仪表盘的深色数据卡、紫色面积折线、横向排名条与可组合筛选标签，适合参考高信息密度后台。 | [打开](https://plausible.io/plausible.io) |
+| Duolingo：官方角色与界面录像 | 独立站 / 视频 | Duolingo 三手机动效展示：火焰连续学习奖励、棋盘答题反馈与角色表情通话，适合参考游戏化学习 App。 | [打开](https://framerusercontent.com/assets/RT0g2f4dz5zYO4UphLss616U4.mp4) |
+| Spotify Wrapped：官方年度回顾动效录像 | 独立站 / 视频 | Spotify Wrapped 多屏数据故事：超大数字、黑白几何图案、圆点时间图和艺人封面动画，展示年度回顾的节奏与品牌统一性。 | [打开](https://framerusercontent.com/assets/KzXZgGGMns7LaW6Bz5BAJj7Nw.mp4) |
+
+## 应用界面展示
+
+| 名称 | 平台 / 类型 | 值得参考 | 原链接 / 实现 |
+|---|---|---|---|
+| Slack Canvas：文档协作界面 | YouTube / 视频 | Slack Canvas 官方短片：频道内的文档入口展开为资源与成员卡片，展示消息工作区和知识文档之间的层级过渡。 | [打开](https://www.youtube.com/watch?v=wJ80ip-buXc) |
+| Linear Agent：原生工作区展示 | YouTube / 视频 | Linear Agent 产品短片：低亮度深色界面、斜向镜头推进、输入文字与任务列表渐次出现，最终汇成文档结果卡片。 | [打开](https://www.youtube.com/watch?v=mRql2VJ99gM) |
+| Framer 3.0：画布与协作展示 | YouTube / 视频 | Framer 3.0 官方展示短片：蓝光边缘的编辑器特写、多尺寸页面画布和 CMS 表格切换，适合参考设计工具的产品镜头与面板层级。 | [打开](https://www.youtube.com/watch?v=6aioEoCdBJw) |
+| Pitch 2.0：演示编辑器短片 | YouTube / 视频 | Pitch 2.0 发布短片：AI输入卡片、胶囊配色选择器和自行车主题幻灯片串联，呈现从提示输入到文稿编辑的产品流程。 | [打开](https://www.youtube.com/watch?v=tqfeE5G36tM) |
+| Windows 11：系统界面发布短片 | YouTube / 视频 | Windows 11 初代发布视觉片：透明材质生长、居中开始菜单、壁纸和主题网格切换，适合参考系统 UI 的材质与发布镜头。 | [打开](https://www.youtube.com/watch?v=Uh9643c2P6k) |
+| Figma Slides：协作演示界面 | YouTube / 视频 | Figma Slides 发布短片：整页演示编辑与精细图层设计之间切换，包含缩略图导航、悬浮工具栏、选中控制框和主题属性。 | [打开](https://www.youtube.com/watch?v=p-B--SGq_ZQ) |
 
 ## 微交互
 
@@ -261,6 +300,7 @@
 | Rauno · Precision Slider | 独立站 / 在线演示 | 按住时细线音量条扩展成宽大圆角面板，填充比例随拖动更新。 | [打开](https://rauno.me/craft/precision-slider) |
 | Rauno · Flashlight Tabs | 独立站 / 在线演示 | 暗色胶囊导航用柔和聚光跟随选中标签，文字与边框亮度同步变化。 | [打开](https://rauno.me/craft/flashlight-tabs) |
 | Rauno · Copy & Paste | 独立站 / 在线演示 | 源图缩成随指针移动的缩略图，再在目标区展开成完整图片，直观表达复制粘贴过程。 | [打开](https://rauno.me/craft/copy-paste) |
+| Motion：滑动指示器标签页 | 独立站 / 在线演示 | 深色统计卡搭配白色选中胶囊，标签切换联动图标、文案和指标内容，适合参考产品面板的细节反馈。 | [打开](https://examples.motion.dev/react/smooth-tabs) |
 
 ## 文字与排版
 
@@ -275,6 +315,14 @@
 | Ballet National de Marseille：舞蹈式排版 | 独立站 / 作品 | 巨型黑体导航固定在左侧，右侧虚线分区滚动；活动页让白色标题绕成旋转文字环，叠在舞者照片上。 | [打开](https://www.ballet-de-marseille.com) |
 | Three Particles：彩色粒子团 | 独立站 / 在线演示 | 彩色粒子由紧密团块扩散为多臂结构，位置与拖影持续变化；适合抽象动态主视觉。 | [打开](https://cullenwebber.github.io/three-particles) |
 | Elevate：答案词高亮反馈 | 灵感平台 / 视频 | 大字号句子中，正确词被青绿色色块突出，底部进度和判断按钮保持稳定；参考将反馈直接放在内容上的答题界面。 | [打开](https://60fps.design/shots/elevate-correct-answer-words-morph-interaction) |
+| Paper Moon Press 概念：双色印刷与纸张剥离 | 独立站 / 在线演示 | 双色印刷风格界面：粗体排版、蓝粉网点海报与纸张堆叠，拖拽时翻出纸背并露出下一张，支持重新归位。 | [打开](https://tympanus.net/Demos/MuseumOfMotion/vibes/printed) |
+
+## 游戏UI与HUD
+
+| 名称 | 平台 / 类型 | 值得参考 | 原链接 / 实现 |
+|---|---|---|---|
+| Foundation：科幻游戏 UI 概念 | B站 / 视频 | Foundation 个人游戏 UI 概念：金黑星球选择、左右信息分栏与横向任务确认弹窗，科幻氛围和清晰菜单层级结合。 | [打开](https://www.bilibili.com/video/BV1rT411u7hC) |
+| UE5：卡通商店、活动与领奖动效 | B站 / 视频 | 卡通游戏 UI 概念练习：木质商店、星夜活动主页和黄色领奖横幅形成完整界面组，适合参考活动入口、商品卡与奖励反馈。 | [打开](https://www.bilibili.com/video/BV1LHVT6EEW9) |
 
 ## 游戏与趣味
 
@@ -306,6 +354,8 @@
 | WebGPU：页面形变转场 | 独立站 / 在线演示 | 直接可浏览的页面切换演示，用GPU效果衔接页面状态，适合作品集与多页网站的过渡设计。 | [打开](https://page-transitions-with-webgpu-vanilla-js.crnacura.workers.dev) |
 | Portal：滚动空间穿越 | 独立站 / 在线演示 | 滚动驱动视角穿过三维门户，适合品牌故事中的场景切换和沉浸式章节过渡。 | [打开](https://r3f-lusion-portal.vercel.app) |
 | Rauno · Minimap | 独立站 / 在线演示 | 一排精细短刻度随指针移动形成局部波峰，橙色游标建立位置参照。 | [打开](https://rauno.me/craft/minimap) |
+| SVG Mask：百叶窗图片转场 | 独立站 / 在线演示 | 横向百叶窗图片转场：建筑大图随滚动分条揭示，文字与底部分段进度配合，适合全屏作品展示与章节切换。 | [打开](https://tympanus.net/Tutorials/SVGMaskScrollTransition) |
+| Maison Orée 概念：黑金界面与刻字聚光 | 独立站 / 在线演示 | 虚构珠宝界面演示：黑金衬线排版、线描商品与横向图列，戒面刻字随指针局部照亮，适合参考细节揭示。 | [打开](https://tympanus.net/Demos/MuseumOfMotion/vibes/luxury) |
 
 ## 画廊与导航
 
@@ -335,6 +385,20 @@
 | Video Wall：三维视频墙 | 独立站 / 在线演示 | 把视频媒体排成具有空间深度的墙面，适合动态作品集、音乐视觉和媒体矩阵展示。 | [打开](https://threejs-video-wall.vercel.app) |
 | Apple：摄影风格卡片预览 | 灵感平台 / 视频 | 摄影风格选择页以圆角人像预览配合色调参数和说明卡，让用户直接比较画面与设置的关系。 | [打开](https://60fps.design/shots/apple-photographic-styles-carousel-swipe-interaction) |
 | Pinterest：商品详情面板横滑切换 | 灵感平台 / 视频 | 商品详情底部面板横滑切换，抠图商品突出面板上边缘，标题、说明与相似推荐同步更新。 | [打开](https://60fps.design/shots/pinterest-shared-sheet-swipe-interaction) |
+| Lookbook：时装图片悬停 | 独立站 / 在线演示 | 时装 Lookbook：照片悬停转为钴蓝编号卡与细碎人物轮廓，保留服装说明；大衬线标题和六图网格也可参考。 | [打开](https://tympanus.net/Demos/LookbookHoverEffects) |
+| Clip Menu：裁切展开的游戏菜单 | 独立站 / 在线演示 | 像素风游戏菜单：人像背景随矩形遮罩从中央扩展至全屏，七项菜单同步显露；关闭时反向收拢，可调中断速度。 | [打开](https://tympanus.net/Development/EaseReverseClipMenu) |
+| Thumbnail Flow：缩略图路径展开 | 独立站 / 在线演示 | 图片流展开：叠放缩略图沿弯曲路径依次移动，形成中央主图与侧边图列，适合参考图库进入与退出的动效编排。 | [打开](https://tympanus.net/Tutorials/MotionPathTransition) |
+| Motion：轮播与灯箱共享导航 | 独立站 / 在线演示 | 黑白摄影横向轮播与全屏灯箱，缩略图带和选中描边串联小图、大图及暗化背景层。 | [打开](https://examples.motion.dev/react/carousel-lightbox) |
+
+## 界面动效短片
+
+| 名称 | 平台 / 类型 | 值得参考 | 原链接 / 实现 |
+|---|---|---|---|
+| Google：Material Design 原始短片 | YouTube / 视频 | 彩色几何形状、纸片投影和浮动按钮连续组合成移动音乐界面，展示界面层级与过渡的经典表达。 | [打开](https://www.youtube.com/watch?v=Q8TXgCzxEnw) |
+| Microsoft Design：OneDrive 界面更新 | YouTube / 视频 | 浅色文件列表、推荐卡片和协作头像与透明玻璃状几何体交替呈现，利用柔光与空间镜头连接产品界面和品牌动效。 | [打开](https://www.youtube.com/watch?v=DzXBdc8Dfmg) |
+| Ordinary Folk：Introducing Spline | YouTube / 视频 | Ordinary Folk 为 Spline 制作的立体品牌短片：紫色地景、角色运动与可编辑几何体串联，适合参考 3D 产品宣传与场景转场。 | [打开](https://www.youtube.com/watch?v=sIfP9h-H23s) |
+| Ordinary Folk：Webflow 新时代短片 | YouTube / 视频 | Ordinary Folk 的 Webflow 短片：蓝紫几何体、半透明页面层与斜俯视卡片阵列，适合参考三维 UI 分层和空间转场。 | [打开](https://www.youtube.com/watch?v=eEW2gr7K7kc) |
+| NAWA / MIX发布：AI 回复卡片动效 | B站 / 视频 | 薄荷绿与深色卡片组合的 SaaS 短片：AI回复加载亮条、状态标签、审批按钮和镜头缩放，适合参考智能反馈与卡片展示。 | [打开](https://www.bilibili.com/video/BV125VB6WEYt) |
 
 ## 粒子与背景
 

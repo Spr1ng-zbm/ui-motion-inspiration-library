@@ -517,5 +517,349 @@
     "observed": "140.1K数据加载完成，地图显示蓝绿黄六边形柱体；半径增大后细密点柱重组成明显的大六边形，柱体高度与颜色仍有层次。",
     "suggested_description": "深色地图上以蓝绿黄六边形柱体呈现空间密度，调节聚合半径可从细密点阵切换为粗颗粒立体网格。",
     "access_notes": "实测数据加载与Radius控制，默认WebGL2；作为可视化形式参考，不评估底层统计数据。"
+  },
+  {
+    "name": "Lookbook：时装图片悬停",
+    "checked_at": "2026-11-03",
+    "url": "https://tympanus.net/Demos/LookbookHoverEffects/",
+    "result": "pass",
+    "action": "打开六张时装图集，分别将指针置于第1和第5张照片。",
+    "observed": "静态为左侧大衬线品牌字与右侧2×3照片网格；指针进入后照片转为钴蓝色卡片，出现大号Look编号、服装说明及细碎的人像轮廓，移出后恢复照片。",
+    "suggested_description": "时装 Lookbook：照片悬停转为钴蓝编号卡与细碎人物轮廓，保留服装说明；大衬线标题和六图网格也可参考。",
+    "access_notes": "直接交互演示，本次核查默认Variation 01与两张图卡；其余变体未逐个核验。"
+  },
+  {
+    "name": "Seam：森林图集滚动转场",
+    "checked_at": "2026-11-03",
+    "url": "https://tympanus.net/Demos/SeamTransitions/",
+    "result": "blocked",
+    "action": "打开默认演示并上下滚动跨越森林首屏与白色内容区，检查渲染画布。",
+    "observed": "森林照片、CANOPY大字与后续网格正常显示，但多次跨越分区仍是直线边界的普通滚动，页面没有渲染canvas；核心接缝变形本轮未呈现。",
+    "access_notes": "本环境启用减少动态效果，可能触发静态回退；不据此断言原作失效，本轮暂不入库。"
+  },
+  {
+    "name": "Cinema Seat Preview：影院选座视角",
+    "checked_at": "2026-11-03",
+    "url": "https://tympanus.net/Demos/CinemaSeatPreview/",
+    "result": "pass",
+    "action": "等待影院加载，打开Seat map并选择Row F, seat 11, best view。",
+    "observed": "三维红座椅影院正常渲染；选座浮层用弧形座位图、占用颜色和Best view框区分位置；选F11后浮层收起，镜头移至中部座位，屏幕变大，底部显示座位编号和Add/Stand up控件。",
+    "suggested_description": "影院选座原型：弧形座位图与三维观影视角联动，选择座位后镜头进入对应位置，底部信息条同步更新。",
+    "access_notes": "交互原型，非真实售票；本次验证选座与视角变化，未核查完整影片或全部4D效果。初次加载需等待资源。"
+  },
+  {
+    "name": "Clip Menu：裁切展开的游戏菜单",
+    "checked_at": "2026-11-03",
+    "url": "https://tympanus.net/Development/EaseReverseClipMenu/",
+    "result": "pass",
+    "action": "点击Open menu，观察矩形裁切区域逐步扩至全屏，再点击Close menu收起。",
+    "observed": "黑底漂浮图卡和HUMAN ZERO像素字切换为人像特写背景的全屏菜单；NEW GAME、MISSIONS等七项白色像素文字在裁切区域内显露，关闭时矩形边界向内收缩。",
+    "suggested_description": "像素风游戏菜单：人像背景随矩形遮罩从中央扩展至全屏，七项菜单同步显露；关闭时反向收拢，可调中断速度。",
+    "access_notes": "可直接操作的菜单转场演示；菜单项用于展示，不是完整游戏。"
+  },
+  {
+    "name": "Glass Xylophone：玻璃木琴",
+    "checked_at": "2026-11-03",
+    "url": "https://tympanus.net/Tutorials/Xylophone/",
+    "result": "pass",
+    "action": "等待玻璃琴键加载，点击不同位置并沿螺旋琴键连续拖动。",
+    "observed": "淡紫渐变背景上的半透明圆管形成螺旋木琴；划过后多根琴键依次变成青、蓝、紫、粉的高饱和颜色，随后逐渐退回透明材质。",
+    "suggested_description": "玻璃螺旋木琴：半透明圆管沿螺旋排列，指针划过时连续染成彩色并渐退，适合参考材质、颜色传播与触碰反馈。",
+    "access_notes": "URL位于Tutorials目录，但此入口是完整交互演示；仅核验视觉反馈，未评价声音。当前环境中央一根琴键表面有颗粒噪点。"
+  },
+  {
+    "name": "Thumbnail Flow：缩略图路径展开",
+    "checked_at": "2026-11-03",
+    "url": "https://tympanus.net/Tutorials/MotionPathTransition/",
+    "result": "pass",
+    "action": "打开默认演示并点击+ Open，观察缩略图从左下角叠放，经底部弧线移动至右侧列。",
+    "observed": "单张小图展开为中央主图与14张缩略图；移动中图卡沿弯曲路径接续出现，最终收成右侧竖列，中央保留Close控制。",
+    "suggested_description": "图片流展开：叠放缩略图沿弯曲路径依次移动，形成中央主图与侧边图列，适合参考图库进入与退出的动效编排。",
+    "access_notes": "直接效果演示，非教程正文；本次验证默认Effect 01的展开过程，点击缩略图未观察到主图切换，不作为完整图库功能参考。"
+  },
+  {
+    "name": "SVG Mask：百叶窗图片转场",
+    "checked_at": "2026-11-03",
+    "url": "https://tympanus.net/Tutorials/SVGMaskScrollTransition/",
+    "result": "pass",
+    "action": "向下滚动进入第一张建筑图，再继续滚动至第二张图，查看两图交替的中间态。",
+    "observed": "首图为水面上的方形建筑，随后横向条带逐段揭开低矮橙光建筑；转场中上方保留细横线残影，底部三段进度线随滚动推进。",
+    "suggested_description": "横向百叶窗图片转场：建筑大图随滚动分条揭示，文字与底部分段进度配合，适合全屏作品展示与章节切换。",
+    "access_notes": "直接动效演示，非教程正文；本次验证Horizontal Blinds，未逐个核查其他三种变体。"
+  },
+  {
+    "name": "Museum of Motion：Luxury 完整动效场景",
+    "checked_at": "2026-11-03",
+    "url": "https://tympanus.net/Demos/MuseumOfMotion/exhibits/luxury/",
+    "replacement_url": "https://tympanus.net/Demos/MuseumOfMotion/vibes/luxury/",
+    "result": "pass",
+    "action": "从展项页进入Full page，滚动查看三款首饰、横向图列，并将指针置于刻字戒面。",
+    "observed": "黑金配色、衬线大字与线描首饰形成简洁商品页面；图列延伸到右侧，刻字戒面原为暗金色，指针进入后局部变亮并显露Pour toujours等文字。",
+    "suggested_name": "Maison Orée 概念：黑金界面与刻字聚光",
+    "suggested_description": "虚构珠宝界面演示：黑金衬线排版、线描商品与横向图列，戒面刻字随指针局部照亮，适合参考细节揭示。",
+    "access_notes": "已改为完整演示入口；使用线描示意图的概念页面，非真实珠宝品牌或商城。"
+  },
+  {
+    "name": "Museum of Motion：Printed 印刷场景",
+    "checked_at": "2026-11-03",
+    "url": "https://tympanus.net/Demos/MuseumOfMotion/exhibits/printed/",
+    "replacement_url": "https://tympanus.net/Demos/MuseumOfMotion/vibes/printed/",
+    "result": "pass",
+    "action": "进入Full page，点击SEE THE DRYING RACK，拖走第一张纸，再点击HANG THEM BACK UP。",
+    "observed": "米色纸张背景搭配黑色粗字和蓝粉双色网点海报；拖动时纸张翻出浅色背面，露出下层植物印刷图；重置后月亮海报返回顶层。",
+    "suggested_name": "Paper Moon Press 概念：双色印刷与纸张剥离",
+    "suggested_description": "双色印刷风格界面：粗体排版、蓝粉网点海报与纸张堆叠，拖拽时翻出纸背并露出下一张，支持重新归位。",
+    "access_notes": "已改为完整交互场景；虚构印刷工作室概念，用于排版与纸张动效参考。"
+  },
+  {
+    "name": "Museum of Motion：Rearrange 布局重排",
+    "checked_at": "2026-11-03",
+    "url": "https://tympanus.net/Demos/MuseumOfMotion/exhibits/rearrange/",
+    "result": "pass",
+    "action": "查看Layout模式，切换Shape并点击56号海报进入拱形容器。",
+    "observed": "布局和形状切换可运行，56号色块进入右侧拱形遮罩；主体仍以蓝白基础文字方块和编号海报演示为主。",
+    "quality_recommendation": "remove",
+    "quality_reason": "偏基础布局机制示范，视觉完成度与新增独特性低于本轮完整印刷/珠宝场景及已有布局转场，不为数量保留。",
+    "access_notes": "可运行但未选入主库；不是失效链接。"
+  },
+  {
+    "name": "Photopea：完整图像编辑工作台",
+    "checked_at": "2026-11-03",
+    "url": "https://www.photopea.com/",
+    "result": "pass",
+    "action": "进入编辑器并新建1280×720空白文档，检查工具栏、历史记录和图层面板。",
+    "observed": "编辑器可用，呈现传统灰色图像编辑工作区，左侧工具、上方选项、右侧图层与广告栏；没有突出且独立的视觉动效。",
+    "quality_recommendation": "remove",
+    "quality_reason": "实用编辑工具但本轮视觉新颖性有限、广告占比高，不符合用户以优质UI/动效灵感为主的收录方向。",
+    "access_notes": "可用工具，因选题取舍移出；不是失效网站。"
+  },
+  {
+    "name": "Squoosh：双侧图像压缩比较",
+    "checked_at": "2026-11-03",
+    "url": "https://squoosh.app/",
+    "result": "pass",
+    "action": "打开自带Large photo示例，将Quality滑块调至0，并拖动中央对比分割线。",
+    "observed": "画布两侧呈现同一小熊猫照片，原图清晰、低质量副本出现明显色块；分割线可左右移动，右下压缩率和体积同步更新，设置面板悬浮于图像上。",
+    "suggested_name": "Squoosh：图片前后对比与浮动参数面板",
+    "suggested_description": "全屏图片对比工具 UI：可拖动分割线、左右结果区、浮动压缩设置与实时体积反馈，适合参考参数调整和视觉对比工作流。",
+    "access_notes": "直接进入后可用页面自带示例，无需上传个人文件；主要参考界面与交互，不作为动效素材下载站。"
+  },
+  {
+    "name": "Haikei：SVG 图形生成工作台",
+    "checked_at": "2026-11-03",
+    "url": "https://app.haikei.app/",
+    "result": "pass",
+    "action": "从Wave切换至Blurry Gradient，将第二颜色改为FF8844并点击骰子生成按钮。",
+    "observed": "左侧为带图示的效果选择卡，中间大画布，右侧随类型切换参数；预览从蓝色波形切换到紫绿模糊渐变，再更新为橙绿渐变构图。",
+    "suggested_name": "Haikei：图形预览与参数编辑工作台",
+    "suggested_description": "图形生成器 UI：图示侧栏、居中预览和右侧参数形成清晰工作流，波形、渐变等视觉类型可以直接切换并调色。",
+    "access_notes": "主要是静态图形和编辑器交互参考，不作为自动播放动画收录；本次核查Wave与Blurry Gradient。"
+  },
+  {
+    "name": "PatternPad：几何纹样编辑器",
+    "checked_at": "2026-11-03",
+    "url": "https://patternpad.com/editor.html",
+    "result": "pass",
+    "action": "打开编辑器，点击 Refresh 并切换 Customize。",
+    "observed": "粉红蓝色几何拼贴完整渲染；刷新后块状组合变化，自定义区展开间距、密度、分割比例设置，图标随后正常加载。",
+    "suggested_description": "蓝粉几何拼贴与右侧颜色、尺寸、密度面板，适合参考生成式图案编辑器的布局和即时反馈。",
+    "access_notes": "静态图案生成工具；本次验证刷新与面板切换，未测试导出。"
+  },
+  {
+    "name": "SVG Path Editor：路径与锚点编辑",
+    "checked_at": "2026-11-03",
+    "url": "https://yqnn.github.io/svg-path-editor/",
+    "result": "pass",
+    "action": "打开默认剑形 SVG 并切换 Preview。",
+    "observed": "黑色网格画布、路径控制点和密集参数面板正常显示，预览勾选状态切换。",
+    "quality_recommendation": "remove",
+    "quality_reason": "主要是开发者路径调试工具，视觉层次普通，与本库成品界面和惊艳动效重点不符。"
+  },
+  {
+    "name": "cubic-bezier：缓动曲线比较",
+    "checked_at": "2026-11-03",
+    "url": "https://cubic-bezier.com/",
+    "result": "pass",
+    "action": "打开曲线编辑器并点击 GO。",
+    "observed": "曲线控制点、双预览块和缓动预设可见，页面以基础缓动测试工具为主。",
+    "quality_recommendation": "remove",
+    "quality_reason": "工具和基础动画讲解性质强，成品视觉参考价值有限。"
+  },
+  {
+    "name": "Polotno Studio：海报与图形编辑器",
+    "checked_at": "2026-11-03",
+    "url": "https://polotno.com/studio",
+    "result": "pass",
+    "action": "打开模板面板、文字面板并添加默认标题。",
+    "observed": "模板缩略图正常加载，标题进入画布后出现蓝色控制框与悬浮对象工具栏。",
+    "quality_recommendation": "remove",
+    "quality_reason": "通用设计工具工作台，视觉风格较常规；优先收录更有辨识度的界面。"
+  },
+  {
+    "name": "OKLCH：色域与颜色工作台",
+    "checked_at": "2026-11-03",
+    "url": "https://oklch.com/",
+    "result": "pass",
+    "action": "开启 Show 3D，拖动 Hue 色相滑块。",
+    "observed": "颜色从暖黄变成蓝色，色块、代码、色域图与三维色域表面同步变化；黑底圆角分区完整呈现。",
+    "suggested_description": "黑底大圆角颜色工作台，以彩色色域曲线、3D 表面和菱形滑块联动呈现颜色变化。",
+    "access_notes": "交互数据可视化界面；不是自动播放动效。"
+  },
+  {
+    "name": "Plausible：公开网站分析仪表盘",
+    "checked_at": "2026-11-03",
+    "url": "https://plausible.io/plausible.io",
+    "result": "pass",
+    "action": "打开官方实时演示，点击来源 Google，再向下浏览数据卡片。",
+    "observed": "深色统计卡、紫色面积折线、来源及页面排名正常显示；点击后顶部出现 Source is Google 筛选标签，页面排名更新。",
+    "suggested_description": "真实分析仪表盘的深色数据卡、紫色面积折线、横向排名条与可组合筛选标签，适合参考高信息密度后台。",
+    "access_notes": "官方公开演示，可直接查看和筛选；统计数字会随时间变化。"
+  },
+  {
+    "name": "Roland50 Studio：电子乐器控制台",
+    "checked_at": "2026-11-03",
+    "url": "https://roland50.studio/",
+    "result": "pass",
+    "action": "点击 ENTER，关闭入门说明，点击 TR-808 START。",
+    "observed": "左右双仪器完整出现，黑底橙黄圆点与灰底三角音符矩阵并置；START 变成 STOP，圆点节拍状态变化，底部有拟物旋钮和拨片。",
+    "suggested_description": "Roland 官方周年互动工作室，将复古鼓机与合成器化为圆点、三角音符矩阵，搭配拟物旋钮、拨片和运行反馈。",
+    "access_notes": "已验证进入和节拍视觉反馈；本次未评价音频输出。"
+  },
+  {
+    "name": "Blob Opera：拖动声部合唱",
+    "checked_at": "2026-11-03",
+    "url": "https://artsandculture.google.com/experiment/blob-opera/AAHWrq360NcGbw",
+    "result": "blocked",
+    "action": "打开官方页并启动实验、跳过说明，等待场景加载后再次观察。",
+    "observed": "剧场背景、录制按钮与地点按钮出现，但核心 Blob 角色始终未渲染；无法验证拉伸交互。",
+    "access_notes": "当前核验环境只呈现背景与控件，暂不收录；不据此断定站点全局失效。"
+  },
+  {
+    "name": "Music Lab：声音频谱画布",
+    "checked_at": "2026-11-03",
+    "url": "https://musiclab.chromeexperiments.com/spectrogram-service/",
+    "result": "pass",
+    "action": "分别选择长笛与鸟鸣内置样本，拖动频谱区域并观察连续画面。",
+    "observed": "黑底中逐步生成紫蓝绿黄色的立体频谱峰，切换样本后谱线密度和峰形变化；底部声源图标高亮。",
+    "suggested_description": "深色画布中的紫蓝绿立体声谱，配一排圆形声源按钮，适合参考声音反馈与频谱峰形动画。",
+    "access_notes": "需要点击底部内置样本启动；本次观察到频谱呈较窄的侧向视角，未评价音频输出。"
+  },
+  {
+    "name": "Music Lab：Kandinsky 图形作曲",
+    "checked_at": "2026-11-03",
+    "url": "https://musiclab.chromeexperiments.com/kandinsky-service/",
+    "result": "blocked",
+    "action": "等待画布控件加载，在中央绘制线条并点击播放。",
+    "observed": "只显示白色画布与底部三个圆形控件，绘制后没有出现线条或角色，无法验证核心视觉反馈。",
+    "access_notes": "当前环境未运行出绘制效果，暂不收录。"
+  },
+  {
+    "name": "AudioMass：波形编辑工作台",
+    "checked_at": "2026-11-03",
+    "url": "https://audiomass.co/",
+    "result": "pass",
+    "action": "关闭欢迎提示，点击 use a sample。",
+    "observed": "内置两分钟音频加载完成，双声道浅蓝波形与上方播放工具栏、下方电平刻度完整显示。",
+    "quality_recommendation": "remove",
+    "quality_reason": "传统音频编辑器布局，视觉与动效参考价值不足以优先入库。"
+  },
+  {
+    "name": "BeepBox：音序与循环编辑器",
+    "checked_at": "2026-11-03",
+    "url": "https://www.beepbox.co/",
+    "result": "pass",
+    "action": "在音符网格点击添加音符并点击 Play。",
+    "observed": "像素网格出现音符，URL 中乐谱状态更新，界面以紧凑的传统编曲参数为主。",
+    "quality_recommendation": "remove",
+    "quality_reason": "可用但偏基础编曲工具，视觉表现普通，移出正式灵感库。"
+  },
+  {
+    "name": "Motion：滑动指示器标签页",
+    "checked_at": "2026-11-03",
+    "url": "https://examples.motion.dev/react/smooth-tabs",
+    "result": "pass",
+    "action": "依次点击 Overview、Activity、Settings 标签。",
+    "observed": "白色选中胶囊从左移到中间，卡片由紫色概览图标与统计数字切换成粉色活动图标和另一组数据。",
+    "suggested_description": "深色统计卡搭配白色选中胶囊，标签切换联动图标、文案和指标内容，适合参考产品面板的细节反馈。",
+    "access_notes": "直达可操作演示；本次验证标签及内容切换。"
+  },
+  {
+    "name": "Motion：Base UI 下拉菜单",
+    "checked_at": "2026-11-03",
+    "url": "https://examples.motion.dev/react/base-menu",
+    "result": "pass",
+    "action": "点击 Options 打开菜单。",
+    "observed": "按钮下方显示 Edit、Duplicate、Delete 三个选项的深色小面板。",
+    "quality_recommendation": "remove",
+    "quality_reason": "仅基础菜单弹出，展示过于简单，和库内完整导航案例相比价值不足。"
+  },
+  {
+    "name": "Motion：轮播与灯箱共享导航",
+    "checked_at": "2026-11-03",
+    "url": "https://examples.motion.dev/react/carousel-lightbox",
+    "result": "pass",
+    "action": "点击照片打开灯箱，再点击 Thumbnail 5。",
+    "observed": "横向黑白骑行照片带进入大图遮罩，底部出现六张缩略图导航及选中描边，原图带在暗化背景中保留。",
+    "suggested_description": "黑白摄影横向轮播与全屏灯箱，缩略图带和选中描边串联小图、大图及暗化背景层。",
+    "access_notes": "直达可操作演示；点击图片进入灯箱。"
+  },
+  {
+    "name": "Motion：随滚动方向隐藏页头",
+    "checked_at": "2026-11-03",
+    "url": "https://examples.motion.dev/react/scroll-hide-header",
+    "result": "pass",
+    "action": "连续向下滚动演示页面。",
+    "observed": "导航条随下滚离开画面，主体是大面积深色背景与重复 Motion 标记。",
+    "quality_recommendation": "remove",
+    "quality_reason": "基础导航隐藏机制，主体展示稀疏，缺少值得单列的视觉设计。"
+  },
+  {
+    "name": "Rive City：城市与矢量 HUD",
+    "checked_at": "2026-11-03",
+    "url": "https://rive-city-cr4bhd.rive.to/",
+    "result": "blocked",
+    "action": "打开互动页，等待加载指示消失并在另一视频核查后返回观察。",
+    "observed": "Loading 消失后仍为纯黑画面，仅底部细条可见，城市内容未渲染。",
+    "access_notes": "当前环境未呈现核心场景，暂不收录。"
+  },
+  {
+    "name": "Duolingo：官方角色与界面录像",
+    "checked_at": "2026-11-03",
+    "url": "https://framerusercontent.com/assets/RT0g2f4dz5zYO4UphLss616U4.mp4",
+    "result": "pass",
+    "action": "播放 14.4 秒视频并观察前后两段画面。",
+    "observed": "三个倾斜手机同时演示火焰连续学习天数、棋盘答题反馈和紫发角色通话表情；火焰伸缩发光，数字及答题状态变化。",
+    "suggested_description": "Duolingo 三手机动效展示：火焰连续学习奖励、棋盘答题反馈与角色表情通话，适合参考游戏化学习 App。",
+    "access_notes": "Rive 官方案例媒体的直接视频链接；为展示视频，不是可操作的 Duolingo App。",
+    "playback_verified": true
+  },
+  {
+    "name": "Rocket Squadron：飞行游戏界面",
+    "checked_at": "2026-11-03",
+    "url": "https://rocket-squadron-1cu9sz.rive.to/?fit=layout",
+    "result": "blocked",
+    "action": "打开互动页面，等待后尝试继续浏览；页面造成浏览器响应超时，关闭该页恢复。",
+    "observed": "只观察到 Loading，未出现可操作的火箭场景。",
+    "access_notes": "当前核验环境加载无响应，未确认互动有效，暂不收录。"
+  },
+  {
+    "name": "Spotify Wrapped：官方年度回顾动效录像",
+    "checked_at": "2026-11-03",
+    "url": "https://framerusercontent.com/assets/KzXZgGGMns7LaW6Bz5BAJj7Nw.mp4",
+    "result": "pass",
+    "action": "播放 18 秒官方案例视频，观察初始与约 9 秒画面。",
+    "observed": "绿色场景中四个倾斜手机展示年度听歌数字、同心圆艺人封面、圆点时间图和黑白条纹徽章；内容持续切换并缩放运动。",
+    "suggested_description": "Spotify Wrapped 多屏数据故事：超大数字、黑白几何图案、圆点时间图和艺人封面动画，展示年度回顾的节奏与品牌统一性。",
+    "access_notes": "Rive 官方案例的直接视频媒体；展示视频，不是账户内个人年度报告。",
+    "playback_verified": true
+  },
+  {
+    "name": "RiveBox：游戏主机界面",
+    "checked_at": "2026-11-03",
+    "url": "https://rivebox-yrdeql.rive.to/",
+    "result": "blocked",
+    "action": "打开示例，等待 Loading 消失后观察画面。",
+    "observed": "纯黑画面与底部控制条可见，产品界面没有显示。",
+    "access_notes": "当前环境未验证出主体内容，暂不收录。"
   }
 ]

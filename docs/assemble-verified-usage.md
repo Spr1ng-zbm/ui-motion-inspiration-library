@@ -7,7 +7,7 @@
 在仓库根目录执行（可以写成一行）：
 
 ```sh
-python scripts/assemble_verified.py --candidate candidate_items_20261103.json --candidate candidate_items_round2.json --candidate candidate_video_round3.json --candidate-audit docs/audit-new-sites.json --candidate-audit docs/audit-new-videos.json --candidate-audit docs/audit-video-round3.json --audit-date 2026-11-03 --out-dir staging/verified-release
+python scripts/assemble_verified.py --source-root docs/baseline-sources --candidate candidate_items_20261103.json --candidate candidate_items_round2.json --candidate candidate_video_round3.json --candidate candidate_items_round4.json --candidate candidate_items_round5.json --candidate candidate_items_round6.json --candidate candidate_items_round7.json --candidate-audit docs/audit-new-sites.json --candidate-audit docs/audit-new-videos.json --candidate-audit docs/audit-video-round3.json --candidate-audit docs/audit-round2-sites.json --audit-date 2026-11-03 --out-dir staging/verified-release
 ```
 
 默认读取 `docs/full-audit-manifest.json` 和 `docs/full-audit.json`。可以用 `--manifest`、`--baseline-audit`、`--source-root` 改变输入位置。候选文件和候选最终核验文件均为显式、可重复参数，不会自动扫描或把旁证文件当成权威审查。
@@ -28,7 +28,7 @@ python scripts/assemble_verified.py --candidate candidate_items_20261103.json --
 
 替代 URL、建议名称与建议描述来自实际 audit。媒体文件入口自动标为视频；替代视频入口的平台按地址明确为 B站、YouTube 或独立站。归一化沿用 `scripts/build.py` 的 `canonical_url`，保留 B 站 `p=2` 分集参数。
 
-前端字段统一为 `verification_action`、`verification_observed`、`verification_notes`，同时保存完整 `audit`、`original_url` 和简洁的 `verification` 文案。`access_notes` 原样保留，避免自动改写研究者的访问限制；若其中存在过时的通用“待核验”提示，发布流程应明确处理，不能把它当成本次未通过。
+前端字段统一为 `verification_action`、`verification_observed`、`verification_notes`，同时保存完整 `audit`、`original_url` 和简洁的 `verification` 文案。核验记录提供 `access_notes` 时覆盖候选原说明，明确的空字符串也会清除过时提示。来源必须用冻结目录，根目录来源已是清理后的当前版。
 
 ## 重复与错误
 
@@ -41,7 +41,7 @@ python scripts/assemble_verified.py --candidate candidate_items_20261103.json --
 
 ## 本轮验证记录
 
-2026-11-03，`python -m unittest discover -s tests -p test_assemble_verified.py`：9 项通过。按红→绿步骤覆盖：
+2026-11-03，`python -m unittest discover -s tests -p test_assemble_verified.py`：13 项通过。按红→绿步骤覆盖：
 
 1. 视频替代保留原 ID、应用建议字段并保留实际观察。
 2. pass/action/observed/日期准入及 fail、blocked、pending、remove 排除。
@@ -52,5 +52,9 @@ python scripts/assemble_verified.py --candidate candidate_items_20261103.json --
 7. 缺核验日期的 pass 报告具体缺失字段。
 8. 原库 pending 阻止发布且 CLI 非零退出；候选 pending 正常排除。
 9. 非法 stable_id 和旧 audit 日期无法进入暂存，不借用来源日期补通过。
+10. 明确清空访问说明后不再残留候选阶段的待核验提示。
+11–13. 视频实际播放标记与最终类型一致，明确的未播放标记不会被覆盖，网页不会误标为视频播放通过。
+
+正式构建 `build.py` 还会在写出前再次验证每条入库证据、日期与收藏身份；复制通过审核的暂存来源后运行 `python scripts/build.py` 和 `python scripts/write_audit_report.py` 更新页面与核验报告。
 
 首次以实际文件运行时，读取原库 173 条和三批候选 137 条，暂存通过 195 条、排除 115 条。随后根据发布审阅增加了“原库 pending 阻止发布”的条件。核验文件仍在更新，此数量只是一次输入快照，不是最终发布承诺；最终以重新运行的报告为准。

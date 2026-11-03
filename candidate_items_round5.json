@@ -1,0 +1,1308 @@
+[
+  {
+    "name": "PixelVault：3D 服装商店",
+    "url": "https://www.pixelvault.fit/",
+    "platform": "独立站",
+    "category": "品牌与产品界面",
+    "tags": [
+      "时尚",
+      "商品展示",
+      "3D",
+      "AR"
+    ],
+    "description": "服装品牌把夹克商品放进可旋转的三维展示与浏览器 AR 试穿流程。",
+    "kind": "网站",
+    "evidence_url": "https://thefwa.com/cases/pixelvault",
+    "verification": "candidate：官方来源与 HTTP 内容核查；未进行浏览器主体、交互或播放核验",
+    "checked_at": "2026-11-03",
+    "http_status": 200,
+    "http_final_url": "https://www.pixelvault.fit/",
+    "source_title": "PIXELVAULT | An Immersive Marketplace from 2047",
+    "source_content_evidence": "服装品牌把夹克商品放进可旋转的三维展示与浏览器 AR 试穿流程。",
+    "review_status": "candidate",
+    "browser_verified": false,
+    "browser_audit_focus": "查看商品切换、模型操控与购物界面；AR 入口需单独确认设备要求。",
+    "access_notes": "来源研究候选；已读取原站 HTML 与官方项目资料，尚需浏览器加载主体并实际操作。GET 200 不代表视觉或交互通过。",
+    "license_note": "仅作视觉参考；素材或代码复用须另查作者许可。",
+    "source_api_url": "https://thefwa.com/api/cases/pixelvault",
+    "award_evidence": [
+      {
+        "id": 12141,
+        "awardedDate": "2026-10-25",
+        "awardFor": "2026-10-25",
+        "type": "FOTD",
+        "name": "FWA of the Day"
+      }
+    ],
+    "author": "Harshit Kumar Sahu / Karan Chouhan",
+    "thumbnail_url": "https://www.pixelvault.fit/logo/og-card.png",
+    "thumbnail_kind": "原站 Open Graph 图，未视觉核验"
+  },
+  {
+    "name": "Nebulofi：星系音乐工作台",
+    "url": "https://nebulofi.vercel.app/",
+    "platform": "独立站",
+    "category": "音频可视化",
+    "tags": [
+      "生成音乐",
+      "空间界面",
+      "声音"
+    ],
+    "description": "以恒星与行星组织生成式氛围音乐；页面提供星系选择、行星与节奏控制。",
+    "kind": "在线演示",
+    "evidence_url": "https://thefwa.com/cases/nebulofi",
+    "verification": "candidate：官方来源与 HTTP 内容核查；未进行浏览器主体、交互或播放核验",
+    "checked_at": "2026-11-03",
+    "http_status": 200,
+    "http_final_url": "https://nebulofi.vercel.app/",
+    "source_title": "Nebulofi",
+    "source_content_evidence": "以恒星与行星组织生成式氛围音乐；页面提供星系选择、行星与节奏控制。",
+    "review_status": "candidate",
+    "browser_verified": false,
+    "browser_audit_focus": "选星进入场景，改变行星参数，确认画面和声音同步响应。",
+    "access_notes": "来源研究候选；已读取原站 HTML 与官方项目资料，尚需浏览器加载主体并实际操作。GET 200 不代表视觉或交互通过。",
+    "license_note": "仅作视觉参考；素材或代码复用须另查作者许可。",
+    "source_api_url": "https://thefwa.com/api/cases/nebulofi",
+    "award_evidence": [
+      {
+        "id": 12143,
+        "awardedDate": "2026-10-27",
+        "awardFor": "2026-10-27",
+        "type": "FOTD",
+        "name": "FWA of the Day"
+      }
+    ],
+    "author": "Arthur Chiquet",
+    "thumbnail_url": "https://nebulofi.vercel.app/og.jpg",
+    "thumbnail_kind": "原站 Open Graph 图，未视觉核验"
+  },
+  {
+    "name": "The Aviator：飞行游戏 HUD",
+    "url": "http://aviator.yakudoo.games/",
+    "platform": "独立站",
+    "category": "游戏与交互体验",
+    "tags": [
+      "游戏",
+      "HUD",
+      "飞行"
+    ],
+    "description": "浏览器飞行游戏，官方项目资料列出躲避与射击两种模式。",
+    "kind": "在线演示",
+    "evidence_url": "https://thefwa.com/cases/the-aviator",
+    "verification": "candidate：官方来源与 HTTP 内容核查；未进行浏览器主体、交互或播放核验",
+    "checked_at": "2026-11-03",
+    "http_status": 200,
+    "http_final_url": "http://aviator.yakudoo.games/",
+    "source_title": "Aviator",
+    "source_content_evidence": "浏览器飞行游戏，官方项目资料列出躲避与射击两种模式。",
+    "review_status": "candidate",
+    "browser_verified": false,
+    "browser_audit_focus": "进入游戏并切换模式，检查分数、生命和游戏结束状态。",
+    "access_notes": "来源研究候选；已读取原站 HTML 与官方项目资料，尚需浏览器加载主体并实际操作。GET 200 不代表视觉或交互通过。",
+    "license_note": "仅作视觉参考；素材或代码复用须另查作者许可。",
+    "source_api_url": "https://thefwa.com/api/cases/the-aviator",
+    "award_evidence": [
+      {
+        "id": 12146,
+        "awardedDate": "2026-10-30",
+        "awardFor": "2026-10-30",
+        "type": "FOTD",
+        "name": "FWA of the Day"
+      }
+    ],
+    "author": "EPIC Agency / Yakudoo"
+  },
+  {
+    "name": "Daiki Fujita：清醒与梦境作品集",
+    "url": "https://daikifujita.com/",
+    "platform": "独立站",
+    "category": "作品集与展示",
+    "tags": [
+      "排版",
+      "3D",
+      "作品集"
+    ],
+    "description": "设计师作品集以常规阅读和三维梦境两种呈现组织作品。",
+    "kind": "网站",
+    "evidence_url": "https://thefwa.com/cases/daiki-fujita-portfolio",
+    "verification": "candidate：官方来源与 HTTP 内容核查；未进行浏览器主体、交互或播放核验",
+    "checked_at": "2026-11-03",
+    "http_status": 200,
+    "http_final_url": "https://daikifujita.com/",
+    "source_title": "Daiki Fujita — Web & Interactive Designer",
+    "source_content_evidence": "设计师作品集以常规阅读和三维梦境两种呈现组织作品。",
+    "review_status": "candidate",
+    "browser_verified": false,
+    "browser_audit_focus": "阅读作品并进入梦境模式，核查两种导航及返回入口。",
+    "access_notes": "来源研究候选；已读取原站 HTML 与官方项目资料，尚需浏览器加载主体并实际操作。GET 200 不代表视觉或交互通过。",
+    "license_note": "仅作视觉参考；素材或代码复用须另查作者许可。",
+    "source_api_url": "https://thefwa.com/api/cases/daiki-fujita-portfolio",
+    "award_evidence": [
+      {
+        "id": 12142,
+        "awardedDate": "2026-10-26",
+        "awardFor": "2026-10-26",
+        "type": "FOTD",
+        "name": "FWA of the Day"
+      }
+    ],
+    "author": "Daiki Fujita",
+    "thumbnail_url": "https://framerusercontent.com/assets/QanXHb9QpaS9sxzlbYeC2N3pHk.png",
+    "thumbnail_kind": "原站 Open Graph 图，未视觉核验"
+  },
+  {
+    "name": "Oh là là Ride：巴黎自行车竞速",
+    "url": "https://ohlalaride.com/",
+    "platform": "独立站",
+    "category": "游戏与交互体验",
+    "tags": [
+      "游戏",
+      "城市",
+      "HUD"
+    ],
+    "description": "以巴黎街景为背景的浏览器自行车竞速，官方说明含道具、加速和双人玩法。",
+    "kind": "在线演示",
+    "evidence_url": "https://thefwa.com/cases/oh-la-la-ride",
+    "verification": "candidate：官方来源与 HTTP 内容核查；未进行浏览器主体、交互或播放核验",
+    "checked_at": "2026-11-03",
+    "http_status": 200,
+    "http_final_url": "https://ohlalaride.com/",
+    "source_title": "Oh là là Ride — jeu de vélo gratuit dans Paris, en ligne et sur mobile",
+    "source_content_evidence": "以巴黎街景为背景的浏览器自行车竞速，官方说明含道具、加速和双人玩法。",
+    "review_status": "candidate",
+    "browser_verified": false,
+    "browser_audit_focus": "检查开始界面、单人操控与 HUD；多人部分仅记录实际可验证范围。",
+    "access_notes": "来源研究候选；已读取原站 HTML 与官方项目资料，尚需浏览器加载主体并实际操作。GET 200 不代表视觉或交互通过。",
+    "license_note": "仅作视觉参考；素材或代码复用须另查作者许可。",
+    "source_api_url": "https://thefwa.com/api/cases/oh-la-la-ride",
+    "award_evidence": [
+      {
+        "id": 12135,
+        "awardedDate": "2026-10-19",
+        "awardFor": "2026-10-19",
+        "type": "FOTD",
+        "name": "FWA of the Day"
+      },
+      {
+        "id": 12149,
+        "awardedDate": "2026-11-01",
+        "awardFor": "2026-10-31",
+        "type": "FOTM",
+        "name": "FWA of the Month"
+      }
+    ],
+    "author": "The Officin",
+    "thumbnail_url": "https://ohlalaride.com/og-image.jpg",
+    "thumbnail_kind": "原站 Open Graph 图，未视觉核验"
+  },
+  {
+    "name": "Junkyard King Arena：手绘招式界面",
+    "url": "https://junkyardking.io/",
+    "platform": "独立站",
+    "category": "游戏与交互体验",
+    "tags": [
+      "手势",
+      "游戏",
+      "HUD"
+    ],
+    "description": "街机格斗把绘制形状作为出招输入，页面包含连击、分数、怒气与技能状态。",
+    "kind": "在线演示",
+    "evidence_url": "https://thefwa.com/cases/junkyard-king-arena",
+    "verification": "candidate：官方来源与 HTTP 内容核查；未进行浏览器主体、交互或播放核验",
+    "checked_at": "2026-11-03",
+    "http_status": 200,
+    "http_final_url": "https://junkyardking.io/",
+    "source_title": "Junkyard King",
+    "source_content_evidence": "街机格斗把绘制形状作为出招输入，页面包含连击、分数、怒气与技能状态。",
+    "review_status": "candidate",
+    "browser_verified": false,
+    "browser_audit_focus": "完成一段操作教学，实际画出形状并观察技能和计分反馈。",
+    "access_notes": "来源研究候选；已读取原站 HTML 与官方项目资料，尚需浏览器加载主体并实际操作。GET 200 不代表视觉或交互通过。",
+    "license_note": "仅作视觉参考；素材或代码复用须另查作者许可。",
+    "source_api_url": "https://thefwa.com/api/cases/junkyard-king-arena",
+    "award_evidence": [
+      {
+        "id": 12131,
+        "awardedDate": "2026-10-15",
+        "awardFor": "2026-10-15",
+        "type": "FOTD",
+        "name": "FWA of the Day"
+      }
+    ],
+    "author": "Odd Kid",
+    "thumbnail_url": "https://junkyardking.io/og.jpg",
+    "thumbnail_kind": "原站 Open Graph 图，未视觉核验"
+  },
+  {
+    "name": "Griflan Labs：俯视作品世界",
+    "url": "https://labs.griflan.com/",
+    "platform": "独立站",
+    "category": "作品集与展示",
+    "tags": [
+      "WebGPU",
+      "空间导航",
+      "品牌"
+    ],
+    "description": "工作室用可探索的俯视环境呈现品牌、数字体验和产品作品。",
+    "kind": "网站",
+    "evidence_url": "https://thefwa.com/cases/griflan-labs",
+    "verification": "candidate：官方来源与 HTTP 内容核查；未进行浏览器主体、交互或播放核验",
+    "checked_at": "2026-11-03",
+    "http_status": 200,
+    "http_final_url": "https://labs.griflan.com/",
+    "source_title": "Griflan Labs",
+    "source_content_evidence": "工作室用可探索的俯视环境呈现品牌、数字体验和产品作品。",
+    "review_status": "candidate",
+    "browser_verified": false,
+    "browser_audit_focus": "确认 WebGPU 主体加载，再打开作品；能力提示不等于实际加载失败。",
+    "access_notes": "来源研究候选；已读取原站 HTML 与官方项目资料，尚需浏览器加载主体并实际操作。GET 200 不代表视觉或交互通过。 页面或项目资料包含 WebGPU 条件；须核查当前浏览器支持与完整渲染。",
+    "license_note": "仅作视觉参考；素材或代码复用须另查作者许可。",
+    "source_api_url": "https://thefwa.com/api/cases/griflan-labs",
+    "award_evidence": [
+      {
+        "id": 12130,
+        "awardedDate": "2026-10-14",
+        "awardFor": "2026-10-14",
+        "type": "FOTD",
+        "name": "FWA of the Day"
+      }
+    ],
+    "author": "Jesper landberg / Griflan",
+    "thumbnail_url": "https://www.datocms-assets.com/160733/1759411527-social.png?fit=crop&fm=jpg&h=630&q=80&w=1200",
+    "thumbnail_kind": "原站 Open Graph 图，未视觉核验"
+  },
+  {
+    "name": "The Lantern House：灯笼屋作品集",
+    "url": "https://www.dwaynekoh.com/",
+    "platform": "独立站",
+    "category": "作品集与展示",
+    "tags": [
+      "空间导航",
+      "3D",
+      "品牌"
+    ],
+    "description": "Dwayne Koh 的作品集以灯笼建筑串联不同品牌项目与案例。",
+    "kind": "网站",
+    "evidence_url": "https://thefwa.com/cases/the-lantern-house",
+    "verification": "candidate：官方来源与 HTTP 内容核查；未进行浏览器主体、交互或播放核验",
+    "checked_at": "2026-11-03",
+    "http_status": 200,
+    "http_final_url": "https://www.dwaynekoh.com/",
+    "source_title": "Dwayne Koh — The Lantern House",
+    "source_content_evidence": "Dwayne Koh 的作品集以灯笼建筑串联不同品牌项目与案例。",
+    "review_status": "candidate",
+    "browser_verified": false,
+    "browser_audit_focus": "探索建筑并打开品牌作品，检查转场和返回操作。",
+    "access_notes": "来源研究候选；已读取原站 HTML 与官方项目资料，尚需浏览器加载主体并实际操作。GET 200 不代表视觉或交互通过。",
+    "license_note": "仅作视觉参考；素材或代码复用须另查作者许可。",
+    "source_api_url": "https://thefwa.com/api/cases/the-lantern-house",
+    "award_evidence": [
+      {
+        "id": 12129,
+        "awardedDate": "2026-10-13",
+        "awardFor": "2026-10-13",
+        "type": "FOTD",
+        "name": "FWA of the Day"
+      }
+    ],
+    "author": "Dwayne Koh",
+    "thumbnail_url": "https://www.dwaynekoh.com/social/lantern-house-night-2026-10.png",
+    "thumbnail_kind": "原站 Open Graph 图，未视觉核验"
+  },
+  {
+    "name": "EnduroSat：卫星服务叙事",
+    "url": "https://www.endurosat.com/space-service/",
+    "platform": "独立站",
+    "category": "品牌与产品界面",
+    "tags": [
+      "科技硬件",
+      "卫星",
+      "滚动叙事"
+    ],
+    "description": "卫星服务页面围绕任务设计、载荷集成、发射与运行组织内容；官方获奖资料说明采用 WebGL。",
+    "kind": "网站",
+    "evidence_url": "https://thefwa.com/cases/endurosat-space-service",
+    "verification": "candidate：官方来源与 HTTP 内容核查；未进行浏览器主体、交互或播放核验",
+    "checked_at": "2026-11-03",
+    "http_status": 200,
+    "http_final_url": "https://www.endurosat.com/space-service/",
+    "source_title": "Space Service – Satellite Mission Design, Launch & Operations",
+    "source_content_evidence": "卫星服务页面围绕任务设计、载荷集成、发射与运行组织内容；官方获奖资料说明采用 WebGL。",
+    "review_status": "candidate",
+    "browser_verified": false,
+    "browser_audit_focus": "滚动完整任务段落，尝试页面 Drag 提示对应的模型交互。",
+    "access_notes": "来源研究候选；已读取原站 HTML 与官方项目资料，尚需浏览器加载主体并实际操作。GET 200 不代表视觉或交互通过。",
+    "license_note": "仅作视觉参考；素材或代码复用须另查作者许可。",
+    "source_api_url": "https://thefwa.com/api/cases/endurosat-space-service",
+    "award_evidence": [
+      {
+        "id": 12128,
+        "awardedDate": "2026-10-12",
+        "awardFor": "2026-10-12",
+        "type": "FOTD",
+        "name": "FWA of the Day"
+      }
+    ],
+    "author": "60fps",
+    "thumbnail_url": "https://www.endurosat.com/wp-content/uploads/2025/01/3-We-covered-it-all-Satellite-assembly.webp",
+    "thumbnail_kind": "原站 Open Graph 图，未视觉核验"
+  },
+  {
+    "name": "Carter Ogunsola：印刷工坊作品集",
+    "url": "https://carterogunsola.com/",
+    "platform": "独立站",
+    "category": "作品集与展示",
+    "tags": [
+      "拟物",
+      "作品集",
+      "排版"
+    ],
+    "description": "作者将作品集设计成印刷物：项目轮盘、悬挂证件和书信分别承担不同页面功能。",
+    "kind": "网站",
+    "evidence_url": "https://thefwa.com/cases/carter-ogunsola-portfolio-2026",
+    "verification": "candidate：官方来源与 HTTP 内容核查；未进行浏览器主体、交互或播放核验",
+    "checked_at": "2026-11-03",
+    "http_status": 200,
+    "http_final_url": "https://carterogunsola.com/",
+    "source_title": "Carter Ogunsola :: Creative Developer & Brand Engineer",
+    "source_content_evidence": "作者将作品集设计成印刷物：项目轮盘、悬挂证件和书信分别承担不同页面功能。",
+    "review_status": "candidate",
+    "browser_verified": false,
+    "browser_audit_focus": "转动首页项目轮盘并打开项目；检查证件页，联系页只观察不发送。",
+    "access_notes": "来源研究候选；已读取原站 HTML 与官方项目资料，尚需浏览器加载主体并实际操作。GET 200 不代表视觉或交互通过。",
+    "license_note": "仅作视觉参考；素材或代码复用须另查作者许可。",
+    "source_api_url": "https://thefwa.com/api/cases/carter-ogunsola-portfolio-2026",
+    "award_evidence": [
+      {
+        "id": 12127,
+        "awardedDate": "2026-10-11",
+        "awardFor": "2026-10-11",
+        "type": "FOTD",
+        "name": "FWA of the Day"
+      }
+    ],
+    "author": "Carter Ogunsola",
+    "thumbnail_url": "https://carterogunsola.com/og/section/home.jpg",
+    "thumbnail_kind": "原站 Open Graph 图，未视觉核验"
+  },
+  {
+    "name": "Thomas Gertenbach：照片桌面作品集",
+    "url": "https://thomasgertenbach.com/",
+    "platform": "独立站",
+    "category": "作品集与展示",
+    "tags": [
+      "照片",
+      "拖拽",
+      "WebGPU"
+    ],
+    "description": "作品集以俯视石膏桌面与可拿起的照片组织项目，项目说明包含投影式影片呈现。",
+    "kind": "网站",
+    "evidence_url": "https://thefwa.com/cases/thomas-gertenbach-portfolio",
+    "verification": "candidate：官方来源与 HTTP 内容核查；未进行浏览器主体、交互或播放核验",
+    "checked_at": "2026-11-03",
+    "http_status": 200,
+    "http_final_url": "https://thomasgertenbach.com/",
+    "source_title": "Thomas Gertenbach — Creative Developer",
+    "source_content_evidence": "作品集以俯视石膏桌面与可拿起的照片组织项目，项目说明包含投影式影片呈现。",
+    "review_status": "candidate",
+    "browser_verified": false,
+    "browser_audit_focus": "拿起照片、放入展示区域，观察投影与关闭操作；确认 WebGPU 条件。",
+    "access_notes": "来源研究候选；已读取原站 HTML 与官方项目资料，尚需浏览器加载主体并实际操作。GET 200 不代表视觉或交互通过。 页面或项目资料包含 WebGPU 条件；须核查当前浏览器支持与完整渲染。",
+    "license_note": "仅作视觉参考；素材或代码复用须另查作者许可。",
+    "source_api_url": "https://thefwa.com/api/cases/thomas-gertenbach-portfolio",
+    "award_evidence": [
+      {
+        "id": 12126,
+        "awardedDate": "2026-10-10",
+        "awardFor": "2026-10-10",
+        "type": "FOTD",
+        "name": "FWA of the Day"
+      }
+    ],
+    "author": "Thomas Gertenbach",
+    "thumbnail_url": "https://thomasgertenbach.com/opengraph-image.jpg",
+    "thumbnail_kind": "原站 Open Graph 图，未视觉核验"
+  },
+  {
+    "name": "FunTech Creativity：角色互动场景",
+    "url": "https://experience2026.funtech.inc/",
+    "platform": "独立站",
+    "category": "游戏与交互体验",
+    "tags": [
+      "角色",
+      "3D",
+      "声音"
+    ],
+    "description": "FunTech 的年度展示用官方角色连接十个实时三维场景，并提供展示影片入口。",
+    "kind": "在线演示",
+    "evidence_url": "https://thefwa.com/cases/experience-funtech-creativity",
+    "verification": "candidate：官方来源与 HTTP 内容核查；未进行浏览器主体、交互或播放核验",
+    "checked_at": "2026-11-03",
+    "http_status": 200,
+    "http_final_url": "https://experience2026.funtech.inc/",
+    "source_title": "EXPERIENCE FUNTECH CREATIVITY",
+    "source_content_evidence": "FunTech 的年度展示用官方角色连接十个实时三维场景，并提供展示影片入口。",
+    "review_status": "candidate",
+    "browser_verified": false,
+    "browser_audit_focus": "实际进入多个场景并执行对应操作，区分实时体验与影片模式。",
+    "access_notes": "来源研究候选；已读取原站 HTML 与官方项目资料，尚需浏览器加载主体并实际操作。GET 200 不代表视觉或交互通过。 页面或项目资料包含 WebGPU 条件；须核查当前浏览器支持与完整渲染。",
+    "license_note": "仅作视觉参考；素材或代码复用须另查作者许可。",
+    "source_api_url": "https://thefwa.com/api/cases/experience-funtech-creativity",
+    "award_evidence": [
+      {
+        "id": 12125,
+        "awardedDate": "2026-10-09",
+        "awardFor": "2026-10-09",
+        "type": "FOTD",
+        "name": "FWA of the Day"
+      }
+    ],
+    "author": "FunTech Inc.",
+    "thumbnail_url": "https://experience2026.funtech.inc/ogp.jpg",
+    "thumbnail_kind": "原站 Open Graph 图，未视觉核验"
+  },
+  {
+    "name": "INHERITED：乐队数字世界",
+    "url": "https://inherited.band/",
+    "platform": "独立站",
+    "category": "品牌与产品界面",
+    "tags": [
+      "音乐",
+      "暗色",
+      "排版"
+    ],
+    "description": "乐队官网将成员、唱片与乐队介绍整合到带互动表现的音乐品牌界面。",
+    "kind": "网站",
+    "evidence_url": "https://thefwa.com/cases/inherited",
+    "verification": "candidate：官方来源与 HTTP 内容核查；未进行浏览器主体、交互或播放核验",
+    "checked_at": "2026-11-03",
+    "http_status": 200,
+    "http_final_url": "https://inherited.band/",
+    "source_title": "INHERITED",
+    "source_content_evidence": "乐队官网将成员、唱片与乐队介绍整合到带互动表现的音乐品牌界面。",
+    "review_status": "candidate",
+    "browser_verified": false,
+    "browser_audit_focus": "打开菜单、成员与唱片页面，确认实际转场与媒体呈现。",
+    "access_notes": "来源研究候选；已读取原站 HTML 与官方项目资料，尚需浏览器加载主体并实际操作。GET 200 不代表视觉或交互通过。",
+    "license_note": "仅作视觉参考；素材或代码复用须另查作者许可。",
+    "source_api_url": "https://thefwa.com/api/cases/inherited",
+    "award_evidence": [
+      {
+        "id": 12121,
+        "awardedDate": "2026-10-05",
+        "awardFor": "2026-10-05",
+        "type": "FOTD",
+        "name": "FWA of the Day"
+      }
+    ],
+    "author": "Eder Anaya / Jorge Toloza",
+    "thumbnail_url": "https://inherited.band/img/share.jpg",
+    "thumbnail_kind": "原站 Open Graph 图，未视觉核验"
+  },
+  {
+    "name": "KINORIA：胶片相机概念界面",
+    "url": "https://kinoria.studio/",
+    "platform": "独立站",
+    "category": "品牌与产品界面",
+    "tags": [
+      "科技硬件",
+      "相机",
+      "拟物"
+    ],
+    "description": "机械胶片相机的交互概念网站，官方描述包含选胶卷、取景、拍摄四张照片与冲洗归档。",
+    "kind": "网站",
+    "evidence_url": "https://thefwa.com/cases/kinoria",
+    "verification": "candidate：官方来源与 HTTP 内容核查；未进行浏览器主体、交互或播放核验",
+    "checked_at": "2026-11-03",
+    "http_status": 200,
+    "http_final_url": "https://kinoria.studio/",
+    "source_title": "KINORIA",
+    "source_content_evidence": "机械胶片相机的交互概念网站，官方描述包含选胶卷、取景、拍摄四张照片与冲洗归档。",
+    "review_status": "candidate",
+    "browser_verified": false,
+    "browser_audit_focus": "选胶卷并完整拍摄一卷，查看冲洗和归档；这不是在售相机的官方产品保证。",
+    "access_notes": "来源研究候选；已读取原站 HTML 与官方项目资料，尚需浏览器加载主体并实际操作。GET 200 不代表视觉或交互通过。 概念/技术演示，不将界面中的产品参数当作量产承诺。",
+    "license_note": "仅作视觉参考；素材或代码复用须另查作者许可。",
+    "source_api_url": "https://thefwa.com/api/cases/kinoria",
+    "award_evidence": [
+      {
+        "id": 12120,
+        "awardedDate": "2026-10-04",
+        "awardFor": "2026-10-04",
+        "type": "FOTD",
+        "name": "FWA of the Day"
+      }
+    ],
+    "author": "Seunghyuk Kim",
+    "thumbnail_url": "https://kinoria.studio/kinoria-og.jpg",
+    "thumbnail_kind": "原站 Open Graph 图，未视觉核验"
+  },
+  {
+    "name": "Cyera AI Guardian：安全主题游戏界面",
+    "url": "https://secure-the-unknown.cyera.com/",
+    "platform": "独立站",
+    "category": "游戏与交互体验",
+    "tags": [
+      "科技",
+      "关卡",
+      "导航"
+    ],
+    "description": "安全产品微站以飞船与三个星球关卡呈现 Discover、Govern、Protect 三个主题。",
+    "kind": "在线演示",
+    "evidence_url": "https://thefwa.com/cases/cyera-ai-guardian",
+    "verification": "candidate：官方来源与 HTTP 内容核查；未进行浏览器主体、交互或播放核验",
+    "checked_at": "2026-11-03",
+    "http_status": 200,
+    "http_final_url": "https://secure-the-unknown.cyera.com/",
+    "source_title": "Cyera AI Guardian | Secure the Unknown",
+    "source_content_evidence": "安全产品微站以飞船与三个星球关卡呈现 Discover、Govern、Protect 三个主题。",
+    "review_status": "candidate",
+    "browser_verified": false,
+    "browser_audit_focus": "进入关卡并完成至少一种小游戏，观察进度、导航和退出反馈。",
+    "access_notes": "来源研究候选；已读取原站 HTML 与官方项目资料，尚需浏览器加载主体并实际操作。GET 200 不代表视觉或交互通过。",
+    "license_note": "仅作视觉参考；素材或代码复用须另查作者许可。",
+    "source_api_url": "https://thefwa.com/api/cases/cyera-ai-guardian",
+    "award_evidence": [
+      {
+        "id": 12114,
+        "awardedDate": "2026-09-29",
+        "awardFor": "2026-09-29",
+        "type": "FOTD",
+        "name": "FWA of the Day"
+      }
+    ],
+    "author": "Active Theory",
+    "thumbnail_url": "https://secure-the-unknown.cyera.com/assets/social/og.png",
+    "thumbnail_kind": "原站 Open Graph 图，未视觉核验"
+  },
+  {
+    "name": "Agrumea Farm：西西里农场食品界面",
+    "url": "https://www.agrumeafarm.it/en",
+    "platform": "独立站",
+    "category": "品牌与产品界面",
+    "tags": [
+      "餐饮",
+      "食品",
+      "3D"
+    ],
+    "description": "果酱与调味食品品牌网站结合产地故事、食品产品与三维呈现。",
+    "kind": "网站",
+    "evidence_url": "https://thefwa.com/cases/agrumea-farm",
+    "verification": "candidate：官方来源与 HTTP 内容核查；未进行浏览器主体、交互或播放核验",
+    "checked_at": "2026-11-03",
+    "http_status": 200,
+    "http_final_url": "https://www.agrumeafarm.it/en",
+    "source_title": "Agrumea Farm | Jams, pestos and flavours of Sicily",
+    "source_content_evidence": "果酱与调味食品品牌网站结合产地故事、食品产品与三维呈现。",
+    "review_status": "candidate",
+    "browser_verified": false,
+    "browser_audit_focus": "完整滚动并打开 Pantry/菜单，核查商品展示和转场。",
+    "access_notes": "来源研究候选；已读取原站 HTML 与官方项目资料，尚需浏览器加载主体并实际操作。GET 200 不代表视觉或交互通过。",
+    "license_note": "仅作视觉参考；素材或代码复用须另查作者许可。",
+    "source_api_url": "https://thefwa.com/api/cases/agrumea-farm",
+    "award_evidence": [
+      {
+        "id": 12112,
+        "awardedDate": "2026-09-27",
+        "awardFor": "2026-09-27",
+        "type": "FOTD",
+        "name": "FWA of the Day"
+      }
+    ],
+    "author": "Studio K95",
+    "thumbnail_url": "https://images.prismic.io/agrumea-site/aiF5XQeQX7-eWvFc_foto_result.webp?auto=format,compress&rect=0,216,1920,1008&w=2400&h=1260",
+    "thumbnail_kind": "原站 Open Graph 图，未视觉核验"
+  },
+  {
+    "name": "No Mercy Michel：竞技场互动",
+    "url": "https://no.merci-michel.com/",
+    "platform": "独立站",
+    "category": "游戏与交互体验",
+    "tags": [
+      "游戏",
+      "竞技场",
+      "交互"
+    ],
+    "description": "Merci Michel 的独立竞技场体验，原站邀请访客进入战斗。",
+    "kind": "在线演示",
+    "evidence_url": "https://thefwa.com/cases/no-mercy-michel",
+    "verification": "candidate：官方来源与 HTTP 内容核查；未进行浏览器主体、交互或播放核验",
+    "checked_at": "2026-11-03",
+    "http_status": 200,
+    "http_final_url": "https://no.merci-michel.com/",
+    "source_title": "No Mercy Michel",
+    "source_content_evidence": "Merci Michel 的独立竞技场体验，原站邀请访客进入战斗。",
+    "review_status": "candidate",
+    "browser_verified": false,
+    "browser_audit_focus": "进入竞技场，操作角色并检查 HUD、失败和重新开始。",
+    "access_notes": "来源研究候选；已读取原站 HTML 与官方项目资料，尚需浏览器加载主体并实际操作。GET 200 不代表视觉或交互通过。",
+    "license_note": "仅作视觉参考；素材或代码复用须另查作者许可。",
+    "source_api_url": "https://thefwa.com/api/cases/no-mercy-michel",
+    "award_evidence": [
+      {
+        "id": 12111,
+        "awardedDate": "2026-09-26",
+        "awardFor": "2026-09-26",
+        "type": "FOTD",
+        "name": "FWA of the Day"
+      }
+    ],
+    "author": "Merci-Michel",
+    "thumbnail_url": "https://mm-10years.web.app/share/share_en.png?v=f43afb65",
+    "thumbnail_kind": "原站 Open Graph 图，未视觉核验"
+  },
+  {
+    "name": "Every Neuron：神经网络探索界面",
+    "url": "https://www.everyneuron.com/",
+    "platform": "独立站",
+    "category": "数据可视化",
+    "tags": [
+      "网络",
+      "科学",
+      "3D"
+    ],
+    "description": "项目以果蝇神经系统连接图为数据对象，官方资料列出可实时浏览的细胞网络。",
+    "kind": "在线演示",
+    "evidence_url": "https://thefwa.com/cases/every-neuron",
+    "verification": "candidate：官方来源与 HTTP 内容核查；未进行浏览器主体、交互或播放核验",
+    "checked_at": "2026-11-03",
+    "http_status": 200,
+    "http_final_url": "https://www.everyneuron.com/",
+    "source_title": "Every neuron",
+    "source_content_evidence": "项目以果蝇神经系统连接图为数据对象，官方资料列出可实时浏览的细胞网络。",
+    "review_status": "candidate",
+    "browser_verified": false,
+    "browser_audit_focus": "打开探索器、缩放和选择节点，核查标签、网络反馈与数据出处；不评价医学结论。",
+    "access_notes": "来源研究候选；已读取原站 HTML 与官方项目资料，尚需浏览器加载主体并实际操作。GET 200 不代表视觉或交互通过。",
+    "license_note": "仅作视觉参考；素材或代码复用须另查作者许可。",
+    "source_api_url": "https://thefwa.com/api/cases/every-neuron",
+    "award_evidence": [
+      {
+        "id": 12105,
+        "awardedDate": "2026-09-20",
+        "awardFor": "2026-09-20",
+        "type": "FOTD",
+        "name": "FWA of the Day"
+      }
+    ],
+    "author": "Federico Guardabrazo",
+    "thumbnail_url": "https://everyneuron.com/stills/og-hero.jpg",
+    "thumbnail_kind": "原站 Open Graph 图，未视觉核验"
+  },
+  {
+    "name": "A24：三维唱片式电影目录概念",
+    "url": "https://a24.raviklaassens.com/",
+    "platform": "独立站",
+    "category": "画廊与导航",
+    "tags": [
+      "电影",
+      "3D",
+      "目录"
+    ],
+    "description": "非商业实验作品以三维碟片形式重组 A24 电影目录；不是 A24 官方网站。",
+    "kind": "网站",
+    "evidence_url": "https://thefwa.com/cases/a24",
+    "verification": "candidate：官方来源与 HTTP 内容核查；未进行浏览器主体、交互或播放核验",
+    "checked_at": "2026-11-03",
+    "http_status": 200,
+    "http_final_url": "https://a24.raviklaassens.com/",
+    "source_title": "A24 — Films",
+    "source_content_evidence": "非商业实验作品以三维碟片形式重组 A24 电影目录；不是 A24 官方网站。",
+    "review_status": "candidate",
+    "browser_verified": false,
+    "browser_audit_focus": "旋转或切换目录并打开电影详情，检查媒体展示和返回路径。",
+    "access_notes": "来源研究候选；已读取原站 HTML 与官方项目资料，尚需浏览器加载主体并实际操作。GET 200 不代表视觉或交互通过。 非商业个人重设计，非 A24 官方作品。",
+    "license_note": "仅作视觉参考；素材或代码复用须另查作者许可。",
+    "source_api_url": "https://thefwa.com/api/cases/a24",
+    "award_evidence": [
+      {
+        "id": 12102,
+        "awardedDate": "2026-09-17",
+        "awardFor": "2026-09-17",
+        "type": "FOTD",
+        "name": "FWA of the Day"
+      }
+    ],
+    "author": "Ravi Klaassens",
+    "thumbnail_url": "https://a24.raviklaassens.com/images/a24thumb.png",
+    "thumbnail_kind": "原站 Open Graph 图，未视觉核验"
+  },
+  {
+    "name": "Superlocal 2025：设计大会界面",
+    "url": "https://2025.superlocaldesign.com/",
+    "platform": "独立站",
+    "category": "品牌与产品界面",
+    "tags": [
+      "文化",
+      "活动",
+      "排版"
+    ],
+    "description": "乌拉圭设计大会的年度页面，包含讲者阵容、活动时间表与视觉章节。",
+    "kind": "网站",
+    "evidence_url": "https://thefwa.com/cases/superlocal",
+    "verification": "candidate：官方来源与 HTTP 内容核查；未进行浏览器主体、交互或播放核验",
+    "checked_at": "2026-11-03",
+    "http_status": 200,
+    "http_final_url": "https://2025.superlocaldesign.com/",
+    "source_title": "Superlocal",
+    "source_content_evidence": "乌拉圭设计大会的年度页面，包含讲者阵容、活动时间表与视觉章节。",
+    "review_status": "candidate",
+    "browser_verified": false,
+    "browser_audit_focus": "查看阵容、时间表与菜单；历史活动预约不作为必测功能。",
+    "access_notes": "来源研究候选；已读取原站 HTML 与官方项目资料，尚需浏览器加载主体并实际操作。GET 200 不代表视觉或交互通过。",
+    "license_note": "仅作视觉参考；素材或代码复用须另查作者许可。",
+    "source_api_url": "https://thefwa.com/api/cases/superlocal",
+    "award_evidence": [
+      {
+        "id": 12093,
+        "awardedDate": "2026-09-08",
+        "awardFor": "2026-09-08",
+        "type": "FOTD",
+        "name": "FWA of the Day"
+      }
+    ],
+    "author": "++hellohello",
+    "thumbnail_url": "https://framerusercontent.com/images/NOWMsGjGpkRvMfubcqAQZ0yDbo.png",
+    "thumbnail_kind": "原站 Open Graph 图，未视觉核验"
+  },
+  {
+    "name": "Aevion：无人机点云产品演示",
+    "url": "https://drone.riotters.com/",
+    "platform": "独立站",
+    "category": "品牌与产品界面",
+    "tags": [
+      "科技硬件",
+      "点云",
+      "3D"
+    ],
+    "description": "Riotters 的无人机技术演示，将 LiDAR 扫描与硬件产品说明组织为三维页面。",
+    "kind": "网站",
+    "evidence_url": "https://thefwa.com/cases/lidar-drone-scanning",
+    "verification": "candidate：官方来源与 HTTP 内容核查；未进行浏览器主体、交互或播放核验",
+    "checked_at": "2026-11-03",
+    "http_status": 200,
+    "http_final_url": "https://drone.riotters.com/",
+    "source_title": "Aevion — autonomous LiDAR inspection drone",
+    "source_content_evidence": "Riotters 的无人机技术演示，将 LiDAR 扫描与硬件产品说明组织为三维页面。",
+    "review_status": "candidate",
+    "browser_verified": false,
+    "browser_audit_focus": "滚动硬件章节，检查模型和点云切换；保留技术演示身份。",
+    "access_notes": "来源研究候选；已读取原站 HTML 与官方项目资料，尚需浏览器加载主体并实际操作。GET 200 不代表视觉或交互通过。 概念/技术演示，不将界面中的产品参数当作量产承诺。",
+    "license_note": "仅作视觉参考；素材或代码复用须另查作者许可。",
+    "source_api_url": "https://thefwa.com/api/cases/lidar-drone-scanning",
+    "award_evidence": [
+      {
+        "id": 12092,
+        "awardedDate": "2026-09-07",
+        "awardFor": "2026-09-07",
+        "type": "FOTD",
+        "name": "FWA of the Day"
+      }
+    ],
+    "author": "Riotters",
+    "thumbnail_url": "https://drone.riotters.com/opengraph-image.png?opengraph-image.f40b0b62.png",
+    "thumbnail_kind": "原站 Open Graph 图，未视觉核验"
+  },
+  {
+    "name": "Squarespace Foundations：动态品牌系统",
+    "url": "https://brand.squarespace.com/",
+    "platform": "独立站",
+    "category": "品牌与产品界面",
+    "tags": [
+      "品牌系统",
+      "字体",
+      "动效"
+    ],
+    "description": "Squarespace 官方品牌系统网站设有 Logo、字体、色彩、摄影、Campaign 与 Motion 六章。",
+    "kind": "网站",
+    "evidence_url": "https://thefwa.com/cases/squarespace-foundations",
+    "verification": "candidate：官方来源与 HTTP 内容核查；未进行浏览器主体、交互或播放核验",
+    "checked_at": "2026-11-03",
+    "http_status": 200,
+    "http_final_url": "https://brand.squarespace.com/",
+    "source_title": "Squarespace Foundations | Squarespace Foundations",
+    "source_content_evidence": "Squarespace 官方品牌系统网站设有 Logo、字体、色彩、摄影、Campaign 与 Motion 六章。",
+    "review_status": "candidate",
+    "browser_verified": false,
+    "browser_audit_focus": "逐章切换并检查字体、颜色和动效实例；不是通用素材目录。",
+    "access_notes": "来源研究候选；已读取原站 HTML 与官方项目资料，尚需浏览器加载主体并实际操作。GET 200 不代表视觉或交互通过。",
+    "license_note": "仅作视觉参考；素材或代码复用须另查作者许可。",
+    "source_api_url": "https://thefwa.com/api/cases/squarespace-foundations",
+    "award_evidence": [
+      {
+        "id": 12087,
+        "awardedDate": "2026-09-02",
+        "awardFor": "2026-09-02",
+        "type": "FOTD",
+        "name": "FWA of the Day"
+      }
+    ],
+    "author": "Resn / Squarespace",
+    "thumbnail_url": "https://brand.squarespace.com/og.gif",
+    "thumbnail_kind": "原站 Open Graph 图，未视觉核验"
+  },
+  {
+    "name": "Order & Chaos：实验排版样本",
+    "url": "https://ordernchaos.aiziza.com/",
+    "platform": "独立站",
+    "category": "文字与排版",
+    "tags": [
+      "网格",
+      "极简",
+      "排版"
+    ],
+    "description": "一组限定网格、字体与色彩的极简排版实验，页面提供三个具体样本。",
+    "kind": "在线演示",
+    "evidence_url": "https://thefwa.com/cases/order-chaos",
+    "verification": "candidate：官方来源与 HTTP 内容核查；未进行浏览器主体、交互或播放核验",
+    "checked_at": "2026-11-03",
+    "http_status": 200,
+    "http_final_url": "https://ordernchaos.aiziza.com/",
+    "source_title": "Order & Chaos",
+    "source_content_evidence": "一组限定网格、字体与色彩的极简排版实验，页面提供三个具体样本。",
+    "review_status": "candidate",
+    "browser_verified": false,
+    "browser_audit_focus": "依次打开三个样本，记录实际布局变化与操作。",
+    "access_notes": "来源研究候选；已读取原站 HTML 与官方项目资料，尚需浏览器加载主体并实际操作。GET 200 不代表视觉或交互通过。",
+    "license_note": "仅作视觉参考；素材或代码复用须另查作者许可。",
+    "source_api_url": "https://thefwa.com/api/cases/order-chaos",
+    "award_evidence": [
+      {
+        "id": 12084,
+        "awardedDate": "2026-08-31",
+        "awardFor": "2026-08-31",
+        "type": "FOTD",
+        "name": "FWA of the Day"
+      }
+    ],
+    "author": "AIZIZA",
+    "thumbnail_url": "https://ordernchaos.aiziza.com/logo192.png",
+    "thumbnail_kind": "原站 Open Graph 图，未视觉核验"
+  },
+  {
+    "name": "Colonia Zacamil：公共艺术街区",
+    "url": "https://coloniazacamil.com/",
+    "platform": "独立站",
+    "category": "画廊与导航",
+    "tags": [
+      "文化",
+      "壁画",
+      "地图"
+    ],
+    "description": "公共艺术与社区共创项目，用独立作品条目展示街区中的艺术内容。",
+    "kind": "网站",
+    "evidence_url": "https://thefwa.com/cases/colonia-zacamil",
+    "verification": "candidate：官方来源与 HTTP 内容核查；未进行浏览器主体、交互或播放核验",
+    "checked_at": "2026-11-03",
+    "http_status": 200,
+    "http_final_url": "https://coloniazacamil.com/",
+    "source_title": "Colonia Zacamil",
+    "source_content_evidence": "公共艺术与社区共创项目，用独立作品条目展示街区中的艺术内容。",
+    "review_status": "candidate",
+    "browser_verified": false,
+    "browser_audit_focus": "打开多件壁画作品，核查空间导航、图集与作品信息。",
+    "access_notes": "来源研究候选；已读取原站 HTML 与官方项目资料，尚需浏览器加载主体并实际操作。GET 200 不代表视觉或交互通过。",
+    "license_note": "仅作视觉参考；素材或代码复用须另查作者许可。",
+    "source_api_url": "https://thefwa.com/api/cases/colonia-zacamil",
+    "award_evidence": [
+      {
+        "id": 12081,
+        "awardedDate": "2026-08-28",
+        "awardFor": "2026-08-28",
+        "type": "FOTD",
+        "name": "FWA of the Day"
+      }
+    ],
+    "author": "Adoratorio Studio / 60fps"
+  },
+  {
+    "name": "Overworld Audio：声音项目地图",
+    "url": "https://overworldaudio.com/",
+    "platform": "独立站",
+    "category": "音频可视化",
+    "tags": [
+      "地图",
+      "音乐",
+      "项目展示"
+    ],
+    "description": "游戏声音工作室把作品组织成可拖动或滚动的地图，页面明确提示点击标记探索项目。",
+    "kind": "在线演示",
+    "evidence_url": "https://thefwa.com/cases/overworld-audio",
+    "verification": "candidate：官方来源与 HTTP 内容核查；未进行浏览器主体、交互或播放核验",
+    "checked_at": "2026-11-03",
+    "http_status": 200,
+    "http_final_url": "https://overworldaudio.com/",
+    "source_title": "Overworld Audio",
+    "source_content_evidence": "游戏声音工作室把作品组织成可拖动或滚动的地图，页面明确提示点击标记探索项目。",
+    "review_status": "candidate",
+    "browser_verified": false,
+    "browser_audit_focus": "拖动地图并打开多个标记，检查媒体播放与声音开关。",
+    "access_notes": "来源研究候选；已读取原站 HTML 与官方项目资料，尚需浏览器加载主体并实际操作。GET 200 不代表视觉或交互通过。",
+    "license_note": "仅作视觉参考；素材或代码复用须另查作者许可。",
+    "source_api_url": "https://thefwa.com/api/cases/overworld-audio",
+    "award_evidence": [
+      {
+        "id": 12080,
+        "awardedDate": "2026-08-27",
+        "awardFor": "2026-08-27",
+        "type": "FOTD",
+        "name": "FWA of the Day"
+      }
+    ],
+    "author": "Rogier de Boevé",
+    "thumbnail_url": "https://overworldaudio.com/cms/7e26c8ca614e1c4de677e7a6951d0d634b91b9af-og.jpg",
+    "thumbnail_kind": "原站 Open Graph 图，未视觉核验"
+  },
+  {
+    "name": "Seunghyuk Kim：点线面连续作品空间",
+    "url": "https://seunghyuk.com/",
+    "platform": "独立站",
+    "category": "作品集与展示",
+    "tags": [
+      "粒子",
+      "排版",
+      "空间转场"
+    ],
+    "description": "平面设计师作品集将关键词、作品与退出过程组织为连续空间和点线面变化。",
+    "kind": "网站",
+    "evidence_url": "https://thefwa.com/cases/well-dots-lines-planes",
+    "verification": "candidate：官方来源与 HTTP 内容核查；未进行浏览器主体、交互或播放核验",
+    "checked_at": "2026-11-03",
+    "http_status": 200,
+    "http_final_url": "https://seunghyuk.com/",
+    "source_title": "Seunghyuk Kim — Graphic Designer",
+    "source_content_evidence": "平面设计师作品集将关键词、作品与退出过程组织为连续空间和点线面变化。",
+    "review_status": "candidate",
+    "browser_verified": false,
+    "browser_audit_focus": "进入作品再退出，核查项目内容、粒子转场与返回导航。",
+    "access_notes": "来源研究候选；已读取原站 HTML 与官方项目资料，尚需浏览器加载主体并实际操作。GET 200 不代表视觉或交互通过。",
+    "license_note": "仅作视觉参考；素材或代码复用须另查作者许可。",
+    "source_api_url": "https://thefwa.com/api/cases/well-dots-lines-planes",
+    "award_evidence": [
+      {
+        "id": 12078,
+        "awardedDate": "2026-08-25",
+        "awardFor": "2026-08-25",
+        "type": "FOTD",
+        "name": "FWA of the Day"
+      }
+    ],
+    "author": "Seunghyuk Kim",
+    "thumbnail_url": "https://seunghyuk.com/og.png",
+    "thumbnail_kind": "原站 Open Graph 图，未视觉核验"
+  },
+  {
+    "name": "TILToooTILT：服装与重力互动",
+    "url": "https://tiltoootilt.tote.co.jp/",
+    "platform": "独立站",
+    "category": "游戏与交互体验",
+    "tags": [
+      "时尚",
+      "声音",
+      "物理动效"
+    ],
+    "description": "时尚主题互动页面以物体重量、指针倾斜与声音组织视觉体验。",
+    "kind": "在线演示",
+    "evidence_url": "https://thefwa.com/cases/tiltoootilt-everything-has-weight",
+    "verification": "candidate：官方来源与 HTTP 内容核查；未进行浏览器主体、交互或播放核验",
+    "checked_at": "2026-11-03",
+    "http_status": 200,
+    "http_final_url": "https://tiltoootilt.tote.co.jp/",
+    "source_title": "TILToooTILT — Everything Has Weight",
+    "source_content_evidence": "时尚主题互动页面以物体重量、指针倾斜与声音组织视觉体验。",
+    "review_status": "candidate",
+    "browser_verified": false,
+    "browser_audit_focus": "移动指针、倾斜场景并操作物件，确认成品视觉与声音反馈。",
+    "access_notes": "来源研究候选；已读取原站 HTML 与官方项目资料，尚需浏览器加载主体并实际操作。GET 200 不代表视觉或交互通过。",
+    "license_note": "仅作视觉参考；素材或代码复用须另查作者许可。",
+    "source_api_url": "https://thefwa.com/api/cases/tiltoootilt-everything-has-weight",
+    "award_evidence": [
+      {
+        "id": 12070,
+        "awardedDate": "2026-08-17",
+        "awardFor": "2026-08-17",
+        "type": "FOTD",
+        "name": "FWA of the Day"
+      }
+    ],
+    "author": "tote-webdesign",
+    "thumbnail_url": "https://tiltoootilt.tote.co.jp/ogp.png",
+    "thumbnail_kind": "原站 Open Graph 图，未视觉核验"
+  },
+  {
+    "name": "Ceramic Beats：陶瓷音色序列器",
+    "url": "https://ceramic-beats.zui.ooo/",
+    "platform": "独立站",
+    "category": "音频可视化",
+    "tags": [
+      "文化",
+      "序列器",
+      "网格"
+    ],
+    "description": "将大都会艺术博物馆开放陶瓷藏品组织为节奏序列器；页面有速度、预设、重排与节拍保存。",
+    "kind": "在线演示",
+    "evidence_url": "https://thefwa.com/cases/ceramicbeats",
+    "verification": "candidate：官方来源与 HTTP 内容核查；未进行浏览器主体、交互或播放核验",
+    "checked_at": "2026-11-03",
+    "http_status": 200,
+    "http_final_url": "https://ceramic-beats.zui.ooo/",
+    "source_title": "Ceramic Beats — a sequencer of Met ceramics",
+    "source_content_evidence": "将大都会艺术博物馆开放陶瓷藏品组织为节奏序列器；页面有速度、预设、重排与节拍保存。",
+    "review_status": "candidate",
+    "browser_verified": false,
+    "browser_audit_focus": "点选格子并播放，修改速度与预设，检查音频和节拍高亮。",
+    "access_notes": "来源研究候选；已读取原站 HTML 与官方项目资料，尚需浏览器加载主体并实际操作。GET 200 不代表视觉或交互通过。",
+    "license_note": "仅作视觉参考；素材或代码复用须另查作者许可。",
+    "source_api_url": "https://thefwa.com/api/cases/ceramicbeats",
+    "award_evidence": [
+      {
+        "id": 12107,
+        "awardedDate": "2026-09-22",
+        "awardFor": "2026-09-22",
+        "type": "FOTD",
+        "name": "FWA of the Day"
+      }
+    ],
+    "author": "Zui Chen"
+  },
+  {
+    "name": "La Revoltosa：复古汽水滚动界面",
+    "url": "https://larevoltosa.es/",
+    "platform": "独立站",
+    "category": "品牌与产品界面",
+    "tags": [
+      "饮料",
+      "复古",
+      "滚动叙事"
+    ],
+    "description": "西班牙汽水品牌以三维产品、插画与滚动叙事重述品牌历史。",
+    "kind": "网站",
+    "evidence_url": "https://thefwa.com/cases/la-revoltosa-p2",
+    "verification": "candidate：官方来源与 HTTP 内容核查；未进行浏览器主体、交互或播放核验",
+    "checked_at": "2026-11-03",
+    "http_status": 200,
+    "http_final_url": "https://larevoltosa.es/",
+    "source_title": "La Revoltosa | La burbuja Ibérica",
+    "source_content_evidence": "西班牙汽水品牌以三维产品、插画与滚动叙事重述品牌历史。",
+    "review_status": "candidate",
+    "browser_verified": false,
+    "browser_audit_focus": "滚动品牌故事并切换饮料，检查产品模型、菜单和图文过渡。",
+    "access_notes": "来源研究候选；已读取原站 HTML 与官方项目资料，尚需浏览器加载主体并实际操作。GET 200 不代表视觉或交互通过。",
+    "license_note": "仅作视觉参考；素材或代码复用须另查作者许可。",
+    "source_api_url": "https://thefwa.com/api/cases/la-revoltosa-p2",
+    "award_evidence": [
+      {
+        "id": 12103,
+        "awardedDate": "2026-09-18",
+        "awardFor": "2026-09-18",
+        "type": "FOTD",
+        "name": "FWA of the Day"
+      }
+    ],
+    "author": "WAKA"
+  },
+  {
+    "name": "Spyker Cars：手工跑车数字体验",
+    "url": "https://spykercars.com/",
+    "platform": "独立站",
+    "category": "品牌与产品界面",
+    "tags": [
+      "汽车",
+      "科技硬件",
+      "叙事"
+    ],
+    "description": "跑车品牌官网用产品呈现与一天驾驶生活的叙事组织车型与品牌故事。",
+    "kind": "网站",
+    "evidence_url": "https://thefwa.com/cases/spyker-cars-p2",
+    "verification": "candidate：官方来源与 HTTP 内容核查；未进行浏览器主体、交互或播放核验",
+    "checked_at": "2026-11-03",
+    "http_status": 200,
+    "http_final_url": "https://spykercars.com/",
+    "source_title": "Hand-Built Super Sports Cars Since 1880 | Spyker Cars",
+    "source_content_evidence": "跑车品牌官网用产品呈现与一天驾驶生活的叙事组织车型与品牌故事。",
+    "review_status": "candidate",
+    "browser_verified": false,
+    "browser_audit_focus": "滚动完整车型页面，尝试模型/场景入口；不提交预约或购买。",
+    "access_notes": "来源研究候选；已读取原站 HTML 与官方项目资料，尚需浏览器加载主体并实际操作。GET 200 不代表视觉或交互通过。",
+    "license_note": "仅作视觉参考；素材或代码复用须另查作者许可。",
+    "source_api_url": "https://thefwa.com/api/cases/spyker-cars-p2",
+    "award_evidence": [
+      {
+        "id": 12096,
+        "awardedDate": "2026-09-11",
+        "awardFor": "2026-09-11",
+        "type": "FOTD",
+        "name": "FWA of the Day"
+      }
+    ],
+    "author": "The Brink Agency",
+    "thumbnail_url": "https://spyker.b-cdn.net/media/share-image-home.jpg",
+    "thumbnail_kind": "原站 Open Graph 图，未视觉核验"
+  },
+  {
+    "name": "Pegassi Ascension：电子音乐 EP 展示",
+    "url": "https://ascension.pegassi.be/",
+    "platform": "独立站",
+    "category": "音频可视化",
+    "tags": [
+      "音乐",
+      "专辑",
+      "展示"
+    ],
+    "description": "电子音乐人的四曲 EP 专属页面，以歌曲列表和音乐视觉表达组织发布内容。",
+    "kind": "在线演示",
+    "evidence_url": "https://thefwa.com/cases/ascension-pegassir",
+    "verification": "candidate：官方来源与 HTTP 内容核查；未进行浏览器主体、交互或播放核验",
+    "checked_at": "2026-11-03",
+    "http_status": 200,
+    "http_final_url": "https://ascension.pegassi.be/",
+    "source_title": "Ascension — Pegassi",
+    "source_content_evidence": "电子音乐人的四曲 EP 专属页面，以歌曲列表和音乐视觉表达组织发布内容。",
+    "review_status": "candidate",
+    "browser_verified": false,
+    "browser_audit_focus": "逐一切换歌曲入口，确认实际站内声音、视觉变化及外链范围。",
+    "access_notes": "来源研究候选；已读取原站 HTML 与官方项目资料，尚需浏览器加载主体并实际操作。GET 200 不代表视觉或交互通过。",
+    "license_note": "仅作视觉参考；素材或代码复用须另查作者许可。",
+    "source_api_url": "https://thefwa.com/api/cases/ascension-pegassir",
+    "award_evidence": [
+      {
+        "id": 12095,
+        "awardedDate": "2026-09-10",
+        "awardFor": "2026-09-10",
+        "type": "FOTD",
+        "name": "FWA of the Day"
+      }
+    ],
+    "author": "Gil Huybrecht / Jesper landberg",
+    "thumbnail_url": "https://ascension.pegassi.be/OG-ascension.jpg",
+    "thumbnail_kind": "原站 Open Graph 图，未视觉核验"
+  },
+  {
+    "name": "Artem Shcherbakov：导演动态作品集",
+    "url": "https://artemartemartem.com/",
+    "platform": "独立站",
+    "category": "作品集与展示",
+    "tags": [
+      "影片",
+      "字体",
+      "WebGL"
+    ],
+    "description": "CGI/VFX 导演作品集，官方获奖资料说明采用 WebGL 效果、动态字体与页面转场。",
+    "kind": "网站",
+    "evidence_url": "https://thefwa.com/cases/artem-shcherbakov-p3",
+    "verification": "candidate：官方来源与 HTTP 内容核查；未进行浏览器主体、交互或播放核验",
+    "checked_at": "2026-11-03",
+    "http_status": 200,
+    "http_final_url": "https://artemartemartem.com/",
+    "source_title": "artem shcherbakov",
+    "source_content_evidence": "CGI/VFX 导演作品集，官方获奖资料说明采用 WebGL 效果、动态字体与页面转场。",
+    "review_status": "candidate",
+    "browser_verified": false,
+    "browser_audit_focus": "打开至少两个影片作品并返回，核查主体媒体和字体/图像转场。",
+    "access_notes": "来源研究候选；已读取原站 HTML 与官方项目资料，尚需浏览器加载主体并实际操作。GET 200 不代表视觉或交互通过。",
+    "license_note": "仅作视觉参考；素材或代码复用须另查作者许可。",
+    "source_api_url": "https://thefwa.com/api/cases/artem-shcherbakov-p3",
+    "award_evidence": [
+      {
+        "id": 12083,
+        "awardedDate": "2026-08-30",
+        "awardFor": "2026-08-30",
+        "type": "FOTD",
+        "name": "FWA of the Day"
+      }
+    ],
+    "author": "SALT AND PEPPER",
+    "thumbnail_url": "https://imgproxy.artemartemartem.com/rs5maXPG3DulFcAaWYDzPhcvqt0jXKJNnNKHgvLIIGo/dpr:1/f:webp/q:90/rs:fill:1920/plain/local:///uploads/OG_1024x512_99f00de11f.png",
+    "thumbnail_kind": "原站 Open Graph 图，未视觉核验"
+  },
+  {
+    "name": "TBWA HAKUHODO：裂缝与动态网格",
+    "url": "https://www.tbwahakuhodo.co.jp/",
+    "platform": "独立站",
+    "category": "品牌与产品界面",
+    "tags": [
+      "排版",
+      "网格",
+      "品牌"
+    ],
+    "description": "广告公司官网通过裂缝、变形、变化的字体与显露网格表达其 Disruption 品牌理念。",
+    "kind": "网站",
+    "evidence_url": "https://thefwa.com/cases/tbwahakuhodo-corporate-website-p2",
+    "verification": "candidate：官方来源与 HTTP 内容核查；未进行浏览器主体、交互或播放核验",
+    "checked_at": "2026-11-03",
+    "http_status": 200,
+    "http_final_url": "https://www.tbwahakuhodo.co.jp/",
+    "source_title": "TBWA\\HAKUHODO",
+    "source_content_evidence": "广告公司官网通过裂缝、变形、变化的字体与显露网格表达其 Disruption 品牌理念。",
+    "review_status": "candidate",
+    "browser_verified": false,
+    "browser_audit_focus": "滚动首页、展开菜单并打开作品，观察字体、网格和过渡。",
+    "access_notes": "来源研究候选；已读取原站 HTML 与官方项目资料，尚需浏览器加载主体并实际操作。GET 200 不代表视觉或交互通过。",
+    "license_note": "仅作视觉参考；素材或代码复用须另查作者许可。",
+    "source_api_url": "https://thefwa.com/api/cases/tbwahakuhodo-corporate-website-p2",
+    "award_evidence": [
+      {
+        "id": 12069,
+        "awardedDate": "2026-08-16",
+        "awardFor": "2026-08-16",
+        "type": "FOTD",
+        "name": "FWA of the Day"
+      }
+    ],
+    "author": "SHIFTBRAIN Inc. / TBWA HAKUHODO",
+    "thumbnail_url": "https://www.tbwahakuhodo.co.jp/_astro/opengraph-image.GVIbwpe1.png",
+    "thumbnail_kind": "原站 Open Graph 图，未视觉核验"
+  },
+  {
+    "name": "Khufu’s：金字塔餐厅数字体验",
+    "url": "https://khufus.com/",
+    "platform": "独立站",
+    "category": "品牌与产品界面",
+    "tags": [
+      "餐饮",
+      "影片",
+      "菜单"
+    ],
+    "description": "餐厅官网以金字塔环境与餐饮影像建立氛围，并提供站内菜单与预约入口。",
+    "kind": "网站",
+    "evidence_url": "https://monarqeg.com/case-studies/khufus/",
+    "verification": "candidate：官方来源与 HTTP 内容核查；未进行浏览器主体、交互或播放核验",
+    "checked_at": "2026-11-03",
+    "http_status": 200,
+    "http_final_url": "https://khufus.com/",
+    "source_title": "Khufu’s | Award-Winning Elevated Egyptian Dining At The Pyramids",
+    "source_content_evidence": "餐厅官网以金字塔环境与餐饮影像建立氛围，并提供站内菜单与预约入口。",
+    "review_status": "candidate",
+    "browser_verified": false,
+    "browser_audit_focus": "播放首页片段并浏览交互菜单；只观察预约界面，不提交预约。",
+    "access_notes": "来源研究候选；已读取原站 HTML 与官方项目资料，尚需浏览器加载主体并实际操作。GET 200 不代表视觉或交互通过。",
+    "license_note": "仅作视觉参考；素材或代码复用须另查作者许可。"
+  },
+  {
+    "name": "Neutra VDL：建筑文化编辑式界面",
+    "url": "https://neutra-vdl.org/",
+    "platform": "独立站",
+    "category": "品牌与产品界面",
+    "tags": [
+      "文化",
+      "建筑",
+      "排版"
+    ],
+    "description": "建筑博物馆官网以层级编号导航组织参观、项目、档案与建筑空间摄影。",
+    "kind": "网站",
+    "evidence_url": "https://neutra-vdl.org/",
+    "verification": "candidate：官方来源与 HTTP 内容核查；未进行浏览器主体、交互或播放核验",
+    "checked_at": "2026-11-03",
+    "http_status": 200,
+    "http_final_url": "https://neutra-vdl.org/",
+    "source_title": "Neutra VDL",
+    "source_content_evidence": "建筑博物馆官网以层级编号导航组织参观、项目、档案与建筑空间摄影。",
+    "review_status": "candidate",
+    "browser_verified": false,
+    "browser_audit_focus": "展开层级导航，进入项目与档案，核查摄影浏览和页面过渡。",
+    "access_notes": "来源研究候选；已读取原站 HTML 与官方项目资料，尚需浏览器加载主体并实际操作。GET 200 不代表视觉或交互通过。",
+    "license_note": "仅作视觉参考；素材或代码复用须另查作者许可。",
+    "thumbnail_url": "https://cdn.sanity.io/images/s02i1y2u/production/dd0397938c9308edac03559b08d4b94c6c8f6123-1006x1081.png",
+    "thumbnail_kind": "原站 Open Graph 图，未视觉核验"
+  }
+]

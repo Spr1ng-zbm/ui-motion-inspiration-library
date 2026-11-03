@@ -1,6 +1,6 @@
 # 当前版本逐项核验
 
-更新：2026-11-03。主库 **266 条**；旧库 173 条全部尝试核查，保留 **158 条**，移出 **15 条**；新增 **108 条**。
+更新：2026-11-03。主库 **300 条**；旧库 173 条全部尝试核查，保留 **158 条**，移出 **15 条**；新增 **142 条**。
 
 主库每条均有实际画面依据和具体操作记录。静态界面可以作为 UI 参考；只有看到变化才描述为已验证动效。视频核验关键片段，不代表完整播放。
 
@@ -13,15 +13,20 @@
 ## 分类
 
 - 粒子与背景：18 条
-- 完整界面：79 条
-- 画廊与导航：24 条
-- 微交互：59 条
+- 完整界面：87 条
+- 画廊与导航：28 条
+- 微交互：60 条
 - 游戏与趣味：9 条
 - 图形与图标：9 条
 - 3D与沉浸：45 条
-- 滚动与叙事：12 条
-- 文字与排版：9 条
+- 滚动与叙事：14 条
+- 文字与排版：10 条
 - 组件与合集：2 条
+- 应用界面展示：6 条
+- 界面动效短片：5 条
+- 作品集短片：2 条
+- 游戏UI与HUD：2 条
+- 声音与可视化：3 条
 
 ## 原有 173 条的逐项结果
 
@@ -313,9 +318,43 @@
 | [MoMoney 博物馆官网](https://museumofmoney.com) | 首屏多帧、滚动查看叙事与图片卡 | 荧光黄标题牌、黑色硬阴影和紫色票务按钮；奶油底叙事与倾斜彩边照片卡完整。 |
 | [MANA Yerba Maté](https://manayerbamate.com) | 等待开场，点击首页右箭头 | 绿色薄荷西瓜饮料罐切换为黄色葡萄柚罐，背景人物、颜色和口味标签同步变化。 |
 | [TrueKind 护肤品牌](https://truekindskincare.com) | 观察加载进度及两个首屏视频画面 | 数字开场完成后进入皮肤微距影像；随后切到滴管精华画面，衬线斜体与无衬线标题混排。 |
+| [Slack Canvas：文档协作界面](https://www.youtube.com/watch?v=wJ80ip-buXc) | 播放约87秒正片，观察开场及约20至34秒界面段，并用播放滑块前进。 | 彩色通信图标进入 Slack 工作区；Project Alpha 文档由频道右上角浮出，随后展开资源和成员卡片，卡片布局与背景色同步切换。 |
+| [Linear Agent：原生工作区展示](https://www.youtube.com/watch?v=mRql2VJ99gM) | 播放55秒正片，核查开场、任务列表中段与约43秒的结果卡片。 | 深色悬浮工作区以倾斜镜头推进，Ask Linear 输入文字后出现带状态图标的问题列表；后段生成带文档图标的 Optimistic loading refactor 计划卡片。 |
+| [Framer 3.0：画布与协作展示](https://www.youtube.com/watch?v=6aioEoCdBJw) | 播放75秒正片，查看开场、约25秒多尺寸画布与约43秒 CMS 工作台。 | 开场以蓝光描边强调编辑器顶栏；随后桌面、平板、手机三个页面画布并排呈现，后段展示深色内容表格与右侧 Agent 面板。 |
+| [Pitch 2.0：演示编辑器短片](https://www.youtube.com/watch?v=tqfeE5G36tM) | 跳过片前广告后播放82秒正片，查看AI输入、配色选择和约38秒编辑器段。 | 白色AI输入面板配紫色按钮；自行车主题幻灯片旁出现胶囊配色条，选中色有紫色描边；编辑器保留左侧缩略图和内容工具栏。 |
+| [Google：Material Design 原始短片](https://www.youtube.com/watch?v=Q8TXgCzxEnw) | 播放官方48秒短片，查看约12秒纸片层级和34秒应用界面；自动播放跳到其他视频后明确回到原片复查。 | 开场彩色矩形卡片与圆形按钮组合，12秒变为带投影的白色分层面板，34秒展示Kodaline专辑封面、浮动播放按钮和曲目列表。原片time34.64、duration48.82、paused=false、readyState4。 |
+| [Microsoft Design：OneDrive 界面更新](https://www.youtube.com/watch?v=DzXBdc8Dfmg) | 等待15秒前贴片广告结束后实际播放正式60秒视频，查看约13秒和22秒画面。 | 正式片13秒展示浅色文件列表、推荐卡片、头像与Office筛选标签；22秒转为透明玻璃状几何体和小球的柔光空间。time12.93到22.31，paused=false、readyState4。 |
+| [Ordinary Folk：Introducing Spline](https://www.youtube.com/watch?v=sIfP9h-H23s) | 重载后播放85秒正片，观察开场并跳转约41秒。 | 开场紫色地景中人物与叶片产生层次运动；约43秒出现带紫色控制点的青色立方体与双手，展示三维造型操作的视觉隐喻。 |
+| [Ordinary Folk：Webflow 新时代短片](https://www.youtube.com/watch?v=eEW2gr7K7kc) | 播放104秒正片并用滑块前进，观察开场及约20秒三维页面段。 | 白色空间内蓝紫几何体与半透明面板穿插；镜头随后转为斜俯视的网页卡片阵列，内容图层抬升、叠放，球体和渐变色块贯穿其中。 |
+| [Windows 11：系统界面发布短片](https://www.youtube.com/watch?v=Uh9643c2P6k) | 播放163秒官方发布片，抽查开场、约49秒桌面与约65秒主题选择界面。 | 开场透明晶体沿面板边缘生长；后续笔记本画面呈现居中开始菜单和蓝色壁纸，主题选择器用六宫格缩略图与亮色描边表现选中状态。 |
+| [Figma Slides：协作演示界面](https://www.youtube.com/watch?v=p-B--SGq_ZQ) | 播放95秒官方短片，核查约13秒演示编辑器及约43秒精细设计模式。 | 橙色外背景中展示左侧缩略图、中央绿色几何幻灯片、右侧主题面板与底部工具栏；中段选中文字后出现蓝色控制框，右侧转为布局和颜色属性。 |
+| [Cuberto：2024 工作室作品集](https://www.youtube.com/watch?v=bK8eUJ65LyY) | 播放128秒合集并跳转中后段，观察授权弹窗、三维图标和网页案例镜头。 | 斜向平板画面中黑色授权卡片与立体指纹/角色图标叠合；随后出现黄色旅行箱和白底网页中的青紫立方体美元符号，包含产品界面与品牌三维图形。 |
+| [Shakib：35秒 UI/UX 作品集](https://www.youtube.com/watch?v=_CKnqRhebYg) | 跳过片前广告后播放35秒正片，查看早段三维设计场景并跳转中段手机产品界面。 | 三维手势围绕设计画布与彩色工具图形运动；中段两块圆角手机界面展示紫色耳机、竖向色点选择、黄色数量控件和底部参数区。 |
+| [Foundation：科幻游戏 UI 概念](https://www.bilibili.com/video/BV1rT411u7hC) | 打开后观看18秒自动静音播放，比较开场、约13秒目的地选择及结尾任务确认弹窗。 | 发光黑洞开场过渡到金黑星球选择界面，左侧目的地列表、右侧摘要卡、底部FIGHT按钮；结尾展开带徽章、任务列表和OK按钮的横向弹窗。 |
+| [UE5：卡通商店、活动与领奖动效](https://www.bilibili.com/video/BV1LHVT6EEW9) | 观看44秒正片的商店、活动主页及约22秒奖励弹窗段。 | 木质商店框架搭配蓝色商品板与卡片；活动主页改为蓝紫星夜背景、环绕角色的任务入口；领奖时黄色斜向横条压在暗化背景上，标题与奖励图标分层出现。 |
+| [NAWA / MIX发布：AI 回复卡片动效](https://www.bilibili.com/video/BV125VB6WEYt) | 播放36秒短片，并返回原片复看AI回复卡片的近景与全景。 | 薄荷绿背景上浮出深色圆角社交回复卡片；AI Response区域有绿色描边和流动亮条，近景转全景后可见Approve/Edit按钮；片尾为NAWA标识。 |
+| [Lookbook：时装图片悬停](https://tympanus.net/Demos/LookbookHoverEffects) | 打开六张时装图集，分别将指针置于第1和第5张照片。 | 静态为左侧大衬线品牌字与右侧2×3照片网格；指针进入后照片转为钴蓝色卡片，出现大号Look编号、服装说明及细碎的人像轮廓，移出后恢复照片。 |
+| [Cinema Seat Preview：影院选座视角](https://tympanus.net/Demos/CinemaSeatPreview) | 等待影院加载，打开Seat map并选择Row F, seat 11, best view。 | 三维红座椅影院正常渲染；选座浮层用弧形座位图、占用颜色和Best view框区分位置；选F11后浮层收起，镜头移至中部座位，屏幕变大，底部显示座位编号和Add/Stand up控件。 |
+| [Clip Menu：裁切展开的游戏菜单](https://tympanus.net/Development/EaseReverseClipMenu) | 点击Open menu，观察矩形裁切区域逐步扩至全屏，再点击Close menu收起。 | 黑底漂浮图卡和HUMAN ZERO像素字切换为人像特写背景的全屏菜单；NEW GAME、MISSIONS等七项白色像素文字在裁切区域内显露，关闭时矩形边界向内收缩。 |
+| [Glass Xylophone：玻璃木琴](https://tympanus.net/Tutorials/Xylophone) | 等待玻璃琴键加载，点击不同位置并沿螺旋琴键连续拖动。 | 淡紫渐变背景上的半透明圆管形成螺旋木琴；划过后多根琴键依次变成青、蓝、紫、粉的高饱和颜色，随后逐渐退回透明材质。 |
+| [Thumbnail Flow：缩略图路径展开](https://tympanus.net/Tutorials/MotionPathTransition) | 打开默认演示并点击+ Open，观察缩略图从左下角叠放，经底部弧线移动至右侧列。 | 单张小图展开为中央主图与14张缩略图；移动中图卡沿弯曲路径接续出现，最终收成右侧竖列，中央保留Close控制。 |
+| [SVG Mask：百叶窗图片转场](https://tympanus.net/Tutorials/SVGMaskScrollTransition) | 向下滚动进入第一张建筑图，再继续滚动至第二张图，查看两图交替的中间态。 | 首图为水面上的方形建筑，随后横向条带逐段揭开低矮橙光建筑；转场中上方保留细横线残影，底部三段进度线随滚动推进。 |
+| [Maison Orée 概念：黑金界面与刻字聚光](https://tympanus.net/Demos/MuseumOfMotion/vibes/luxury) | 从展项页进入Full page，滚动查看三款首饰、横向图列，并将指针置于刻字戒面。 | 黑金配色、衬线大字与线描首饰形成简洁商品页面；图列延伸到右侧，刻字戒面原为暗金色，指针进入后局部变亮并显露Pour toujours等文字。 |
+| [Paper Moon Press 概念：双色印刷与纸张剥离](https://tympanus.net/Demos/MuseumOfMotion/vibes/printed) | 进入Full page，点击SEE THE DRYING RACK，拖走第一张纸，再点击HANG THEM BACK UP。 | 米色纸张背景搭配黑色粗字和蓝粉双色网点海报；拖动时纸张翻出浅色背面，露出下层植物印刷图；重置后月亮海报返回顶层。 |
+| [Squoosh：图片前后对比与浮动参数面板](https://squoosh.app) | 打开自带Large photo示例，将Quality滑块调至0，并拖动中央对比分割线。 | 画布两侧呈现同一小熊猫照片，原图清晰、低质量副本出现明显色块；分割线可左右移动，右下压缩率和体积同步更新，设置面板悬浮于图像上。 |
+| [Haikei：图形预览与参数编辑工作台](https://app.haikei.app) | 从Wave切换至Blurry Gradient，将第二颜色改为FF8844并点击骰子生成按钮。 | 左侧为带图示的效果选择卡，中间大画布，右侧随类型切换参数；预览从蓝色波形切换到紫绿模糊渐变，再更新为橙绿渐变构图。 |
+| [PatternPad：几何纹样编辑器](https://patternpad.com/editor.html) | 打开编辑器，点击 Refresh 并切换 Customize。 | 粉红蓝色几何拼贴完整渲染；刷新后块状组合变化，自定义区展开间距、密度、分割比例设置，图标随后正常加载。 |
+| [OKLCH：色域与颜色工作台](https://oklch.com) | 开启 Show 3D，拖动 Hue 色相滑块。 | 颜色从暖黄变成蓝色，色块、代码、色域图与三维色域表面同步变化；黑底圆角分区完整呈现。 |
+| [Plausible：公开网站分析仪表盘](https://plausible.io/plausible.io) | 打开官方实时演示，点击来源 Google，再向下浏览数据卡片。 | 深色统计卡、紫色面积折线、来源及页面排名正常显示；点击后顶部出现 Source is Google 筛选标签，页面排名更新。 |
+| [Roland50 Studio：电子乐器控制台](https://roland50.studio) | 点击 ENTER，关闭入门说明，点击 TR-808 START。 | 左右双仪器完整出现，黑底橙黄圆点与灰底三角音符矩阵并置；START 变成 STOP，圆点节拍状态变化，底部有拟物旋钮和拨片。 |
+| [Music Lab：声音频谱画布](https://musiclab.chromeexperiments.com/spectrogram-service) | 分别选择长笛与鸟鸣内置样本，拖动频谱区域并观察连续画面。 | 黑底中逐步生成紫蓝绿黄色的立体频谱峰，切换样本后谱线密度和峰形变化；底部声源图标高亮。 |
+| [Motion：滑动指示器标签页](https://examples.motion.dev/react/smooth-tabs) | 依次点击 Overview、Activity、Settings 标签。 | 白色选中胶囊从左移到中间，卡片由紫色概览图标与统计数字切换成粉色活动图标和另一组数据。 |
+| [Motion：轮播与灯箱共享导航](https://examples.motion.dev/react/carousel-lightbox) | 点击照片打开灯箱，再点击 Thumbnail 5。 | 横向黑白骑行照片带进入大图遮罩，底部出现六张缩略图导航及选中描边，原图带在暗化背景中保留。 |
+| [Duolingo：官方角色与界面录像](https://framerusercontent.com/assets/RT0g2f4dz5zYO4UphLss616U4.mp4) | 播放 14.4 秒视频并观察前后两段画面。 | 三个倾斜手机同时演示火焰连续学习天数、棋盘答题反馈和紫发角色通话表情；火焰伸缩发光，数字及答题状态变化。 |
+| [Spotify Wrapped：官方年度回顾动效录像](https://framerusercontent.com/assets/KzXZgGGMns7LaW6Bz5BAJj7Nw.mp4) | 播放 18 秒官方案例视频，观察初始与约 9 秒画面。 | 绿色场景中四个倾斜手机展示年度听歌数字、同心圆艺人封面、圆点时间图和黑白条纹徽章；内容持续切换并缩放运动。 |
 
 ## 数据依据
 
-[完整主库](../library.json) · [旧库原始清单](full-audit-manifest.json) · [旧库逐项审计](full-audit.json) · [新增网站审计](audit-new-sites.json) · [新增展示录像审计](audit-new-videos.json) · [第二轮审计](audit-round2-sites.json)
+[完整主库](../library.json) · [旧库原始清单](full-audit-manifest.json) · [旧库逐项审计](full-audit.json) · [新增网站审计](audit-new-sites.json) · [新增展示录像审计](audit-new-videos.json) · [第二轮审计](audit-round2-sites.json) · [第三轮视频审计](audit-video-round3.json)
 
 小红书连接未就绪，未取得可核验笔记，因此没有以搜索摘要补数。第三方网站、图像、视频和代码的权利归原作者；本库只整理入口与参考点。

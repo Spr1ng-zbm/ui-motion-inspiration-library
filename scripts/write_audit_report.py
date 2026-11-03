@@ -33,7 +33,7 @@ def main():
     for i in items:
         if i['id'] not in old_ids:
             lines.append(f"| [{clean(i['name'])}]({i['url']}) | {clean(i['verification_action'])} | {clean(i['verification_observed'])} |")
-    lines += ['', '## 数据依据', '', '[完整主库](../library.json) · [旧库原始清单](full-audit-manifest.json) · [旧库逐项审计](full-audit.json) · [新增网站审计](audit-new-sites.json) · [新增展示录像审计](audit-new-videos.json) · [第二轮审计](audit-round2-sites.json)', '',
+    lines += ['', '## 数据依据', '', '[完整主库](../library.json) · [旧库原始清单](full-audit-manifest.json) · [旧库逐项审计](full-audit.json) · [新增网站审计](audit-new-sites.json) · [新增展示录像审计](audit-new-videos.json) · [第二轮审计](audit-round2-sites.json) · [第三轮视频审计](audit-video-round3.json)', '',
         '小红书连接未就绪，未取得可核验笔记，因此没有以搜索摘要补数。第三方网站、图像、视频和代码的权利归原作者；本库只整理入口与参考点。', '']
     (ROOT/'docs/current-audit.md').write_text('\n'.join(lines),encoding='utf-8')
     print(f'Audit report: {len(items)} entries, {kept} retained baseline')

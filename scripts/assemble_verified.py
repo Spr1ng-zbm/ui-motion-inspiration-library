@@ -53,9 +53,13 @@ def promote(source, review, identity, date):
         item['platform'] = 'YouTube' if host in ('youtube.com', 'www.youtube.com', 'youtu.be') else 'B站' if host == 'bilibili.com' or host.endswith('.bilibili.com') else '独立站'
     item['browser_verified'] = True
     item['visual_verified'] = True
+    # Admitted video audits require actual playback; an explicit audit exception wins.
+    item['playback_verified'] = item.get('kind') == '视频' and review.get('playback_verified', True) is True
     item['review_status'] = 'verified'
     item['checked_at'] = review.get('checked_at') or date
-    item['verification'] = '本轮实际播放片段核查' if item.get('kind') == '视频' else '本轮实际画面与关键操作核查'
+    item['verification'] = ('本轮实际播放片段核查' if item['playback_verified'] else
+                            '本轮实际画面核查（未验证播放）' if item.get('kind') == '视频' else
+                            '本轮实际画面与关键操作核查')
     for field in ('action', 'observed', 'notes'):
         item['verification_' + field] = review.get(field, '')
     item['audit'] = dict(deepcopy(review), original_url=original_url, verified_url=item['url'], checked_at=item['checked_at'])

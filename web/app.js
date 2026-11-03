@@ -22,7 +22,7 @@
     const colors=['#355640','#514632','#3c425c','#5b3e33','#435735'];cover.style.setProperty('--cover',colors[parseInt(item.id.slice(-2),16)%colors.length]);
     cover.append(el('span','',item.category),el('strong','',item.name));visual.append(cover);
     if(state.previews && Catalog.safeUrl(item.thumbnail_url)){
-      const img=el('img');img.alt=item.name+' — 原站提供的封面';img.loading='lazy';img.decoding='async';img.referrerPolicy='no-referrer';img.src=Catalog.safeUrl(item.thumbnail_url);img.addEventListener('error',()=>img.remove(),{once:true});visual.append(img);
+      const img=el('img');img.alt=item.name+' — 原站提供的封面';img.loading='lazy';img.decoding='async';img.referrerPolicy='no-referrer';img.style.opacity='0';img.addEventListener('load',()=>{img.style.opacity='1';},{once:true});img.addEventListener('error',()=>img.remove(),{once:true});img.src=Catalog.safeUrl(item.thumbnail_url);visual.append(img);
     }
     visual.append(el('span','visual-label',item.kind==='视频'?'▶ 视频参考':item.category),favoriteButton(item));
     const body=el('div','card-body');const meta=el('div','card-meta');meta.append(el('span','',item.platform));

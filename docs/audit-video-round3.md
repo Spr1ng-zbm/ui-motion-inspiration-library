@@ -1,68 +1,25 @@
-# 第三批视频核查交接
+# 第三轮视频逐项核查
 
-2026-11-03：本子代理IAB不可用，17条均为pending，环境状态environment_blocked。没有逐个访问、没有播放，因此不算pass，也不算作品blocked/fail。根代理浏览器仍正常，将继续实证。
+2026-11-03：17条均实际播放核查关键片段，15条建议保留；2条虽可播放但因界面密度或重复取舍移出。视频核查不等于完整播放所有时长。
 
-## 优先顺序
+| 作品 | 处理 | 操作与所见 |
+|---|---|---|
+| [Microsoft Design：OneDrive 界面更新](https://www.youtube.com/watch?v=DzXBdc8Dfmg) | 保留 | 等待15秒前贴片广告结束后实际播放正式60秒视频，查看约13秒和22秒画面。 正式片13秒展示浅色文件列表、推荐卡片、头像与Office筛选标签；22秒转为透明玻璃状几何体和小球的柔光空间。time12.93到22.31，paused=false、readyState4。  |
+| [Google：Material Design 原始短片](https://www.youtube.com/watch?v=Q8TXgCzxEnw) | 保留 | 播放官方48秒短片，查看约12秒纸片层级和34秒应用界面；自动播放跳到其他视频后明确回到原片复查。 开场彩色矩形卡片与圆形按钮组合，12秒变为带投影的白色分层面板，34秒展示Kodaline专辑封面、浮动播放按钮和曲目列表。原片time34.64、duration48.82、paused=false、readyState4。  |
+| [Ordinary Folk：Introducing Spline](https://www.youtube.com/watch?v=sIfP9h-H23s) | 保留 | 重载后播放85秒正片，观察开场并跳转约41秒。 开场紫色地景中人物与叶片产生层次运动；约43秒出现带紫色控制点的青色立方体与双手，展示三维造型操作的视觉隐喻。  |
+| [Ordinary Folk：Webflow 新时代短片](https://www.youtube.com/watch?v=eEW2gr7K7kc) | 保留 | 播放104秒正片并用滑块前进，观察开场及约20秒三维页面段。 白色空间内蓝紫几何体与半透明面板穿插；镜头随后转为斜俯视的网页卡片阵列，内容图层抬升、叠放，球体和渐变色块贯穿其中。  |
+| [Foundation：科幻游戏 UI 概念](https://www.bilibili.com/video/BV1rT411u7hC/) | 保留 | 打开后观看18秒自动静音播放，比较开场、约13秒目的地选择及结尾任务确认弹窗。 发光黑洞开场过渡到金黑星球选择界面，左侧目的地列表、右侧摘要卡、底部FIGHT按钮；结尾展开带徽章、任务列表和OK按钮的横向弹窗。  |
+| [Slack Canvas：文档协作界面](https://www.youtube.com/watch?v=wJ80ip-buXc) | 保留 | 播放约87秒正片，观察开场及约20至34秒界面段，并用播放滑块前进。 彩色通信图标进入 Slack 工作区；Project Alpha 文档由频道右上角浮出，随后展开资源和成员卡片，卡片布局与背景色同步切换。  |
+| [Figma Slides：协作演示界面](https://www.youtube.com/watch?v=p-B--SGq_ZQ) | 保留 | 播放95秒官方短片，核查约13秒演示编辑器及约43秒精细设计模式。 橙色外背景中展示左侧缩略图、中央绿色几何幻灯片、右侧主题面板与底部工具栏；中段选中文字后出现蓝色控制框，右侧转为布局和颜色属性。  |
+| [Notion Calendar：日历产品短片](https://www.youtube.com/watch?v=C4Q2ezioTUM) | 移出 | 实际播放开场并查看约27秒中段日历画面。 开场为真人介绍，27秒展示带彩色日程与侧栏的日历窗口；currentTime27.25、paused=false、readyState4。 真人产品讲解占据明显篇幅；已有更直接的Notion Calendar界面展示页，不另堆同产品介绍视频。 |
+| [Raycast Focus：专注模式短片](https://www.youtube.com/watch?v=ykaj0pS4A1A) | 移出 | 播放51秒正片，观察开场、中段及约44秒结尾前画面。 以人物眼睛和脸部特写、普通空白编辑器桌面为主；抽查多处未见足够密集且独立的 UI 动效展示。 可播放但真人宣传片占比高，相比现有 Raycast 界面素材，新增视觉参考价值偏低。 |
+| [Linear Agent：原生工作区展示](https://www.youtube.com/watch?v=mRql2VJ99gM) | 保留 | 播放55秒正片，核查开场、任务列表中段与约43秒的结果卡片。 深色悬浮工作区以倾斜镜头推进，Ask Linear 输入文字后出现带状态图标的问题列表；后段生成带文档图标的 Optimistic loading refactor 计划卡片。  |
+| [Framer 3.0：画布与协作展示](https://www.youtube.com/watch?v=6aioEoCdBJw) | 保留 | 播放75秒正片，查看开场、约25秒多尺寸画布与约43秒 CMS 工作台。 开场以蓝光描边强调编辑器顶栏；随后桌面、平板、手机三个页面画布并排呈现，后段展示深色内容表格与右侧 Agent 面板。  |
+| [Pitch 2.0：演示编辑器短片](https://www.youtube.com/watch?v=tqfeE5G36tM) | 保留 | 跳过片前广告后播放82秒正片，查看AI输入、配色选择和约38秒编辑器段。 白色AI输入面板配紫色按钮；自行车主题幻灯片旁出现胶囊配色条，选中色有紫色描边；编辑器保留左侧缩略图和内容工具栏。  |
+| [Windows 11：系统界面发布短片](https://www.youtube.com/watch?v=Uh9643c2P6k) | 保留 | 播放163秒官方发布片，抽查开场、约49秒桌面与约65秒主题选择界面。 开场透明晶体沿面板边缘生长；后续笔记本画面呈现居中开始菜单和蓝色壁纸，主题选择器用六宫格缩略图与亮色描边表现选中状态。  |
+| [Cuberto：2024 工作室作品集](https://www.youtube.com/watch?v=bK8eUJ65LyY) | 保留 | 播放128秒合集并跳转中后段，观察授权弹窗、三维图标和网页案例镜头。 斜向平板画面中黑色授权卡片与立体指纹/角色图标叠合；随后出现黄色旅行箱和白底网页中的青紫立方体美元符号，包含产品界面与品牌三维图形。  |
+| [NAWA / MIX发布：AI 回复卡片动效](https://www.bilibili.com/video/BV125VB6WEYt/) | 保留 | 播放36秒短片，并返回原片复看AI回复卡片的近景与全景。 薄荷绿背景上浮出深色圆角社交回复卡片；AI Response区域有绿色描边和流动亮条，近景转全景后可见Approve/Edit按钮；片尾为NAWA标识。  |
+| [Shakib：35秒 UI/UX 作品集](https://www.youtube.com/watch?v=_CKnqRhebYg) | 保留 | 跳过片前广告后播放35秒正片，查看早段三维设计场景并跳转中段手机产品界面。 三维手势围绕设计画布与彩色工具图形运动；中段两块圆角手机界面展示紫色耳机、竖向色点选择、黄色数量控件和底部参数区。  |
+| [UE5：卡通商店、活动与领奖动效](https://www.bilibili.com/video/BV1LHVT6EEW9/) | 保留 | 观看44秒正片的商店、活动主页及约22秒奖励弹窗段。 木质商店框架搭配蓝色商品板与卡片；活动主页改为蓝紫星夜背景、环绕角色的任务入口；领奖时黄色斜向横条压在暗化背景上，标题与奖励图标分层出现。  |
 
-优先顺序依据已取得的官方元数据、题材多样性和疑似重复风险，不能代替质量判断。
-
-1. [Microsoft Design：OneDrive 界面更新](https://www.youtube.com/watch?v=DzXBdc8Dfmg) · 60秒 · pending
-   - 核查重点：检查真实文件界面和抽象动画之间的联系，确认UI展示比例。
-   - 重复关联：未实际播放，不能判断视觉质量或同片。
-2. [Google：Material Design 原始短片](https://www.youtube.com/watch?v=Q8TXgCzxEnw) · 49秒 · pending
-   - 核查重点：查看界面层级、形状转场和视觉连续性；作为历史设计参考，不标为当前规范。
-   - 重复关联：未实际播放，不能判断视觉质量或同片。
-3. [Ordinary Folk：Introducing Spline](https://www.youtube.com/watch?v=sIfP9h-H23s) · 85秒 · pending
-   - 核查重点：核查工具界面和3D图形的连接；若主体仅抽象图形，应归动效参考而非完整UI。
-   - 重复关联：未实际播放，不能判断视觉质量或同片。关联网址目前只在候选批次中，未在当前library.json中找到，不能称为已收录重复。 [关联页面](https://www.spline.design)
-4. [Ordinary Folk：Webflow 新时代短片](https://www.youtube.com/watch?v=eEW2gr7K7kc) · 104秒 · pending
-   - 核查重点：检查编辑器/页面模块与图形演出的衔接，区分界面展示和抽象动画。
-   - 重复关联：未实际播放，不能判断视觉质量或同片。
-5. [Foundation：科幻游戏 UI 概念](https://www.bilibili.com/video/BV1rT411u7hC/) · 18秒 · pending
-   - 核查重点：观看完整18秒，检查核心界面、信息层级和转场；不把影视IP素材当可商用资源。
-   - 重复关联：未实际播放，不能判断视觉质量或同片。
-6. [Slack Canvas：文档协作界面](https://www.youtube.com/watch?v=wJ80ip-buXc) · 87秒 · pending
-   - 核查重点：检查文档块、协作信息和工作区之间的界面衔接。
-   - 重复关联：未实际播放，不能判断视觉质量或同片。
-7. [Figma Slides：协作演示界面](https://www.youtube.com/watch?v=p-B--SGq_ZQ) · 95秒 · pending
-   - 核查重点：检查编辑器、演示工具和观众反馈状态；与现有 Slides 官网素材比较去重。
-   - 重复关联：未实际播放，不能判断视觉质量或同片。关联网址目前只在候选批次中，未在当前library.json中找到，不能称为已收录重复。 [关联页面](https://www.figma.com/slides)
-8. [Notion Calendar：日历产品短片](https://www.youtube.com/watch?v=C4Q2ezioTUM) · 80秒 · pending
-   - 核查重点：检查时间网格、事件面板和导航变化；与现有 Calendar 官网素材比较去重。
-   - 重复关联：未实际播放，不能判断视觉质量或同片。关联网址目前只在候选批次中，未在当前library.json中找到，不能称为已收录重复。 [关联页面](https://notion.com/product/calendar)
-9. [Raycast Focus：专注模式短片](https://www.youtube.com/watch?v=ykaj0pS4A1A) · 51秒 · pending
-   - 核查重点：检查专注状态、控制界面与反馈；不要跳到简介里的教程视频。
-   - 重复关联：未实际播放，不能判断视觉质量或同片。同品牌页面在当前library.json中存在。 [关联页面](https://www.raycast.com/)
-10. [Linear Agent：原生工作区展示](https://www.youtube.com/watch?v=mRql2VJ99gM) · 55秒 · pending
-   - 核查重点：检查任务列表、Agent 入口和信息反馈的实际界面，而非只看标题卡。
-   - 重复关联：未实际播放，不能判断视觉质量或同片。同品牌页面在当前library.json中存在。 [关联页面](https://linear.app/)
-11. [Framer 3.0：画布与协作展示](https://www.youtube.com/watch?v=6aioEoCdBJw) · 75秒 · pending
-   - 核查重点：检查编辑器、画布和分支界面，避开完整版发布会。
-   - 重复关联：未实际播放，不能判断视觉质量或同片。同品牌页面在当前library.json中存在。 [关联页面](https://www.framer.com/)
-12. [Pitch 2.0：演示编辑器短片](https://www.youtube.com/watch?v=tqfeE5G36tM) · 82秒 · pending
-   - 核查重点：查看编辑画布、协作与分享界面的串联，确认不是只呈现幻灯片内容。
-   - 重复关联：未实际播放，不能判断视觉质量或同片。关联网址目前只在候选批次中，未在当前library.json中找到，不能称为已收录重复。 [关联页面](https://pitch.com)
-13. [Windows 11：系统界面发布短片](https://www.youtube.com/watch?v=Uh9643c2P6k) · 163秒 · pending
-   - 核查重点：查看开始菜单、多窗口与系统界面的完整展示；不把2021年发布片标为最新版本。
-   - 重复关联：未实际播放，不能判断视觉质量或同片。
-14. [Cuberto：2024 工作室作品集](https://www.youtube.com/watch?v=bK8eUJ65LyY) · 128秒 · pending
-   - 核查重点：检查网页与应用界面片段是否占足够比例，以及场景之间的连接。
-   - 重复关联：未实际播放，不能判断视觉质量或同片。同品牌页面在当前library.json中存在。 [关联页面](https://cuberto.com/)
-15. [MIX：UI 交互与 SaaS 展示短片](https://www.bilibili.com/video/BV125VB6WEYt/) · 36秒 · pending
-   - 核查重点：检查界面动效是否为主体；若主要是接单口号或品牌字卡，直接剔除。
-   - 重复关联：未实际播放，不能判断视觉质量或同片。
-16. [Shakib：35秒 UI/UX 作品集](https://www.youtube.com/watch?v=_CKnqRhebYg) · 35秒 · pending
-   - 核查重点：检查界面本身、手机样机内内容和快速转场是否清楚，排除仅样机包装。
-   - 重复关联：未实际播放，不能判断视觉质量或同片。
-17. [UE5：游戏 UI 阶段性动效作品](https://www.bilibili.com/video/BV1LHVT6EEW9/) · 44秒 · pending
-   - 核查重点：播放44秒检查界面一致性、文字和动效完成度；AI制作并不自动说明质量好，明显瑕疵应剔除。
-   - 重复关联：未实际播放，不能判断视觉质量或同片。
-
-## 已有实证可辅助对比
-
-- Linear官网本轮看到任务详情/评论切换至Agent Insights统计卡和堆叠图；尚未看到这条55秒发布片，不能判同片。
-- Raycast官网本轮看到命令/剪贴板列表、色值和预览分栏；Focus专注短片可能是不同功能，需要实际看。
-- Cuberto官网见彩色reel和Projects入口；2024 Showreel是否同一剪辑需要核对，重复风险较高。
-- Framer在当前库；Notion Calendar、Pitch、Figma Slides、Spline目前只在candidate_items_20261103.json，不宜先算已收录重复。
-
-所有17条与当前library.json URL无完全重复；URL去重不能证明内容独立。
+早期子代理因浏览器不可用留下的pending记录，已由主流程实际播放记录覆盖。完整字段见 [JSON](audit-video-round3.json)。

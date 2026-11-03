@@ -23,6 +23,7 @@ class AssemblyTests(unittest.TestCase):
         self.assertEqual((item['kind'], item['platform']), ('视频', '独立站'))
         self.assertEqual(item['verification_observed'], 'Frames changed')
         self.assertEqual(item['audit']['original_url'], 'https://example.com/old')
+        self.assertTrue(item['playback_verified'])
         self.assertTrue(result['report']['release_ready'])
 
     def test_explicit_empty_access_note_clears_stale_candidate_warning(self):
@@ -30,6 +31,46 @@ class AssemblyTests(unittest.TestCase):
         self.audit['items'][0]['access_notes'] = ''
         result = assemble(self.manifest, self.sources, self.audit)
         self.assertEqual(result['items'][0]['access_notes'], '')
+
+    def test_verified_video_replaces_candidates_unplayed_status(self):
+        source = dict(name='Video', url='https://cdn.example.com/clip.mp4',
+                      kind='视频', playback_verified=False,
+                      browser_verified=False, visual_verified=False,
+                      review_status='candidate', verification='HEAD only; not played')
+        review = dict(url=source['url'], result='pass',
+                      action='Play clip and compare two frames', observed='Menu expands')
+        result = assemble([], {}, [], [source], [[review]], '2026-11-03')
+        item = result['items'][0]
+        self.assertTrue(item['playback_verified'])
+        self.assertTrue(item['browser_verified'])
+        self.assertTrue(item['visual_verified'])
+        self.assertEqual(item['review_status'], 'verified')
+        self.assertEqual(item['verification'], '本轮实际播放片段核查')
+        self.assertFalse(source['playback_verified'])
+
+    def test_explicit_unverified_playback_overrides_video_pass(self):
+        source = dict(name='Video poster', url='https://cdn.example.com/clip.mp4',
+                      kind='视频', playback_verified=True)
+        review = dict(url=source['url'], result='pass', playback_verified=False,
+                      action='Inspect poster', observed='Static interface visible')
+        result = assemble([], {}, [], [source], [[review]], '2026-11-03')
+        item = result['items'][0]
+        self.assertFalse(item['playback_verified'])
+        self.assertTrue(item['visual_verified'])
+        self.assertEqual(item['verification'], '本轮实际画面核查（未验证播放）')
+
+    def test_static_webpage_pass_does_not_claim_video_playback(self):
+        for stale_playback in (False, True):
+            with self.subTest(stale_playback=stale_playback):
+                source = dict(name='Static UI', url='https://example.com/interface',
+                              kind='在线演示', playback_verified=stale_playback)
+                review = dict(url=source['url'], result='pass',
+                              action='Inspect page', observed='Static dashboard visible')
+                result = assemble([], {}, [], [source], [[review]], '2026-11-03')
+                item = result['items'][0]
+                self.assertFalse(item['playback_verified'])
+                self.assertTrue(item['visual_verified'])
+                self.assertEqual(item['verification'], '本轮实际画面与关键操作核查')
 
     def test_conflicting_audits_and_baseline_identity_collisions_are_errors(self):
         conflicting = dict(self.audit['items'][0], result='fail')

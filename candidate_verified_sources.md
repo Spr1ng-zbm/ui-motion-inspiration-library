@@ -1,6 +1,6 @@
 # 当前收录来源 · candidate_verified
 
-整理于 2026-11-03。仅列出本版仍收录的 108 条。
+整理于 2026-11-03。仅列出本版仍收录的 142 条。
 
 ## Igloo Inc.：品牌官网
 
@@ -649,3 +649,207 @@
 - 作品：https://truekindskincare.com
 - 依据：https://truekindskincare.com
 - 核验：本轮实际画面与关键操作核查
+
+## Slack Canvas：文档协作界面
+
+- 作品：https://www.youtube.com/watch?v=wJ80ip-buXc
+- 依据：https://www.youtube.com/watch?v=wJ80ip-buXc
+- 核验：本轮实际播放片段核查
+
+## Linear Agent：原生工作区展示
+
+- 作品：https://www.youtube.com/watch?v=mRql2VJ99gM
+- 依据：https://www.youtube.com/watch?v=mRql2VJ99gM
+- 核验：本轮实际播放片段核查
+
+## Framer 3.0：画布与协作展示
+
+- 作品：https://www.youtube.com/watch?v=6aioEoCdBJw
+- 依据：https://www.youtube.com/watch?v=6aioEoCdBJw
+- 核验：本轮实际播放片段核查
+
+## Pitch 2.0：演示编辑器短片
+
+- 作品：https://www.youtube.com/watch?v=tqfeE5G36tM
+- 依据：https://www.youtube.com/watch?v=tqfeE5G36tM
+- 核验：本轮实际播放片段核查
+
+## Google：Material Design 原始短片
+
+- 作品：https://www.youtube.com/watch?v=Q8TXgCzxEnw
+- 依据：https://www.youtube.com/watch?v=Q8TXgCzxEnw
+- 核验：本轮实际播放片段核查
+
+## Microsoft Design：OneDrive 界面更新
+
+- 作品：https://www.youtube.com/watch?v=DzXBdc8Dfmg
+- 依据：https://www.youtube.com/watch?v=DzXBdc8Dfmg
+- 核验：本轮实际播放片段核查
+
+## Ordinary Folk：Introducing Spline
+
+- 作品：https://www.youtube.com/watch?v=sIfP9h-H23s
+- 依据：https://www.youtube.com/watch?v=sIfP9h-H23s
+- 核验：本轮实际播放片段核查
+
+## Ordinary Folk：Webflow 新时代短片
+
+- 作品：https://www.youtube.com/watch?v=eEW2gr7K7kc
+- 依据：https://www.youtube.com/watch?v=eEW2gr7K7kc
+- 核验：本轮实际播放片段核查
+
+## Windows 11：系统界面发布短片
+
+- 作品：https://www.youtube.com/watch?v=Uh9643c2P6k
+- 依据：https://www.youtube.com/watch?v=Uh9643c2P6k
+- 核验：本轮实际播放片段核查
+
+## Figma Slides：协作演示界面
+
+- 作品：https://www.youtube.com/watch?v=p-B--SGq_ZQ
+- 依据：https://www.youtube.com/watch?v=p-B--SGq_ZQ
+- 核验：本轮实际播放片段核查
+
+## Cuberto：2024 工作室作品集
+
+- 作品：https://www.youtube.com/watch?v=bK8eUJ65LyY
+- 依据：https://www.youtube.com/watch?v=bK8eUJ65LyY
+- 核验：本轮实际播放片段核查
+
+## Shakib：35秒 UI/UX 作品集
+
+- 作品：https://www.youtube.com/watch?v=_CKnqRhebYg
+- 依据：https://www.youtube.com/watch?v=_CKnqRhebYg
+- 核验：本轮实际播放片段核查
+
+## Foundation：科幻游戏 UI 概念
+
+- 作品：https://www.bilibili.com/video/BV1rT411u7hC
+- 依据：https://www.bilibili.com/video/BV1rT411u7hC/
+- 核验：本轮实际播放片段核查
+
+## UE5：卡通商店、活动与领奖动效
+
+- 作品：https://www.bilibili.com/video/BV1LHVT6EEW9
+- 依据：https://www.bilibili.com/video/BV1LHVT6EEW9/
+- 核验：本轮实际播放片段核查
+
+## NAWA / MIX发布：AI 回复卡片动效
+
+- 作品：https://www.bilibili.com/video/BV125VB6WEYt
+- 依据：https://www.bilibili.com/video/BV125VB6WEYt/
+- 核验：本轮实际播放片段核查
+
+## Lookbook：时装图片悬停
+
+- 作品：https://tympanus.net/Demos/LookbookHoverEffects
+- 依据：https://tympanus.net/Demos/LookbookHoverEffects/
+- 核验：本轮实际画面与关键操作核查
+
+## Cinema Seat Preview：影院选座视角
+
+- 作品：https://tympanus.net/Demos/CinemaSeatPreview
+- 依据：https://tympanus.net/Demos/CinemaSeatPreview/
+- 核验：本轮实际画面与关键操作核查
+
+## Clip Menu：裁切展开的游戏菜单
+
+- 作品：https://tympanus.net/Development/EaseReverseClipMenu
+- 依据：https://tympanus.net/Development/EaseReverseClipMenu/
+- 核验：本轮实际画面与关键操作核查
+
+## Glass Xylophone：玻璃木琴
+
+- 作品：https://tympanus.net/Tutorials/Xylophone
+- 依据：https://tympanus.net/Tutorials/Xylophone/
+- 核验：本轮实际画面与关键操作核查
+
+## Thumbnail Flow：缩略图路径展开
+
+- 作品：https://tympanus.net/Tutorials/MotionPathTransition
+- 依据：https://tympanus.net/Tutorials/MotionPathTransition/
+- 核验：本轮实际画面与关键操作核查
+
+## SVG Mask：百叶窗图片转场
+
+- 作品：https://tympanus.net/Tutorials/SVGMaskScrollTransition
+- 依据：https://tympanus.net/Tutorials/SVGMaskScrollTransition/
+- 核验：本轮实际画面与关键操作核查
+
+## Maison Orée 概念：黑金界面与刻字聚光
+
+- 作品：https://tympanus.net/Demos/MuseumOfMotion/vibes/luxury
+- 依据：https://tympanus.net/Demos/MuseumOfMotion/exhibits/luxury/
+- 核验：本轮实际画面与关键操作核查
+
+## Paper Moon Press 概念：双色印刷与纸张剥离
+
+- 作品：https://tympanus.net/Demos/MuseumOfMotion/vibes/printed
+- 依据：https://tympanus.net/Demos/MuseumOfMotion/exhibits/printed/
+- 核验：本轮实际画面与关键操作核查
+
+## Squoosh：图片前后对比与浮动参数面板
+
+- 作品：https://squoosh.app
+- 依据：https://squoosh.app/
+- 核验：本轮实际画面与关键操作核查
+
+## Haikei：图形预览与参数编辑工作台
+
+- 作品：https://app.haikei.app
+- 依据：https://haikei.app/
+- 核验：本轮实际画面与关键操作核查
+
+## PatternPad：几何纹样编辑器
+
+- 作品：https://patternpad.com/editor.html
+- 依据：https://patternpad.com/
+- 核验：本轮实际画面与关键操作核查
+
+## OKLCH：色域与颜色工作台
+
+- 作品：https://oklch.com
+- 依据：https://oklch.com/
+- 核验：本轮实际画面与关键操作核查
+
+## Plausible：公开网站分析仪表盘
+
+- 作品：https://plausible.io/plausible.io
+- 依据：https://plausible.io/
+- 核验：本轮实际画面与关键操作核查
+
+## Roland50 Studio：电子乐器控制台
+
+- 作品：https://roland50.studio
+- 依据：https://roland50.studio/about
+- 核验：本轮实际画面与关键操作核查
+
+## Music Lab：声音频谱画布
+
+- 作品：https://musiclab.chromeexperiments.com/spectrogram-service
+- 依据：https://musiclab.chromeexperiments.com/bin/data/landing.json
+- 核验：本轮实际画面与关键操作核查
+
+## Motion：滑动指示器标签页
+
+- 作品：https://examples.motion.dev/react/smooth-tabs
+- 依据：https://examples.motion.dev/react/smooth-tabs
+- 核验：本轮实际画面与关键操作核查
+
+## Motion：轮播与灯箱共享导航
+
+- 作品：https://examples.motion.dev/react/carousel-lightbox
+- 依据：https://examples.motion.dev/react/carousel-lightbox
+- 核验：本轮实际画面与关键操作核查
+
+## Duolingo：官方角色与界面录像
+
+- 作品：https://framerusercontent.com/assets/RT0g2f4dz5zYO4UphLss616U4.mp4
+- 依据：https://framerusercontent.com/sites/3Hh1SxuP94sycwmlcNuNRW/HeroRotator.956b8Ttf.mjs
+- 核验：本轮实际播放片段核查
+
+## Spotify Wrapped：官方年度回顾动效录像
+
+- 作品：https://framerusercontent.com/assets/KzXZgGGMns7LaW6Bz5BAJj7Nw.mp4
+- 依据：https://framerusercontent.com/sites/3Hh1SxuP94sycwmlcNuNRW/HeroRotator.956b8Ttf.mjs
+- 核验：本轮实际播放片段核查
