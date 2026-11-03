@@ -21,6 +21,11 @@ CATEGORIES = {
     '动画组件':'组件与合集', '动效合集':'组件与合集', 'CSS 动画':'组件与合集',
     '交互动画':'微交互',
     '导航与微交互':'微交互', '应用与数据界面':'完整界面', '滚动与版式':'滚动与叙事',
+    'App 微交互':'微交互', '界面动效短片':'微交互',
+    '应用界面展示':'完整界面', '品牌与产品界面':'完整界面',
+    '作品集与展示':'画廊与导航', '作品集短片':'画廊与导航',
+    '游戏与交互体验':'游戏与趣味', '游戏UI与HUD':'游戏与趣味',
+    '音频可视化':'声音与可视化',
 }
 FEATURED = {'WebGL Fluid Simulation', 'Motion：App Store 卡片展开',
     'Igloo Inc.：品牌官网', 'monopo London：创意机构界面', 'Clay：数字产品与品牌案例',
@@ -28,7 +33,10 @@ FEATURED = {'WebGL Fluid Simulation', 'Motion：App Store 卡片展开',
     'House of Corto — 可拖动家具画廊', 'Lando Norris 官方网站',
     'Three.js：周期表空间排列', 'Blobmixer：虹彩雕塑轮播',
     '拿了个国际小奖，我的个人网站演示', '神兽管理局：中国神话交互网页',
-    'UI 动效作品集：消消美食街'}
+    'UI 动效作品集：消消美食街',
+    'Thomas Gertenbach：照片桌面作品集', 'FunTech Creativity：渲染模式切换实验',
+    'A24：三维唱片式电影目录概念', 'Squarespace Foundations：动态品牌系统',
+    'Overworld Audio：声音项目地图', 'Ceramic Beats：陶瓷音色序列器'}
 
 
 def canonical_url(value):

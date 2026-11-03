@@ -1,6 +1,6 @@
 # 当前收录来源 · candidate_verified
 
-整理于 2026-11-03。仅列出本版仍收录的 142 条。
+整理于 2026-11-03。仅列出本版仍收录的 192 条。
 
 ## Igloo Inc.：品牌官网
 
@@ -852,4 +852,304 @@
 
 - 作品：https://framerusercontent.com/assets/KzXZgGGMns7LaW6Bz5BAJj7Nw.mp4
 - 依据：https://framerusercontent.com/sites/3Hh1SxuP94sycwmlcNuNRW/HeroRotator.956b8Ttf.mjs
+- 核验：本轮实际播放片段核查
+
+## PixelVault：3D 服装商店
+
+- 作品：https://www.pixelvault.fit
+- 依据：https://thefwa.com/cases/pixelvault
+- 核验：本轮实际画面与关键操作核查
+
+## Nebulofi：星系音乐工作台
+
+- 作品：https://nebulofi.vercel.app
+- 依据：https://thefwa.com/cases/nebulofi
+- 核验：本轮实际画面与关键操作核查
+
+## The Aviator：飞行游戏 HUD
+
+- 作品：https://aviator.yakudoo.games
+- 依据：https://thefwa.com/cases/the-aviator
+- 核验：本轮实际画面与关键操作核查
+
+## Daiki Fujita：清醒与梦境作品集
+
+- 作品：https://daikifujita.com
+- 依据：https://thefwa.com/cases/daiki-fujita-portfolio
+- 核验：本轮实际画面与关键操作核查
+
+## Oh là là Ride：巴黎自行车竞速
+
+- 作品：https://ohlalaride.com
+- 依据：https://thefwa.com/cases/oh-la-la-ride
+- 核验：本轮实际画面与关键操作核查
+
+## Junkyard King Arena：手绘招式界面
+
+- 作品：https://junkyardking.io
+- 依据：https://thefwa.com/cases/junkyard-king-arena
+- 核验：本轮实际画面与关键操作核查
+
+## Griflan Labs｜弧面作品网格
+
+- 作品：https://labs.griflan.com
+- 依据：https://thefwa.com/cases/griflan-labs
+- 核验：本轮实际画面与关键操作核查
+
+## The Lantern House：灯笼屋作品集
+
+- 作品：https://www.dwaynekoh.com
+- 依据：https://thefwa.com/cases/the-lantern-house
+- 核验：本轮实际画面与关键操作核查
+
+## EnduroSat：卫星服务叙事
+
+- 作品：https://www.endurosat.com/space-service
+- 依据：https://thefwa.com/cases/endurosat-space-service
+- 核验：本轮实际画面与关键操作核查
+
+## Carter Ogunsola Lab｜轮盘与透视网格目录
+
+- 作品：https://carterogunsola.com/lab
+- 依据：https://thefwa.com/cases/carter-ogunsola-portfolio-2026
+- 核验：本轮实际画面与关键操作核查
+
+## Thomas Gertenbach：照片桌面作品集
+
+- 作品：https://thomasgertenbach.com
+- 依据：https://thefwa.com/cases/thomas-gertenbach-portfolio
+- 核验：本轮实际画面与关键操作核查
+
+## FunTech Creativity：渲染模式切换实验
+
+- 作品：https://experience2026.funtech.inc
+- 依据：https://thefwa.com/cases/experience-funtech-creativity
+- 核验：本轮实际画面与关键操作核查
+
+## KINORIA：胶片相机概念界面
+
+- 作品：https://kinoria.studio
+- 依据：https://thefwa.com/cases/kinoria
+- 核验：本轮实际画面与关键操作核查
+
+## Agrumea Farm：西西里农场食品界面
+
+- 作品：https://www.agrumeafarm.it/en
+- 依据：https://thefwa.com/cases/agrumea-farm
+- 核验：本轮实际画面与关键操作核查
+
+## A24：三维唱片式电影目录概念
+
+- 作品：https://a24.raviklaassens.com
+- 依据：https://thefwa.com/cases/a24
+- 核验：本轮实际画面与关键操作核查
+
+## Aevion：无人机点云产品演示
+
+- 作品：https://drone.riotters.com
+- 依据：https://thefwa.com/cases/lidar-drone-scanning
+- 核验：本轮实际画面与关键操作核查
+
+## Squarespace Foundations：动态品牌系统
+
+- 作品：https://brand.squarespace.com
+- 依据：https://thefwa.com/cases/squarespace-foundations
+- 核验：本轮实际画面与关键操作核查
+
+## Colonia Zacamil：公共艺术街区
+
+- 作品：https://coloniazacamil.com
+- 依据：https://thefwa.com/cases/colonia-zacamil
+- 核验：本轮实际画面与关键操作核查
+
+## Overworld Audio：声音项目地图
+
+- 作品：https://overworldaudio.com
+- 依据：https://thefwa.com/cases/overworld-audio
+- 核验：本轮实际画面与关键操作核查
+
+## Seunghyuk Kim：点线面连续作品空间
+
+- 作品：https://seunghyuk.com
+- 依据：https://thefwa.com/cases/well-dots-lines-planes
+- 核验：本轮实际画面与关键操作核查
+
+## Ceramic Beats：陶瓷音色序列器
+
+- 作品：https://ceramic-beats.zui.ooo
+- 依据：https://thefwa.com/cases/ceramicbeats
+- 核验：本轮实际画面与关键操作核查
+
+## Spyker C8 Preliator｜一天旅程的车型叙事
+
+- 作品：https://spykercars.com/c8-preliator
+- 依据：https://thefwa.com/cases/spyker-cars-p2
+- 核验：本轮实际画面与关键操作核查
+
+## Artem Shcherbakov：导演动态作品集
+
+- 作品：https://artemartemartem.com
+- 依据：https://thefwa.com/cases/artem-shcherbakov-p3
+- 核验：本轮实际画面与关键操作核查
+
+## TBWA HAKUHODO：裂缝与动态网格
+
+- 作品：https://www.tbwahakuhodo.co.jp
+- 依据：https://thefwa.com/cases/tbwahakuhodo-corporate-website-p2
+- 核验：本轮实际画面与关键操作核查
+
+## Khufu’s：金字塔餐厅数字体验
+
+- 作品：https://khufus.com
+- 依据：https://monarqeg.com/case-studies/khufus/
+- 核验：本轮实际画面与关键操作核查
+
+## 197 Historias Ilustradas：插画记忆档案
+
+- 作品：https://www.197historiasilustradas.com
+- 依据：https://thefwa.com/cases/197-historias-ilustradas
+- 核验：本轮实际画面与关键操作核查
+
+## Noho：家具电商界面重设计
+
+- 作品：https://noho.ink
+- 依据：https://thefwa.com/cases/noho
+- 核验：本轮实际画面与关键操作核查
+
+## 2Advanced Prophecy V4：科幻界面档案
+
+- 作品：https://v4prophecy.2advanced.com
+- 依据：https://thefwa.com/cases/2advanced-studios-prophecy
+- 核验：本轮实际画面与关键操作核查
+
+## Shaky Picks：环形卡牌选择
+
+- 作品：https://myshaky.com/picks
+- 依据：https://thefwa.com/cases/shaky-picks
+- 核验：本轮实际画面与关键操作核查
+
+## Pedro Belleza：跨年代界面时光机
+
+- 作品：https://www.pedrobelleza.com
+- 依据：https://thefwa.com/cases/pedro-bellezas-personal-website
+- 核验：本轮实际画面与关键操作核查
+
+## evian Gallery of Youth：五室虚拟展馆
+
+- 作品：https://celebrating200.evian.com
+- 依据：https://thefwa.com/cases/evian-gallery-of-youth
+- 核验：本轮实际画面与关键操作核查
+
+## Mosby’s Files：拟物档案夹导航
+
+- 作品：https://www.mosbyfiles.com
+- 依据：https://thefwa.com/cases/mosbys-files
+- 核验：本轮实际画面与关键操作核查
+
+## Miu Miu：包袋探索之家
+
+- 作品：https://immersivebags.miumiu.com
+- 依据：https://thefwa.com/cases/miumiu-a-house-that-we-shaped
+- 核验：本轮实际画面与关键操作核查
+
+## FS 60P：实时腕表与页面互动
+
+- 作品：https://thewatch.60fps.fr
+- 依据：https://thefwa.com/cases/the-watch
+- 核验：本轮实际画面与关键操作核查
+
+## Le Mans Classic：幕后摄影叙事
+
+- 作品：https://lemansclassic.richardmille.com
+- 依据：https://thefwa.com/cases/le-mans-classic
+- 核验：本轮实际画面与关键操作核查
+
+## Hearst：ELLE × Esquire 好莱坞摄影展
+
+- 作品：https://www.hollywoodexhibit2026.com
+- 依据：https://thefwa.com/cases/elle-and-esquire-exhibit-2026
+- 核验：本轮实际画面与关键操作核查
+
+## FunTech：幻灯片式动态品牌系统
+
+- 作品：https://ci.funtech.inc/ja
+- 依据：https://thefwa.com/cases/funtech-brand-identity
+- 核验：本轮实际画面与关键操作核查
+
+## Runmo：心电波形与发光游标
+
+- 作品：https://video.gumlet.io/66b49d08225b7b88f78b7b44/6a9e9ba32f578a19ae2569ae/main.mp4
+- 依据：https://60fps.design/shots/runmo-lab-pulse-heart-ecg-interaction
+- 核验：本轮实际播放片段核查
+
+## Runmo：跑步里程环形旋钮
+
+- 作品：https://video.gumlet.io/66b49d08225b7b88f78b7b44/6a9e9bb52f578a19ae256a7a/main.mp4
+- 依据：https://60fps.design/shots/runmo-drag-to-adjust-distance-wheel-interaction
+- 核验：本轮实际播放片段核查
+
+## CRED：票券打印与重排
+
+- 作品：https://video.gumlet.io/66b49d08225b7b88f78b7b44/6ac725a341d1f14ce09740f1/main.mp4
+- 依据：https://60fps.design/shots/cred-printing-tickets-shuffle-interaction
+- 核验：本轮实际播放片段核查
+
+## Revolut：虚拟卡光泽扫过
+
+- 作品：https://video.gumlet.io/66b49d08225b7b88f78b7b44/6a9e9ba2aa4fda34666693d5/main.mp4
+- 依据：https://60fps.design/shots/revolut-single-use-pulse-card-sweep-morph-animation
+- 核验：本轮实际播放片段核查
+
+## Duolingo：深色棋盘与能量奖励
+
+- 作品：https://video.gumlet.io/66b49d08225b7b88f78b7b44/6a9e9ba2aa4fda34666693d3/main.mp4
+- 依据：https://60fps.design/shots/duolingo-battery-fill-up-interaction
+- 核验：本轮实际播放片段核查
+
+## Trackables：指标卡扩展为详情
+
+- 作品：https://60fps.design/shots/trackables-card-morph-to-screen-interaction
+- 依据：https://60fps.design/shots/trackables-card-morph-to-screen-interaction
+- 核验：本轮实际播放片段核查
+
+## X：股票时间周期与面积曲线变形
+
+- 作品：https://video.gumlet.io/66b49d08225b7b88f78b7b44/69e48b4ed04993c17ee2b5f9/main.mp4
+- 依据：https://60fps.design/shots/x-stock-graph-interaction
+- 核验：本轮实际播放片段核查
+
+## Methods：滑杆联动收益柱图
+
+- 作品：https://video.gumlet.io/66b49d08225b7b88f78b7b44/694c0d18f1ad267a0647ebec/main.mp4
+- 依据：https://60fps.design/shots/methods-payout-slider-interaction
+- 核验：本轮实际播放片段核查
+
+## Spotify Wrapped：歌手排名竞速
+
+- 作品：https://video.gumlet.io/66b49d08225b7b88f78b7b44/6934008e7d19d07028262457/main.mp4
+- 依据：https://60fps.design/shots/spotify-2025-wrapped-artist-race-animation
+- 核验：本轮实际播放片段核查
+
+## Harvee：点阵与环图时间范围切换
+
+- 作品：https://video.gumlet.io/66b49d08225b7b88f78b7b44/69171d15df9720847e0ac8c9/main.mp4
+- 依据：https://60fps.design/shots/harvee-tab-switch-graph-morph-interaction
+- 核验：本轮实际播放片段核查
+
+## The Outsiders：睡眠阶段图表横移
+
+- 作品：https://video.gumlet.io/66b49d08225b7b88f78b7b44/68f080a7befe20b134b9fd4a/main.mp4
+- 依据：https://60fps.design/shots/the-outsiders-sleep-stages-graph-slide-interaction
+- 核验：本轮实际播放片段核查
+
+## Lumy：时间滑杆与太阳轨道
+
+- 作品：https://video.gumlet.io/66b49d08225b7b88f78b7b44/68e71806e76d5c62e6f6decf/main.mp4
+- 依据：https://60fps.design/shots/lumy-time-slider-interaction
+- 核验：本轮实际播放片段核查
+
+## Family：流体价格曲线与标签弹性
+
+- 作品：https://video.gumlet.io/66b49d08225b7b88f78b7b44/68689573fc386bd77fdc75f5/main.mp4
+- 依据：https://60fps.design/shots/family-fluid-price-charts-animation
 - 核验：本轮实际播放片段核查
