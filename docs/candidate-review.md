@@ -2,7 +2,7 @@
 
 更新：2026-11-03。发现候选 270 条；这里是筛选工作记录，不是推荐列表。
 
-已收录：200 · 暂无法完成核验：33 · 质量筛除：23 · 尚未完成核验：14
+已收录：211 · 暂无法完成核验：34 · 质量筛除：25
 
 “暂无法完成核验”包括站点访问、登录门槛、渲染和核验工具限制，不等于网站永久失效。未通过条目不进入主库。
 
@@ -259,22 +259,22 @@
 | [Lumy：时间滑杆与太阳轨道](https://60fps.design/shots/lumy-time-slider-interaction) | 已收录 | 蓝紫天空下白色太阳沿弧线移动，时间标尺拖动时出现圆角时间气泡；凌晨与夜间状态变化，下面的日落等时间以不同颜色突出。 |
 | [Family：流体价格曲线与标签弹性](https://60fps.design/shots/family-fluid-price-charts-animation) | 已收录 | 白色资产页中蓝色价格线随 1H、1W 等时间标签切换改变形态；周期选中圆点平移，右上变化百分比与颜色同步更新。 |
 | [Gucci：La Famiglia 互动谜案](https://lafamigliamysteryunfolds.gucci.com/) | 暂无法完成核验 | 精美夜景庄园封面只有 LOG IN 入口，没有访客体验按钮，无法核查核心互动。 |
-| [Indigo：五段珠宝感官故事](https://indigo-laboratory.it/) | 暂无法完成核验 | 页面结构已加载，但本轮浏览器截图与点击服务连续超时，无法完成视觉及交互判断。 |
-| [OUTFIT：设计工作室服饰商店](https://outfit.hellohello.is/) | 暂无法完成核验 | 商品结构和加载进度100可读取，但浏览器截图连续超时，未获得可评估的视觉画面。 |
-| [RetroCast Now：复古天气播报界面](https://weather.com/retro) | 暂无法完成核验 | 启动后可读天气播报结构，但截图服务超时，无法确认复古视觉质量。 |
-| [UTB 25 周年：动态历史地图](https://jenamdvacetpet.cz/) | 暂无法完成核验 | 网页结构可读取，但本轮浏览器截图服务持续超时，无法确认场景渲染和核心时间轴交互。 |
+| [Indigo：五段珠宝感官故事](https://indigo-laboratory.it/) | 已收录 | 模糊巨字入口过渡到留白双图和全幅模特摄影；RHYTHM 使用不规则字形与紫色版块，底部五章节导航固定，点击 WHISPER 后平滑跨段滚动到对应全幅画面。 |
+| [OUTFIT：设计工作室服饰商店](https://outfit.hellohello.is/) | 已收录 | 超大红色标题配米白底与四列商品摄影；详情切为大图和巨字信息两栏，深色按钮把页面变为黑底白字，尺码选择出现实心高亮块。 |
+| [RetroCast Now：复古天气播报界面](https://weather.com/retro) | 暂无法完成核验 | 可访问性状态从启动按钮切换到当前天气及运行时钟，但截图未成功返回；随后浏览器画面读取受到另一标签错误页的 URL 策略阻止，无法完成视觉质量确认。 |
+| [UTB 25 周年：动态历史地图](https://jenamdvacetpet.cz/) | 暂无法完成核验 | 本次浏览器返回 ERR_CONNECTION_CLOSED，未获得可核验的界面画面。 |
 | [Dialed Color：颜色记忆滑杆界面](https://dialed.gg/color) | 暂无法完成核验 | 单人入口响应并出现 Let’s go it alone，但截图服务持续超时，未能完成颜色界面的视觉判断。 |
-| [Quintessence：五种视觉世界叙事](https://quintessence.ultranoir.com/) | 尚未完成核验 | 没有完成实际画面与关键操作核验，不计入推荐数量。 |
-| [365days：水墨与金色作品空间](https://kamimae.com/365days/) | 尚未完成核验 | 没有完成实际画面与关键操作核验，不计入推荐数量。 |
-| [XOX：实时井字棋界面](https://xox.makemepulse.com/) | 尚未完成核验 | 没有完成实际画面与关键操作核验，不计入推荐数量。 |
-| [iyO：无屏设备三维配置体验](https://www.iyo.ai/) | 尚未完成核验 | 没有完成实际画面与关键操作核验，不计入推荐数量。 |
-| [Sutéra：Change Reality 空间界面](https://www.sutera.ch/) | 尚未完成核验 | 没有完成实际画面与关键操作核验，不计入推荐数量。 |
-| [Ruinart：数字壁画探索](https://fresque.ruinart.com/) | 尚未完成核验 | 没有完成实际画面与关键操作核验，不计入推荐数量。 |
-| [Utopia Tokyo：面具与未来城市](https://www.utopiatokyo.com/) | 尚未完成核验 | 没有完成实际画面与关键操作核验，不计入推荐数量。 |
-| [Ventusky：天气图层与风场界面](https://www.ventusky.com/) | 尚未完成核验 | 没有完成实际画面与关键操作核验，不计入推荐数量。 |
-| [Electricity Maps：用电碳强度地图](https://app.electricitymaps.com/map/fifteen_minutes) | 尚未完成核验 | 没有完成实际画面与关键操作核验，不计入推荐数量。 |
-| [The Real Kevin Bacon：电影人物关系](https://pudding.cool/2026/10/kevin-bacon/) | 尚未完成核验 | 没有完成实际画面与关键操作核验，不计入推荐数量。 |
-| [5,000 Restaurant Menus：历史菜单浏览器](https://pudding.cool/2026/06/menu-collection/) | 尚未完成核验 | 没有完成实际画面与关键操作核验，不计入推荐数量。 |
-| [Happy Map：十万个幸福瞬间](https://pudding.cool/2026/02/happy-map/) | 尚未完成核验 | 没有完成实际画面与关键操作核验，不计入推荐数量。 |
-| [Common Threads：音乐主题时间线](https://pudding.cool/2025/12/motifs/) | 尚未完成核验 | 没有完成实际画面与关键操作核验，不计入推荐数量。 |
-| [NYC Urban Textscape：街头文字搜索](https://pudding.cool/2025/07/street-view/) | 尚未完成核验 | 没有完成实际画面与关键操作核验，不计入推荐数量。 |
+| [Quintessence：五种视觉世界叙事](https://quintessence.ultranoir.com/) | 质量筛除 | 主体偏叙事影片，界面参考量较少；点击造成的独立转场差异不够明确，本轮不作为高质量UI与交互特效收录。 |
+| [365days：水墨与金色作品空间](https://kamimae.com/365days/) | 已收录 | 灰色空间中水墨与金色画作浮在柔和光晕前，打开后出现日期和左右箭头；下一张从 Dec 31 切为 Jan 1，画作及底部序号由1/366更新为2/366。 |
+| [XOX：实时井字棋界面](https://xox.makemepulse.com/) | 暂无法完成核验 | 粉紫井字棋背景可见，进度从14%到80%再到98%，但持续停在98%，未出现可玩的主界面。 |
+| [iyO：无屏设备三维配置体验](https://www.iyo.ai/) | 已收录 | 黑底白色粒子从环形线框聚散成文字；顶部胶囊向下展开，呈现耳机、麦克风等不同尺寸的浅色产品卡片。 |
+| [Sutéra：Change Reality 空间界面](https://www.sutera.ch/) | 已收录 | 白底黑字悬浮苔藓岩石配标注引线，经故障条带转场变成蓝色粒子头部、网格背景与复古窗口仪表；标题字体和整套配色同步改变。 |
+| [Ruinart：数字壁画探索](https://fresque.ruinart.com/) | 暂无法完成核验 | 页面要求选择地区与出生年份后才能进入；未提交年龄信息，未见核心壁画交互。 |
+| [Utopia Tokyo：面具与未来城市](https://www.utopiatokyo.com/) | 已收录 | 红黑科技版式展示日式面具；进入属性面板后有六根竖向刻度滑杆和中央雷达图，力量提高时雷达图向上伸展，剩余点数60变48。 |
+| [Ventusky：天气图层与风场界面](https://www.ventusky.com/) | 已收录 | 地图上白色风场流线移动；切到风速后黄绿色温度层变为蓝绿风速层，右侧单位从°C变km/h，左侧高度选择同步更新。 |
+| [Electricity Maps：用电碳强度地图](https://app.electricitymaps.com/map/fifteen_minutes) | 暂无法完成核验 | 首次出现 Something went wrong，重试后进入 Cloudflare 安全验证页，未获得实际地图。 |
+| [The Real Kevin Bacon：电影人物关系](https://pudding.cool/2026/10/kevin-bacon/) | 已收录 | 紫黑背景的演员关系网中，选中节点放大并把通往 Kevin Bacon 的两段边高亮，其余关系变暗；底部距离说明与左侧叙事文字更新。 |
+| [5,000 Restaurant Menus：历史菜单浏览器](https://pudding.cool/2026/06/menu-collection/) | 已收录 | 档案缩略图按年份排列，放大后可选择单张；点击展开双页历史菜单扫描件、左侧年份地点说明与菜品面板，保留平移缩放控件。 |
+| [Happy Map：十万个幸福瞬间](https://pudding.cool/2026/02/happy-map/) | 已收录 | 低多边形岛屿承载大量人物，右下角缩放与左下角小地图配合；点选人物后弹出对应幸福主题文字气泡，背景和其他人物保持可见。 |
+| [Common Threads：音乐主题时间线](https://pudding.cool/2025/12/motifs/) | 已收录 | 深灰底黄色弧线连接时间节点；选择主题后其他弧线变暗，解释卡片和曲名出现；NEXT 将高亮节点与标签从开头移到末尾，曲名切换 Finale。 |
+| [NYC Urban Textscape：街头文字搜索](https://pudding.cool/2025/07/street-view/) | 质量筛除 | 主要是长篇文章与地图图像，当前页面可操作 UI 较少；与已保留的互动地图相比参考价值不够突出，避免按搜索工具夸大收录。 |

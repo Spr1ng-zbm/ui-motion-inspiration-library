@@ -1,6 +1,6 @@
 # 当前收录来源 · candidate_verified
 
-整理于 2026-11-03。仅列出本版仍收录的 200 条。
+整理于 2026-11-03。仅列出本版仍收录的 211 条。
 
 ## Igloo Inc.：品牌官网
 
@@ -1201,3 +1201,69 @@
 - 作品：https://video.gumlet.io/66b49d08225b7b88f78b7b44/68689573fc386bd77fdc75f5/main.mp4
 - 依据：https://60fps.design/shots/family-fluid-price-charts-animation
 - 核验：本轮实际播放片段核查
+
+## Indigo：五段珠宝感官故事
+
+- 作品：https://indigo-laboratory.it
+- 依据：https://thefwa.com/cases/indigo-laboratory
+- 核验：本轮实际画面与关键操作核查
+
+## OUTFIT：设计工作室服饰商店
+
+- 作品：https://outfit.hellohello.is
+- 依据：https://thefwa.com/cases/outfit
+- 核验：本轮实际画面与关键操作核查
+
+## 365days：水墨与金色作品空间
+
+- 作品：https://kamimae.com/365days
+- 依据：https://thefwa.com/cases/365days-project-in-2024
+- 核验：本轮实际画面与关键操作核查
+
+## iyO：粒子主视觉与胶囊产品导航
+
+- 作品：https://www.iyo.ai
+- 依据：https://thefwa.com/cases/iyo-p2
+- 核验：本轮实际画面与关键操作核查
+
+## Sutéra：Change Reality 空间界面
+
+- 作品：https://www.sutera.ch
+- 依据：https://thefwa.com/cases/sutera
+- 核验：本轮实际画面与关键操作核查
+
+## Utopia Tokyo：面具与未来城市
+
+- 作品：https://www.utopiatokyo.com
+- 依据：https://thefwa.com/cases/utopia-tokyo
+- 核验：本轮实际画面与关键操作核查
+
+## Ventusky：天气图层与风场界面
+
+- 作品：https://www.ventusky.com
+- 依据：https://www.ventusky.com/
+- 核验：本轮实际画面与关键操作核查
+
+## The Real Kevin Bacon：电影人物关系
+
+- 作品：https://pudding.cool/2026/10/kevin-bacon
+- 依据：https://pudding.cool/2026/10/kevin-bacon/
+- 核验：本轮实际画面与关键操作核查
+
+## 5,000 Restaurant Menus：历史菜单浏览器
+
+- 作品：https://pudding.cool/2026/06/menu-collection
+- 依据：https://pudding.cool/2026/06/menu-collection/
+- 核验：本轮实际画面与关键操作核查
+
+## Happy Map：十万个幸福瞬间
+
+- 作品：https://pudding.cool/2026/02/happy-map
+- 依据：https://pudding.cool/2026/02/happy-map/
+- 核验：本轮实际画面与关键操作核查
+
+## Common Threads：音乐主题时间线
+
+- 作品：https://pudding.cool/2025/12/motifs
+- 依据：https://pudding.cool/2025/12/motifs/
+- 核验：本轮实际画面与关键操作核查

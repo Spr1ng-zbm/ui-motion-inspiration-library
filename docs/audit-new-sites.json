@@ -1702,37 +1702,39 @@
     "name": "Indigo：五段珠宝感官故事",
     "checked_at": "2026-11-03",
     "url": "https://indigo-laboratory.it/",
-    "result": "blocked",
-    "action": "打开页面，读取五章节与无声体验入口，并尝试进入。",
-    "observed": "页面结构已加载，但本轮浏览器截图与点击服务连续超时，无法完成视觉及交互判断。",
-    "access_notes": "核验环境受阻，不代表网站已失效；待复查，暂不收录。"
+    "result": "pass",
+    "action": "选择无声进入，滚动到 RHYTHM，关闭 Cookie 提示，点击底部 WHISPER 章节。",
+    "observed": "模糊巨字入口过渡到留白双图和全幅模特摄影；RHYTHM 使用不规则字形与紫色版块，底部五章节导航固定，点击 WHISPER 后平滑跨段滚动到对应全幅画面。",
+    "suggested_description": "珠宝品牌的五章节视觉叙事，模糊巨字、全幅摄影、留白双图和不规则字体交替出现，固定章节栏驱动长页面平滑跳转。",
+    "access_notes": "本次已恢复视觉核验，检查了无声入口、滚动和章节跳转；未测试音频及购买流程。"
   },
   {
     "name": "OUTFIT：设计工作室服饰商店",
     "checked_at": "2026-11-03",
     "url": "https://outfit.hellohello.is/",
-    "result": "blocked",
-    "action": "打开商店并读取商品与主题切换入口。",
-    "observed": "商品结构和加载进度100可读取，但浏览器截图连续超时，未获得可评估的视觉画面。",
-    "access_notes": "核验环境受阻，不代表网站失效；待视觉复查。"
+    "result": "pass",
+    "action": "查看首页商品网格，打开 Off by Design 详情，切换深色主题并选择 L 尺码。",
+    "observed": "超大红色标题配米白底与四列商品摄影；详情切为大图和巨字信息两栏，深色按钮把页面变为黑底白字，尺码选择出现实心高亮块。",
+    "suggested_description": "服装商店用巨幅字标、紧密摄影网格和大字号商品详情建立视觉节奏，支持整页色彩主题切换与简洁规格选择反馈。",
+    "access_notes": "已核验首页、商品详情、深色主题及尺码反馈；未加入购物袋或下单。"
   },
   {
     "name": "RetroCast Now：复古天气播报界面",
     "checked_at": "2026-11-03",
     "url": "https://weather.com/retro",
     "result": "blocked",
-    "action": "点击 START RETROCAST，确认天气播报文本和时钟出现。",
-    "observed": "启动后可读天气播报结构，但截图服务超时，无法确认复古视觉质量。",
-    "access_notes": "功能入口已响应；视觉核验环境受阻，暂不收录。"
+    "action": "打开页面并点击 START RETROCAST。",
+    "observed": "可访问性状态从启动按钮切换到当前天气及运行时钟，但截图未成功返回；随后浏览器画面读取受到另一标签错误页的 URL 策略阻止，无法完成视觉质量确认。",
+    "access_notes": "启动状态可读取，但本轮没有成功核验实际画面，暂不纳入正式库。"
   },
   {
     "name": "UTB 25 周年：动态历史地图",
     "checked_at": "2026-11-03",
     "url": "https://jenamdvacetpet.cz/",
     "result": "blocked",
-    "action": "打开周年体验，读取加载页、Unity画布和时间轴控件。",
-    "observed": "网页结构可读取，但本轮浏览器截图服务持续超时，无法确认场景渲染和核心时间轴交互。",
-    "access_notes": "核验环境受阻，不代表站点失效；未纳入主库。"
+    "action": "重新打开候选主页。",
+    "observed": "本次浏览器返回 ERR_CONNECTION_CLOSED，未获得可核验的界面画面。",
+    "access_notes": "本次连接被关闭，暂不纳入正式库。"
   },
   {
     "name": "Dialed Color：颜色记忆滑杆界面",
@@ -1742,5 +1744,145 @@
     "action": "打开颜色游戏并点击 Single player。",
     "observed": "单人入口响应并出现 Let’s go it alone，但截图服务持续超时，未能完成颜色界面的视觉判断。",
     "access_notes": "核验环境受阻，不代表站点失效；未纳入主库。"
+  },
+  {
+    "name": "Quintessence：五种视觉世界叙事",
+    "checked_at": "2026-11-03",
+    "url": "https://quintessence.ultranoir.com/",
+    "result": "pass",
+    "action": "点击 START THE EXPERIENCE，观看黑豹穿行与水面倒影片段，并两次点击画面。",
+    "observed": "竖屏影像在写实黑豹、粉色废墟剪影和水面倒影间变化，顶部进度条持续前进；界面主要只有进度和音频开关。",
+    "quality_recommendation": "remove",
+    "quality_reason": "主体偏叙事影片，界面参考量较少；点击造成的独立转场差异不够明确，本轮不作为高质量UI与交互特效收录。",
+    "access_notes": "已观察影片画面，未将视觉影片等同于完整交互界面。"
+  },
+  {
+    "name": "365days：水墨与金色作品空间",
+    "checked_at": "2026-11-03",
+    "url": "https://kamimae.com/365days/",
+    "result": "pass",
+    "action": "进入展馆，打开中央画作，再点击右侧 Next painting。",
+    "observed": "灰色空间中水墨与金色画作浮在柔和光晕前，打开后出现日期和左右箭头；下一张从 Dec 31 切为 Jan 1，画作及底部序号由1/366更新为2/366。",
+    "suggested_description": "水墨与金色画作组成的空间画廊：柔光衬托悬浮画框，作品详情以日期和左右切换连接全年创作。",
+    "access_notes": "已核验入场、画作详情及前两张切换；未遍历366张或验证全部飞行控制。"
+  },
+  {
+    "name": "XOX：实时井字棋界面",
+    "checked_at": "2026-11-03",
+    "url": "https://xox.makemepulse.com/",
+    "result": "blocked",
+    "action": "打开页面，跨其他两站核查期间多次观察加载状态。",
+    "observed": "粉紫井字棋背景可见，进度从14%到80%再到98%，但持续停在98%，未出现可玩的主界面。",
+    "access_notes": "本轮核心游戏未完成加载，暂不收录；不认定永久失效。"
+  },
+  {
+    "name": "iyO：无屏设备三维配置体验",
+    "checked_at": "2026-11-03",
+    "url": "https://www.iyo.ai/",
+    "result": "pass",
+    "action": "查看粒子主页，滚动并点击顶部九点产品菜单。",
+    "observed": "黑底白色粒子从环形线框聚散成文字；顶部胶囊向下展开，呈现耳机、麦克风等不同尺寸的浅色产品卡片。",
+    "suggested_name": "iyO：粒子主视觉与胶囊产品导航",
+    "suggested_description": "白色粒子在几何轮廓与文字间聚散，顶部胶囊展开为错落产品卡片菜单；适合硬件品牌主视觉与紧凑导航参考。",
+    "access_notes": "已验证首页动态与产品菜单；未核验购买或三维配置功能。"
+  },
+  {
+    "name": "Sutéra：Change Reality 空间界面",
+    "checked_at": "2026-11-03",
+    "url": "https://www.sutera.ch/",
+    "result": "pass",
+    "action": "等待首页完成加载，点击顶部 CHANGE REALITY 并比较切换前后。",
+    "observed": "白底黑字悬浮苔藓岩石配标注引线，经故障条带转场变成蓝色粒子头部、网格背景与复古窗口仪表；标题字体和整套配色同步改变。",
+    "suggested_description": "CHANGE REALITY 将自然岩石标注界面切换为蓝色粒子肖像与复古仪表窗口，连同字体、配色和布局一起转变。",
+    "access_notes": "已验证首页两种视觉模式；当前桌面视口出现轻微横向溢出，未核查全部项目。"
+  },
+  {
+    "name": "Ruinart：数字壁画探索",
+    "checked_at": "2026-11-03",
+    "url": "https://fresque.ruinart.com/",
+    "result": "blocked",
+    "action": "打开官方数字壁画入口并查看进入要求。",
+    "observed": "页面要求选择地区与出生年份后才能进入；未提交年龄信息，未见核心壁画交互。",
+    "access_notes": "年龄验证入口受限，未核验核心内容，暂不收录。"
+  },
+  {
+    "name": "Utopia Tokyo：面具与未来城市",
+    "checked_at": "2026-11-03",
+    "url": "https://www.utopiatokyo.com/",
+    "result": "pass",
+    "action": "选择 SAFE MODE，进入 EXECUTE_CREATION，将 STRENGTH 滑杆从10拖到22。",
+    "observed": "红黑科技版式展示日式面具；进入属性面板后有六根竖向刻度滑杆和中央雷达图，力量提高时雷达图向上伸展，剩余点数60变48。",
+    "suggested_description": "红黑日式科幻界面：面具轮播、六维属性滑杆与雷达图联动，用刻度、数字和几何面积共同反馈角色配置。",
+    "access_notes": "使用安全模式核验；未开启高频闪烁特效，未验证最终族群结果。"
+  },
+  {
+    "name": "Ventusky：天气图层与风场界面",
+    "checked_at": "2026-11-03",
+    "url": "https://www.ventusky.com/",
+    "result": "pass",
+    "action": "查看默认温度地图并切换到风速图层，比较地图配色、图例和流线。",
+    "observed": "地图上白色风场流线移动；切到风速后黄绿色温度层变为蓝绿风速层，右侧单位从°C变km/h，左侧高度选择同步更新。",
+    "suggested_description": "天气工作台将动态风场流线、连续色阶地图、图层胶囊和底部时间轴组合，图层切换同步更新配色与图例。",
+    "access_notes": "已验证温度与风速两种图层；作为数据界面参考，未核查天气数据准确性或全部付费图层。"
+  },
+  {
+    "name": "Electricity Maps：用电碳强度地图",
+    "checked_at": "2026-11-03",
+    "url": "https://app.electricitymaps.com/map/fifteen_minutes",
+    "result": "blocked",
+    "action": "打开地图，等待后点击页面提示的 Refresh page 重试一次。",
+    "observed": "首次出现 Something went wrong，重试后进入 Cloudflare 安全验证页，未获得实际地图。",
+    "access_notes": "本轮访问受阻，未操作安全验证，未纳入主库。"
+  },
+  {
+    "name": "The Real Kevin Bacon：电影人物关系",
+    "checked_at": "2026-11-03",
+    "url": "https://pudding.cool/2026/10/kevin-bacon/",
+    "result": "pass",
+    "action": "点击 Cillian Murphy 节点，再用右方向键推进叙事。",
+    "observed": "紫黑背景的演员关系网中，选中节点放大并把通往 Kevin Bacon 的两段边高亮，其余关系变暗；底部距离说明与左侧叙事文字更新。",
+    "suggested_description": "电影人物关系图用节点放大、路径高亮和背景弱化解释连接关系，左右翻页推进讲述，适合网络图与可交互叙事参考。",
+    "access_notes": "已验证节点选中与前两步叙事；未核查全部演员关系或全文。"
+  },
+  {
+    "name": "5,000 Restaurant Menus：历史菜单浏览器",
+    "checked_at": "2026-11-03",
+    "url": "https://pudding.cool/2026/06/menu-collection/",
+    "result": "pass",
+    "action": "缩放年份菜单画布三次，点击一份1905年的 Opening Collation 菜单。",
+    "observed": "档案缩略图按年份排列，放大后可选择单张；点击展开双页历史菜单扫描件、左侧年份地点说明与菜品面板，保留平移缩放控件。",
+    "suggested_description": "历史菜单缩略图组成可缩放年份画布，点选后展开双页原件与侧栏说明；大型图像档案和收藏浏览界面的参考。",
+    "access_notes": "已核验画布缩放及一份1905年菜单详情；未遍历全部档案或核实菜品解释。"
+  },
+  {
+    "name": "Happy Map：十万个幸福瞬间",
+    "checked_at": "2026-11-03",
+    "url": "https://pudding.cool/2026/02/happy-map/",
+    "result": "pass",
+    "action": "点击 Start 进入叙事，再 Skip story 进入地图，点击中央红帽人物。",
+    "observed": "低多边形岛屿承载大量人物，右下角缩放与左下角小地图配合；点选人物后弹出对应幸福主题文字气泡，背景和其他人物保持可见。",
+    "suggested_description": "低多边形岛屿、人物标记与小地图构成可探索的数据世界，点击人物弹出故事气泡；兼具叙事入口与自由探索模式。",
+    "access_notes": "已核验叙事入口、自由地图及人物气泡；未遍历全部人物与筛选条件。"
+  },
+  {
+    "name": "Common Threads：音乐主题时间线",
+    "checked_at": "2026-11-03",
+    "url": "https://pudding.cool/2025/12/motifs/",
+    "result": "pass",
+    "action": "点击 LISTEN 进入，滚动到 Wicked 六主题图表，点击 WICKED 标签，再点 NEXT。",
+    "observed": "深灰底黄色弧线连接时间节点；选择主题后其他弧线变暗，解释卡片和曲名出现；NEXT 将高亮节点与标签从开头移到末尾，曲名切换 Finale。",
+    "suggested_description": "音乐主题以黄色弧线跨越时间轴，点选后聚焦关联节点并展开解释卡片，前后切换同步移动高亮和标签；适合时间序列与媒体浏览 UI。",
+    "access_notes": "已核验主题选择和前后节点联动；未验证全部曲目音频，不作为音乐教程收录。"
+  },
+  {
+    "name": "NYC Urban Textscape：街头文字搜索",
+    "checked_at": "2026-11-03",
+    "url": "https://pudding.cool/2025/07/street-view/",
+    "result": "pass",
+    "action": "滚动首屏街景标注叙事及 Broadway 地图章节。",
+    "observed": "街景照片随滚动切换，彩色框标注路牌词语；后续以图像和正文解释城市词汇分布。核心街头文字搜索位于外链。",
+    "quality_recommendation": "remove",
+    "quality_reason": "主要是长篇文章与地图图像，当前页面可操作 UI 较少；与已保留的互动地图相比参考价值不够突出，避免按搜索工具夸大收录。",
+    "access_notes": "页面可访问；按质量取舍不收录。"
   }
 ]
