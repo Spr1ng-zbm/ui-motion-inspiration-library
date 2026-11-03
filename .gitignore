@@ -12,3 +12,8 @@ finalize_video_items.py
 verify_video_metadata.py
 enrich_site_items.py
 build_site_items.py
+experience_media_headers.py
+experience_static_check.py
+update_experience_audit.py
+scripts/curate_revision.py
+experience_finish.py

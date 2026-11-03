@@ -1,0 +1,552 @@
+[
+  {
+    "name": "React Bits",
+    "url": "https://reactbits.dev/",
+    "reason": "库首页、导航、基础实现资源或非具体效果，移出作品库"
+  },
+  {
+    "name": "Magic UI",
+    "url": "https://magicui.design/",
+    "reason": "库首页、导航、基础实现资源或非具体效果，移出作品库"
+  },
+  {
+    "name": "Aceternity UI",
+    "url": "https://ui.aceternity.com/",
+    "reason": "库首页、导航、基础实现资源或非具体效果，移出作品库"
+  },
+  {
+    "name": "Animata",
+    "url": "https://animata.design/",
+    "reason": "库首页、导航、基础实现资源或非具体效果，移出作品库"
+  },
+  {
+    "name": "Hover.dev",
+    "url": "https://www.hover.dev/components",
+    "reason": "库首页、导航、基础实现资源或非具体效果，移出作品库"
+  },
+  {
+    "name": "UI Layouts",
+    "url": "https://www.ui-layouts.com/",
+    "reason": "库首页、导航、基础实现资源或非具体效果，移出作品库"
+  },
+  {
+    "name": "Animate UI",
+    "url": "https://animate-ui.com/",
+    "reason": "库首页、导航、基础实现资源或非具体效果，移出作品库"
+  },
+  {
+    "name": "Uiverse",
+    "url": "https://uiverse.io/",
+    "reason": "库首页、导航、基础实现资源或非具体效果，移出作品库"
+  },
+  {
+    "name": "Kokonut UI",
+    "url": "https://kokonutui.com/",
+    "reason": "库首页、导航、基础实现资源或非具体效果，移出作品库"
+  },
+  {
+    "name": "Fancy Components",
+    "url": "https://www.fancycomponents.dev/",
+    "reason": "库首页、导航、基础实现资源或非具体效果，移出作品库"
+  },
+  {
+    "name": "Cult UI",
+    "url": "https://www.cult-ui.com/",
+    "reason": "库首页、导航、基础实现资源或非具体效果，移出作品库"
+  },
+  {
+    "name": "Kibo UI",
+    "url": "https://www.kibo-ui.com/",
+    "reason": "库首页、导航、基础实现资源或非具体效果，移出作品库"
+  },
+  {
+    "name": "Motion Examples",
+    "url": "https://motion.dev/examples",
+    "reason": "库首页、导航、基础实现资源或非具体效果，移出作品库"
+  },
+  {
+    "name": "GSAP Demo Hub",
+    "url": "https://demos.gsap.com/",
+    "reason": "库首页、导航、基础实现资源或非具体效果，移出作品库"
+  },
+  {
+    "name": "React Spring",
+    "url": "https://www.react-spring.dev/",
+    "reason": "库首页、导航、基础实现资源或非具体效果，移出作品库"
+  },
+  {
+    "name": "Scroll-driven Animations",
+    "url": "https://scroll-driven-animations.style/",
+    "reason": "库首页、导航、基础实现资源或非具体效果，移出作品库"
+  },
+  {
+    "name": "Rellax",
+    "url": "https://dixonandmoe.com/rellax/",
+    "reason": "库首页、导航、基础实现资源或非具体效果，移出作品库"
+  },
+  {
+    "name": "ScrollReveal",
+    "url": "https://scrollrevealjs.org/",
+    "reason": "库首页、导航、基础实现资源或非具体效果，移出作品库"
+  },
+  {
+    "name": "tsParticles",
+    "url": "https://particles.js.org/",
+    "reason": "库首页、导航、基础实现资源或非具体效果，移出作品库"
+  },
+  {
+    "name": "Vanilla Tilt",
+    "url": "https://micku7zu.github.io/vanilla-tilt.js/",
+    "reason": "库首页、导航、基础实现资源或非具体效果，移出作品库"
+  },
+  {
+    "name": "Three.js Examples",
+    "url": "https://threejs.org/examples/",
+    "reason": "库首页、导航、基础实现资源或非具体效果，移出作品库"
+  },
+  {
+    "name": "React Three Fiber",
+    "url": "https://github.com/pmndrs/react-three-fiber",
+    "reason": "库首页、导航、基础实现资源或非具体效果，移出作品库"
+  },
+  {
+    "name": "Drei",
+    "url": "https://github.com/pmndrs/drei",
+    "reason": "库首页、导航、基础实现资源或非具体效果，移出作品库"
+  },
+  {
+    "name": "OGL",
+    "url": "https://oframe.github.io/ogl/examples/",
+    "reason": "库首页、导航、基础实现资源或非具体效果，移出作品库"
+  },
+  {
+    "name": "PixiJS",
+    "url": "https://github.com/pixijs/pixijs",
+    "reason": "库首页、导航、基础实现资源或非具体效果，移出作品库"
+  },
+  {
+    "name": "Splide",
+    "url": "https://splidejs.com/",
+    "reason": "库首页、导航、基础实现资源或非具体效果，移出作品库"
+  },
+  {
+    "name": "Swiper",
+    "url": "https://swiperjs.com/",
+    "reason": "库首页、导航、基础实现资源或非具体效果，移出作品库"
+  },
+  {
+    "name": "LottieFiles",
+    "url": "https://lottiefiles.com/",
+    "reason": "库首页、导航、基础实现资源或非具体效果，移出作品库"
+  },
+  {
+    "name": "Rive Marketplace",
+    "url": "https://rive.app/marketplace/",
+    "reason": "库首页、导航、基础实现资源或非具体效果，移出作品库"
+  },
+  {
+    "name": "Lordicon",
+    "url": "https://lordicon.com/",
+    "reason": "库首页、导航、基础实现资源或非具体效果，移出作品库"
+  },
+  {
+    "name": "Vivus",
+    "url": "https://maxwellito.github.io/vivus/",
+    "reason": "库首页、导航、基础实现资源或非具体效果，移出作品库"
+  },
+  {
+    "name": "Splitting.js",
+    "url": "https://splitting.js.org/",
+    "reason": "库首页、导航、基础实现资源或非具体效果，移出作品库"
+  },
+  {
+    "name": "Typed.js",
+    "url": "https://mattboldt.com/demos/typed-js/",
+    "reason": "库首页、导航、基础实现资源或非具体效果，移出作品库"
+  },
+  {
+    "name": "Hover.css",
+    "url": "https://ianlunn.github.io/Hover/",
+    "reason": "库首页、导航、基础实现资源或非具体效果，移出作品库"
+  },
+  {
+    "name": "Floating UI",
+    "url": "https://floating-ui.com/",
+    "reason": "库首页、导航、基础实现资源或非具体效果，移出作品库"
+  },
+  {
+    "name": "shadcn/ui Blocks",
+    "url": "https://ui.shadcn.com/blocks",
+    "reason": "库首页、导航、基础实现资源或非具体效果，移出作品库"
+  },
+  {
+    "name": "Tremor",
+    "url": "https://www.tremor.so/",
+    "reason": "库首页、导航、基础实现资源或非具体效果，移出作品库"
+  },
+  {
+    "name": "coss ui（原 Origin UI 入口）",
+    "url": "https://coss.com/ui",
+    "reason": "库首页、导航、基础实现资源或非具体效果，移出作品库"
+  },
+  {
+    "name": "Tailark",
+    "url": "https://tailark.com/",
+    "reason": "库首页、导航、基础实现资源或非具体效果，移出作品库"
+  },
+  {
+    "name": "HyperUI",
+    "url": "https://www.hyperui.dev/",
+    "reason": "库首页、导航、基础实现资源或非具体效果，移出作品库"
+  },
+  {
+    "name": "Shadcnblocks",
+    "url": "https://www.shadcnblocks.com/",
+    "reason": "库首页、导航、基础实现资源或非具体效果，移出作品库"
+  },
+  {
+    "name": "Codrops Demos Hub",
+    "url": "https://tympanus.net/codrops/demos/",
+    "reason": "库首页、导航、基础实现资源或非具体效果，移出作品库"
+  },
+  {
+    "name": "Codrops Sketches",
+    "url": "https://github.com/codrops/codrops-sketches",
+    "reason": "库首页、导航、基础实现资源或非具体效果，移出作品库"
+  },
+  {
+    "name": "Codrops Slideshow Animations",
+    "url": "https://tympanus.net/Development/SlideshowAnimations/",
+    "reason": "访问受阻或未确认实际画面；暂不收录"
+  },
+  {
+    "name": "Codrops Connected Grid",
+    "url": "https://tympanus.net/Development/ConnectedGrid/",
+    "reason": "访问受阻或未确认实际画面；暂不收录"
+  },
+  {
+    "name": "Codrops Scroll Animations Grid",
+    "url": "https://tympanus.net/Development/ScrollAnimationsGrid/",
+    "reason": "访问受阻或未确认实际画面；暂不收录"
+  },
+  {
+    "name": "Codrops On-Scroll Typography",
+    "url": "https://tympanus.net/Development/OnScrollTypographyAnimations/",
+    "reason": "实际浏览器持续加载；WebFont is not defined，画面未显示"
+  },
+  {
+    "name": "Codrops Image Trail Effects",
+    "url": "https://tympanus.net/Development/ImageTrailEffects/",
+    "reason": "访问受阻或未确认实际画面；暂不收录"
+  },
+  {
+    "name": "Recent（原 Godly）",
+    "url": "https://recent.design/websites",
+    "reason": "库首页、导航、基础实现资源或非具体效果，移出作品库"
+  },
+  {
+    "name": "Awwwards",
+    "url": "https://www.awwwards.com/",
+    "reason": "库首页、导航、基础实现资源或非具体效果，移出作品库"
+  },
+  {
+    "name": "Mobbin",
+    "url": "https://mobbin.com/",
+    "reason": "库首页、导航、基础实现资源或非具体效果，移出作品库"
+  },
+  {
+    "name": "Siteinspire",
+    "url": "https://www.siteinspire.com/",
+    "reason": "库首页、导航、基础实现资源或非具体效果，移出作品库"
+  },
+  {
+    "name": "Landbook",
+    "url": "https://land-book.com/",
+    "reason": "库首页、导航、基础实现资源或非具体效果，移出作品库"
+  },
+  {
+    "name": "60fps：真实 App 动效库",
+    "url": "https://60fps.design/",
+    "reason": "库首页、导航、基础实现资源或非具体效果，移出作品库"
+  },
+  {
+    "name": "HOVERSTAT.ES",
+    "url": "https://www.hoverstat.es/",
+    "reason": "库首页、导航、基础实现资源或非具体效果，移出作品库"
+  },
+  {
+    "name": "One Page Love",
+    "url": "https://onepagelove.com/",
+    "reason": "库首页、导航、基础实现资源或非具体效果，移出作品库"
+  },
+  {
+    "name": "Minimal Gallery",
+    "url": "https://minimal.gallery/",
+    "reason": "库首页、导航、基础实现资源或非具体效果，移出作品库"
+  },
+  {
+    "name": "Lapa Ninja",
+    "url": "https://www.lapa.ninja/",
+    "reason": "库首页、导航、基础实现资源或非具体效果，移出作品库"
+  },
+  {
+    "name": "Landingfolio",
+    "url": "https://www.landingfolio.com/",
+    "reason": "库首页、导航、基础实现资源或非具体效果，移出作品库"
+  },
+  {
+    "name": "Three.js Journey：学生作品精选",
+    "url": "https://threejs-journey.com/selection/1",
+    "reason": "库首页、导航、基础实现资源或非具体效果，移出作品库"
+  },
+  {
+    "name": "D3 官方可视化画廊",
+    "url": "https://observablehq.com/@d3/gallery",
+    "reason": "库首页、导航、基础实现资源或非具体效果，移出作品库"
+  },
+  {
+    "name": "D3：可缩放旭日图",
+    "url": "https://observablehq.com/@d3/zoomable-sunburst",
+    "reason": "返回访问挑战，未确认具体可见效果"
+  },
+  {
+    "name": "D3：可缩放矩形树图",
+    "url": "https://observablehq.com/@d3/zoomable-treemap",
+    "reason": "返回访问挑战，未确认具体可见效果"
+  },
+  {
+    "name": "D3：动态条形排名",
+    "url": "https://observablehq.com/@d3/bar-chart-race",
+    "reason": "返回访问挑战，未确认具体可见效果"
+  },
+  {
+    "name": "Globe.GL：交互地球数据层",
+    "url": "https://globe.gl/",
+    "reason": "库首页、导航、基础实现资源或非具体效果，移出作品库"
+  },
+  {
+    "name": "呼叫 matter！我的交互网站急需 2D 物理引擎",
+    "url": "https://www.bilibili.com/video/BV1tAzVYdEoM/",
+    "reason": "教程、课程、讲解或未充分确认的宣传视频；不符合直接看作品的筛选方向"
+  },
+  {
+    "name": "网站离高级，还差一个跳转动画？",
+    "url": "https://www.bilibili.com/video/BV1Nk4y1Q7pk/",
+    "reason": "教程、课程、讲解或未充分确认的宣传视频；不符合直接看作品的筛选方向"
+  },
+  {
+    "name": "开源网页游戏：当贪吃蛇遇上爆炸",
+    "url": "https://www.bilibili.com/video/BV1gqZ4Y1ETA/",
+    "reason": "教程、课程、讲解或未充分确认的宣传视频；不符合直接看作品的筛选方向"
+  },
+  {
+    "name": "像这样的超奈斯网站，该去哪里找？",
+    "url": "https://www.bilibili.com/video/BV1Bu4y1A7ME",
+    "reason": "教程、课程、讲解或未充分确认的宣传视频；不符合直接看作品的筛选方向"
+  },
+  {
+    "name": "蜘蛛眼旋转：鼠标跟随互动",
+    "url": "https://www.bilibili.com/video/BV1Mc411k7hv",
+    "reason": "教程、课程、讲解或未充分确认的宣传视频；不符合直接看作品的筛选方向"
+  },
+  {
+    "name": "页面横向滑动效果：ScrollTrigger 版",
+    "url": "https://www.bilibili.com/video/BV1L83WzgEoJ",
+    "reason": "教程、课程、讲解或未充分确认的宣传视频；不符合直接看作品的筛选方向"
+  },
+  {
+    "name": "丝滑的 XD 交互动效",
+    "url": "https://www.bilibili.com/video/BV1T341127Pz/",
+    "reason": "教程、课程、讲解或未充分确认的宣传视频；不符合直接看作品的筛选方向"
+  },
+  {
+    "name": "Framer Site：丝滑的交互动效",
+    "url": "https://www.bilibili.com/video/BV1nG4y1s77B/",
+    "reason": "教程、课程、讲解或未充分确认的宣传视频；不符合直接看作品的筛选方向"
+  },
+  {
+    "name": "Rive 动画中文课程：从 0 到精通",
+    "url": "https://www.bilibili.com/video/BV1a7krB3EXe/",
+    "reason": "教程、课程、讲解或未充分确认的宣传视频；不符合直接看作品的筛选方向"
+  },
+  {
+    "name": "UI 动效设计案例实战教程合集",
+    "url": "https://www.bilibili.com/video/BV1vA411N7jy/",
+    "reason": "教程、课程、讲解或未充分确认的宣传视频；不符合直接看作品的筛选方向"
+  },
+  {
+    "name": "UI/UX 交互动效：设计师必备的动效设计",
+    "url": "https://www.bilibili.com/video/BV1gg411X77A",
+    "reason": "教程、课程、讲解或未充分确认的宣传视频；不符合直接看作品的筛选方向"
+  },
+  {
+    "name": "Creating Elaborate Website Animation Sequences — GSAP 3",
+    "url": "https://www.youtube.com/watch?v=T0_Y4oCjLxw",
+    "reason": "教程、课程、讲解或未充分确认的宣传视频；不符合直接看作品的筛选方向"
+  },
+  {
+    "name": "Master Creative Frontend in 2 Hours with React, Three.js & GSAP",
+    "url": "https://www.youtube.com/watch?v=DEeaT6FxEws",
+    "reason": "教程、课程、讲解或未充分确认的宣传视频；不符合直接看作品的筛选方向"
+  },
+  {
+    "name": "GSAP Keeps Outdoing Itself With These Landing Page Animations",
+    "url": "https://www.youtube.com/watch?v=olj1WWJEfA0",
+    "reason": "教程、课程、讲解或未充分确认的宣传视频；不符合直接看作品的筛选方向"
+  },
+  {
+    "name": "Next.js 自定义页面转场（Codegrid）",
+    "url": "https://www.youtube.com/watch?v=3wtTG-8crF0",
+    "reason": "教程、课程、讲解或未充分确认的宣传视频；不符合直接看作品的筛选方向"
+  },
+  {
+    "name": "Landing Page Reveal Animation? One GSAP Timeline Did All of This",
+    "url": "https://www.youtube.com/watch?v=z_0H7wLyX3A",
+    "reason": "教程、课程、讲解或未充分确认的宣传视频；不符合直接看作品的筛选方向"
+  },
+  {
+    "name": "This Animated Landing Page Reveal Has Better Timing Than I Do",
+    "url": "https://www.youtube.com/watch?v=PmlXAhlv9Vk",
+    "reason": "教程、课程、讲解或未充分确认的宣传视频；不符合直接看作品的筛选方向"
+  },
+  {
+    "name": "3D Image Slider Tunnel — Infinite Scroll",
+    "url": "https://www.youtube.com/watch?v=XWZII4fiQ08",
+    "reason": "教程、课程、讲解或未充分确认的宣传视频；不符合直接看作品的筛选方向"
+  },
+  {
+    "name": "波浪式滚动画廊（Codegrid）",
+    "url": "https://www.youtube.com/watch?v=ckX1c75CoFc",
+    "reason": "教程、课程、讲解或未充分确认的宣传视频；不符合直接看作品的筛选方向"
+  },
+  {
+    "name": "This GSAP Text Animation Shouldn't Be This Satisfying",
+    "url": "https://www.youtube.com/watch?v=jRRSWhQEz5w",
+    "reason": "教程、课程、讲解或未充分确认的宣传视频；不符合直接看作品的筛选方向"
+  },
+  {
+    "name": "Next.js + GSAP — Block Reveal Text Animation",
+    "url": "https://www.youtube.com/watch?v=0H9aKFkBcS4",
+    "reason": "教程、课程、讲解或未充分确认的宣传视频；不符合直接看作品的筛选方向"
+  },
+  {
+    "name": "Figma Tutorial & Liquid Swipe After Effects Animation",
+    "url": "https://www.youtube.com/watch?v=3lE5ish-e44",
+    "reason": "教程、课程、讲解或未充分确认的宣传视频；不符合直接看作品的筛选方向"
+  },
+  {
+    "name": "Build and Deploy an Awwwards Winning Website",
+    "url": "https://www.youtube.com/watch?v=zA9r5zTllx4",
+    "reason": "教程、课程、讲解或未充分确认的宣传视频；不符合直接看作品的筛选方向"
+  },
+  {
+    "name": "Creative Frontend Course — Master GSAP, Three.js & React",
+    "url": "https://www.youtube.com/watch?v=ATdaYQw0ptk",
+    "reason": "教程、课程、讲解或未充分确认的宣传视频；不符合直接看作品的筛选方向"
+  },
+  {
+    "name": "Create an Infinite Horizontal Scroll Animation",
+    "url": "https://www.youtube.com/watch?v=iLmBy-HKIAw",
+    "reason": "教程、课程、讲解或未充分确认的宣传视频；不符合直接看作品的筛选方向"
+  },
+  {
+    "name": "Rive Tutorial for Beginners — Interactive Animation in 25 Minutes",
+    "url": "https://www.youtube.com/watch?v=N3zGbAwL10U",
+    "reason": "教程、课程、讲解或未充分确认的宣传视频；不符合直接看作品的筛选方向"
+  },
+  {
+    "name": "Rive 官方：交互菜单 Quick Start（2026 更新）",
+    "url": "https://www.youtube.com/watch?v=u2kThOXc3Ek",
+    "reason": "教程、课程、讲解或未充分确认的宣传视频；不符合直接看作品的筛选方向"
+  },
+  {
+    "name": "Button Micro-Interaction Using Smart Animate in Figma",
+    "url": "https://www.youtube.com/watch?v=nYFIOWcAe-Q",
+    "reason": "教程、课程、讲解或未充分确认的宣传视频；不符合直接看作品的筛选方向"
+  },
+  {
+    "name": "Cuberto Showreel 2024",
+    "url": "https://www.youtube.com/watch?v=bK8eUJ65LyY",
+    "reason": "教程、课程、讲解或未充分确认的宣传视频；不符合直接看作品的筛选方向"
+  },
+  {
+    "name": "Material Design Motion",
+    "url": "https://www.youtube.com/watch?v=cQzien5H2Do",
+    "reason": "教程、课程、讲解或未充分确认的宣传视频；不符合直接看作品的筛选方向"
+  },
+  {
+    "name": "Google I/O 2014 — Material Design: Motion",
+    "url": "https://www.youtube.com/watch?v=FBD0VlcVS1E",
+    "reason": "教程、课程、讲解或未充分确认的宣传视频；不符合直接看作品的筛选方向"
+  },
+  {
+    "name": "Meet Notion Calendar",
+    "url": "https://www.youtube.com/watch?v=C4Q2ezioTUM",
+    "reason": "教程、课程、讲解或未充分确认的宣传视频；不符合直接看作品的筛选方向"
+  },
+  {
+    "name": "Introducing canvas — Slack",
+    "url": "https://www.youtube.com/watch?v=wJ80ip-buXc",
+    "reason": "教程、课程、讲解或未充分确认的宣传视频；不符合直接看作品的筛选方向"
+  },
+  {
+    "name": "Introducing Linear Agent",
+    "url": "https://www.youtube.com/watch?v=mRql2VJ99gM",
+    "reason": "教程、课程、讲解或未充分确认的宣传视频；不符合直接看作品的筛选方向"
+  },
+  {
+    "name": "Announcing Linear Reviews",
+    "url": "https://www.youtube.com/watch?v=4r8YmQ6lfLo",
+    "reason": "教程、课程、讲解或未充分确认的宣传视频；不符合直接看作品的筛选方向"
+  },
+  {
+    "name": "Raycast Focus: Enter Flow State",
+    "url": "https://www.youtube.com/watch?v=ykaj0pS4A1A",
+    "reason": "教程、课程、讲解或未充分确认的宣传视频；不符合直接看作品的筛选方向"
+  },
+  {
+    "name": "Introducing Pitch 2.0",
+    "url": "https://www.youtube.com/watch?v=tqfeE5G36tM",
+    "reason": "教程、课程、讲解或未充分确认的宣传视频；不符合直接看作品的筛选方向"
+  },
+  {
+    "name": "Unveiling the Next Generation of OneDrive",
+    "url": "https://www.youtube.com/watch?v=DzXBdc8Dfmg",
+    "reason": "教程、课程、讲解或未充分确认的宣传视频；不符合直接看作品的筛选方向"
+  },
+  {
+    "name": "Material Design",
+    "url": "https://www.youtube.com/watch?v=Q8TXgCzxEnw",
+    "reason": "教程、课程、讲解或未充分确认的宣传视频；不符合直接看作品的筛选方向"
+  },
+  {
+    "name": "Introducing Spline",
+    "url": "https://www.youtube.com/watch?v=sIfP9h-H23s",
+    "reason": "教程、课程、讲解或未充分确认的宣传视频；不符合直接看作品的筛选方向"
+  },
+  {
+    "name": "Webflow — A New Era of No-Code",
+    "url": "https://www.youtube.com/watch?v=eEW2gr7K7kc",
+    "reason": "教程、课程、讲解或未充分确认的宣传视频；不符合直接看作品的筛选方向"
+  },
+  {
+    "name": "Introducing Windows 11",
+    "url": "https://www.youtube.com/watch?v=Uh9643c2P6k",
+    "reason": "教程、课程、讲解或未充分确认的宣传视频；不符合直接看作品的筛选方向"
+  },
+  {
+    "name": "Presenting: Figma Slides",
+    "url": "https://www.youtube.com/watch?v=p-B--SGq_ZQ",
+    "reason": "教程、课程、讲解或未充分确认的宣传视频；不符合直接看作品的筛选方向"
+  },
+  {
+    "name": "The New Microsoft Icons: Diverse and Connected",
+    "url": "https://www.youtube.com/watch?v=wYmTkgqbrDM",
+    "reason": "教程、课程、讲解或未充分确认的宣传视频；不符合直接看作品的筛选方向"
+  },
+  {
+    "name": "二次元、国风、科技风的游戏 UI 动效设计",
+    "url": "https://www.bilibili.com/video/BV16o4y1S7Rg/",
+    "reason": "教程、课程、讲解或未充分确认的宣传视频；不符合直接看作品的筛选方向"
+  }
+]

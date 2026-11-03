@@ -1,0 +1,268 @@
+[
+  {
+    "url": "https://motion.dev/examples/react-app-store",
+    "decision": "keep",
+    "replacement_url": "https://examples.motion.dev/react/app-store",
+    "reason": "独立预览无需登录，已成功点击卡片展开详情；文档页有教程和付费源码区域，主链接宜换为纯预览。",
+    "verification": "2026-11-03 IAB实际截图：初始四卡片网格；点击第一张旅行卡标题后，中央出现放大图片及详情白卡、背景遮罩。没有完整观看所有状态。",
+    "preview_access": "free",
+    "source_access": "Motion+ paid"
+  },
+  {
+    "url": "https://motion.dev/examples/react-gallery-coverflow",
+    "decision": "keep",
+    "replacement_url": "https://examples.motion.dev/react/gallery-coverflow",
+    "reason": "独立预览无需登录，已看到完整立体透视冰棒图组；文档源码区域收费，主链接宜换为纯预览。",
+    "verification": "2026-11-03 IAB实际截图看到中央樱桃冰棒及左右倾斜的12张彩色图片。文档iframe起初出现暗色占位，独立预览正常。未测试拖拽/轮播。",
+    "preview_access": "free",
+    "source_access": "Motion+ paid"
+  },
+  {
+    "url": "https://sonner.emilkowal.ski/",
+    "decision": "keep",
+    "reason": "具体预览可访问；有文档并不妨碍直接查看组件。",
+    "verification": "2026-11-03 IAB截图和只读演示交互：点击 Render a toast 后，右下角实际出现Sonner通知卡片；首屏堆叠卡片可见。",
+    "preview_access": "free"
+  },
+  {
+    "url": "https://vaul.emilkowal.ski/",
+    "decision": "keep",
+    "reason": "具体预览可访问；有文档并不妨碍直接查看组件。",
+    "verification": "2026-11-03 IAB截图和只读演示交互：点击 Open Drawer 后白色底部抽屉展开，顶部灰色背景板缩进及圆角可见。",
+    "preview_access": "free"
+  },
+  {
+    "url": "https://kokonutui.com/docs/buttons/slide-to-confirm",
+    "decision": "keep",
+    "reason": "具体预览可访问；有文档并不妨碍直接查看组件。",
+    "verification": "2026-11-03 IAB截图和只读演示交互：真实组件可见；对演示按钮按Enter后滑块到右侧并出现Paying状态，随后复位。未测试鼠标拖拽。",
+    "preview_access": "free"
+  },
+  {
+    "url": "https://kokonutui.com/docs/inputs/detent-dial",
+    "decision": "keep",
+    "reason": "具体预览可访问；有文档并不妨碍直接查看组件。",
+    "verification": "2026-11-03 IAB截图和只读演示交互：真实圆形温度旋钮可见，按ArrowRight后21.0°变为21.5°，刻度位置反馈可见。",
+    "preview_access": "free"
+  },
+  {
+    "url": "https://kokonutui.com/docs/cards/liquid-gauge",
+    "decision": "keep",
+    "reason": "具体预览可访问；有文档并不妨碍直接查看组件。",
+    "verification": "2026-11-03 IAB截图和只读演示交互：真实黑白液体储存卡可见；按ArrowUp后72%变为73%、92.2变93.4GB。未测试鼠标波纹。",
+    "preview_access": "free"
+  },
+  {
+    "url": "https://reactbits.dev/backgrounds/aurora",
+    "decision": "keep",
+    "reason": "具体预览可访问；有文档并不妨碍直接查看组件。",
+    "verification": "2026-11-03 IAB截图和只读演示交互：首次截图短暂空白，加载后截图实际看到紫蓝绿极光预览及完整控制界面。未测试每种参数。",
+    "preview_access": "free"
+  },
+  {
+    "url": "https://magicui.design/docs/components/animated-beam",
+    "decision": "keep",
+    "reason": "具体预览可访问；有文档并不妨碍直接查看组件。",
+    "verification": "2026-11-03 IAB截图和只读演示交互：实际看到中心OpenAI图标与周围应用图标连线的预览。截图未捕捉到彩色光束运动，故仅确认预览组件已渲染，未确认动态完整表现。",
+    "preview_access": "free"
+  },
+  {
+    "url": "https://ui.aceternity.com/components/container-scroll-animation",
+    "decision": "keep",
+    "reason": "具体预览可访问；有文档并不妨碍直接查看组件。",
+    "verification": "2026-11-03 IAB截图和只读演示交互：独立预览实际看到倾斜3D界面板，PageDown后板面转为正面。无需登录或付费。",
+    "preview_access": "free",
+    "replacement_url": "https://ui.aceternity.com/live-preview/container-scroll-animation-demo"
+  },
+  {
+    "url": "https://60fps.design/shots/apple-health-longevity-intro-animation",
+    "decision": "keep",
+    "reason": "页面直接显示具体App录像，无需登录，无观看付费遮罩。",
+    "verification": "2026-11-03 IAB截图实际看到健康引导页面与彩色气泡；主video readyState=4、paused=false、currentTime>0，视频时长8.883333秒。仅核验可播放及画面，未逐条完整观看。",
+    "preview_access": "free",
+    "media_duration": 8.883333,
+    "preview_video_url": "https://video.gumlet.io/66b49d08225b7b88f78b7b44/6ac725cf1bbc375977910ca3/main.mp4",
+    "preview_poster_url": "https://video.gumlet.io/66b49d08225b7b88f78b7b44/6ac725cf1bbc375977910ca3/thumbnail-1-0.png?width=800"
+  },
+  {
+    "url": "https://60fps.design/shots/revolut-card-ready-animation",
+    "decision": "keep",
+    "reason": "页面直接显示具体App录像，无需登录，无观看付费遮罩。",
+    "verification": "2026-11-03 IAB截图实际看到紫红金属卡展示；主video readyState=4、paused=false、currentTime>0，视频时长9.183333秒。仅核验可播放及画面，未逐条完整观看。",
+    "preview_access": "free",
+    "media_duration": 9.183333,
+    "preview_video_url": "https://video.gumlet.io/66b49d08225b7b88f78b7b44/6a9e9e212f578a19ae25f6c8/main.mp4",
+    "preview_poster_url": "https://video.gumlet.io/66b49d08225b7b88f78b7b44/6a9e9e212f578a19ae25f6c8/thumbnail-1-0.png?width=800"
+  },
+  {
+    "url": "https://60fps.design/shots/circle-splash-bubbles-pop-interaction",
+    "decision": "keep",
+    "reason": "页面直接显示具体App录像，无需登录，无观看付费遮罩。",
+    "verification": "2026-11-03 IAB截图实际看到圆形人物头像群；主video readyState=4、paused=false、currentTime>0，视频时长20.166667秒。仅核验可播放及画面，未逐条完整观看。",
+    "preview_access": "free",
+    "media_duration": 20.166667,
+    "preview_video_url": "https://video.gumlet.io/66b49d08225b7b88f78b7b44/6ad76a16a0513a841f821492/main.mp4",
+    "preview_poster_url": "https://video.gumlet.io/66b49d08225b7b88f78b7b44/6ad76a16a0513a841f821492/thumbnail-1-0.png?width=800"
+  },
+  {
+    "url": "https://60fps.design/shots/brick-intro-value-prop-text-flip-interaction",
+    "decision": "keep",
+    "reason": "页面直接显示具体App录像，无需登录，无观看付费遮罩。",
+    "verification": "2026-11-03 IAB截图实际看到Brick介绍页及底部切换文字；主video readyState=4、paused=false、currentTime>0，视频时长8.2秒。仅核验可播放及画面，未逐条完整观看。",
+    "preview_access": "free",
+    "media_duration": 8.2,
+    "preview_video_url": "https://video.gumlet.io/66b49d08225b7b88f78b7b44/6ad76a161ab4445ed4e6277b/main.mp4",
+    "preview_poster_url": "https://video.gumlet.io/66b49d08225b7b88f78b7b44/6ad76a161ab4445ed4e6277b/thumbnail-1-0.png?width=800"
+  },
+  {
+    "url": "https://60fps.design/shots/runmo-distance-wheel-fill-interaction",
+    "decision": "keep",
+    "reason": "页面直接显示具体App录像，无需登录，无观看付费遮罩。",
+    "verification": "2026-11-03 IAB截图实际看到黑黄运动数据盘；主video readyState=4、paused=false、currentTime>0，视频时长8.8秒。仅核验可播放及画面，未逐条完整观看。",
+    "preview_access": "free",
+    "media_duration": 8.8,
+    "preview_video_url": "https://video.gumlet.io/66b49d08225b7b88f78b7b44/6a9e9bb5aa4fda3466669497/main.mp4",
+    "preview_poster_url": "https://video.gumlet.io/66b49d08225b7b88f78b7b44/6a9e9bb5aa4fda3466669497/thumbnail-1-0.png?width=800"
+  },
+  {
+    "url": "https://60fps.design/shots/plasma-duo-style-bottom-sheet-open-interaction",
+    "decision": "keep",
+    "reason": "页面直接显示具体App录像，无需登录，无观看付费遮罩。",
+    "verification": "2026-11-03 IAB截图实际看到Plasma深色卡片页面；主video readyState=4、paused=false、currentTime>0，视频时长12.966667秒。仅核验可播放及画面，未逐条完整观看。",
+    "preview_access": "free",
+    "media_duration": 12.966667,
+    "preview_video_url": "https://video.gumlet.io/66b49d08225b7b88f78b7b44/6ad76b45e59c41063b892f11/main.mp4",
+    "preview_poster_url": "https://video.gumlet.io/66b49d08225b7b88f78b7b44/6ad76b45e59c41063b892f11/thumbnail-1-0.png?width=800"
+  },
+  {
+    "url": "https://60fps.design/shots/duolingo-sparkle-sculpt-pop-interaction",
+    "decision": "keep",
+    "reason": "页面直接显示具体App录像，无需登录，无观看付费遮罩。",
+    "verification": "2026-11-03 IAB截图实际看到多邻国奖励雕塑与进度条；主video readyState=4、paused=false、currentTime>0，视频时长4秒。仅核验可播放及画面，未逐条完整观看。",
+    "preview_access": "free",
+    "media_duration": 4,
+    "preview_video_url": "https://video.gumlet.io/66b49d08225b7b88f78b7b44/6ac7263741d1f14ce097440e/main.mp4",
+    "preview_poster_url": "https://video.gumlet.io/66b49d08225b7b88f78b7b44/6ac7263741d1f14ce097440e/thumbnail-1-0.png?width=800"
+  },
+  {
+    "url": "https://60fps.design/shots/cred-ticket-pop-on-slider-interaction",
+    "decision": "keep",
+    "reason": "页面直接显示具体App录像，无需登录，无观看付费遮罩。",
+    "verification": "2026-11-03 IAB截图实际看到CRED票券计数与滑杆；主video readyState=4、paused=false、currentTime>0，视频时长3.45秒。仅核验可播放及画面，未逐条完整观看。",
+    "preview_access": "free",
+    "media_duration": 3.45,
+    "preview_video_url": "https://video.gumlet.io/66b49d08225b7b88f78b7b44/6ac725a31bbc375977910a92/main.mp4",
+    "preview_poster_url": "https://video.gumlet.io/66b49d08225b7b88f78b7b44/6ac725a31bbc375977910a92/thumbnail-1-0.png?width=800"
+  },
+  {
+    "url": "https://60fps.design/shots/revolut-revpoints-feature-coachmark-border-pulse-interaction",
+    "decision": "keep",
+    "reason": "页面直接显示具体App录像，无需登录，无观看付费遮罩。",
+    "verification": "2026-11-03 IAB截图实际看到Revolut紫色积分引导；主video readyState=4、paused=false、currentTime>0，视频时长11.833333秒。仅核验可播放及画面，未逐条完整观看。",
+    "preview_access": "free",
+    "media_duration": 11.833333,
+    "preview_video_url": "https://video.gumlet.io/66b49d08225b7b88f78b7b44/6a9e9ba22f578a19ae2569a3/main.mp4",
+    "preview_poster_url": "https://video.gumlet.io/66b49d08225b7b88f78b7b44/6a9e9ba22f578a19ae2569a3/thumbnail-1-0.png?width=800"
+  },
+  {
+    "url": "https://60fps.design/shots/run-receipt-signature-interaction",
+    "decision": "keep",
+    "reason": "页面直接显示具体App录像，无需登录，无观看付费遮罩。",
+    "verification": "2026-11-03 IAB截图实际看到横向签名面板；主video readyState=4、paused=false、currentTime>0，视频时长5.125011秒。仅核验可播放及画面，未逐条完整观看。",
+    "preview_access": "free",
+    "media_duration": 5.125011,
+    "preview_video_url": "https://video.gumlet.io/66b49d08225b7b88f78b7b44/6a9e9bb8aa489a4399ce53b3/main.mp4",
+    "preview_poster_url": "https://video.gumlet.io/66b49d08225b7b88f78b7b44/6a9e9bb8aa489a4399ce53b3/thumbnail-1-0.png?width=800"
+  },
+  {
+    "url": "https://60fps.design/shots/x-campaign-hashtag-based-grok-bot-like-button-interaction",
+    "decision": "keep",
+    "reason": "页面直接显示具体App录像，无需登录，无观看付费遮罩。",
+    "verification": "2026-11-03 IAB截图实际看到X点赞图标与彩色角色；主video readyState=4、paused=false、currentTime>0，视频时长5.369002秒。仅核验可播放及画面，未逐条完整观看。",
+    "preview_access": "free",
+    "media_duration": 5.369002,
+    "preview_video_url": "https://video.gumlet.io/66b49d08225b7b88f78b7b44/6ac725a241d1f14ce09740ee/main.mp4",
+    "preview_poster_url": "https://video.gumlet.io/66b49d08225b7b88f78b7b44/6ac725a241d1f14ce09740ee/thumbnail-1-0.png?width=800"
+  },
+  {
+    "url": "https://60fps.design/shots/platen-typewriter-intro-how-to-interaction",
+    "decision": "keep",
+    "reason": "页面直接显示具体App录像，无需登录，无观看付费遮罩。",
+    "verification": "2026-11-03 IAB截图实际看到打字机灯光介绍页；主video readyState=4、paused=false、currentTime>0，视频时长8.286009秒。仅核验可播放及画面，未逐条完整观看。",
+    "preview_access": "free",
+    "media_duration": 8.286009,
+    "preview_video_url": "https://video.gumlet.io/66b49d08225b7b88f78b7b44/6ac725a26d6d4d08c61b99c2/main.mp4",
+    "preview_poster_url": "https://video.gumlet.io/66b49d08225b7b88f78b7b44/6ac725a26d6d4d08c61b99c2/thumbnail-1-0.png?width=800"
+  },
+  {
+    "url": "https://60fps.design/shots/airbnb-new-intro-sequence",
+    "decision": "keep",
+    "reason": "页面直接显示具体App录像，无需登录，无观看付费遮罩。",
+    "verification": "2026-11-03 IAB截图实际看到Airbnb服务介绍及页面缩放；主video readyState=4、paused=false、currentTime>0，视频时长8.033333秒。仅核验可播放及画面，未逐条完整观看。",
+    "preview_access": "free",
+    "media_duration": 8.033333,
+    "preview_video_url": "https://video.gumlet.io/66b49d08225b7b88f78b7b44/682dd23dd7ce6c42e74b4960/main.mp4",
+    "preview_poster_url": "https://video.gumlet.io/66b49d08225b7b88f78b7b44/682dd23dd7ce6c42e74b4960/thumbnail-1-0.png?width=800"
+  },
+  {
+    "url": "https://60fps.design/shots/flighty-connection-assistant-sheet",
+    "decision": "keep",
+    "reason": "页面直接显示具体App录像，无需登录，无观看付费遮罩。",
+    "verification": "2026-11-03 IAB截图实际看到Flighty接驳助手弹层与彩色时间条；主video readyState=4、paused=false、currentTime>0，视频时长4.766667秒。仅核验可播放及画面，未逐条完整观看。",
+    "preview_access": "free",
+    "media_duration": 4.766667,
+    "preview_video_url": "https://video.gumlet.io/66b49d08225b7b88f78b7b44/672f62aceaffeddcdf50f246/main.mp4",
+    "preview_poster_url": "https://video.gumlet.io/66b49d08225b7b88f78b7b44/672f62aceaffeddcdf50f246/thumbnail-1-0.png?width=800"
+  },
+  {
+    "url": "https://60fps.design/shots/flighty-share-passport-blacklight-interaction",
+    "decision": "keep",
+    "reason": "页面直接显示具体App录像，无需登录，无观看付费遮罩。",
+    "verification": "2026-11-03 IAB截图实际看到Flighty护照卡与Blacklight入口；主video readyState=4、paused=false、currentTime>0，视频时长2.316667秒。仅核验可播放及画面，未逐条完整观看。",
+    "preview_access": "free",
+    "media_duration": 2.316667,
+    "preview_video_url": "https://video.gumlet.io/66b49d08225b7b88f78b7b44/6712ad1fbf3ce1dd7e363ef2/main.mp4",
+    "preview_poster_url": "https://video.gumlet.io/66b49d08225b7b88f78b7b44/6712ad1fbf3ce1dd7e363ef2/thumbnail-1-0.png?width=800"
+  },
+  {
+    "url": "https://60fps.design/shots/airbnb-tactile-tab-button-interaction",
+    "decision": "keep",
+    "reason": "页面直接显示具体App录像，无需登录，无观看付费遮罩。",
+    "verification": "2026-11-03 IAB截图实际看到Airbnb立体分类按钮；主video readyState=4、paused=false、currentTime>0，视频时长6.5秒。仅核验可播放及画面，未逐条完整观看。",
+    "preview_access": "free",
+    "media_duration": 6.5,
+    "preview_video_url": "https://video.gumlet.io/66b49d08225b7b88f78b7b44/6a796336a219b0caeb69c119/main.mp4",
+    "preview_poster_url": "https://video.gumlet.io/66b49d08225b7b88f78b7b44/6a796336a219b0caeb69c119/thumbnail-1-0.png?width=800"
+  },
+  {
+    "url": "https://60fps.design/shots/airbnb-photo-pop-and-slide-animation",
+    "decision": "keep",
+    "reason": "页面直接显示具体App录像，无需登录，无观看付费遮罩。",
+    "verification": "2026-11-03 IAB截图实际看到Airbnb叠放照片与预约表单；主video readyState=4、paused=false、currentTime>0，视频时长1.020998秒。仅核验可播放及画面，未逐条完整观看。",
+    "preview_access": "free",
+    "media_duration": 1.020998,
+    "preview_video_url": "https://video.gumlet.io/66b49d08225b7b88f78b7b44/6980cddd282b61e5db5afe6d/main.mp4",
+    "preview_poster_url": "https://video.gumlet.io/66b49d08225b7b88f78b7b44/6980cddd282b61e5db5afe6d/thumbnail-1-0.png?width=800"
+  },
+  {
+    "url": "https://www.vantajs.com/",
+    "decision": "keep",
+    "reason": "真实视觉效果已呈现，无需登录或付费。",
+    "verification": "2026-11-03 IAB截图观察：初始实际看到满屏粉色三角鸟群；第二张截图鸟群已聚成另一形态，说明动态在运行，右侧自定义参数面板也可见。",
+    "preview_access": "free"
+  },
+  {
+    "url": "https://atroposjs.com/",
+    "decision": "keep",
+    "reason": "真实视觉效果已呈现，无需登录或付费。",
+    "verification": "2026-11-03 IAB截图观察：实际看到完整紫色森林山峰分层首屏卡片；指针点击装饰logo后卡片框及图层构图发生变化。未测试全部showcase卡片。",
+    "preview_access": "free"
+  },
+  {
+    "url": "https://earth.nullschool.net/",
+    "decision": "keep",
+    "reason": "真实视觉效果已呈现，无需登录或付费。",
+    "verification": "2026-11-03 IAB截图观察：实际看到亚洲与太平洋区域3D地球，连续两张截图从短粒子形成更长风场流线及气旋，确认动态渲染。",
+    "preview_access": "free"
+  }
+]

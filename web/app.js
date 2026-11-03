@@ -4,7 +4,7 @@
   const items=data.items, $=id=>document.getElementById(id);
   const state={query:'',category:'',platform:'',kind:'',view:'all',limit:30,previews:true};
   let favorites=new Set(), storageAvailable=true, toastTimer;
-  try{ const saved=JSON.parse(localStorage.getItem('motion-index-favorites')||'[]'); if(Array.isArray(saved)) favorites=new Set(saved.filter(x=>typeof x==='string')); }
+  try{ const saved=JSON.parse(localStorage.getItem('motion-index-favorites')||'[]'); if(Array.isArray(saved)){const currentIds=new Set(items.map(x=>x.id));favorites=new Set(saved.filter(x=>typeof x==='string'&&currentIds.has(x)));if(saved.length!==favorites.size)localStorage.setItem('motion-index-favorites',JSON.stringify([...favorites]));} }
   catch{storageAvailable=false;}
   const el=(tag,className,text)=>{const n=document.createElement(tag);if(className)n.className=className;if(text!==undefined)n.textContent=text;return n;};
   const link=(label,url,className)=>{const a=el('a',className,label);a.href=Catalog.safeUrl(url);a.target='_blank';a.rel='noopener noreferrer';return a;};
@@ -27,7 +27,7 @@
     visual.append(el('span','visual-label',item.kind==='视频'?'▶ 视频参考':item.category),favoriteButton(item));
     const body=el('div','card-body');const meta=el('div','card-meta');meta.append(el('span','',item.platform));
     if(item.featured)meta.append(el('span','featured-tag','✦ 精选'));if(item.repo_url)meta.append(el('span','','· 有源码入口'));
-    if(/第三方索引|索引描述/.test(item.verification))meta.append(el('span','','· 索引线索'));
+    if(item.browser_verified)meta.append(el('span','','· 画面已确认'));
     body.append(meta,el('h3','',item.name),el('p','card-description',item.description));
     const tags=el('div','tags');(item.tags||[]).slice(0,3).forEach(t=>tags.append(el('span','tag',t)));body.append(tags);
     const actions=el('div','card-actions');actions.append(link(item.kind==='视频'?'观看原视频 ↗':'打开灵感 ↗',item.url,'open-link'));
@@ -56,7 +56,7 @@
   function reset(){Object.assign(state,{query:'',category:'',platform:'',kind:'',view:'all',limit:30});$('search').value='';$('platform').value='';$('kind').value='';render();}
   const counts=Object.entries(data.counts).sort((a,b)=>b[1]-a[1]);
   for(const [category,count] of [['',items.length],...counts]){const b=el('button','category-item');b.type='button';b.dataset.category=category;b.append(el('span','',category||'所有分类'),el('small','',count));b.addEventListener('click',()=>{state.category=category;state.limit=30;render();});$('categories').append(b);}
-  for(const [value,label] of [[items.length,'精选资源'],[counts.length,'效果分类'],[items.filter(x=>x.kind==='视频').length,'展示视频'],[items.filter(x=>x.repo_url).length,'源码入口']]){const s=el('div','stat');s.append(el('strong','',value),el('span','',label));$('stats').append(s);}
+  for(const [value,label] of [[items.length,'界面与动效'],[counts.length,'效果分类'],[items.filter(x=>x.kind==='视频').length,'展示视频'],[items.filter(x=>x.repo_url).length,'源码入口']]){const s=el('div','stat');s.append(el('strong','',value),el('span','',label));$('stats').append(s);}
   $('updated').textContent='整理于 '+data.updated_at;
   document.querySelectorAll('[data-view]').forEach(b=>b.addEventListener('click',()=>{state.view=b.dataset.view;state.limit=30;render();}));
   $('search').addEventListener('input',e=>{state.query=e.target.value;state.limit=30;render();});

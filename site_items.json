@@ -56,13 +56,14 @@
     "description": "官网直接呈现任务、状态、评论与团队工作流，适合研究复杂 SaaS 如何组织产品演示和界面层级。",
     "kind": "作品",
     "evidence_url": "https://linear.app/",
-    "verification": "页面信息",
+    "verification": "浏览器实际页面画面已确认；未遍历所有交互",
     "thumbnail_url": "https://linear.app/api/og/main?title=Linear&v=4",
     "checked_at": "2026-11-03",
     "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
     "http_status": 200,
     "http_final_url": "https://linear.app/",
-    "featured": true
+    "featured": true,
+    "browser_verified": true
   },
   {
     "name": "Stripe：支付产品的界面展示",
@@ -98,12 +99,13 @@
     "description": "官网以键盘、快捷操作和扩展目录解释产品。适合命令面板、效率工具和快捷键可视化参考。",
     "kind": "作品",
     "evidence_url": "https://www.raycast.com/",
-    "verification": "页面信息",
+    "verification": "浏览器实际页面画面已确认；未遍历所有交互",
     "thumbnail_url": "https://www.raycast.com/opengraph-image-pwu6ef.png?opengraph-image.1f-98etzkaz5s.png",
     "checked_at": "2026-11-03",
     "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
     "http_status": 200,
-    "http_final_url": "https://www.raycast.com/"
+    "http_final_url": "https://www.raycast.com/",
+    "browser_verified": true
   },
   {
     "name": "Screen Studio：录屏产品演示",
@@ -245,263 +247,6 @@
     "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
     "http_status": 200,
     "http_final_url": "https://www.are.na/"
-  },
-  {
-    "name": "Recent（原 Godly）",
-    "url": "https://recent.design/websites",
-    "platform": "灵感平台",
-    "category": "灵感索引",
-    "tags": [
-      "精选",
-      "网站",
-      "视觉"
-    ],
-    "description": "网站与数字作品精选入口，按行业寻找整体风格；官方已说明接替 Godly。",
-    "kind": "灵感库",
-    "evidence_url": "https://recent.design/websites",
-    "verification": "页面信息",
-    "thumbnail_url": "https://recent.design/og.png",
-    "checked_at": "2026-11-03",
-    "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
-    "http_status": 200,
-    "http_final_url": "https://recent.design/websites",
-    "featured": true
-  },
-  {
-    "name": "Awwwards",
-    "url": "https://www.awwwards.com/",
-    "platform": "灵感平台",
-    "category": "灵感索引",
-    "tags": [
-      "获奖",
-      "整站",
-      "WebGL"
-    ],
-    "description": "获奖网站、动效、滚动、WebGL 等分类入口；适合找完整站点和制作团队。",
-    "kind": "灵感库",
-    "evidence_url": "https://www.awwwards.com/",
-    "verification": "页面信息",
-    "thumbnail_url": "https://assets.awwwards.com/assets/images/pages/about-certificates/awwwards.jpg",
-    "checked_at": "2026-11-03",
-    "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
-    "http_status": 200,
-    "http_final_url": "https://www.awwwards.com/"
-  },
-  {
-    "name": "Mobbin",
-    "url": "https://mobbin.com/",
-    "platform": "灵感平台",
-    "category": "灵感索引",
-    "tags": [
-      "App",
-      "流程",
-      "真实产品"
-    ],
-    "description": "真实 App 与网站界面参考，适合从页面、流程与产品类型寻找可落地布局；部分内容需账号或订阅。",
-    "kind": "灵感库",
-    "evidence_url": "https://mobbin.com/",
-    "verification": "页面信息",
-    "thumbnail_url": "https://cdn.sanity.io/images/7b5292cr/production/ad36b255f55774117dd68cfba7cfc447be19f5b5-1200x630.png?w=1200&h=630",
-    "checked_at": "2026-11-03",
-    "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
-    "http_status": 200,
-    "http_final_url": "https://mobbin.com/"
-  },
-  {
-    "name": "Siteinspire",
-    "url": "https://www.siteinspire.com/",
-    "platform": "灵感平台",
-    "category": "灵感索引",
-    "tags": [
-      "排版",
-      "极简",
-      "网格"
-    ],
-    "description": "可按排版、极简、网格和网站类型筛选，适合找安静且完成度高的整体界面。",
-    "kind": "灵感库",
-    "evidence_url": "https://www.siteinspire.com/",
-    "verification": "页面信息",
-    "thumbnail_url": "",
-    "checked_at": "2026-11-03",
-    "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
-    "http_check_error": "HTTP Error 429: Too Many Requests"
-  },
-  {
-    "name": "Landbook",
-    "url": "https://land-book.com/",
-    "platform": "灵感平台",
-    "category": "灵感索引",
-    "tags": [
-      "落地页",
-      "区块",
-      "移动端"
-    ],
-    "description": "整站、区块、移动界面与 Motion 分类齐全，可结合行业、风格与颜色筛选。",
-    "kind": "灵感库",
-    "evidence_url": "https://land-book.com/",
-    "verification": "页面信息",
-    "thumbnail_url": "",
-    "checked_at": "2026-11-03",
-    "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
-    "http_check_error": "HTTP Error 403: Forbidden"
-  },
-  {
-    "name": "60fps：真实 App 动效库",
-    "url": "https://60fps.design/",
-    "platform": "灵感平台",
-    "category": "灵感索引",
-    "tags": [
-      "微交互",
-      "App",
-      "视频"
-    ],
-    "description": "按手势、元素和效果检索真实 App 交互，特别适合抽屉、按钮、图表与引导流程；部分内容需订阅。",
-    "kind": "灵感库",
-    "evidence_url": "https://60fps.design/",
-    "verification": "页面信息",
-    "thumbnail_url": "https://framerusercontent.com/images/ICYS2f0rsJ9iOphXyUh94ULRS8Y.gif",
-    "checked_at": "2026-11-03",
-    "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
-    "http_status": 200,
-    "http_final_url": "https://60fps.design/",
-    "featured": true
-  },
-  {
-    "name": "HOVERSTAT.ES",
-    "url": "https://www.hoverstat.es/",
-    "platform": "灵感平台",
-    "category": "灵感索引",
-    "tags": [
-      "实验性",
-      "导航",
-      "排版"
-    ],
-    "description": "聚焦实验性的网页设计与交互，适合找非常规导航、文字和作品集布局。",
-    "kind": "灵感库",
-    "evidence_url": "https://www.hoverstat.es/",
-    "verification": "页面信息",
-    "thumbnail_url": "",
-    "checked_at": "2026-11-03",
-    "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
-    "http_status": 200,
-    "http_final_url": "https://www.hoverstat.es/"
-  },
-  {
-    "name": "One Page Love",
-    "url": "https://onepagelove.com/",
-    "platform": "灵感平台",
-    "category": "灵感索引",
-    "tags": [
-      "单页",
-      "落地页",
-      "区块"
-    ],
-    "description": "单页网站和区块精选，适合研究作品集、应用和活动页如何在一页内讲清楚。",
-    "kind": "灵感库",
-    "evidence_url": "https://onepagelove.com/",
-    "verification": "页面信息",
-    "thumbnail_url": "https://onepagelove.com/wp-content/uploads/opl-social-covers/cfdd4a257db8c3c9d1fd2171c53ea530249cc82cadae6170b91f4fc281e7218d.jpg",
-    "checked_at": "2026-11-03",
-    "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
-    "http_status": 200,
-    "http_final_url": "https://onepagelove.com/"
-  },
-  {
-    "name": "Minimal Gallery",
-    "url": "https://minimal.gallery/",
-    "platform": "灵感平台",
-    "category": "灵感索引",
-    "tags": [
-      "极简",
-      "品牌",
-      "作品集"
-    ],
-    "description": "强调美观与功能的网页精选，适合极简作品集、品牌和产品界面的风格探索。",
-    "kind": "灵感库",
-    "evidence_url": "https://minimal.gallery/",
-    "verification": "页面信息",
-    "thumbnail_url": "",
-    "checked_at": "2026-11-03",
-    "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
-    "http_check_error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>"
-  },
-  {
-    "name": "Lapa Ninja",
-    "url": "https://www.lapa.ninja/",
-    "platform": "灵感平台",
-    "category": "灵感索引",
-    "tags": [
-      "落地页",
-      "电商",
-      "Bento"
-    ],
-    "description": "按 SaaS、3D、电商、渐变、Bento 等分类寻找落地页，适合快速比较同类设计。",
-    "kind": "灵感库",
-    "evidence_url": "https://www.lapa.ninja/",
-    "verification": "页面信息",
-    "thumbnail_url": "",
-    "checked_at": "2026-11-03",
-    "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
-    "http_check_error": "HTTP Error 403: Forbidden"
-  },
-  {
-    "name": "Landingfolio",
-    "url": "https://www.landingfolio.com/",
-    "platform": "灵感平台",
-    "category": "灵感索引",
-    "tags": [
-      "落地页",
-      "组件",
-      "Figma"
-    ],
-    "description": "落地页灵感与组件并列，可从整页设计继续找到具体区块结构；模板与组件有不同使用条件。",
-    "kind": "灵感库",
-    "evidence_url": "https://www.landingfolio.com/",
-    "verification": "页面信息",
-    "thumbnail_url": "https://landingfolio.com/og-home.jpg",
-    "checked_at": "2026-11-03",
-    "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
-    "http_status": 200,
-    "http_final_url": "https://www.landingfolio.com/"
-  },
-  {
-    "name": "Three.js Journey：学生作品精选",
-    "url": "https://threejs-journey.com/selection/1",
-    "platform": "灵感平台",
-    "category": "灵感索引",
-    "tags": [
-      "Three.js",
-      "作品集",
-      "3D"
-    ],
-    "description": "Bruno Simon 维护的作品精选，链接到真实 3D 作品与展示视频，适合寻找可探索的空间场景。",
-    "kind": "灵感库",
-    "evidence_url": "https://threejs-journey.com/selection/1",
-    "verification": "页面信息",
-    "thumbnail_url": "https://threejs-journey.com/assets/social/share-image-selection.png?cb=b",
-    "checked_at": "2026-11-03",
-    "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
-    "http_status": 200,
-    "http_final_url": "https://threejs-journey.com/selection/1"
-  },
-  {
-    "name": "D3 官方可视化画廊",
-    "url": "https://observablehq.com/@d3/gallery",
-    "platform": "灵感平台",
-    "category": "灵感索引",
-    "tags": [
-      "图表",
-      "数据",
-      "交互"
-    ],
-    "description": "由 D3 作者维护的可视化实例入口，适合把图表交互作为 UI 灵感而不只看装饰动画。",
-    "kind": "灵感库",
-    "evidence_url": "https://observablehq.com/@d3/gallery",
-    "verification": "页面信息",
-    "thumbnail_url": "",
-    "checked_at": "2026-11-03",
-    "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
-    "http_check_error": "HTTP Error 429: Too Many Requests"
   },
   {
     "name": "Soft Labor：模糊文字聚焦",
@@ -714,15 +459,17 @@
       "拼合"
     ],
     "description": "不同健康主题的图形依次展开，再拼合为完整圆形图；参考分阶段引导如何汇总成一个视觉结论。",
-    "kind": "案例",
+    "kind": "视频",
     "evidence_url": "https://60fps.design/shots/apple-health-longevity-intro-animation",
-    "verification": "页面信息",
-    "thumbnail_url": "https://framerusercontent.com/images/ICYS2f0rsJ9iOphXyUh94ULRS8Y.gif",
+    "verification": "2026-11-03 IAB截图实际看到健康引导页面与彩色气泡；主video readyState=4、paused=false、currentTime>0，视频时长8.883333秒。仅核验可播放及画面，未逐条完整观看。",
+    "thumbnail_url": "https://video.gumlet.io/66b49d08225b7b88f78b7b44/6ac725cf1bbc375977910ca3/thumbnail-1-0.png?width=800",
     "checked_at": "2026-11-03",
     "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
     "http_status": 200,
     "http_final_url": "https://60fps.design/shots/apple-health-longevity-intro-animation",
-    "featured": true
+    "featured": true,
+    "thumbnail_kind": "对应App动效录像的公开海报",
+    "browser_verified": true
   },
   {
     "name": "Revolut：卡片就绪动画",
@@ -735,14 +482,16 @@
       "成功状态"
     ],
     "description": "渐变表面收拢为透视卡片，成功文案与按钮同步进入；适合开户完成或数字卡发放反馈。",
-    "kind": "案例",
+    "kind": "视频",
     "evidence_url": "https://60fps.design/shots/revolut-card-ready-animation",
-    "verification": "页面信息",
-    "thumbnail_url": "https://framerusercontent.com/images/ICYS2f0rsJ9iOphXyUh94ULRS8Y.gif",
+    "verification": "2026-11-03 IAB截图实际看到紫红金属卡展示；主video readyState=4、paused=false、currentTime>0，视频时长9.183333秒。仅核验可播放及画面，未逐条完整观看。",
+    "thumbnail_url": "https://video.gumlet.io/66b49d08225b7b88f78b7b44/6a9e9e212f578a19ae25f6c8/thumbnail-1-0.png?width=800",
     "checked_at": "2026-11-03",
     "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
     "http_status": 200,
-    "http_final_url": "https://60fps.design/shots/revolut-card-ready-animation"
+    "http_final_url": "https://60fps.design/shots/revolut-card-ready-animation",
+    "thumbnail_kind": "对应App动效录像的公开海报",
+    "browser_verified": true
   },
   {
     "name": "Circle：头像气泡开场",
@@ -755,14 +504,16 @@
       "弹性"
     ],
     "description": "头像和话题气泡交替弹出并重排，适合社群产品的开场与活跃氛围表达。",
-    "kind": "案例",
+    "kind": "视频",
     "evidence_url": "https://60fps.design/shots/circle-splash-bubbles-pop-interaction",
-    "verification": "页面信息",
-    "thumbnail_url": "https://framerusercontent.com/images/ICYS2f0rsJ9iOphXyUh94ULRS8Y.gif",
+    "verification": "2026-11-03 IAB截图实际看到圆形人物头像群；主video readyState=4、paused=false、currentTime>0，视频时长20.166667秒。仅核验可播放及画面，未逐条完整观看。",
+    "thumbnail_url": "https://video.gumlet.io/66b49d08225b7b88f78b7b44/6ad76a16a0513a841f821492/thumbnail-1-0.png?width=800",
     "checked_at": "2026-11-03",
     "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
     "http_status": 200,
-    "http_final_url": "https://60fps.design/shots/circle-splash-bubbles-pop-interaction"
+    "http_final_url": "https://60fps.design/shots/circle-splash-bubbles-pop-interaction",
+    "thumbnail_kind": "对应App动效录像的公开海报",
+    "browser_verified": true
   },
   {
     "name": "Brick：翻转价值主张文字",
@@ -775,14 +526,16 @@
       "引导"
     ],
     "description": "引导标题循环切换动词，适合将多个使用场景压缩到同一句主文案。",
-    "kind": "案例",
+    "kind": "视频",
     "evidence_url": "https://60fps.design/shots/brick-intro-value-prop-text-flip-interaction",
-    "verification": "页面信息",
-    "thumbnail_url": "https://framerusercontent.com/images/ICYS2f0rsJ9iOphXyUh94ULRS8Y.gif",
+    "verification": "2026-11-03 IAB截图实际看到Brick介绍页及底部切换文字；主video readyState=4、paused=false、currentTime>0，视频时长8.2秒。仅核验可播放及画面，未逐条完整观看。",
+    "thumbnail_url": "https://video.gumlet.io/66b49d08225b7b88f78b7b44/6ad76a161ab4445ed4e6277b/thumbnail-1-0.png?width=800",
     "checked_at": "2026-11-03",
     "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
     "http_status": 200,
-    "http_final_url": "https://60fps.design/shots/brick-intro-value-prop-text-flip-interaction"
+    "http_final_url": "https://60fps.design/shots/brick-intro-value-prop-text-flip-interaction",
+    "thumbnail_kind": "对应App动效录像的公开海报",
+    "browser_verified": true
   },
   {
     "name": "Runmo：里程圆环与统计切换",
@@ -795,15 +548,17 @@
       "数字"
     ],
     "description": "切换年份时圆环进度和数字同步变化，适合运动统计、目标进度及时间范围比较。",
-    "kind": "案例",
+    "kind": "视频",
     "evidence_url": "https://60fps.design/shots/runmo-distance-wheel-fill-interaction",
-    "verification": "页面信息",
-    "thumbnail_url": "https://framerusercontent.com/images/ICYS2f0rsJ9iOphXyUh94ULRS8Y.gif",
+    "verification": "2026-11-03 IAB截图实际看到黑黄运动数据盘；主video readyState=4、paused=false、currentTime>0，视频时长8.8秒。仅核验可播放及画面，未逐条完整观看。",
+    "thumbnail_url": "https://video.gumlet.io/66b49d08225b7b88f78b7b44/6a9e9bb5aa4fda3466669497/thumbnail-1-0.png?width=800",
     "checked_at": "2026-11-03",
     "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
     "http_status": 200,
     "http_final_url": "https://60fps.design/shots/runmo-distance-wheel-fill-interaction",
-    "featured": true
+    "featured": true,
+    "thumbnail_kind": "对应App动效录像的公开海报",
+    "browser_verified": true
   },
   {
     "name": "Plasma：卡片展开为底部抽屉",
@@ -816,14 +571,16 @@
       "弹性"
     ],
     "description": "优惠卡片变形为详情抽屉，背景变暗模糊；适合保持列表与详情之间的空间关系。",
-    "kind": "案例",
+    "kind": "视频",
     "evidence_url": "https://60fps.design/shots/plasma-duo-style-bottom-sheet-open-interaction",
-    "verification": "页面信息",
-    "thumbnail_url": "https://framerusercontent.com/images/ICYS2f0rsJ9iOphXyUh94ULRS8Y.gif",
+    "verification": "2026-11-03 IAB截图实际看到Plasma深色卡片页面；主video readyState=4、paused=false、currentTime>0，视频时长12.966667秒。仅核验可播放及画面，未逐条完整观看。",
+    "thumbnail_url": "https://video.gumlet.io/66b49d08225b7b88f78b7b44/6ad76b45e59c41063b892f11/thumbnail-1-0.png?width=800",
     "checked_at": "2026-11-03",
     "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
     "http_status": 200,
-    "http_final_url": "https://60fps.design/shots/plasma-duo-style-bottom-sheet-open-interaction"
+    "http_final_url": "https://60fps.design/shots/plasma-duo-style-bottom-sheet-open-interaction",
+    "thumbnail_kind": "对应App动效录像的公开海报",
+    "browser_verified": true
   },
   {
     "name": "Duolingo：雕塑奖励揭晓",
@@ -836,13 +593,15 @@
       "粒子"
     ],
     "description": "石块在烟尘与闪光中揭晓吉祥物雕塑，再用弹跳强调奖励；参考成就系统的揭晓时刻。",
-    "kind": "案例",
+    "kind": "视频",
     "evidence_url": "https://60fps.design/shots/duolingo-sparkle-sculpt-pop-interaction",
-    "verification": "页面信息",
-    "thumbnail_url": "",
+    "verification": "2026-11-03 IAB截图实际看到多邻国奖励雕塑与进度条；主video readyState=4、paused=false、currentTime>0，视频时长4秒。仅核验可播放及画面，未逐条完整观看。",
+    "thumbnail_url": "https://video.gumlet.io/66b49d08225b7b88f78b7b44/6ac7263741d1f14ce097440e/thumbnail-1-0.png?width=800",
     "checked_at": "2026-11-03",
     "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
-    "http_check_error": "<urlopen error timed out>"
+    "http_check_error": "<urlopen error timed out>",
+    "thumbnail_kind": "对应App动效录像的公开海报",
+    "browser_verified": true
   },
   {
     "name": "CRED：票券滑杆",
@@ -855,14 +614,16 @@
       "数字"
     ],
     "description": "拖动金属滑杆时票券粒子弹出，数量与金额同步更新；适合有触感的数值选择器。",
-    "kind": "案例",
+    "kind": "视频",
     "evidence_url": "https://60fps.design/shots/cred-ticket-pop-on-slider-interaction",
-    "verification": "页面信息",
-    "thumbnail_url": "https://framerusercontent.com/images/ICYS2f0rsJ9iOphXyUh94ULRS8Y.gif",
+    "verification": "2026-11-03 IAB截图实际看到CRED票券计数与滑杆；主video readyState=4、paused=false、currentTime>0，视频时长3.45秒。仅核验可播放及画面，未逐条完整观看。",
+    "thumbnail_url": "https://video.gumlet.io/66b49d08225b7b88f78b7b44/6ac725a31bbc375977910a92/thumbnail-1-0.png?width=800",
     "checked_at": "2026-11-03",
     "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
     "http_status": 200,
-    "http_final_url": "https://60fps.design/shots/cred-ticket-pop-on-slider-interaction"
+    "http_final_url": "https://60fps.design/shots/cred-ticket-pop-on-slider-interaction",
+    "thumbnail_kind": "对应App动效录像的公开海报",
+    "browser_verified": true
   },
   {
     "name": "Revolut：脉冲边框功能引导",
@@ -875,14 +636,16 @@
       "遮罩"
     ],
     "description": "遮罩与发光圆形边框依次强调操作按钮；适合研究分步引导的聚焦方式。",
-    "kind": "案例",
+    "kind": "视频",
     "evidence_url": "https://60fps.design/shots/revolut-revpoints-feature-coachmark-border-pulse-interaction",
-    "verification": "页面信息",
-    "thumbnail_url": "https://framerusercontent.com/images/ICYS2f0rsJ9iOphXyUh94ULRS8Y.gif",
+    "verification": "2026-11-03 IAB截图实际看到Revolut紫色积分引导；主video readyState=4、paused=false、currentTime>0，视频时长11.833333秒。仅核验可播放及画面，未逐条完整观看。",
+    "thumbnail_url": "https://video.gumlet.io/66b49d08225b7b88f78b7b44/6a9e9ba22f578a19ae2569a3/thumbnail-1-0.png?width=800",
     "checked_at": "2026-11-03",
     "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
     "http_status": 200,
-    "http_final_url": "https://60fps.design/shots/revolut-revpoints-feature-coachmark-border-pulse-interaction"
+    "http_final_url": "https://60fps.design/shots/revolut-revpoints-feature-coachmark-border-pulse-interaction",
+    "thumbnail_kind": "对应App动效录像的公开海报",
+    "browser_verified": true
   },
   {
     "name": "Run Receipt：手写签名收据",
@@ -895,14 +658,16 @@
       "收据"
     ],
     "description": "绘制签名后收起画布，将签名放进收据；适合研究输入结果在主界面中的连续呈现。",
-    "kind": "案例",
+    "kind": "视频",
     "evidence_url": "https://60fps.design/shots/run-receipt-signature-interaction",
-    "verification": "页面信息",
-    "thumbnail_url": "https://framerusercontent.com/images/ICYS2f0rsJ9iOphXyUh94ULRS8Y.gif",
+    "verification": "2026-11-03 IAB截图实际看到横向签名面板；主video readyState=4、paused=false、currentTime>0，视频时长5.125011秒。仅核验可播放及画面，未逐条完整观看。",
+    "thumbnail_url": "https://video.gumlet.io/66b49d08225b7b88f78b7b44/6a9e9bb8aa489a4399ce53b3/thumbnail-1-0.png?width=800",
     "checked_at": "2026-11-03",
     "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
     "http_status": 200,
-    "http_final_url": "https://60fps.design/shots/run-receipt-signature-interaction"
+    "http_final_url": "https://60fps.design/shots/run-receipt-signature-interaction",
+    "thumbnail_kind": "对应App动效录像的公开海报",
+    "browser_verified": true
   },
   {
     "name": "X：活动点赞角色动画",
@@ -915,14 +680,16 @@
       "角色"
     ],
     "description": "点赞触发角色弹跳与粒子爆发，再回到红心状态；适合社交反应与活动彩蛋。",
-    "kind": "案例",
+    "kind": "视频",
     "evidence_url": "https://60fps.design/shots/x-campaign-hashtag-based-grok-bot-like-button-interaction",
-    "verification": "页面信息",
-    "thumbnail_url": "https://framerusercontent.com/images/ICYS2f0rsJ9iOphXyUh94ULRS8Y.gif",
+    "verification": "2026-11-03 IAB截图实际看到X点赞图标与彩色角色；主video readyState=4、paused=false、currentTime>0，视频时长5.369002秒。仅核验可播放及画面，未逐条完整观看。",
+    "thumbnail_url": "https://video.gumlet.io/66b49d08225b7b88f78b7b44/6ac725a241d1f14ce09740ee/thumbnail-1-0.png?width=800",
     "checked_at": "2026-11-03",
     "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
     "http_status": 200,
-    "http_final_url": "https://60fps.design/shots/x-campaign-hashtag-based-grok-bot-like-button-interaction"
+    "http_final_url": "https://60fps.design/shots/x-campaign-hashtag-based-grok-bot-like-button-interaction",
+    "thumbnail_kind": "对应App动效录像的公开海报",
+    "browser_verified": true
   },
   {
     "name": "Platen：拟物打字机引导",
@@ -935,14 +702,16 @@
       "长按"
     ],
     "description": "长按打字机横杆投射光束并演示主题变化，适合把模式切换融入拟物控制。",
-    "kind": "案例",
+    "kind": "视频",
     "evidence_url": "https://60fps.design/shots/platen-typewriter-intro-how-to-interaction",
-    "verification": "页面信息",
-    "thumbnail_url": "https://framerusercontent.com/images/ICYS2f0rsJ9iOphXyUh94ULRS8Y.gif",
+    "verification": "2026-11-03 IAB截图实际看到打字机灯光介绍页；主video readyState=4、paused=false、currentTime>0，视频时长8.286009秒。仅核验可播放及画面，未逐条完整观看。",
+    "thumbnail_url": "https://video.gumlet.io/66b49d08225b7b88f78b7b44/6ac725a26d6d4d08c61b99c2/thumbnail-1-0.png?width=800",
     "checked_at": "2026-11-03",
     "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
     "http_status": 200,
-    "http_final_url": "https://60fps.design/shots/platen-typewriter-intro-how-to-interaction"
+    "http_final_url": "https://60fps.design/shots/platen-typewriter-intro-how-to-interaction",
+    "thumbnail_kind": "对应App动效录像的公开海报",
+    "browser_verified": true
   },
   {
     "name": "Airbnb：新功能开场叙事",
@@ -955,14 +724,16 @@
       "转场"
     ],
     "description": "模拟设备中依次展示住宿、体验与服务，最后放大为实际界面；参考演示与可操作状态的衔接。",
-    "kind": "案例",
+    "kind": "视频",
     "evidence_url": "https://60fps.design/shots/airbnb-new-intro-sequence",
-    "verification": "页面信息",
-    "thumbnail_url": "https://framerusercontent.com/images/ICYS2f0rsJ9iOphXyUh94ULRS8Y.gif",
+    "verification": "2026-11-03 IAB截图实际看到Airbnb服务介绍及页面缩放；主video readyState=4、paused=false、currentTime>0，视频时长8.033333秒。仅核验可播放及画面，未逐条完整观看。",
+    "thumbnail_url": "https://video.gumlet.io/66b49d08225b7b88f78b7b44/682dd23dd7ce6c42e74b4960/thumbnail-1-0.png?width=800",
     "checked_at": "2026-11-03",
     "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
     "http_status": 200,
-    "http_final_url": "https://60fps.design/shots/airbnb-new-intro-sequence"
+    "http_final_url": "https://60fps.design/shots/airbnb-new-intro-sequence",
+    "thumbnail_kind": "对应App动效录像的公开海报",
+    "browser_verified": true
   },
   {
     "name": "Flighty：转机助手抽屉",
@@ -975,14 +746,16 @@
       "抽屉"
     ],
     "description": "收起说明时，时间轴和详细行程同步重排，箭头旋转反馈状态；适合信息密集型底部抽屉。",
-    "kind": "案例",
+    "kind": "视频",
     "evidence_url": "https://60fps.design/shots/flighty-connection-assistant-sheet",
-    "verification": "页面信息",
-    "thumbnail_url": "https://framerusercontent.com/images/ICYS2f0rsJ9iOphXyUh94ULRS8Y.gif",
+    "verification": "2026-11-03 IAB截图实际看到Flighty接驳助手弹层与彩色时间条；主video readyState=4、paused=false、currentTime>0，视频时长4.766667秒。仅核验可播放及画面，未逐条完整观看。",
+    "thumbnail_url": "https://video.gumlet.io/66b49d08225b7b88f78b7b44/672f62aceaffeddcdf50f246/thumbnail-1-0.png?width=800",
     "checked_at": "2026-11-03",
     "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
     "http_status": 200,
-    "http_final_url": "https://60fps.design/shots/flighty-connection-assistant-sheet"
+    "http_final_url": "https://60fps.design/shots/flighty-connection-assistant-sheet",
+    "thumbnail_kind": "对应App动效录像的公开海报",
+    "browser_verified": true
   },
   {
     "name": "Flighty：护照黑光分享",
@@ -995,14 +768,16 @@
       "光效"
     ],
     "description": "切换黑光后，护照航线、统计与印章呈现紫色荧光，模拟隐形墨水被照亮；适合纪念卡片与分享彩蛋。",
-    "kind": "案例",
+    "kind": "视频",
     "evidence_url": "https://60fps.design/shots/flighty-share-passport-blacklight-interaction",
-    "verification": "页面信息",
-    "thumbnail_url": "https://framerusercontent.com/images/ICYS2f0rsJ9iOphXyUh94ULRS8Y.gif",
+    "verification": "2026-11-03 IAB截图实际看到Flighty护照卡与Blacklight入口；主video readyState=4、paused=false、currentTime>0，视频时长2.316667秒。仅核验可播放及画面，未逐条完整观看。",
+    "thumbnail_url": "https://video.gumlet.io/66b49d08225b7b88f78b7b44/6712ad1fbf3ce1dd7e363ef2/thumbnail-1-0.png?width=800",
     "checked_at": "2026-11-03",
     "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
     "http_status": 200,
-    "http_final_url": "https://60fps.design/shots/flighty-share-passport-blacklight-interaction"
+    "http_final_url": "https://60fps.design/shots/flighty-share-passport-blacklight-interaction",
+    "thumbnail_kind": "对应App动效录像的公开海报",
+    "browser_verified": true
   },
   {
     "name": "Airbnb：触感标签按钮",
@@ -1015,14 +790,16 @@
       "触感"
     ],
     "description": "点击胶囊标签时先弹性缩小，选中高亮滑动，骨架卡片淡入实际内容；适合导航切换与加载反馈。",
-    "kind": "案例",
+    "kind": "视频",
     "evidence_url": "https://60fps.design/shots/airbnb-tactile-tab-button-interaction",
-    "verification": "页面信息",
-    "thumbnail_url": "",
+    "verification": "2026-11-03 IAB截图实际看到Airbnb立体分类按钮；主video readyState=4、paused=false、currentTime>0，视频时长6.5秒。仅核验可播放及画面，未逐条完整观看。",
+    "thumbnail_url": "https://video.gumlet.io/66b49d08225b7b88f78b7b44/6a796336a219b0caeb69c119/thumbnail-1-0.png?width=800",
     "checked_at": "2026-11-03",
     "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
     "http_check_error": "<urlopen error timed out>",
-    "featured": true
+    "featured": true,
+    "thumbnail_kind": "对应App动效录像的公开海报",
+    "browser_verified": true
   },
   {
     "name": "Airbnb：照片弹出滑动",
@@ -1035,74 +812,15 @@
       "画廊"
     ],
     "description": "照片堆最上层卡片放大、旋转并滑到后方，其余照片前移补位；适合循环画廊与卡片式故事。",
-    "kind": "案例",
+    "kind": "视频",
     "evidence_url": "https://60fps.design/shots/airbnb-photo-pop-and-slide-animation",
-    "verification": "页面信息",
-    "thumbnail_url": "",
+    "verification": "2026-11-03 IAB截图实际看到Airbnb叠放照片与预约表单；主video readyState=4、paused=false、currentTime>0，视频时长1.020998秒。仅核验可播放及画面，未逐条完整观看。",
+    "thumbnail_url": "https://video.gumlet.io/66b49d08225b7b88f78b7b44/6980cddd282b61e5db5afe6d/thumbnail-1-0.png?width=800",
     "checked_at": "2026-11-03",
     "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
-    "http_check_error": "<urlopen error timed out>"
-  },
-  {
-    "name": "D3：可缩放旭日图",
-    "url": "https://observablehq.com/@d3/zoomable-sunburst",
-    "platform": "独立站",
-    "category": "微交互",
-    "tags": [
-      "D3",
-      "数据",
-      "层级",
-      "钻取"
-    ],
-    "description": "按层级探索环状旭日图，适合文件、组织和内容分类的钻取界面；页面提供可编辑示例。",
-    "kind": "案例",
-    "evidence_url": "https://observablehq.com/@d3/zoomable-sunburst",
-    "verification": "页面信息",
-    "thumbnail_url": "",
-    "checked_at": "2026-11-03",
-    "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
-    "http_check_error": "HTTP Error 429: Too Many Requests",
-    "featured": true
-  },
-  {
-    "name": "D3：可缩放矩形树图",
-    "url": "https://observablehq.com/@d3/zoomable-treemap",
-    "platform": "独立站",
-    "category": "微交互",
-    "tags": [
-      "D3",
-      "数据",
-      "树图",
-      "缩放"
-    ],
-    "description": "通过矩形面积与层级缩放探索数据，适合资源分配和内容结构的可视化面板。",
-    "kind": "案例",
-    "evidence_url": "https://observablehq.com/@d3/zoomable-treemap",
-    "verification": "页面信息",
-    "thumbnail_url": "",
-    "checked_at": "2026-11-03",
-    "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
-    "http_check_error": "<urlopen error timed out>"
-  },
-  {
-    "name": "D3：动态条形排名",
-    "url": "https://observablehq.com/@d3/bar-chart-race",
-    "platform": "独立站",
-    "category": "微交互",
-    "tags": [
-      "D3",
-      "排名",
-      "数据",
-      "时间"
-    ],
-    "description": "条形随时间更新排名，适合学习数据变更时如何保持对象的可追踪性。",
-    "kind": "案例",
-    "evidence_url": "https://observablehq.com/@d3/bar-chart-race",
-    "verification": "页面信息",
-    "thumbnail_url": "",
-    "checked_at": "2026-11-03",
-    "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
-    "http_check_error": "HTTP Error 429: Too Many Requests"
+    "http_check_error": "<urlopen error timed out>",
+    "thumbnail_kind": "对应App动效录像的公开海报",
+    "browser_verified": true
   },
   {
     "name": "Earth：全球风场与海洋",
@@ -1118,32 +836,12 @@
     "description": "地图支持风、洋流与波浪动画以及时间和图层切换，适合环境数据界面和流向视觉参考。",
     "kind": "作品",
     "evidence_url": "https://earth.nullschool.net/",
-    "verification": "页面信息",
+    "verification": "2026-11-03 IAB截图观察：实际看到亚洲与太平洋区域3D地球，连续两张截图从短粒子形成更长风场流线及气旋，确认动态渲染。",
     "thumbnail_url": "",
     "checked_at": "2026-11-03",
     "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
     "http_check_error": "<urlopen error timed out>",
-    "featured": true
-  },
-  {
-    "name": "Globe.GL：交互地球数据层",
-    "url": "https://globe.gl/",
-    "platform": "独立站",
-    "category": "3D与沉浸",
-    "tags": [
-      "Three.js",
-      "地球",
-      "数据",
-      "连线"
-    ],
-    "description": "官方示例涵盖弧线连接、区域填色、高度多边形和昼夜变化，适合全球业务和网络连接界面。",
-    "kind": "案例",
-    "evidence_url": "https://globe.gl/",
-    "verification": "页面信息",
-    "thumbnail_url": "",
-    "checked_at": "2026-11-03",
-    "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
-    "http_status": 200,
-    "http_final_url": "https://globe.gl/"
+    "featured": true,
+    "browser_verified": true
   }
 ]

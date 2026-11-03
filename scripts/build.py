@@ -56,6 +56,7 @@ def merge_items(raw):
         item['platform'] = item.get('platform','独立站')
         if item['platform'] == '官方站点': item['platform'] = '独立站'
         item['kind'] = item.get('kind','作品')
+        item['browser_verified'] = bool(item.get('browser_verified') or item.get('visual_verified'))
         item['featured'] = bool(item.get('featured') or item.get('name') in FEATURED)
         item['checked_at'] = item.get('checked_at','2026-11-02')
         item['verification'] = item.get('verification','待核验')
@@ -75,17 +76,23 @@ def markdown_text(value):
 
 def build():
     groups = []
-    for name in ('code_items.json','video_items.json','site_items.json'):
+    for name in ('code_items.json','video_items.json','site_items.json','direct_demo_items.json','ui_example_items.json'):
         path = ROOT / name
         if path.exists(): groups.append(json.loads(path.read_text(encoding='utf-8-sig')))
+    for source_name in ('code','video','site'):
+        source_items = json.loads((ROOT/f'{source_name}_items.json').read_text(encoding='utf-8-sig'))
+        source_lines = [f'# 当前收录来源 · {source_name}', '', f'整理于 {DATE}。仅列出本版仍收录的 {len(source_items)} 条。', '']
+        for item in source_items:
+            source_lines += [f"## {item['name']}", '', f"- 作品：{item['url']}", f"- 依据：{item.get('evidence_url', item['url'])}", f"- 核验：{item.get('verification','页面内容核验')}", '']
+        (ROOT/f'{source_name}_sources.md').write_text('\n'.join(source_lines),encoding='utf-8')
     raw = [item for row in zip_longest(*groups) for item in row if item is not None]
     items = merge_items(raw)
-    items.sort(key=lambda item: not item['featured'])
+    items.sort(key=lambda item: (not item['browser_verified'], not item['featured']))
     counts = Counter(i['category'] for i in items)
     data = {'updated_at':DATE, 'items':items, 'counts':dict(counts),
             'limitations':['小红书：XHS Bridge 未连接，未取得可核验笔记，0 条收录。',
-                '页面或元数据核验不等于完整观看视频、运行源码或授权商用。',
-                '部分 YouTube 链接仅有第三方索引证据，可在卡片详情查看。']}
+                '浏览器画面核验与正文/链接核验分别记录；未逐一完整播放视频或遍历全部交互。',
+                '预览可能受地区网络、浏览器与 GPU 支持影响；WebGPU 案例已标注要求。']}
     (ROOT/'library.json').write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
     with (ROOT/'library.csv').open('w',encoding='utf-8-sig',newline='') as out:
         keys = ['name','url','platform','category','kind','description','tags','repo_url','verification','evidence_url','checked_at']
@@ -102,11 +109,11 @@ def build():
     page = page.replace('__DATA__',safe_json(data))
     (ROOT/'index.html').write_text(page,encoding='utf-8')
     lines = ['# UI Motion Library · UI 界面与动效灵感库','',
-        f'精选 **{len(items)} 条** UI、交互动效、展示视频与实现资源。最后整理：{DATE}。', '',
+        f'收录 **{len(items)} 条**具体 UI 界面、可体验动效与作品展示。最后整理：{DATE}。', '',
         '**[打开在线灵感库 →](https://spr1ng-zbm.github.io/ui-motion-inspiration-library/)**','',
         '也可以下载仓库后直接打开 [index.html](index.html)，支持搜索、分类、平台筛选、本地收藏、随机发现与导出。','',
         '[全部数据 JSON](library.json) · [CSV 索引](library.csv) · [检索与核验说明](docs/research-notes.md)','',
-        '> 本库保存原链接和简短策展说明。动态效果需打开原站体验；视频未逐一完整播放。小红书因浏览器扩展未连接，本轮没有收录真实笔记。', '',
+        '> 按最新筛选方向移除教程、课程、泛导航和无法确认可见效果的条目。具体组件页仅在有公开预览时保留。浏览器画面确认与页面内容核验分别记录；并非每条都已逐一交互测试。', '',
         '## 从这里开始','']
     for item in [i for i in items if i['featured']][:24]:
         lines.append(f"- [{markdown_text(item['name'])}]({item['url']}) — {markdown_text(item['description'])}")
@@ -122,7 +129,7 @@ def build():
         '收藏保存在当前浏览器本地，不会上传 GitHub；可用浏览页的导出按钮备份。预览图片从原站载入，失效时保留文字卡片和原链接。','',
         '## 来源与使用','',
         '原创整理与浏览器代码见 [LICENSE](LICENSE)。第三方网站、图像、视频和代码各自保留原作者权利；本库的许可不覆盖第三方素材。各项目具体许可记录可在浏览页详情和 JSON 查看。','',
-        '[动效来源](code_sources.md) · [视频来源](video_sources.md) · [网站与界面来源](site_sources.md)','']
+        '[动效来源](code_sources.md) · [视频来源](video_sources.md) · [网站与界面来源](site_sources.md) · [独立演示来源](direct_demo_sources.md) · [新增界面来源](ui_example_sources.md)','']
     (ROOT/'README.md').write_text('\n'.join(lines),encoding='utf-8')
     print(json.dumps({'items':len(items),'categories':dict(counts),'featured':sum(i['featured'] for i in items)},ensure_ascii=True))
 
