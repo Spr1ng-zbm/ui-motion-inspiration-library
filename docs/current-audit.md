@@ -1,6 +1,6 @@
 # 当前版本逐项核验
 
-更新：2026-11-03。主库 **350 条**；旧库 173 条全部尝试核查，保留 **158 条**，移出 **15 条**；新增 **192 条**。
+更新：2026-11-03。主库 **358 条**；旧库 173 条全部尝试核查，保留 **158 条**，移出 **15 条**；新增 **200 条**。
 
 主库每条均有实际画面依据和具体操作记录。静态界面可以作为 UI 参考；只有看到变化才描述为已验证动效。视频核验关键片段，不代表完整播放。
 
@@ -13,15 +13,15 @@
 ## 分类
 
 - 粒子与背景：18 条
-- 完整界面：105 条
-- 画廊与导航：46 条
+- 完整界面：107 条
+- 画廊与导航：47 条
 - 微交互：78 条
-- 游戏与趣味：16 条
+- 游戏与趣味：19 条
 - 图形与图标：9 条
 - 3D与沉浸：45 条
 - 滚动与叙事：14 条
 - 声音与可视化：6 条
-- 文字与排版：11 条
+- 文字与排版：13 条
 - 组件与合集：2 条
 
 ## 原有 173 条的逐项结果
@@ -385,6 +385,14 @@
 | [Le Mans Classic：幕后摄影叙事](https://lemansclassic.richardmille.com) | 启动体验并连续滚动摄影叙事前几段。 | 超窄黄色大标题叠在黑白赛车摄影上；滚轮驱动横向叙事，黄色文字页、竖排引言、全幅照片和黑底标题页依次滑入。 |
 | [Hearst：ELLE × Esquire 好莱坞摄影展](https://www.hollywoodexhibit2026.com) | 选择 ELLE，进入 Gallery，滚动后点击左上 View 切换布局。 | 摄影作品先以大小错落的留白网格展示，点击后重排为横向等高胶片带；顶栏保持极简杂志标识，底部有缩放按钮。 |
 | [FunTech：幻灯片式动态品牌系统](https://ci.funtech.inc/ja) | 关闭声音进入品牌展示，点击右下箭头切换到 Brand Message。 | 黑橙漫画速度线、亮面 3D 字母与贴纸构成首屏，左侧幻灯片缩略图和底部导航清晰；下一页显示环绕缩略图、涂鸦箭头和大标题的动态构图。 |
+| [Radian：电动越野车配置界面](https://www.rideradian.com) | 拒绝可选 cookies，查看旋转车型影像，进入 Explore the bike 并滚动到 Performance。 | 黄色越野摩托从正面到侧面展示；详情页以森林实拍开场，再通过 Power 大字遮罩转入全屏骑行影像，左侧标题、右侧参数保持清晰分工。 |
+| [Lacoste Ace Breaker：品牌打砖块](https://members-play.lacoste.com/ace-breaker-rg) | 拒绝可选 cookies，点击 PLAY 和 START GAME，并拖拽挡板。 | 深绿与网球黄主界面过渡到立体红土球场；发光网球击碎绿色方块，拖拽后挡板移到右侧，生命球和得分实时变化。 |
+| [Lacoste Polo Factory：服装工厂互动](https://members-play.lacoste.com/polo-factory-experience) | 点击 START THE TOUR，进入针织机器场景并按住 Push 按钮。 | 浅蓝色微缩工厂、漂浮彩色线圈、衣架与透明机窗组成空间；按压后顶部线圈重排，机窗内出现两件彩色 Polo 衫，按钮有实体按压视觉。 |
+| [Ten Years Away：工作室互动漫画](https://ten.375.studio) | 英文首页进入 2015 章节返回 404；使用错误页提供的原语言主页，再进入 2015 并连续滚动。 | 意大利语版本可用：立体漫画封面切到白色纸粒空间，黑白分镜随滚动放大并横向推进，人物说明气泡与网点图形独立叠层。 |
+| [Gusto：产品 UI 动效展示短片](https://ziwvaiplle7bdzaz.public.blob.vercel-storage.com/videos/h264/outpost-gusto-reel-v1-fallback.mp4) | 播放73秒官方展示片并查看19秒、31秒及44至47秒片段。 | 薄荷绿与黄色图形节奏转入工资管理界面拼贴；47秒显示手机竖屏官网、桌面/平板/手机尺寸切换和浮动任务卡片。 |
+| [Unwoven：图像丝带编织轮播](https://tympanus.net/Development/Unwoven) | 打开演示并两次拖动画面，比较前后人物卡片与丝带形态。 | 黑底三张圆角人像卡片持续横移；左右边缘拆成数十条弯曲丝带，人物顺序与丝带位置发生变化。 |
+| [On-Scroll SVG Filter Text：滚动文字变形](https://tympanus.net/Development/OnScrollSVGFilterText) | 滚动到 WAVE 和 DREAMS 段落，并点击 WAVE 的 REPLAY。 | 黑底粉蓝插画间，WAVE 字母变成模糊膨胀波形；继续滚动时 DREAMS 呈现液体侵蚀般的镂空边缘。 |
+| [Gooey Text Hover：黏液文字菜单](https://tympanus.net/Development/GooeyTextHover) | 将指针移到 Cobain 菜单文字上，比较悬停前后截图。 | 大号黑色粗体 Cobain 从完整字形变成黏液状孔洞和融化边缘，其余菜单保持正常。 |
 | [Runmo：心电波形与发光游标](https://video.gumlet.io/66b49d08225b7b88f78b7b44/6a9e9ba32f578a19ae2569ae/main.mp4) | 播放心电波形录像并对比前后游标位置。 | 暗红色 Lab 页面上白色发光点沿心电线前进，经过的波形更亮，后续波形较暗；下方等宽数字、细线边框和仪表刻度保持统一风格。 |
 | [Runmo：跑步里程环形旋钮](https://video.gumlet.io/66b49d08225b7b88f78b7b44/6a9e9bb52f578a19ae256a7a/main.mp4) | 播放 27.1 秒录像，观察中段及末段距离旋钮。 | 橄榄黑色运动界面中环形刻度旋转，中心粗体公里数从 24KM 变为 900KM，周围数字刻度随量级变化，底部数据胶囊保持稳定。 |
 | [CRED：票券打印与重排](https://video.gumlet.io/66b49d08225b7b88f78b7b44/6ac725a341d1f14ce09740f1/main.mp4) | 播放 4.77 秒原始票券动画，回看中间段和结束画面。 | 白色界面中细长票券横排，进入 Printing tickets 状态后按钮合为黑色长条，纸券逐张错位滑动，形成打印中的阶梯堆叠。 |
@@ -401,6 +409,8 @@
 
 ## 数据依据
 
-[完整主库](../library.json) · [旧库原始清单](full-audit-manifest.json) · [旧库逐项审计](full-audit.json) · [新增网站审计](audit-new-sites.json) · [新增展示录像审计](audit-new-videos.json) · [第二轮审计](audit-round2-sites.json) · [第三轮视频审计](audit-video-round3.json)
+[完整主库](../library.json) · [候选筛选结果](candidate-review.md) · [旧库原始清单](full-audit-manifest.json) · [旧库逐项审计](full-audit.json) · [新增网站审计](audit-new-sites.json) · [新增展示录像审计](audit-new-videos.json) · [第二轮审计](audit-round2-sites.json) · [第三轮视频审计](audit-video-round3.json)
+
+[附带源码链接检查](source-link-audit.json)：15 个不同 GitHub 仓库的公开页面可读取；这只核查入口与项目主题，不代表运行或审查过源码。
 
 小红书连接未就绪，未取得可核验笔记，因此没有以搜索摘要补数。第三方网站、图像、视频和代码的权利归原作者；本库只整理入口与参考点。

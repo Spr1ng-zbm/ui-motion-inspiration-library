@@ -1,0 +1,96 @@
+{
+  "checked_at": "2026-11-03",
+  "scope": "主库附带的15个不同源码仓库链接；网页读取确认仓库标题、公开仓库正文与项目主题。未运行代码，未核查全部版本或依赖。",
+  "items": [
+    {
+      "url": "https://github.com/DavidHDev/react-bits",
+      "result": "reachable",
+      "method": "web open",
+      "observed": "公开 GitHub 仓库标题与项目正文可读取，主题与附带源码入口一致。"
+    },
+    {
+      "url": "https://github.com/JIEJOE-Visual/MAA",
+      "result": "reachable",
+      "method": "web open",
+      "observed": "公开 GitHub 仓库标题与项目正文可读取，主题与附带源码入口一致。"
+    },
+    {
+      "url": "https://github.com/JIEJOE-Visual/cpdd",
+      "result": "reachable",
+      "method": "web open",
+      "observed": "公开 GitHub 仓库标题与项目正文可读取，主题与附带源码入口一致。"
+    },
+    {
+      "url": "https://github.com/darkroomengineering/lenis",
+      "result": "reachable",
+      "method": "web open",
+      "observed": "公开 GitHub 仓库标题与项目正文可读取，主题与附带源码入口一致。"
+    },
+    {
+      "url": "https://github.com/emilkowalski/sonner",
+      "result": "reachable",
+      "method": "web open",
+      "observed": "公开 GitHub 仓库标题与项目正文可读取，主题与附带源码入口一致。"
+    },
+    {
+      "url": "https://github.com/emilkowalski/vaul",
+      "result": "reachable",
+      "method": "web open",
+      "observed": "公开 GitHub 仓库标题与项目正文可读取，主题与附带源码入口一致。"
+    },
+    {
+      "url": "https://github.com/evanw/glfx.js",
+      "result": "reachable",
+      "method": "web open",
+      "observed": "公开 GitHub 仓库标题与项目正文可读取，主题与附带源码入口一致。"
+    },
+    {
+      "url": "https://github.com/juliangarnier/anime",
+      "result": "reachable",
+      "method": "web open",
+      "observed": "公开 GitHub 仓库标题与项目正文可读取，主题与附带源码入口一致。"
+    },
+    {
+      "url": "https://github.com/magicuidesign/magicui",
+      "result": "reachable",
+      "method": "web open",
+      "observed": "公开 GitHub 仓库标题与项目正文可读取，主题与附带源码入口一致。"
+    },
+    {
+      "url": "https://github.com/martinlaxenaire/curtainsjs",
+      "result": "reachable",
+      "method": "web open",
+      "observed": "公开 GitHub 仓库标题与项目正文可读取，主题与附带源码入口一致。"
+    },
+    {
+      "url": "https://github.com/mrdoob/three.js",
+      "result": "reachable",
+      "method": "web open",
+      "observed": "公开 GitHub 仓库标题与项目正文可读取，主题与附带源码入口一致。"
+    },
+    {
+      "url": "https://github.com/pmndrs/react-three-rapier",
+      "result": "reachable",
+      "method": "web open",
+      "observed": "公开 GitHub 仓库标题与项目正文可读取，主题与附带源码入口一致。"
+    },
+    {
+      "url": "https://github.com/tengbao/vanta",
+      "result": "reachable",
+      "method": "web open",
+      "observed": "公开 GitHub 仓库标题与项目正文可读取，主题与附带源码入口一致。"
+    },
+    {
+      "url": "https://github.com/useAnimations/react-useanimations",
+      "result": "reachable",
+      "method": "web open",
+      "observed": "公开 GitHub 仓库标题与项目正文可读取，主题与附带源码入口一致。"
+    },
+    {
+      "url": "https://github.com/visgl/deck.gl",
+      "result": "reachable",
+      "method": "web open",
+      "observed": "公开 GitHub 仓库标题与项目正文可读取，主题与附带源码入口一致。"
+    }
+  ]
+}

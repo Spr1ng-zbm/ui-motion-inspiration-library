@@ -2,6 +2,7 @@
 import json
 from collections import Counter
 from pathlib import Path
+from build import canonical_url
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -33,9 +34,47 @@ def main():
     for i in items:
         if i['id'] not in old_ids:
             lines.append(f"| [{clean(i['name'])}]({i['url']}) | {clean(i['verification_action'])} | {clean(i['verification_observed'])} |")
-    lines += ['', '## 数据依据', '', '[完整主库](../library.json) · [旧库原始清单](full-audit-manifest.json) · [旧库逐项审计](full-audit.json) · [新增网站审计](audit-new-sites.json) · [新增展示录像审计](audit-new-videos.json) · [第二轮审计](audit-round2-sites.json) · [第三轮视频审计](audit-video-round3.json)', '',
+    lines += ['', '## 数据依据', '', '[完整主库](../library.json) · [候选筛选结果](candidate-review.md) · [旧库原始清单](full-audit-manifest.json) · [旧库逐项审计](full-audit.json) · [新增网站审计](audit-new-sites.json) · [新增展示录像审计](audit-new-videos.json) · [第二轮审计](audit-round2-sites.json) · [第三轮视频审计](audit-video-round3.json)', '',
+        '[附带源码链接检查](source-link-audit.json)：15 个不同 GitHub 仓库的公开页面可读取；这只核查入口与项目主题，不代表运行或审查过源码。', '',
         '小红书连接未就绪，未取得可核验笔记，因此没有以搜索摘要补数。第三方网站、图像、视频和代码的权利归原作者；本库只整理入口与参考点。', '']
     (ROOT/'docs/current-audit.md').write_text('\n'.join(lines),encoding='utf-8')
+    candidates = []
+    for filename in ('candidate_items_20261103.json', 'candidate_items_round2.json',
+                     'candidate_video_round3.json', 'candidate_items_round4.json',
+                     'candidate_items_round5.json', 'candidate_items_round6.json',
+                     'candidate_items_round7.json'):
+        candidates.extend(json.loads((ROOT/filename).read_text(encoding='utf-8')))
+    reviews = {}
+    for filename in ('audit-new-sites.json', 'audit-new-videos.json',
+                     'audit-round2-sites.json', 'audit-video-round3.json'):
+        payload = json.loads((ROOT/'docs'/filename).read_text(encoding='utf-8'))
+        for row in payload if isinstance(payload, list) else payload['items']:
+            reviews[canonical_url(row['url'])] = row
+    published = {canonical_url(i.get('original_url') or i['url']) for i in items}
+    decisions = []
+    for candidate in candidates:
+        url = canonical_url(candidate['url'])
+        review = reviews.get(url, {})
+        if url in published:
+            status = '已收录'
+        elif review.get('quality_recommendation') == 'remove' or review.get('result') == 'fail':
+            status = '质量筛除'
+        elif review.get('result') == 'blocked':
+            status = '暂无法完成核验'
+        elif not review or review.get('result') == 'pending':
+            status = '尚未完成核验'
+        else:
+            status = '未收录（见记录）'
+        reason = review.get('quality_reason') or review.get('observed') or '没有完成实际画面与关键操作核验，不计入推荐数量。'
+        decisions.append((candidate, status, reason))
+    counts = Counter(status for _, status, _ in decisions)
+    candidate_lines = ['# 候选筛选结果', '',
+        f"更新：{data['updated_at']}。发现候选 {len(candidates)} 条；这里是筛选工作记录，不是推荐列表。", '',
+        ' · '.join(f'{status}：{count}' for status, count in counts.items()), '',
+        '“暂无法完成核验”包括站点访问、登录门槛、渲染和核验工具限制，不等于网站永久失效。未通过条目不进入主库。', '',
+        '| 候选 | 处理 | 实际依据 |', '|---|---|---|']
+    candidate_lines += [f"| [{clean(c['name'])}]({c['url']}) | {status} | {clean(reason)} |" for c, status, reason in decisions]
+    (ROOT/'docs/candidate-review.md').write_text('\n'.join(candidate_lines)+'\n', encoding='utf-8')
     print(f'Audit report: {len(items)} entries, {kept} retained baseline')
 
 if __name__ == '__main__': main()

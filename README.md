@@ -1,6 +1,6 @@
 # UI Motion Library · UI 界面与动效灵感库
 
-收录 **350 条**具体 UI 界面、可体验动效与作品展示。最后整理：2026-11-03。
+收录 **358 条**具体 UI 界面、可体验动效与作品展示。最后整理：2026-11-03。
 
 **[打开在线灵感库 →](https://spr1ng-zbm.github.io/ui-motion-inspiration-library/)**
 
@@ -42,12 +42,12 @@
 - 3D与沉浸：45 条
 - 图形与图标：9 条
 - 声音与可视化：6 条
-- 完整界面：105 条
+- 完整界面：107 条
 - 微交互：78 条
-- 文字与排版：11 条
-- 游戏与趣味：16 条
+- 文字与排版：13 条
+- 游戏与趣味：19 条
 - 滚动与叙事：14 条
-- 画廊与导航：46 条
+- 画廊与导航：47 条
 - 粒子与背景：18 条
 - 组件与合集：2 条
 
@@ -235,6 +235,8 @@
 | Noho：家具电商界面重设计 | 独立站 / 在线演示 | 家具品牌概念界面：拼贴摄影、文字嵌图、双栏 3D 产品陈列与即时配色切换。 | [打开](https://noho.ink) |
 | Miu Miu：包袋探索之家 | 独立站 / 在线演示 | 房间探索与纸质笔记本结合的品牌体验：场景热点、物件放大、手写注释、贴纸摄影和收集进度。 | [打开](https://immersivebags.miumiu.com) |
 | FS 60P：实时腕表与页面互动 | 独立站 / 在线演示 | 高反射金属腕表随滚动旋转，配合超大细字、灰白渐变与产品参数，适合精密产品的展示页参考。 | [打开](https://thewatch.60fps.fr) |
+| Radian：电动越野车配置界面 | 独立站 / 在线演示 | 电动越野摩托产品页：旋转车型展示、章节计数、大字影像遮罩和全屏骑行视频参数版面。 | [打开](https://www.rideradian.com) |
+| Gusto：产品 UI 动效展示短片 | 独立站 / 视频 | Gusto 品牌与产品界面展示：柔和配色、图形转场、任务卡片叠加，以及桌面到手机的响应式布局演示。 | [打开](https://ziwvaiplle7bdzaz.public.blob.vercel-storage.com/videos/h264/outpost-gusto-reel-v1-fallback.mp4) |
 
 ## 微交互
 
@@ -334,6 +336,8 @@
 | Elevate：答案词高亮反馈 | 灵感平台 / 视频 | 大字号句子中，正确词被青绿色色块突出，底部进度和判断按钮保持稳定；参考将反馈直接放在内容上的答题界面。 | [打开](https://60fps.design/shots/elevate-correct-answer-words-morph-interaction) |
 | Paper Moon Press 概念：双色印刷与纸张剥离 | 独立站 / 在线演示 | 双色印刷风格界面：粗体排版、蓝粉网点海报与纸张堆叠，拖拽时翻出纸背并露出下一张，支持重新归位。 | [打开](https://tympanus.net/Demos/MuseumOfMotion/vibes/printed) |
 | FunTech：幻灯片式动态品牌系统 | 独立站 / 在线演示 | 网页化品牌手册：黑橙漫画线条、亮面 3D 字母、贴纸与动态作品拼贴，配合幻灯片侧栏和章节导航。 | [打开](https://ci.funtech.inc/ja) |
+| On-Scroll SVG Filter Text：滚动文字变形 | 独立站 / 在线演示 | 滚动触发的 SVG 文字滤镜：波浪膨胀、模糊与液体侵蚀边缘，配合超现实插画形成长页节奏。 | [打开](https://tympanus.net/Development/OnScrollSVGFilterText) |
+| Gooey Text Hover：黏液文字菜单 | 独立站 / 在线演示 | 极简大字导航的黏液悬停：粗体字形在指针进入后液化、开孔，适合实验性作品集菜单。 | [打开](https://tympanus.net/Development/GooeyTextHover) |
 
 ## 游戏与趣味
 
@@ -355,6 +359,9 @@
 | Oh là là Ride：巴黎自行车竞速 | 独立站 / 在线演示 | 奶油色巴黎骑行展示：人物与自行车的精细立体渲染、飘落树叶、书法标题和细线圆角按钮组成温暖的游戏入口。 | [打开](https://ohlalaride.com) |
 | Junkyard King Arena：手绘招式界面 | 独立站 / 在线演示 | 废土题材浏览器游戏界面：分段血条、弧形动作按钮、发光武器与逐步动作提示形成完整 HUD。 | [打开](https://junkyardking.io) |
 | Shaky Picks：环形卡牌选择 | 独立站 / 在线演示 | 卡片从环形阵列推近为扇形选择器，再翻面展示结果；适合抽签、收藏卡、角色选择等交互参考。 | [打开](https://myshaky.com/picks) |
+| Lacoste Ace Breaker：品牌打砖块 | 独立站 / 在线演示 | 网球品牌打砖块体验：颗粒质感主菜单、立体红土场、发光球迹、极简生命与得分 HUD。 | [打开](https://members-play.lacoste.com/ace-breaker-rg) |
+| Lacoste Polo Factory：服装工厂互动 | 独立站 / 在线演示 | 糖果色微缩服装工厂：立体按钮、线圈机械、衣物生成反馈与场景热点，适合轻松的品牌交互。 | [打开](https://members-play.lacoste.com/polo-factory-experience) |
+| Ten Years Away：工作室互动漫画 | 独立站 / 在线演示 | 漫画封面到分镜空间的叙事体验，纸张颗粒、黑白插画、浮动气泡与横向镜头推进结合。 | [打开](https://ten.375.studio) |
 
 ## 滚动与叙事
 
@@ -425,6 +432,7 @@
 | Mosby’s Files：拟物档案夹导航 | 独立站 / 在线演示 | 彩色文件夹目录转入纸质建筑档案，打孔、回形针、标签与图文排版共同构成鲜明的资料库界面。 | [打开](https://www.mosbyfiles.com) |
 | Le Mans Classic：幕后摄影叙事 | 独立站 / 在线演示 | 赛车摄影的横向叙事页面：黑白照片、明黄超窄大字、竖排引言与整屏章节交替推进。 | [打开](https://lemansclassic.richardmille.com) |
 | Hearst：ELLE × Esquire 好莱坞摄影展 | 独立站 / 在线演示 | 杂志摄影展览：错落画布与横向胶片带之间的布局重排，配合精简导航和缩放控件。 | [打开](https://www.hollywoodexhibit2026.com) |
+| Unwoven：图像丝带编织轮播 | 独立站 / 在线演示 | Unwoven：人像画廊在横向流动时拆成弯曲织带，边缘拉伸与中央完整照片形成强烈对比。 | [打开](https://tympanus.net/Development/Unwoven) |
 
 ## 粒子与背景
 

@@ -1,6 +1,6 @@
 # 当前收录来源 · candidate_verified
 
-整理于 2026-11-03。仅列出本版仍收录的 192 条。
+整理于 2026-11-03。仅列出本版仍收录的 200 条。
 
 ## Igloo Inc.：品牌官网
 
@@ -1074,6 +1074,54 @@
 
 - 作品：https://ci.funtech.inc/ja
 - 依据：https://thefwa.com/cases/funtech-brand-identity
+- 核验：本轮实际画面与关键操作核查
+
+## Radian：电动越野车配置界面
+
+- 作品：https://www.rideradian.com
+- 依据：https://thefwa.com/cases/radian
+- 核验：本轮实际画面与关键操作核查
+
+## Lacoste Ace Breaker：品牌打砖块
+
+- 作品：https://members-play.lacoste.com/ace-breaker-rg
+- 依据：https://thefwa.com/cases/lacoste-ace-breaker
+- 核验：本轮实际画面与关键操作核查
+
+## Lacoste Polo Factory：服装工厂互动
+
+- 作品：https://members-play.lacoste.com/polo-factory-experience
+- 依据：https://thefwa.com/cases/lacoste-polo-factory
+- 核验：本轮实际画面与关键操作核查
+
+## Ten Years Away：工作室互动漫画
+
+- 作品：https://ten.375.studio
+- 依据：https://thefwa.com/cases/ten-years-away-p6
+- 核验：本轮实际画面与关键操作核查
+
+## Gusto：产品 UI 动效展示短片
+
+- 作品：https://ziwvaiplle7bdzaz.public.blob.vercel-storage.com/videos/h264/outpost-gusto-reel-v1-fallback.mp4
+- 依据：https://www.krystofjezek.com/work/outpost-gusto
+- 核验：本轮实际播放片段核查
+
+## Unwoven：图像丝带编织轮播
+
+- 作品：https://tympanus.net/Development/Unwoven
+- 依据：https://tympanus.net/codrops/2026/09/05/building-an-infinite-loom-unravelling-images-into-threads-with-three-js/
+- 核验：本轮实际画面与关键操作核查
+
+## On-Scroll SVG Filter Text：滚动文字变形
+
+- 作品：https://tympanus.net/Development/OnScrollSVGFilterText
+- 依据：https://tympanus.net/codrops/2024/08/22/scroll-based-svg-filter-animations-on-text/
+- 核验：本轮实际画面与关键操作核查
+
+## Gooey Text Hover：黏液文字菜单
+
+- 作品：https://tympanus.net/Development/GooeyTextHover
+- 依据：https://tympanus.net/codrops/2020/04/28/morphing-gooey-text-hover-effect/
 - 核验：本轮实际画面与关键操作核查
 
 ## Runmo：心电波形与发光游标
