@@ -1,0 +1,277 @@
+[
+  {
+    "url": "https://60fps.design/shots/things-3-drag-to-create-to-do-interaction",
+    "result": "pass",
+    "action": "逐页播放主录像，读取两次媒体状态并查看截图",
+    "observed": "空白项目页变成插入新待办的编辑卡片，卡片悬浮阴影、上下行让位和键盘入场清晰。 currentTime 0→4.15秒；时长7.58秒；paused=false、readyState=4。",
+    "notes": "无登录可见；UI动效录像，非制作教程。",
+    "suggested_description": "新待办以带阴影的编辑卡插入列表，上下条目让位、键盘升起；参考临时编辑状态与原列表的空间衔接。",
+    "access_notes": "可免登录观看的 UI 动效录像；核验范围为记录中的播放片段，页面不提供原 App 的功能操作。",
+    "suggested_name": "Things 3：待办编辑卡插入列表"
+  },
+  {
+    "url": "https://60fps.design/shots/perplexity-model-selection-sheet-morph-interaction",
+    "result": "pass",
+    "action": "逐页播放主录像，读取两次媒体状态并查看截图",
+    "observed": "模型选择圆角底部弹层上移扩展，拖动条、关闭按钮、模型列表及背景模糊保持连续。 currentTime 0→4.99秒；时长16.63秒；paused=false、readyState=4。",
+    "notes": "无登录可见；UI动效录像，非制作教程。",
+    "suggested_description": "圆角模型选择弹层向上扩展，拖动条、关闭按钮、模型列表和模糊背景保持连续，适合参考底部面板的尺寸变化。",
+    "access_notes": "可免登录观看的 UI 动效录像；核验范围为记录中的播放片段，页面不提供原 App 的功能操作。"
+  },
+  {
+    "url": "https://60fps.design/shots/airbnb-tab-icon-animation",
+    "result": "pass",
+    "action": "逐页播放主录像，读取两次媒体状态并查看截图",
+    "observed": "搜索栏下方空白区域出现房屋、热气球、服务铃三枚立体分类图标及标签；当前体验图标更大。 currentTime 0→2.00秒；时长2.42秒；paused=false、readyState=2。",
+    "notes": "无登录可见；UI动效录像，非制作教程。",
+    "suggested_description": "房屋、热气球和服务铃以立体图标进入分类栏，当前体验图标更突出；参考小尺寸导航中的层次与选中强调。",
+    "access_notes": "可免登录观看的 UI 动效录像；核验范围为记录中的播放片段，页面不提供原 App 的功能操作。",
+    "suggested_name": "Airbnb：立体分类图标入场"
+  },
+  {
+    "url": "https://60fps.design/shots/snapseed-photos-pop-shuffle-effect",
+    "result": "pass",
+    "action": "实际播放并补抓核心动效帧，读取媒体状态",
+    "observed": "全屏骑行照片与黑底产品说明转为多张有阴影、倾角和层次的照片散落叠放；底部添加照片入口出现。 currentTime 0.06→3.90秒；时长4.30秒；最终paused=false、readyState=4。",
+    "notes": "无登录可见；只观看UI录像，非实际购买或抽卡操作。",
+    "suggested_description": "全屏照片转为多张带阴影和倾角的照片卡片，散落叠放后露出底部添加照片入口。",
+    "suggested_name": "Snapseed：照片散落叠放",
+    "access_notes": "可免登录观看的 UI 动效录像；核验范围为记录中的播放片段，页面不提供原 App 的功能操作。"
+  },
+  {
+    "url": "https://60fps.design/shots/poke-mon-tcg-pocket-swipe-packet-to-reveal-card-interaction",
+    "result": "pass",
+    "action": "实际播放并补抓核心动效帧，读取媒体状态",
+    "observed": "紫色卡包由小变大，顶部亮线扫过，包装封条沿横向切口剥离，金属反光与袋口清晰。 currentTime 0→3.81→9.37秒；时长12.43秒；最终paused=false、readyState=4。",
+    "notes": "无登录可见；只观看UI录像，非实际购买或抽卡操作。",
+    "suggested_description": "卡包放大后，亮线扫过顶部，封条沿切口剥离；金属反光与袋口细节强化拆封的触感。",
+    "access_notes": "可免登录观看的 UI 动效录像；核验范围为记录中的播放片段，页面不提供原 App 的功能操作。",
+    "suggested_name": "Pokémon TCG：卡包拆封动效"
+  },
+  {
+    "url": "https://60fps.design/shots/google-chrome-pull-down-to-reload-and-new-tab",
+    "result": "pass",
+    "action": "播放主录像，核对媒体时间推进与关键状态截图",
+    "observed": "Chrome首页下拉时整页内容下移，顶部出现新增、刷新、关闭三项，刷新圆形背景高亮。 currentTime 0.15→4.37秒；时长8.82秒；最终paused=false、readyState=4。",
+    "notes": "无登录可见；UI展示录像，非教程。未操作真实支付、麦克风或账户。",
+    "access_notes": "可免登录观看的 UI 动效录像；核验范围为记录中的播放片段，页面不提供原 App 的功能操作。"
+  },
+  {
+    "url": "https://60fps.design/shots/cred-autopay-bills-stack-animation",
+    "result": "pass",
+    "action": "播放主录像，核对媒体时间推进与关键状态截图",
+    "observed": "底部弹层内账单卡片呈层叠队列，电费卡退位为宽带账单，付款按钮与金额随卡片切换。 currentTime 0.07→4.31秒；时长9.47秒；最终paused=false、readyState=4。",
+    "notes": "无登录可见；UI展示录像，非教程。未操作真实支付、麦克风或账户。",
+    "suggested_description": "账单卡在底部面板中层叠轮换，电费卡让位给宽带账单，金额和付款按钮随卡片更新；参考多账单摘要的紧凑呈现。",
+    "access_notes": "可免登录观看的 UI 动效录像；核验范围为记录中的播放片段，页面不提供原 App 的功能操作。",
+    "suggested_name": "CRED：账单卡堆轮换"
+  },
+  {
+    "url": "https://60fps.design/shots/swatch-this-3d-camera-flip-interaction",
+    "result": "pass",
+    "action": "播放主录像，核对媒体时间推进与关键状态截图",
+    "observed": "拟物黑色相机采色界面转到小型相机镜头与银色色样纸片，带立体阴影与完成星光。 currentTime 0→3.81→8.82秒；时长9.07秒；最终paused=false、readyState=4。",
+    "notes": "无登录可见；UI展示录像，非教程。未操作真实支付、麦克风或账户。",
+    "suggested_description": "黑色拟物相机转为小型镜头与银色色样纸片，立体阴影和完成星光连起采色与结果展示。",
+    "access_notes": "可免登录观看的 UI 动效录像；核验范围为记录中的播放片段，页面不提供原 App 的功能操作。",
+    "suggested_name": "Swatch This：拟物相机与色样展示"
+  },
+  {
+    "url": "https://60fps.design/shots/recollect-value-prop-morph-interaction",
+    "result": "pass",
+    "action": "播放主录像，核对媒体时间推进与关键状态截图",
+    "observed": "紫橙渐变引导中，小型收藏操作面板变为照片卡片，底部价值主张同步替换。 currentTime 0.12→6.16秒；时长9.17秒；最终paused=false、readyState=4。",
+    "notes": "无登录可见；UI展示录像，非教程。未操作真实支付、麦克风或账户。",
+    "suggested_description": "紫橙渐变引导中，收藏操作面板变成照片卡片，下方文案同步替换；参考功能演示与价值说明的配合。",
+    "access_notes": "可免登录观看的 UI 动效录像；核验范围为记录中的播放片段，页面不提供原 App 的功能操作。",
+    "suggested_name": "Recollect：收藏面板转为照片卡片"
+  },
+  {
+    "url": "https://60fps.design/shots/monogram-tap-and-hold-mic-liquid-blur-pulse-interaction",
+    "result": "pass",
+    "action": "播放主录像，核对媒体时间推进与关键状态截图",
+    "observed": "语音交互激活后下部内容被液态弯曲、模糊遮罩覆盖；底部胶囊转成黑色Thinking加载状态。 currentTime 0.04→4.01→10.14秒；时长16.97秒；最终paused=false、readyState=4。",
+    "notes": "无登录可见；UI展示录像，非教程。未操作真实支付、麦克风或账户。",
+    "suggested_description": "语音状态激活后，下部内容出现液态弯曲和模糊遮罩，底部胶囊转为黑色 Thinking 状态。",
+    "access_notes": "可免登录观看的 UI 动效录像；核验范围为记录中的播放片段，页面不提供原 App 的功能操作。"
+  },
+  {
+    "url": "https://60fps.design/shots/currency-simple-converter-draw-symbol-interaction",
+    "result": "pass",
+    "action": "播放主录像，核对媒体时间推进与截图；需要时滚动查看视频下半部",
+    "observed": "币种选择器中出现手写黑色符号，下方币种列表随着识别结果实时替换；顶部圆角分类栏保持稳定。 currentTime 0→4.45→5.82秒；时长9.03秒；最终paused=false、readyState=4。",
+    "notes": "无登录可见；UI展示录像，非教程。仅看片，不执行真实账户或定位操作。",
+    "access_notes": "可免登录观看的 UI 动效录像；核验范围为记录中的播放片段，页面不提供原 App 的功能操作。"
+  },
+  {
+    "url": "https://60fps.design/shots/linear-issue-actions-popup-interaction",
+    "result": "pass",
+    "action": "播放主录像，核对媒体时间推进与截图；需要时滚动查看视频下半部",
+    "observed": "黑色Inbox空态转为任务新建面板，键盘升起，状态/优先级/负责人/标签工具行横向移动。 currentTime 0.05→4.03→8.48秒；时长14.43秒；最终paused=false、readyState=4。",
+    "notes": "无登录可见；UI展示录像，非教程。仅看片，不执行真实账户或定位操作。",
+    "suggested_description": "深色收件箱展开新建任务面板，键盘升起，状态、优先级、负责人和标签工具横向排布；适合高密度移动输入界面。",
+    "access_notes": "可免登录观看的 UI 动效录像；核验范围为记录中的播放片段，页面不提供原 App 的功能操作。"
+  },
+  {
+    "url": "https://60fps.design/shots/lumy-select-location-sheet-interaction",
+    "result": "pass",
+    "action": "播放主录像，核对媒体时间推进与截图；需要时滚动查看视频下半部",
+    "observed": "深蓝机舱窗引导与荧黄色地点按钮转为黑色城市列表面板，纽约、伦敦等条目出现。 currentTime 0.73→4.35秒；时长9.73秒；最终paused=false、readyState=4。",
+    "notes": "无登录可见；UI展示录像，非教程。仅看片，不执行真实账户或定位操作。",
+    "suggested_description": "深蓝机舱窗插画与荧黄色地点按钮切入黑色城市选择面板，城市条目依次呈现。",
+    "access_notes": "可免登录观看的 UI 动效录像；核验范围为记录中的播放片段，页面不提供原 App 的功能操作。"
+  },
+  {
+    "url": "https://60fps.design/shots/google-ai-mode-search-morph-interaction",
+    "result": "pass",
+    "action": "播放主录像，核对媒体时间推进与截图；需要时滚动查看视频下半部",
+    "observed": "Google深色首页的搜索入口转为AI Mode页面，输入区与键盘出现，背景信息卡退场。 currentTime 0→3.06秒；时长6.99秒；最终paused=false、readyState=4。",
+    "notes": "无登录可见；UI展示录像，非教程。仅看片，不执行真实账户或定位操作。",
+    "suggested_description": "深色首页的搜索入口转入 AI Mode 页面，输入区和键盘出现，原背景信息卡退场。",
+    "suggested_name": "Google：搜索入口转入 AI 页面",
+    "access_notes": "可免登录观看的 UI 动效录像；核验范围为记录中的播放片段，页面不提供原 App 的功能操作。"
+  },
+  {
+    "url": "https://60fps.design/shots/apple-find-my-searching-items-sheet-animation",
+    "result": "pass",
+    "action": "播放主录像，核对媒体时间推进与截图；需要时滚动查看视频下半部",
+    "observed": "地图上白色圆角查找面板内放大镜移动，镜下由耳机图标变为箱形物品，灰色物品底纹隐约可见。 currentTime 0→4.39秒；时长12.01秒；最终paused=false、readyState=4。",
+    "notes": "无登录可见；UI展示录像，非教程。仅看片，不执行真实账户或定位操作。",
+    "access_notes": "可免登录观看的 UI 动效录像；核验范围为记录中的播放片段，页面不提供原 App 的功能操作。"
+  },
+  {
+    "url": "https://60fps.design/shots/opal-tap-to-reveal-gem-interaction",
+    "result": "pass",
+    "action": "播放录像并对照关键帧，读取两次以上媒体状态",
+    "observed": "黑色洞穴中石壳破裂，彩色透明宝石完整出现，奖励名称、稀有度与解锁信息浮现。 currentTime 4.45→8.22秒；时长9.41秒；paused=false、readyState=4。",
+    "notes": "无登录可见；主体为UI/动效展示，非教程。",
+    "access_notes": "可免登录观看的 UI 动效录像；核验范围为记录中的播放片段，页面不提供原 App 的功能操作。"
+  },
+  {
+    "url": "https://60fps.design/shots/good-air-time-slider-dynamic-weather-interaction",
+    "result": "pass",
+    "action": "播放录像并对照关键帧，读取两次以上媒体状态",
+    "observed": "天气背景由蓝天转为橙红夕阳，温度29变28；底部刻度选中6PM并与背景联动。 currentTime 0.04→4.88秒；时长18.17秒；paused=false、readyState=4。",
+    "notes": "无登录可见；主体为UI/动效展示，非教程。",
+    "access_notes": "可免登录观看的 UI 动效录像；核验范围为记录中的播放片段，页面不提供原 App 的功能操作。"
+  },
+  {
+    "url": "https://60fps.design/shots/cosmos-theme-switcher-interaction",
+    "result": "pass",
+    "action": "播放录像并对照关键帧，读取两次以上媒体状态",
+    "observed": "外观选择页的图片网格预览、页面背景及按钮由浅色转为黑色；暗色选项显示选中。 currentTime 0.05→5.52；复核0.77暗色秒；时长5.53秒；paused=false、readyState=4。",
+    "notes": "无登录可见；主体为UI/动效展示，非教程。",
+    "suggested_description": "外观选择页从浅色切为深色，图片网格预览、页面背景和按钮同步更新，深色选项显示选中。",
+    "access_notes": "可免登录观看的 UI 动效录像；核验范围为记录中的播放片段，页面不提供原 App 的功能操作。"
+  },
+  {
+    "url": "https://60fps.design/shots/apple-astronomy-wallpaper-3d-planets-morph-swipe-interaction",
+    "result": "pass",
+    "action": "播放录像并对照关键帧，读取两次以上媒体状态",
+    "observed": "锁屏配置中灰色岩石星体变为蓝色地球，球面纹理、光照、大小以及时间文字色调同步变化。 currentTime 0.01→5.75秒；时长16.04秒；paused=false、readyState=4。",
+    "notes": "无登录可见；主体为UI/动效展示，非教程。",
+    "access_notes": "可免登录观看的 UI 动效录像；核验范围为记录中的播放片段，页面不提供原 App 的功能操作。"
+  },
+  {
+    "url": "https://60fps.design/shots/ben-journal-weather-toggle-background-animation",
+    "result": "pass",
+    "action": "播放录像并对照关键帧，读取两次以上媒体状态",
+    "observed": "底部天气选择器从晴天切到雪，天空云层变暗，细密雪粒落下，选择按钮同步高亮。 currentTime 0.03→5.68秒；时长12.00秒；paused=false、readyState=4。",
+    "notes": "无登录可见；主体为UI/动效展示，非教程。",
+    "access_notes": "可免登录观看的 UI 动效录像；核验范围为记录中的播放片段，页面不提供原 App 的功能操作。"
+  },
+  {
+    "url": "https://60fps.design/shots/the-outsiders-progress-graph-color-change-interaction",
+    "result": "pass",
+    "action": "实际播放主录像，读取媒体状态并核对不同阶段画面",
+    "observed": "运动汇总从绿色距离指标切到青色爬升指标，图表圆点、数值、选中胶囊和背景渐变协调变化。 currentTime 0→7.27秒；时长9.87秒；最终paused=false、readyState=4。",
+    "notes": "无登录可见；UI展示录像，非制作教程。仅观看，不操作支付或设备设置。",
+    "access_notes": "可免登录观看的 UI 动效录像；核验范围为记录中的播放片段，页面不提供原 App 的功能操作。"
+  },
+  {
+    "url": "https://60fps.design/shots/apple-photographic-styles-carousel-swipe-interaction",
+    "result": "pass",
+    "action": "实际播放主录像，读取媒体状态并核对不同阶段画面",
+    "observed": "相机设置转入摄影风格选择页，圆角人像轮播卡展示Cool风格，照片下方色调参数和说明卡跟随出现。 currentTime 0.01→5.18秒；时长10.38秒；最终paused=false、readyState=4。",
+    "notes": "无登录可见；UI展示录像，非制作教程。仅观看，不操作支付或设备设置。",
+    "suggested_description": "摄影风格选择页以圆角人像预览配合色调参数和说明卡，让用户直接比较画面与设置的关系。",
+    "access_notes": "可免登录观看的 UI 动效录像；核验范围为记录中的播放片段，页面不提供原 App 的功能操作。",
+    "suggested_name": "Apple：摄影风格卡片预览"
+  },
+  {
+    "url": "https://60fps.design/shots/moods-faster-pills-morph-expand-interaction",
+    "result": "pass",
+    "action": "实际播放主录像，读取媒体状态并核对不同阶段画面",
+    "observed": "五个彩色情绪胶囊中蓝色Neutral胶囊拉长放大，旁边胶囊缩小退让，背景光晕随选中项变化。 currentTime 0→5.55秒；时长6.99秒；最终paused=false、readyState=4。",
+    "notes": "无登录可见；UI展示录像，非制作教程。仅观看，不操作支付或设备设置。",
+    "suggested_description": "选中的情绪胶囊拉长放大，邻近胶囊缩小让位，背景光晕同步变化；参考柔和而明确的选中反馈。",
+    "access_notes": "可免登录观看的 UI 动效录像；核验范围为记录中的播放片段，页面不提供原 App 的功能操作。"
+  },
+  {
+    "url": "https://60fps.design/shots/okuri-page-flip-interaction",
+    "result": "pass",
+    "action": "实际播放主录像，读取媒体状态并核对不同阶段画面",
+    "observed": "日历纸面卷起形成真实曲面折页与软阴影，背面文字透出，下页日期信息揭开。 currentTime 0.08→5.73秒；时长6.57秒；最终paused=false、readyState=4。",
+    "notes": "无登录可见；UI展示录像，非制作教程。仅观看，不操作支付或设备设置。",
+    "suggested_description": "日历纸面卷起露出下一页，曲面折痕、软阴影与背面透字共同模拟纸张厚度。",
+    "access_notes": "可免登录观看的 UI 动效录像；核验范围为记录中的播放片段，页面不提供原 App 的功能操作。"
+  },
+  {
+    "url": "https://60fps.design/shots/apple-wallet-card-gyro-pattern-color-change-interaction",
+    "result": "pass",
+    "action": "实际播放主录像，读取媒体状态并核对不同阶段画面",
+    "observed": "Apple Cash黑色卡面圆点纹理由暗灰反射为粉橙光泽，光带在纹理上变化。 currentTime 0.11→4.52→0.22（循环）秒；时长4.57秒；最终paused=false、readyState=4。",
+    "notes": "无登录可见；UI展示录像，非制作教程。仅观看，不操作支付或设备设置。",
+    "suggested_description": "黑色卡面的圆点纹理由暗灰转为粉橙光泽，反射光带扫过表面；适合参考数字卡片的全息材质。",
+    "access_notes": "可免登录观看的 UI 动效录像；核验范围为记录中的播放片段，页面不提供原 App 的功能操作。"
+  },
+  {
+    "url": "https://60fps.design/shots/avec-hold-and-speak-interaction",
+    "result": "pass",
+    "action": "播放主录像，核对媒体时间推进和实际内容变化",
+    "observed": "邮件撰写界面的底部蓝色语音区变为红色录音状态，波形与松开发送生成提示出现；内容区保持原位。 currentTime 0.04→6.41秒；时长12.13秒；最终paused=false、readyState=4。",
+    "notes": "无登录可见；UI展示录像，非制作教程。未操作真实录音、发送、定位、收藏或购买。",
+    "suggested_description": "邮件编辑器底部的蓝色语音区变为红色录音状态，波形和松开提示接续出现，正文布局保持稳定。",
+    "access_notes": "可免登录观看的 UI 动效录像；核验范围为记录中的播放片段，页面不提供原 App 的功能操作。",
+    "suggested_name": "Avec：语音录音状态反馈"
+  },
+  {
+    "url": "https://60fps.design/shots/apple-find-my-finding-airpods-case-gyroscope",
+    "result": "pass",
+    "action": "播放主录像，核对媒体时间推进和实际内容变化",
+    "observed": "黑底方向箭头指示8ft，接近后整屏变绿，箭头变成同心圆，距离降到0.7ft。 currentTime 0.06→5.54秒；时长14.45秒；最终paused=false、readyState=4。",
+    "notes": "无登录可见；UI展示录像，非制作教程。未操作真实录音、发送、定位、收藏或购买。",
+    "suggested_description": "搜寻界面从黑底方向箭头切成绿色同心圆，距离数字随接近缩小；通过方向、颜色和图形共同说明寻找进度。",
+    "access_notes": "可免登录观看的 UI 动效录像；核验范围为记录中的播放片段，页面不提供原 App 的功能操作。"
+  },
+  {
+    "url": "https://60fps.design/shots/elevate-correct-answer-words-morph-interaction",
+    "result": "pass",
+    "action": "播放主录像，核对媒体时间推进和实际内容变化",
+    "observed": "深绿答题页从空场转为大字号英文句子，正确词shoes高亮为青绿块，底部答题进度和判断按钮稳定。 currentTime 0.04→5.09秒；时长8.03秒；最终paused=false、readyState=4。",
+    "notes": "无登录可见；UI展示录像，非制作教程。未操作真实录音、发送、定位、收藏或购买。",
+    "suggested_description": "大字号句子中，正确词被青绿色色块突出，底部进度和判断按钮保持稳定；参考将反馈直接放在内容上的答题界面。",
+    "access_notes": "可免登录观看的 UI 动效录像；核验范围为记录中的播放片段，页面不提供原 App 的功能操作。",
+    "suggested_name": "Elevate：答案词高亮反馈"
+  },
+  {
+    "url": "https://60fps.design/shots/cosmos-cluster-drag-and-drop-interaction",
+    "result": "pass",
+    "action": "播放主录像，核对媒体时间推进和实际内容变化",
+    "observed": "图片集网格中缩小缩略卡随拖动悬浮到另一图片集上，目标卡有虚线轮廓和移动提示。 currentTime 0→4.60秒；时长9.50秒；最终paused=false、readyState=4。",
+    "notes": "无登录可见；UI展示录像，非制作教程。未操作真实录音、发送、定位、收藏或购买。",
+    "suggested_description": "缩略卡随拖动悬浮到另一图片集上，目标卡以虚线轮廓和移动提示响应；参考拖放目标的清晰反馈。",
+    "access_notes": "可免登录观看的 UI 动效录像；核验范围为记录中的播放片段，页面不提供原 App 的功能操作。",
+    "suggested_name": "Cosmos：图片集拖放反馈"
+  },
+  {
+    "url": "https://60fps.design/shots/pinterest-shared-sheet-swipe-interaction",
+    "result": "pass",
+    "action": "播放主录像，核对媒体时间推进和实际内容变化",
+    "observed": "白色商品详情底部面板上方的蝴蝶纽扣切到金色星星，放大商品突出面板边缘，商品名、说明、相似推荐同步切换。 currentTime 0→3.67秒；时长9.82秒；最终paused=false、readyState=4。",
+    "notes": "无登录可见；UI展示录像，非制作教程。未操作真实录音、发送、定位、收藏或购买。 原标题shared sheet容易误解为分享菜单；实际所见为商品详情面板，建议按实际画面重命名。",
+    "suggested_description": "商品详情底部面板横滑切换，抠图商品突出面板上边缘，标题、说明与相似推荐同步更新。",
+    "access_notes": "可免登录观看的 UI 动效录像；核验范围为记录中的播放片段，页面不提供原 App 的功能操作。",
+    "suggested_name": "Pinterest：商品详情面板横滑切换"
+  }
+]

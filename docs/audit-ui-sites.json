@@ -1,0 +1,226 @@
+[
+  {
+    "url": "https://dogstudio.co/",
+    "result": "pass",
+    "action": "等待首屏揭示，拒绝非必要Cookie并打开导航菜单",
+    "observed": "三维蓝紫色犬、枝叶与大型衬线标题完整；菜单展开时模型旋转至另一视角，出现五项全屏导航。",
+    "notes": "未访问外链Showreel和联系表单。",
+    "checked_at": "2026-11-03",
+    "browser": "IAB",
+    "source_file": "ui_example_items.json"
+  },
+  {
+    "url": "https://kprverse.com/",
+    "result": "pass",
+    "action": "等待资源到100%后滚动进入故事章节",
+    "observed": "科幻角色插画、大型排版和终端风框线完整；滚动后首屏缩为不同尺寸图片卡片与分栏故事区，导航状态同步变化。",
+    "notes": "首次加载较久；未登录或操作社群/下载。",
+    "checked_at": "2026-11-03",
+    "browser": "IAB",
+    "source_file": "ui_example_items.json"
+  },
+  {
+    "url": "https://www.craftz.dog/",
+    "result": "pass",
+    "action": "等待体素工作台加载后拖动模型",
+    "observed": "窄栏个人主页、头像与体素桌面人物完整；拖动后桌面和角色朝向改变，三维插画与正文布局正常共存。",
+    "notes": "主要价值是克制的个人站UI与可交互体素插画，未核查外部内容。",
+    "checked_at": "2026-11-03",
+    "browser": "IAB",
+    "source_file": "ui_example_items.json"
+  },
+  {
+    "url": "https://resn.co.nz/",
+    "result": "blocked",
+    "action": "等待晶体出现后长按1.8秒和4.5秒，尝试项目入口",
+    "observed": "黑色晶体持续转动、缩放可见；长按后文字导航消失，未进入可辨认的其他体验，View All Projects元素没有布局无法点击。",
+    "notes": "核心晶体动画存在，但完整交互路径未证实；当前环境需复验，不能称全网失效。",
+    "checked_at": "2026-11-03",
+    "browser": "IAB",
+    "source_file": "ui_example_items.json"
+  },
+  {
+    "url": "https://www.makemepulse.com/",
+    "result": "pass",
+    "action": "滚动主页，拒绝Cookie并打开首个可见项目卡",
+    "observed": "错落大型细体标题和媒体卡片正常；点击后卡片扩展为全屏项目详情背景，进入Brunello Cucinelli案例标题。",
+    "notes": "未提交表单或操作WebMCP通讯工具。",
+    "checked_at": "2026-11-03",
+    "browser": "IAB",
+    "source_file": "ui_example_items.json"
+  },
+  {
+    "url": "https://longhoang-lyo.com/",
+    "result": "pass",
+    "action": "等待加载，点击 LET’S GO 进入场景，尝试拖动与W键",
+    "observed": "首屏为黑色等距城市、机器人与荧光绿大字；点击后发生黑场转场，进入有机器人、锥桶、紫树和成片草地的三维场景。",
+    "notes": "核心入场交互通过；当前环境显示触屏式DRAG THE LEFT提示，拖动和W键未确认移动，因此不宣称游戏操控完整可用。",
+    "suggested_description": "机器人与低多边形草地构成的游戏式作品集；黑色城市开场转入鲜亮三维探索场景。",
+    "checked_at": "2026-11-03",
+    "browser": "IAB",
+    "source_file": "ui_example_items.json"
+  },
+  {
+    "url": "https://jordan-breton.com/",
+    "result": "pass",
+    "action": "等待23%到完全载入，点击START，并按页面提示拖动视角",
+    "observed": "发光描边森林启动后渐变成彩色草地、巨树、瀑布与浮岛；拖动后树干和瀑布位置改变，粒子与水流在多帧中持续变化，完整探索导航出现。",
+    "notes": "初次资源/着色器载入较慢；已实测场景旋转，未测试音频质量或联系入口。",
+    "checked_at": "2026-11-03",
+    "browser": "IAB",
+    "source_file": "ui_example_items.json"
+  },
+  {
+    "url": "https://www.teahu-experience.com/",
+    "result": "pass",
+    "action": "加载后Enter experience，选择Home",
+    "observed": "初始整座低多边形浮岛，点击Home后镜头推进到岛上路径第一人称视角；房屋、街灯和发光传送门完整渲染。",
+    "notes": "实际验证视觉入场与镜头转场；未核听音频或测试所有音乐章节。",
+    "checked_at": "2026-11-03",
+    "browser": "IAB",
+    "source_file": "ui_example_items.json"
+  },
+  {
+    "url": "https://bilal.show/",
+    "result": "blocked",
+    "action": "打开后分三个时间点观察载入，并检查错误日志",
+    "observed": "持续停留于粉红背景bilal show与三点加载动画，未进入作品主体。",
+    "notes": "当前页无专属错误日志；只能确认加载器动画，不足以确认核心作品。建议稍后重试。",
+    "checked_at": "2026-11-03",
+    "browser": "IAB",
+    "source_file": "ui_example_items.json"
+  },
+  {
+    "url": "https://www.sooahs-room-folio.com/",
+    "result": "pass",
+    "action": "选择静音进入，点击欢迎卡片，拖动房间场景",
+    "observed": "欢迎卡片缩入三维空间后移开，显现粉紫小房间、书桌、电脑、玩偶与木质导航牌；拖动过程中视角和电脑屏幕内容有变化。",
+    "notes": "已检查核心房间与入场交互，未打开联系链接或验证声音。",
+    "checked_at": "2026-11-03",
+    "browser": "IAB",
+    "source_file": "ui_example_items.json"
+  },
+  {
+    "url": "https://merodev.net/",
+    "result": "blocked",
+    "action": "等待加载后Enter，观察多帧并尝试中心点击与滚动",
+    "observed": "深色等距网格和悬浮发光方块有升降动画，作者与控制面板出现；本轮始终未看到完整作品内容。",
+    "notes": "页面自身FPS显示1–3，当前环境性能显著受限；动画存在但未完整核实作品主流程，不应据此断言网站失效。",
+    "checked_at": "2026-11-03",
+    "browser": "IAB",
+    "source_file": "ui_example_items.json"
+  },
+  {
+    "url": "https://keyboard.jingfu.design/",
+    "result": "pass",
+    "action": "等待100%载入，滚动显示控制区，点击深色键帽色块",
+    "observed": "完整白色木侧框键盘渲染；滚动产生镜头缩放，点击深色色块后整套键帽变成黑色，色块选中环同步移动。",
+    "notes": "已确认实时模型和配色；未验证所有RGB模式与逐层拆解，也未核听按键声音。",
+    "checked_at": "2026-11-03",
+    "browser": "IAB",
+    "source_file": "ui_example_items.json"
+  },
+  {
+    "url": "https://jingfu.design/work/keyboard-switch",
+    "result": "pass",
+    "action": "等待模型显现并连续滚动，多时间点比对画面",
+    "observed": "透明紫色磁轴开关完整渲染，在黑色大字背景前由底部移至中央并改变朝向，透明外壳与内部弹簧清晰。",
+    "notes": "已证明模型和运动，未捕获完整零件爆炸拆分，不能将该细节标为已验证。",
+    "suggested_description": "透明紫色磁轴开关的三维产品展示，黑底大字与可见内部结构、模型运动形成精密感。",
+    "checked_at": "2026-11-03",
+    "browser": "IAB",
+    "source_file": "ui_example_items.json"
+  },
+  {
+    "url": "https://jingfu.design/work/cd",
+    "result": "pass",
+    "action": "等待光盘载入后直接拖动盘面",
+    "observed": "正面大面积蓝绿虹彩光带随拖动旋转成倾斜银色盘面，反射与细长彩色衍射条带明显改变；透明盘心和盘缘完整。",
+    "notes": "未上传图片，未测试所有光油和反射参数。",
+    "checked_at": "2026-11-03",
+    "browser": "IAB",
+    "source_file": "ui_example_items.json"
+  },
+  {
+    "url": "https://patatap.com/",
+    "result": "blocked",
+    "action": "等待资源加载完成，点击画布并按A/S/D/F/G",
+    "observed": "由0/26载入界面进入Press anywhere提示，操作后提示消失；随后截图持续灰色，未捕获预期几何形状动画。",
+    "notes": "无法证明核心动画可用；无本页专属报错。可能存在短动画捕获或运行环境限制，需复查。",
+    "checked_at": "2026-11-03",
+    "browser": "IAB",
+    "source_file": "ui_example_items.json"
+  },
+  {
+    "url": "https://typatone.com/",
+    "result": "blocked",
+    "action": "等待UI，点击屏幕键盘多个字母并使用H/I实体键",
+    "observed": "完整屏幕键盘和蓝绿渐变输入区可见，背景颜色持续变化；点击后出现光标，但没有确认输入文字出现。",
+    "notes": "核心文字生成/音符反馈未核实；此轮自动化输入存在定位异常，不据此判为源站失效。",
+    "checked_at": "2026-11-03",
+    "browser": "IAB",
+    "source_file": "ui_example_items.json"
+  },
+  {
+    "url": "https://oimo.io/works/bubbles/",
+    "result": "pass",
+    "action": "观察两个时间点，拖动右侧吹气器",
+    "observed": "白底线条泡泡模拟持续形成、变形和聚集；拖动后吹气器移至下方，泡泡形成多边形簇。",
+    "notes": "功能可用，但画面为小型线条实验，不是写实透明球体。",
+    "suggested_description": "简洁线条的吹泡泡物理实验，气泡生成、变形并聚成泡沫簇，可移动吹气器。",
+    "quality_recommendation": "建议降级到实验参考或移出高质量主推荐：画面极小且非常简朴，功能通过不代表符合用户高视觉完成度要求。",
+    "checked_at": "2026-11-03",
+    "browser": "IAB",
+    "source_file": "ui_example_items.json"
+  },
+  {
+    "url": "https://david.li/fluid/",
+    "result": "pass",
+    "action": "等待编辑框，点击Start启动，拖动改变视角",
+    "observed": "空线框容器变成密集蓝色三维粒子体；拖动后粒子体朝向和表面轮廓改变，Edit/Fluidity/Speed控制出现。",
+    "notes": "已证明模拟启动和交互渲染，未量化物理精度或帧率。",
+    "checked_at": "2026-11-03",
+    "browser": "IAB",
+    "source_file": "ui_example_items.json"
+  },
+  {
+    "url": "https://resend.com/",
+    "result": "pass",
+    "action": "观察首屏加载并滚动至产品集成区",
+    "observed": "黑色衬线大标题、半透明按钮与暗色光照完整；首屏出现立体分块结构，滚动进入精细信封图标、金色标题和多语言标签界面。",
+    "notes": "作为完整商业UI通过；未执行注册、发送邮件或代码，仅浏览产品页面。",
+    "checked_at": "2026-11-03",
+    "browser": "IAB",
+    "source_file": "ui_example_items.json"
+  },
+  {
+    "url": "https://supabase.com/",
+    "result": "pass",
+    "action": "滚动至仪表盘展示，点击SQL Editor",
+    "observed": "深色绿色强调的产品卡片和品牌墙完整；Table Editor切换SQL Editor后选中描边移动，演示内容从数据列设置变成SQL编辑器布局。",
+    "notes": "只测试官网演示切换，未登录或执行数据库操作。",
+    "checked_at": "2026-11-03",
+    "browser": "IAB",
+    "source_file": "ui_example_items.json"
+  },
+  {
+    "url": "https://www.framer.com/",
+    "result": "pass",
+    "action": "观察首屏视频并滚动至编辑器展示",
+    "observed": "蓝色发光视频画面在多个时间点改变；下方展示完整三栏设计画布，页面层级、代理输入与中心网页构图清楚。",
+    "notes": "作为产品UI与动态展示通过；未注册或下载软件。",
+    "checked_at": "2026-11-03",
+    "browser": "IAB",
+    "source_file": "ui_example_items.json"
+  },
+  {
+    "url": "https://cursor.com/",
+    "result": "pass",
+    "action": "观察首屏产品演示并滚动",
+    "observed": "桌面任务列表、内容面板与叠加CLI窗口完整；多帧中从构建落地页切换到Mission Control任务与规划内容。",
+    "notes": "核心官网演示动态已看到；未下载、登录或提交真实任务。",
+    "checked_at": "2026-11-03",
+    "browser": "IAB",
+    "source_file": "ui_example_items.json"
+  }
+]

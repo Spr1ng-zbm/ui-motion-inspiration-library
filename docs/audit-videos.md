@@ -1,0 +1,156 @@
+# 既有视频逐条播放核查
+
+核查日期：2026-11-03。最终25 pass / 0 blocked；两条Flighty首轮未加载，隔一轮重试后实际播放通过。
+
+方法：独立IAB页逐条打开，读取主video媒体状态并查看截图。长视频只抽查相关片段，不声称完整观看。
+
+## PASS — https://www.bilibili.com/video/BV1Ka4y1o7aS
+
+- 操作：实际播放并观察8–33秒片段，读取两次video状态
+- 观察：紫色神话网页中，档案卡片由箱子飞出；转为中式建筑与侧栏导航场景。currentTime 8.50→21.92→32.67秒，paused=false、readyState=4。
+- 限制：未登录可播放超过30秒；高清登录提示未遮挡主体。抽查作品讲解片段，未完整观看。
+
+## PASS — https://www.bilibili.com/video/BV1Ne41177jP
+
+- 操作：播放并使用播放器右方向键快进抽查8–76秒
+- 观察：粉色爱心入口转为人物卡片、手写大字、黑色心形装饰及底部图标导航。currentTime 8.65→41.10→66.41→75.98，最终readyState=4、paused=false。
+- 限制：无登录观看成功；属于作品演示伴讲解，未见代码教学主体，未完整观看。
+
+## PASS — https://www.bilibili.com/video/BV1zSfPYwEev/
+
+- 操作：实际播放，抽查8秒及约29秒游戏奖励片段
+- 观察：消除游戏中剪刀道具出现，随后为角色庆祝及救援成功横幅，旁边有动效设计思路排版。视频由0秒进入8.18秒，readyState=4；快进28.82秒截图显示成功反馈。
+- 限制：作品集展示而非软件操作教程；只抽查部分片段，未完整观看。
+
+## PASS — https://www.bilibili.com/video/BV1JybpzXESe/
+
+- 操作：观看9.95至15.70秒并比较画面
+- 观察：城市赛事入口转为环形匹配玩家列表界面，透视场景与HUD菜单清晰。两次readyState=4、paused=false，currentTime持续增长。
+- 限制：视频标题为2026届作品集，画面中的示例产品UI含2021赛季字样；不应把画面称为2026新产品。
+
+## PASS — https://www.bilibili.com/video/BV1vHUaBMEyr/
+
+- 操作：观看当前第一分集3.89至22.18秒
+- 观察：航海游戏HUD与入港按钮，后续转为船型列表和3D船模型。currentTime 3.89→22.18秒，paused=false、readyState=4。
+- 限制：只核验默认55秒UI动效分集，未验证其它6分集；视觉偏练习型旧游戏样机，可在质量优先时替换，不宜将整合集3D/2D能力称已实测。
+
+## PASS — https://www.bilibili.com/video/BV1Q54y1q7oi/
+
+- 操作：先观看展示分集，再点击右侧“毕设动效”第二分集，读取两次播放状态
+- 观察：第二分集呈现手机引导页、设备搜索波纹、健康首页卡片与底部导航；0→11.39→17.90秒，paused=false、readyState=4，画面从搜索中切到首页。
+- 限制：建议主链接直达53秒纯动效第二分集；未完整观看。
+- 建议直达：https://www.bilibili.com/video/BV1Q54y1q7oi/?p=2
+
+## PASS — https://www.bilibili.com/video/BV1op4y1w7U5/
+
+- 操作：观看开场，使用播放器方向键快进到约2分50秒驾驶舱段落
+- 观察：视频可播放，4.19秒为机库，174.27秒为驾驶舱；多个仪表屏、横向刻度HUD及驾驶控制画面可见。最终readyState=4、paused=false。
+- 限制：全长约26分钟的实机游玩录像，非专门UI剪辑；可参考2分50秒附近驾驶舱，但观看效率低，质量策展时建议优先换成短FUI展示。
+
+## PASS — https://www.bilibili.com/video/BV1hYceeGEuq/
+
+- 操作：实际播放并快进抽查约79–84秒网站主体
+- 观察：黑绿个人站的肖像扫描线与X光轮廓变换清晰可见，随后进入技能栏目。currentTime 78.67→84.04，paused=false、readyState=4。
+- 限制：前30秒主要片头/加载说明，主体需向后观看。未登录仍可播放超过30秒；属于网站演示伴讲解，未完整观看。
+
+## PASS — https://60fps.design/shots/apple-health-longevity-intro-animation
+
+- 操作：逐页实际播放主录像，读取两次video状态并查看两帧截图
+- 观察：彩色不规则健康图块收拢变为大小不同的圆形分类气泡，底部健康引导内容稳定。 currentTime 0.07→4.50秒，时长8.88秒，最终paused=false、readyState=4。
+- 限制：无登录可见；主体为UI动效录像，非教程。仅验证本站所展示录像。
+
+## PASS — https://60fps.design/shots/revolut-card-ready-animation
+
+- 操作：逐页实际播放主录像，读取两次video状态并查看两帧截图
+- 观察：紫红金属卡片特写缩小旋转，黑色叠片螺旋环绕，出现账户已就绪文案。 currentTime 0.60→4.85秒，时长9.18秒，最终paused=false、readyState=4。
+- 限制：无登录可见；主体为UI动效录像，非教程。仅验证本站所展示录像。
+
+## PASS — https://60fps.design/shots/circle-splash-bubbles-pop-interaction
+
+- 操作：逐页实际播放主录像，读取两次video状态并查看两帧截图
+- 观察：社交头像气泡由稀疏分布变为成组排布，伴随小聊天标签和底部入门文案。 currentTime 0.13→14.45秒，时长20.17秒，最终paused=false、readyState=4。
+- 限制：无登录可见；主体为UI动效录像，非教程。仅验证本站所展示录像。
+
+## PASS — https://60fps.design/shots/brick-intro-value-prop-text-flip-interaction
+
+- 操作：逐页实际播放主录像，读取两次video状态并查看两帧截图
+- 观察：实拍背景上的价值主张动词由playing翻换为connecting，按钮及固定文字保持稳定。 currentTime 0→4.96秒，时长8.20秒，最终paused=false、readyState=4。
+- 限制：无登录可见；主体为UI动效录像，非教程。仅验证本站所展示录像。
+
+## PASS — https://60fps.design/shots/runmo-distance-wheel-fill-interaction
+
+- 操作：逐页实际播放主录像，读取两次video状态并查看两帧截图
+- 观察：黑黄运动UI年度切换时，31KM局部圆环推进为59KM满圆，数字、刻度、统计卡同步变化。 currentTime 0.09→4.28秒，时长8.80秒，最终paused=false、readyState=4。
+- 限制：无登录可见；主体为UI动效录像，非教程。仅验证本站所展示录像。
+
+## PASS — https://60fps.design/shots/plasma-duo-style-bottom-sheet-open-interaction
+
+- 操作：主录像实际播放，读取两次video状态与截图
+- 观察：优惠卡片放大成圆角底部面板，再缩回；背景遮罩、模糊和边线清晰。 currentTime 3.50→5.49秒；时长12.97秒；最终paused=false、readyState=4。
+- 限制：无登录可见；UI动效录像，非教程。首次媒体未加载，刷新一次后恢复，复核两次readyState=4。
+
+## PASS — https://60fps.design/shots/duolingo-sparkle-sculpt-pop-interaction
+
+- 操作：主录像实际播放，读取两次video状态与截图
+- 观察：未成形的石块在烟团、星光中揭示猫头鹰雕像，下面仍为任务进度条。 currentTime 0.03→1.60秒；时长4.00秒；最终paused=false、readyState=4。
+- 限制：无登录可见；UI动效录像，非教程。
+
+## PASS — https://60fps.design/shots/cred-ticket-pop-on-slider-interaction
+
+- 操作：主录像实际播放，读取两次video状态与截图
+- 观察：黄色滑杆移动时小金票由滑块处飞起，票数由165变211，底部金额同步更新。 currentTime 0→1.17秒；时长3.45秒；最终paused=false、readyState=4。
+- 限制：无登录可见；UI动效录像，非教程。
+
+## PASS — https://60fps.design/shots/revolut-revpoints-feature-coachmark-border-pulse-interaction
+
+- 操作：主录像实际播放，读取两次video状态与截图
+- 观察：紫色发光RevPoints开通页转入积分首页，并显示赚取积分的新手提示。 currentTime 0.06→3.90秒；时长11.83秒；最终paused=false、readyState=4。
+- 限制：无登录可见；UI动效录像，非教程。已见引导页面转场；边框脉冲具体阶段需额外抽帧。
+
+## PASS — https://60fps.design/shots/run-receipt-signature-interaction
+
+- 操作：主录像实际播放，读取两次video状态与截图
+- 观察：拟物跑步收据上黑色手写签名逐步绘出，纸面、虚线分隔和数据保持稳定。 currentTime 0→3.22秒；时长5.13秒；最终paused=false、readyState=4。
+- 限制：无登录可见；UI动效录像，非教程。
+
+## PASS — https://60fps.design/shots/x-campaign-hashtag-based-grok-bot-like-button-interaction
+
+- 操作：实际播放主录像，读取媒体状态并查看多帧截图
+- 观察：录像内X点赞位置的彩色角色团散开、收回为粉色爱心，未操作真实社交账户。 currentTime 1.26→5.35秒；时长5.37秒；最终paused=false、readyState=4。
+- 限制：无登录可见；UI展示录像。
+
+## PASS — https://60fps.design/shots/platen-typewriter-intro-how-to-interaction
+
+- 操作：实际播放主录像，读取媒体状态并查看多帧截图
+- 观察：暗色拟物打字机纸面上，灯具沿滑轨移动，聚光照亮文字并跟随位置变化。 currentTime 0→3.21→4.20秒；时长8.29秒；最终paused=false、readyState=4。
+- 限制：无登录可见；UI展示录像。标题How to指产品内上手提示，录像不是制作教程。
+
+## PASS — https://60fps.design/shots/airbnb-new-intro-sequence
+
+- 操作：实际播放主录像，读取媒体状态并查看多帧截图
+- 观察：朦胧的App缩略界面逐步清晰、上移成实体页面，房源卡片、分类图标、搜索栏与引导标题依次出现。 currentTime 0.20→5.12秒；时长8.03秒；最终paused=false、readyState=4。
+- 限制：无登录可见；UI展示录像。
+
+## PASS — https://60fps.design/shots/flighty-connection-assistant-sheet
+
+- 操作：首次加载失败；完成30条新候选后重新打开，读取两次播放状态并观察画面
+- 观察：复核currentTime 0→1.45→0.81（循环），duration4.77秒，paused=false、readyState=4。换乘助手面板内有绿黄红风险时间轴，随后手写圈注与解释标记出现。
+- 限制：首轮多次readyState=0，隔一轮重试后正常播放，属于暂时媒体加载问题。无登录可见。
+
+## PASS — https://60fps.design/shots/flighty-share-passport-blacklight-interaction
+
+- 操作：首轮媒体空白；隔一轮重新打开并读取两次媒体状态、核对截图
+- 观察：currentTime 0→1.89秒，duration2.32秒，paused=false、readyState=4。紫色黑光环境中的荧光世界地图护照切回浅色纸张与普通地图色，底部Blacklight按钮随状态变化。
+- 限制：首轮加载失败，复核恢复；本轮已实际看到黑光/普通两态，未操作真实个人护照资料。
+
+## PASS — https://60fps.design/shots/airbnb-tactile-tab-button-interaction
+
+- 操作：实际播放录像并核对两帧截图/媒体状态
+- 观察：currentTime 1.29→5.18秒，时长6.5秒，paused=false、readyState=4。Homes/Services标签切换时选中胶囊凹陷，未选中按钮凸起，内容列表同步换页。
+- 限制：无登录可见；仅观看录像，未操作真实Airbnb账户。
+
+## PASS — https://60fps.design/shots/airbnb-photo-pop-and-slide-animation
+
+- 操作：读取主录像起始和中段状态并对照截图
+- 观察：1.02秒微动画，currentTime 0→0.55，播放时paused=false、readyState=4；起始照片空白，随后三张叠放圆角照片出现于预约标题上方。后续循环重置到0并暂停。
+- 限制：无登录可见；极短微动效，需关注照片入场。

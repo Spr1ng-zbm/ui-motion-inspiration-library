@@ -1,0 +1,361 @@
+{
+  "https://igloo.inc": {
+    "description": "雪山中的发光冰屋由悬浮冰块收合后再次裂开，角落文字带字符扰动。",
+    "access_notes": "已确认首屏场景及形态变化；未遍历全站所有品牌段落。"
+  },
+  "https://activetheory.net": {
+    "description": "金属标志、微粒与有机形态构成的暗色三维空间，滚动驱动镜头穿行。",
+    "access_notes": "已确认首屏空间和滚动镜头；未遍历全部客户项目。"
+  },
+  "https://monopo.london": {
+    "description": "橙蓝颗粒渐变配合玻璃透镜光标，透镜内外切换语言并带色散折射。",
+    "access_notes": ""
+  },
+  "https://www.14islands.com": {
+    "description": "大字号非对称排版、宽幅点阵人物影像和双列项目卡片，文字随滚动揭示。",
+    "access_notes": "保留作为完整界面与案例编排参考，不声称已进入所有项目。"
+  },
+  "https://blobmixer.14islands.com": {
+    "description": "大字标题叠加虹彩三维雕塑，切换预设时造型、材质和全屏配色一起改变。",
+    "name": "Blobmixer：虹彩雕塑轮播",
+    "access_notes": "已核验预设雕塑轮播；未核验 Remix 编辑或 VR 功能。"
+  },
+  "https://makepill.com": {
+    "description": "透明胶囊与虹彩头盔搭配巨型标题，滚动时黑白场景切换并揭示文字。",
+    "access_notes": ""
+  },
+  "https://immersive-g.com": {
+    "description": "浅色雕花浮雕搭配逐步揭示的衬线标题，随后切入飞机与地球主题的项目画面。",
+    "access_notes": ""
+  },
+  "https://studiofreight.com": {
+    "description": "白底衬线文字与散布图片卡构成的作品导航，焦点项目名称随浏览变化。",
+    "access_notes": "首页作品导航已核验；Telemetric 详情中有两段媒体未能播放，未将该详情单独推荐。"
+  },
+  "https://studioherrstrom.com": {
+    "description": "黑底细线网格、衬线大标题及音乐文化品牌影像的编辑式作品陈列。",
+    "access_notes": "作为完整网站排版参考；不声称每个项目动画已播放。"
+  },
+  "https://clay.global": {
+    "description": "移动App与网站设计作品展示，内嵌Showreel包含产品界面、三维卡片和品牌动效。",
+    "access_notes": "官网内嵌 Vimeo 作品录像；已查看部分产品界面片段，未完整观看。"
+  },
+  "https://www.ramotion.com": {
+    "description": "Descript产品网站案例，展示深蓝主视觉、响应式手机页面、编辑器画面与品牌动效。",
+    "name": "Ramotion × Descript：产品网站与品牌界面",
+    "access_notes": "入口为 Descript 设计案例，向下滚动可见网页和手机界面；不是可操作的产品。"
+  },
+  "https://robbowen.digital": {
+    "description": "浅蓝紫色线描人物与衬线大标题，菜单展开为全屏浅蓝导航和双列说明。",
+    "access_notes": "未观察到明确人物跟随指针，不将眼睛跟随写作卖点。"
+  },
+  "https://www.seanhalpin.xyz": {
+    "description": "真实产品设计案例，展示AI辅助写作、生成结果卡和编辑器中的操作层级。",
+    "name": "Seán Halpin × Help Scout：AI 编辑器界面",
+    "access_notes": "入口为 Help Scout 的 AI 编辑器设计案例；不是在线 AI 产品。"
+  },
+  "https://henryheffernan.com": {
+    "description": "三维办公桌场景中，镜头从全景推进到 CRT 显示器，屏幕内呈现复古窗口、桌面图标与个人作品集。",
+    "access_notes": "已核验开场场景与镜头推进；未核验屏幕内桌面应用的操作。"
+  },
+  "https://rauno.me": {
+    "description": "巨大字形、纯色圆盘与细刻度进度条组成横向海报卡片；竖向滚动推动横向导航。",
+    "name": "Rauno · 横向海报导航",
+    "access_notes": "主页本身的横向海报导航已实证；不把链接的课程或所有作品计为通过。"
+  },
+  "https://abeto.co": {
+    "description": "纸张颗粒、金色手绘花瓣与白色大字组合的动态首屏；花朵逐步展开并持续变形。",
+    "access_notes": "本轮首屏约两分钟才完整出现；319px 窄视口下大标题有裁切。仅核验首页花朵动画。"
+  },
+  "https://aristidebenoist.com": {
+    "description": "黑白窄幅图片条带横向移动，点击后展开为大图轮播，巨大字形覆盖照片，相邻项目在两侧留出预览。",
+    "access_notes": "本轮转场推进偏慢，等待完整展开后核验。"
+  },
+  "https://www.chiaraluzzana.com": {
+    "description": "空心衬线字入场后切换到米白三维雕塑；层叠圆片球体与超大排版构成强烈的前后空间关系。",
+    "access_notes": "已核验视觉入场与三维雕塑；未评价音频或全部项目。本轮转场偏慢。"
+  },
+  "https://pitch.com": {
+    "description": "紫色渐变与白色产品卡片，展示AI输入、幻灯片编辑器、样式浮层和协作提示，适合参考创作工具的官网UI呈现。",
+    "access_notes": "官网产品界面展示；未进入实际编辑器或生成内容。"
+  },
+  "https://superhuman.com": {
+    "description": "分组收件箱、彩色标签与邮件/AI建议浮层的产品展示，适合参考高信息密度邮件工具的层次和快捷操作布局。",
+    "name": "Superhuman Mail · 邮件与AI助手界面",
+    "access_notes": "入口为邮件产品展示页；未进入真实邮箱，未完整播放全部演示。"
+  },
+  "https://reflect.app": {
+    "description": "深紫光环与粒子星空包围深色笔记工作台，三栏编辑器和官方产品短片展示克制的工具界面。",
+    "access_notes": "已查看产品录像片段；未实际编辑笔记或核验双向链接功能。"
+  },
+  "https://cleanshot.com": {
+    "description": "截图编辑器的图标工具条、渐变背景网格与带阴影的画布卡片；适合参考轻量桌面创作工具的面板层次。",
+    "name": "CleanShot · 截图编辑器界面",
+    "access_notes": "入口为截图功能展示页；未运行 Mac 应用，页面截图不是可操作的编辑器。"
+  },
+  "https://culturedcode.com/things": {
+    "description": "桌面和手机任务界面，细看分区标题、彩色侧栏图标、日期提示、轻量标签与留白的节奏。",
+    "name": "Things · 任务清单与项目界面",
+    "access_notes": "入口为官方 Features 页面；展示原生应用截图，不是在浏览器中运行任务管理应用。"
+  },
+  "https://notion.com/product/calendar": {
+    "description": "桌面周视图与手机三日视图并列，彩色日程块、轻量侧栏和时间刻度构成清晰的日历界面。",
+    "access_notes": "按桌面与手机日历界面展示收录；内嵌影片含人物介绍，未作为纯动效视频单独推荐。"
+  },
+  "https://www.spline.design": {
+    "description": "3D城市场景与深色编辑器界面结合，选择框、Agent步骤和右侧属性面板展示空间设计工具的层级。",
+    "access_notes": "官网模拟演示可展开属性面板；未编辑真实项目或提交 AI 提示。"
+  },
+  "https://rive.app": {
+    "description": "车辆座舱概念录像依次展示电量圆弧、天气、柱状图、媒体封面和导航地点列表，宽幅三维地图与车辆镜头随场景切换。",
+    "name": "Rive：3D 车辆与座舱控制面板概念录像",
+    "access_notes": "16 秒官方展示录像。面向 BMW 的非官方概念，并非量产车机；交互版本在本轮截图超时，采用已实际播放核验的录像入口。"
+  },
+  "https://tldraw.com": {
+    "description": "极简白板配底部浮动工具栏与右侧样式面板，绘制矩形后可切换紫色轮廓和浅色填充。",
+    "access_notes": "无需登录可体验本地画布；本轮实测绘图与样式切换，未测试多人协作。"
+  },
+  "https://excalidraw.com": {
+    "description": "手绘风图形与浅紫工具控件形成统一界面；顶部形状栏、左侧上下文属性和画布选择框层级清晰。",
+    "access_notes": "无需登录可体验本地绘图；本轮实测图形绘制与背景切换，未测试协作。"
+  },
+  "https://60fps.design/shots/things-3-drag-to-create-to-do-interaction": {
+    "description": "新待办以带阴影的编辑卡插入列表，上下条目让位、键盘升起；参考临时编辑状态与原列表的空间衔接。",
+    "name": "Things 3：待办编辑卡插入列表",
+    "access_notes": "可免登录观看的 UI 动效录像；核验范围为记录中的播放片段，页面不提供原 App 的功能操作。"
+  },
+  "https://60fps.design/shots/perplexity-model-selection-sheet-morph-interaction": {
+    "description": "圆角模型选择弹层向上扩展，拖动条、关闭按钮、模型列表和模糊背景保持连续，适合参考底部面板的尺寸变化。",
+    "access_notes": "可免登录观看的 UI 动效录像；核验范围为记录中的播放片段，页面不提供原 App 的功能操作。"
+  },
+  "https://60fps.design/shots/airbnb-tab-icon-animation": {
+    "description": "房屋、热气球和服务铃以立体图标进入分类栏，当前体验图标更突出；参考小尺寸导航中的层次与选中强调。",
+    "name": "Airbnb：立体分类图标入场",
+    "access_notes": "可免登录观看的 UI 动效录像；核验范围为记录中的播放片段，页面不提供原 App 的功能操作。"
+  },
+  "https://60fps.design/shots/snapseed-photos-pop-shuffle-effect": {
+    "description": "全屏照片转为多张带阴影和倾角的照片卡片，散落叠放后露出底部添加照片入口。",
+    "name": "Snapseed：照片散落叠放",
+    "access_notes": "可免登录观看的 UI 动效录像；核验范围为记录中的播放片段，页面不提供原 App 的功能操作。"
+  },
+  "https://60fps.design/shots/poke-mon-tcg-pocket-swipe-packet-to-reveal-card-interaction": {
+    "description": "卡包放大后，亮线扫过顶部，封条沿切口剥离；金属反光与袋口细节强化拆封的触感。",
+    "name": "Pokémon TCG：卡包拆封动效",
+    "access_notes": "可免登录观看的 UI 动效录像；核验范围为记录中的播放片段，页面不提供原 App 的功能操作。"
+  },
+  "https://60fps.design/shots/google-chrome-pull-down-to-reload-and-new-tab": {
+    "access_notes": "可免登录观看的 UI 动效录像；核验范围为记录中的播放片段，页面不提供原 App 的功能操作。"
+  },
+  "https://60fps.design/shots/cred-autopay-bills-stack-animation": {
+    "description": "账单卡在底部面板中层叠轮换，电费卡让位给宽带账单，金额和付款按钮随卡片更新；参考多账单摘要的紧凑呈现。",
+    "name": "CRED：账单卡堆轮换",
+    "access_notes": "可免登录观看的 UI 动效录像；核验范围为记录中的播放片段，页面不提供原 App 的功能操作。"
+  },
+  "https://60fps.design/shots/swatch-this-3d-camera-flip-interaction": {
+    "description": "黑色拟物相机转为小型镜头与银色色样纸片，立体阴影和完成星光连起采色与结果展示。",
+    "name": "Swatch This：拟物相机与色样展示",
+    "access_notes": "可免登录观看的 UI 动效录像；核验范围为记录中的播放片段，页面不提供原 App 的功能操作。"
+  },
+  "https://60fps.design/shots/recollect-value-prop-morph-interaction": {
+    "description": "紫橙渐变引导中，收藏操作面板变成照片卡片，下方文案同步替换；参考功能演示与价值说明的配合。",
+    "name": "Recollect：收藏面板转为照片卡片",
+    "access_notes": "可免登录观看的 UI 动效录像；核验范围为记录中的播放片段，页面不提供原 App 的功能操作。"
+  },
+  "https://60fps.design/shots/monogram-tap-and-hold-mic-liquid-blur-pulse-interaction": {
+    "description": "语音状态激活后，下部内容出现液态弯曲和模糊遮罩，底部胶囊转为黑色 Thinking 状态。",
+    "access_notes": "可免登录观看的 UI 动效录像；核验范围为记录中的播放片段，页面不提供原 App 的功能操作。"
+  },
+  "https://60fps.design/shots/currency-simple-converter-draw-symbol-interaction": {
+    "access_notes": "可免登录观看的 UI 动效录像；核验范围为记录中的播放片段，页面不提供原 App 的功能操作。"
+  },
+  "https://60fps.design/shots/linear-issue-actions-popup-interaction": {
+    "description": "深色收件箱展开新建任务面板，键盘升起，状态、优先级、负责人和标签工具横向排布；适合高密度移动输入界面。",
+    "access_notes": "可免登录观看的 UI 动效录像；核验范围为记录中的播放片段，页面不提供原 App 的功能操作。"
+  },
+  "https://60fps.design/shots/lumy-select-location-sheet-interaction": {
+    "description": "深蓝机舱窗插画与荧黄色地点按钮切入黑色城市选择面板，城市条目依次呈现。",
+    "access_notes": "可免登录观看的 UI 动效录像；核验范围为记录中的播放片段，页面不提供原 App 的功能操作。"
+  },
+  "https://60fps.design/shots/google-ai-mode-search-morph-interaction": {
+    "description": "深色首页的搜索入口转入 AI Mode 页面，输入区和键盘出现，原背景信息卡退场。",
+    "name": "Google：搜索入口转入 AI 页面",
+    "access_notes": "可免登录观看的 UI 动效录像；核验范围为记录中的播放片段，页面不提供原 App 的功能操作。"
+  },
+  "https://60fps.design/shots/apple-find-my-searching-items-sheet-animation": {
+    "access_notes": "可免登录观看的 UI 动效录像；核验范围为记录中的播放片段，页面不提供原 App 的功能操作。"
+  },
+  "https://60fps.design/shots/opal-tap-to-reveal-gem-interaction": {
+    "access_notes": "可免登录观看的 UI 动效录像；核验范围为记录中的播放片段，页面不提供原 App 的功能操作。"
+  },
+  "https://60fps.design/shots/good-air-time-slider-dynamic-weather-interaction": {
+    "access_notes": "可免登录观看的 UI 动效录像；核验范围为记录中的播放片段，页面不提供原 App 的功能操作。"
+  },
+  "https://60fps.design/shots/cosmos-theme-switcher-interaction": {
+    "description": "外观选择页从浅色切为深色，图片网格预览、页面背景和按钮同步更新，深色选项显示选中。",
+    "access_notes": "可免登录观看的 UI 动效录像；核验范围为记录中的播放片段，页面不提供原 App 的功能操作。"
+  },
+  "https://60fps.design/shots/apple-astronomy-wallpaper-3d-planets-morph-swipe-interaction": {
+    "access_notes": "可免登录观看的 UI 动效录像；核验范围为记录中的播放片段，页面不提供原 App 的功能操作。"
+  },
+  "https://60fps.design/shots/ben-journal-weather-toggle-background-animation": {
+    "access_notes": "可免登录观看的 UI 动效录像；核验范围为记录中的播放片段，页面不提供原 App 的功能操作。"
+  },
+  "https://60fps.design/shots/the-outsiders-progress-graph-color-change-interaction": {
+    "access_notes": "可免登录观看的 UI 动效录像；核验范围为记录中的播放片段，页面不提供原 App 的功能操作。"
+  },
+  "https://60fps.design/shots/apple-photographic-styles-carousel-swipe-interaction": {
+    "description": "摄影风格选择页以圆角人像预览配合色调参数和说明卡，让用户直接比较画面与设置的关系。",
+    "name": "Apple：摄影风格卡片预览",
+    "access_notes": "可免登录观看的 UI 动效录像；核验范围为记录中的播放片段，页面不提供原 App 的功能操作。"
+  },
+  "https://60fps.design/shots/moods-faster-pills-morph-expand-interaction": {
+    "description": "选中的情绪胶囊拉长放大，邻近胶囊缩小让位，背景光晕同步变化；参考柔和而明确的选中反馈。",
+    "access_notes": "可免登录观看的 UI 动效录像；核验范围为记录中的播放片段，页面不提供原 App 的功能操作。"
+  },
+  "https://60fps.design/shots/okuri-page-flip-interaction": {
+    "description": "日历纸面卷起露出下一页，曲面折痕、软阴影与背面透字共同模拟纸张厚度。",
+    "access_notes": "可免登录观看的 UI 动效录像；核验范围为记录中的播放片段，页面不提供原 App 的功能操作。"
+  },
+  "https://60fps.design/shots/apple-wallet-card-gyro-pattern-color-change-interaction": {
+    "description": "黑色卡面的圆点纹理由暗灰转为粉橙光泽，反射光带扫过表面；适合参考数字卡片的全息材质。",
+    "access_notes": "可免登录观看的 UI 动效录像；核验范围为记录中的播放片段，页面不提供原 App 的功能操作。"
+  },
+  "https://60fps.design/shots/avec-hold-and-speak-interaction": {
+    "description": "邮件编辑器底部的蓝色语音区变为红色录音状态，波形和松开提示接续出现，正文布局保持稳定。",
+    "name": "Avec：语音录音状态反馈",
+    "access_notes": "可免登录观看的 UI 动效录像；核验范围为记录中的播放片段，页面不提供原 App 的功能操作。"
+  },
+  "https://60fps.design/shots/apple-find-my-finding-airpods-case-gyroscope": {
+    "description": "搜寻界面从黑底方向箭头切成绿色同心圆，距离数字随接近缩小；通过方向、颜色和图形共同说明寻找进度。",
+    "access_notes": "可免登录观看的 UI 动效录像；核验范围为记录中的播放片段，页面不提供原 App 的功能操作。"
+  },
+  "https://60fps.design/shots/elevate-correct-answer-words-morph-interaction": {
+    "description": "大字号句子中，正确词被青绿色色块突出，底部进度和判断按钮保持稳定；参考将反馈直接放在内容上的答题界面。",
+    "name": "Elevate：答案词高亮反馈",
+    "access_notes": "可免登录观看的 UI 动效录像；核验范围为记录中的播放片段，页面不提供原 App 的功能操作。"
+  },
+  "https://60fps.design/shots/cosmos-cluster-drag-and-drop-interaction": {
+    "description": "缩略卡随拖动悬浮到另一图片集上，目标卡以虚线轮廓和移动提示响应；参考拖放目标的清晰反馈。",
+    "name": "Cosmos：图片集拖放反馈",
+    "access_notes": "可免登录观看的 UI 动效录像；核验范围为记录中的播放片段，页面不提供原 App 的功能操作。"
+  },
+  "https://60fps.design/shots/pinterest-shared-sheet-swipe-interaction": {
+    "description": "商品详情底部面板横滑切换，抠图商品突出面板上边缘，标题、说明与相似推荐同步更新。",
+    "name": "Pinterest：商品详情面板横滑切换",
+    "access_notes": "可免登录观看的 UI 动效录像；核验范围为记录中的播放片段，页面不提供原 App 的功能操作。"
+  },
+  "https://rauno.me/craft/exclusion-tabs": {
+    "description": "白色胶囊在分类标签间平滑移动，文字随选中反色，适合紧凑过滤导航。",
+    "access_notes": "可直接操作的页面交互原型。"
+  },
+  "https://rauno.me/craft/vanish-input": {
+    "description": "提交后文字从右侧碎裂成细颗粒并消散，将输入结束变成明确而轻巧的视觉反馈。",
+    "access_notes": "可直接操作的页面交互原型。"
+  },
+  "https://rauno.me/craft/wheel-input": {
+    "description": "日期滚轮以弧面透视和上下渐隐组织连续选项，中央选中条保持固定。",
+    "access_notes": "可直接操作的页面交互原型。"
+  },
+  "https://rauno.me/craft/vercel-footer": {
+    "description": "暗色描边字标被局部渐变光照点亮，三角形与字形呈现明暗填充变化。",
+    "access_notes": "需要指针设备；本次核验页面内局部光照效果。"
+  },
+  "https://rauno.me/craft/logo-carousel": {
+    "description": "单色品牌标志按组轮换，以模糊溶解衔接切换，适合客户Logo展示。",
+    "access_notes": "可直接操作的页面交互原型。"
+  },
+  "https://rauno.me/craft/radial-menu": {
+    "description": "按住旋转选择圆环扇区，外圈弧线高亮与中心动作名称同步反馈。",
+    "access_notes": "已核验旋转选择反馈；未执行 Print 或 Save 操作。"
+  },
+  "https://rauno.me/craft/minimap": {
+    "description": "一排精细短刻度随指针移动形成局部波峰，橙色游标建立位置参照。",
+    "access_notes": "刻度动效原型；未核验完整页面导航功能。"
+  },
+  "https://rauno.me/craft/fractional-slider": {
+    "description": "固定中心指针下的连续刻度可拖动平移，选中区间以蓝色刻度突出。",
+    "access_notes": "可直接操作的页面交互原型。"
+  },
+  "https://rauno.me/craft/precision-slider": {
+    "description": "按住时细线音量条扩展成宽大圆角面板，填充比例随拖动更新。",
+    "access_notes": "页面内的滑块原型，不控制系统音量。"
+  },
+  "https://rauno.me/craft/flashlight-tabs": {
+    "description": "暗色胶囊导航用柔和聚光跟随选中标签，文字与边框亮度同步变化。",
+    "access_notes": "可直接操作的页面交互原型。"
+  },
+  "https://rauno.me/craft/copy-paste": {
+    "description": "源图缩成随指针移动的缩略图，再在目标区展开成完整图片，直观表达复制粘贴过程。",
+    "access_notes": "需要指针设备；页面模拟缩略图复制与目标区展开。"
+  },
+  "https://ui.shadcn.com/view/new-york-v4/dashboard-01": {
+    "description": "深色数据仪表盘结合分组侧栏、指标卡和可切换时间范围的面积图，布局完整。",
+    "access_notes": "可操作的官方仪表盘预览，使用示例数据。"
+  },
+  "https://ui.shadcn.com/view/new-york-v4/sidebar-07": {
+    "description": "分组导航侧栏收缩为图标栏，主区域随之横向扩展；适合参考侧栏组件的折叠布局。",
+    "access_notes": "侧栏组件预览；主体区域是四块占位矩形，不是完整业务界面。"
+  },
+  "https://ui.shadcn.com/view/new-york-v4/sidebar-03": {
+    "description": "文档目录按主题分组，折叠后面包屑和主区域跟随重新排布。",
+    "access_notes": "目录侧栏组件预览；主体为占位块。"
+  },
+  "https://ui.shadcn.com/view/new-york-v4/login-03": {
+    "description": "标准居中登录卡片：双社交登录按钮、表单分隔线与清晰的输入聚焦描边。",
+    "access_notes": "认证界面预览；仅核验输入与焦点反馈，未提交登录。"
+  },
+  "https://ui.shadcn.com/view/new-york-v4/login-04": {
+    "description": "左侧登录表单与横排社交按钮组成认证界面，输入聚焦和内容反馈清晰；右侧为图像占位区。",
+    "access_notes": "认证界面预览，右侧为图像占位符；未提交登录。"
+  },
+  "https://www.warp.dev/terminal": {
+    "description": "点阵网格与等宽排版结合电蓝吸顶导航，叠放终端、侧栏和分支选择器展示开发工具界面。",
+    "access_notes": "官网中的终端界面展示；未下载或运行应用。"
+  },
+  "https://zed.dev/": {
+    "description": "细线网格、橙蓝产品标志与深色多栏编辑器；任务侧栏、对话和代码差异构成紧凑桌面UI。",
+    "name": "Zed Industries：多栏编辑器与产品展示",
+    "access_notes": "官网同时展示 Delta 与 Zed；核验的是页面内编辑器展示。"
+  },
+  "https://obsidian.md/": {
+    "description": "深色知识工作台将笔记树、文章编辑与节点图谱并排，叠加手机待办示例，突出跨设备层级。",
+    "access_notes": "官网中的笔记工作台与手机界面展示；未核验网页内知识图谱操作。"
+  },
+  "https://affine.pro/": {
+    "description": "手写标题搭配蓝色强调，文档内嵌表格、状态标签与进度条，展示文档和结构化信息融合。",
+    "access_notes": "官网中的文档与结构化信息展示；未核验真实白板业务操作。"
+  },
+  "https://www.hey.com/": {
+    "description": "紫粉渐变与厚重圆体标题搭配圆角卡片，白色邮件筛选界面突出头像、分类与接收控制。",
+    "access_notes": "官网中的邮件界面展示；未进入邮箱或操作真实邮件。"
+  },
+  "https://evervault.com/": {
+    "description": "深紫色官网以居中胶囊导航、交易状态列表和持续轮换的品牌标志组织首屏。",
+    "access_notes": "仅核验首屏界面与品牌轮播；后续滚动截图超时，未核验更深的产品操作。"
+  },
+  "https://cal.com/": {
+    "description": "预约演示卡在不同人物场景间轮换，头像、会议时长、地点与选中日期同步改变。",
+    "access_notes": "仅核验首页预约演示卡轮换；未进行真实预约。滚动区本轮曾出现空白。"
+  },
+  "https://www.notion.com/": {
+    "description": "蓝色强调与手绘人物搭配浅色四列任务看板，状态分组、侧栏层级和卡片密度清晰。",
+    "access_notes": "官网中的任务看板展示；未验证实际编辑或首屏文字轮播。"
+  },
+  "https://www.figma.com/design/": {
+    "description": "粉紫噪点背景中的设计画布并排呈现建筑海报、博物馆 App 地址与票务界面，底部配浮动工具条。",
+    "access_notes": "官网中的多画板产品展示；未进入可编辑的真实设计文件。"
+  },
+  "https://penpot.app/": {
+    "description": "深色设计编辑器的侧栏和属性面板围绕亮黄、紫色的音乐 App 多画板，另展示旅行卡片界面。",
+    "access_notes": "官网中的设计工作台展示；未启动真实编辑器。"
+  },
+  "https://tana.inc/": {
+    "description": "视频会议四宫格旁的深色 AI 助手面板，从文字摘要切换到蓝色柱状图与任务对话。",
+    "name": "Tana — 会议助手与协作面板",
+    "access_notes": "官网中的会议助手演示；未进行真实会议。"
+  },
+  "https://capacities.io/": {
+    "description": "深色首页以对象卡片展开知识工具主题，产品页展示多栏笔记、人物对象、关系图谱、日历和白板。",
+    "access_notes": "从首页 Discover Product 进入产品展示页；未注册或操作私人数据。"
+  }
+}

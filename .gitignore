@@ -17,3 +17,4 @@ experience_static_check.py
 update_experience_audit.py
 scripts/curate_revision.py
 experience_finish.py
+staging/

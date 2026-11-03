@@ -37,7 +37,7 @@
   function showDetail(item){
     const b=$('detail-body');b.replaceChildren();b.append(el('p','eyebrow',item.platform+' / '+item.category));const h=el('h2','',item.name);h.id='detail-title';b.append(h,el('p','',item.description));
     const dl=el('dl');
-    for(const [label,value] of [['作者',item.author],['原始标题',item.official_title],['参考关键词',(item.tags||[]).join(' / ')],['核验范围',item.verification],['核验日期',item.checked_at],['访问说明',item.access_notes],['许可记录',item.license_note||item.reuse_notes||'作品用于视觉参考；实际复用请核对原作者许可。']]){
+    for(const [label,value] of [['作者',item.author],['原始标题',item.official_title],['参考关键词',(item.tags||[]).join(' / ')],['核验范围',item.verification],['实际操作',item.verification_action],['看到的效果',item.verification_observed],['核验补充',item.verification_notes],['核验日期',item.checked_at],['访问说明',item.access_notes],['许可记录',item.license_note||item.reuse_notes||'作品用于视觉参考；实际复用请核对原作者许可。']]){
       if(value)dl.append(el('dt','',label),el('dd','',value));
     }
     if(item.evidence_url){dl.append(el('dt','','资料来源'));const dd=el('dd');dd.append(link('打开核验来源 ↗',item.evidence_url));dl.append(dd);}
@@ -55,6 +55,11 @@
   }
   function reset(){Object.assign(state,{query:'',category:'',platform:'',kind:'',view:'all',limit:30});$('search').value='';$('platform').value='';$('kind').value='';render();}
   const counts=Object.entries(data.counts).sort((a,b)=>b[1]-a[1]);
+  for(const platform of [...new Set(items.map(item=>item.platform))].sort()){
+    if(![...$('platform').options].some(option=>option.value===platform)){
+      const option=el('option','',platform);option.value=platform;$('platform').append(option);
+    }
+  }
   for(const [category,count] of [['',items.length],...counts]){const b=el('button','category-item');b.type='button';b.dataset.category=category;b.append(el('span','',category||'所有分类'),el('small','',count));b.addEventListener('click',()=>{state.category=category;state.limit=30;render();});$('categories').append(b);}
   for(const [value,label] of [[items.length,'界面与动效'],[counts.length,'效果分类'],[items.filter(x=>x.kind==='视频').length,'展示视频'],[items.filter(x=>x.repo_url).length,'源码入口']]){const s=el('div','stat');s.append(el('strong','',value),el('span','',label));$('stats').append(s);}
   $('updated').textContent='整理于 '+data.updated_at;

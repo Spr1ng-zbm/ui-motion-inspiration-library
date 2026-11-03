@@ -1,0 +1,1386 @@
+[
+  {
+    "number": 1,
+    "id": "ui-50038be7f645",
+    "name": "Discography：唱片式专辑浏览",
+    "url": "https://dmtrbrl.github.io/discography",
+    "source_file": "direct_demo_items.json",
+    "category": "画廊与导航"
+  },
+  {
+    "number": 2,
+    "id": "ui-5a5f7d835fec",
+    "name": "PRO Threads：光丝文字壁纸",
+    "url": "https://www.kubai.design/pro-threads",
+    "source_file": "direct_demo_items.json",
+    "category": "粒子与背景"
+  },
+  {
+    "number": 3,
+    "id": "ui-3bccbda41093",
+    "name": "Linear：产品工作流与官网展示",
+    "url": "https://linear.app",
+    "source_file": "site_items.json",
+    "category": "完整界面"
+  },
+  {
+    "number": 4,
+    "id": "ui-4f5342c04c62",
+    "name": "WebGL Fluid Simulation",
+    "url": "https://paveldogreat.github.io/WebGL-Fluid-Simulation",
+    "source_file": "code_items.json",
+    "category": "粒子与背景"
+  },
+  {
+    "number": 5,
+    "id": "ui-2395b83fe41c",
+    "name": "Glass：液态玻璃图标",
+    "url": "https://phileeppov.com/glass",
+    "source_file": "direct_demo_items.json",
+    "category": "图形与图标"
+  },
+  {
+    "number": 6,
+    "id": "ui-eb648eee81b1",
+    "name": "LeafThrough：纸张翻阅",
+    "url": "https://dmtrbrl.github.io/leafthrough",
+    "source_file": "direct_demo_items.json",
+    "category": "画廊与导航"
+  },
+  {
+    "number": 7,
+    "id": "ui-dd1101e4a19a",
+    "name": "Atelier North：建筑工作室界面",
+    "url": "https://atelier-north.crnacura.workers.dev",
+    "source_file": "direct_demo_items.json",
+    "category": "完整界面"
+  },
+  {
+    "number": 8,
+    "id": "ui-3d0ea272e6ff",
+    "name": "Amber Genetics：恐龙标本转盘",
+    "url": "https://amber.isma.uy",
+    "source_file": "direct_demo_items.json",
+    "category": "画廊与导航"
+  },
+  {
+    "number": 9,
+    "id": "ui-d14acff2591f",
+    "name": "Isle Thorne：家居电商展示",
+    "url": "https://isle-thorne-collective.crnacura.workers.dev",
+    "source_file": "direct_demo_items.json",
+    "category": "完整界面"
+  },
+  {
+    "number": 10,
+    "id": "ui-c3d346ac0377",
+    "name": "Motion：App Store 卡片展开",
+    "url": "https://examples.motion.dev/react/app-store",
+    "source_file": "code_items.json",
+    "category": "微交互"
+  },
+  {
+    "number": 11,
+    "id": "ui-d8dd476de410",
+    "name": "Fluid Pixel Cursor：像素流体光标",
+    "url": "https://nestorrig.github.io/Fluid-Pixel-Cursor-Effect",
+    "source_file": "direct_demo_items.json",
+    "category": "微交互"
+  },
+  {
+    "number": 12,
+    "id": "ui-493178a79596",
+    "name": "Reel Flux：立体照片卷轴",
+    "url": "https://saurow-reel.vercel.app",
+    "source_file": "direct_demo_items.json",
+    "category": "画廊与导航"
+  },
+  {
+    "number": 13,
+    "id": "ui-e2d764a96402",
+    "name": "Apple Health：健康引导拼合",
+    "url": "https://60fps.design/shots/apple-health-longevity-intro-animation",
+    "source_file": "site_items.json",
+    "category": "微交互"
+  },
+  {
+    "number": 14,
+    "id": "ui-d14e0fb43d90",
+    "name": "Liquid Lens：液态透镜",
+    "url": "https://angelolibero.github.io/liquid-lens",
+    "source_file": "direct_demo_items.json",
+    "category": "微交互"
+  },
+  {
+    "number": 15,
+    "id": "ui-63d45ec5ac1b",
+    "name": "Runmo：里程圆环与统计切换",
+    "url": "https://60fps.design/shots/runmo-distance-wheel-fill-interaction",
+    "source_file": "site_items.json",
+    "category": "微交互"
+  },
+  {
+    "number": 16,
+    "id": "ui-acbbbd63d54c",
+    "name": "Airbnb：触感标签按钮",
+    "url": "https://60fps.design/shots/airbnb-tactile-tab-button-interaction",
+    "source_file": "site_items.json",
+    "category": "微交互"
+  },
+  {
+    "number": 17,
+    "id": "ui-f317bcd810bf",
+    "name": "3D Carousel：弯曲照片轮播",
+    "url": "https://3d-carousel.thibaut-lefrancois.com",
+    "source_file": "direct_demo_items.json",
+    "category": "画廊与导航"
+  },
+  {
+    "number": 18,
+    "id": "ui-fddafe6c9e61",
+    "name": "Earth：全球风场与海洋",
+    "url": "https://earth.nullschool.net",
+    "source_file": "site_items.json",
+    "category": "粒子与背景"
+  },
+  {
+    "number": 19,
+    "id": "ui-0bf8ee533eca",
+    "name": "Ripple：图像水纹悬停",
+    "url": "https://ripple-effect-webgl.vercel.app",
+    "source_file": "direct_demo_items.json",
+    "category": "微交互"
+  },
+  {
+    "number": 20,
+    "id": "ui-1d41e9047871",
+    "name": "Pixel Scroll：图片像素揭示",
+    "url": "https://pixelimageeffect.pages.dev",
+    "source_file": "direct_demo_items.json",
+    "category": "滚动与叙事"
+  },
+  {
+    "number": 21,
+    "id": "ui-baa10030c37c",
+    "name": "Vanta.js",
+    "url": "https://www.vantajs.com",
+    "source_file": "code_items.json",
+    "category": "3D与沉浸"
+  },
+  {
+    "number": 22,
+    "id": "ui-d3f99efe4340",
+    "name": "Atropos",
+    "url": "https://atroposjs.com",
+    "source_file": "code_items.json",
+    "category": "3D与沉浸"
+  },
+  {
+    "number": 23,
+    "id": "ui-969036f62256",
+    "name": "Raycast：键盘与命令面板展示",
+    "url": "https://www.raycast.com",
+    "source_file": "site_items.json",
+    "category": "完整界面"
+  },
+  {
+    "number": 24,
+    "id": "ui-7b1000e41c11",
+    "name": "Sonner",
+    "url": "https://sonner.emilkowal.ski",
+    "source_file": "code_items.json",
+    "category": "微交互"
+  },
+  {
+    "number": 25,
+    "id": "ui-c881286456e3",
+    "name": "Vaul",
+    "url": "https://vaul.emilkowal.ski",
+    "source_file": "code_items.json",
+    "category": "微交互"
+  },
+  {
+    "number": 26,
+    "id": "ui-64bfe5322dfc",
+    "name": "Motion：Coverflow 画廊",
+    "url": "https://examples.motion.dev/react/gallery-coverflow",
+    "source_file": "code_items.json",
+    "category": "画廊与导航"
+  },
+  {
+    "number": 27,
+    "id": "ui-82023a212009",
+    "name": "Kokonut：滑动确认",
+    "url": "https://kokonutui.com/docs/buttons/slide-to-confirm",
+    "source_file": "code_items.json",
+    "category": "微交互"
+  },
+  {
+    "number": 28,
+    "id": "ui-2fb982e9bfb1",
+    "name": "Kokonut：刻度旋钮",
+    "url": "https://kokonutui.com/docs/inputs/detent-dial",
+    "source_file": "code_items.json",
+    "category": "微交互"
+  },
+  {
+    "number": 29,
+    "id": "ui-51edcd65f335",
+    "name": "Kokonut：液体仪表",
+    "url": "https://kokonutui.com/docs/cards/liquid-gauge",
+    "source_file": "code_items.json",
+    "category": "粒子与背景"
+  },
+  {
+    "number": 30,
+    "id": "ui-464ab000e19f",
+    "name": "React Bits：Aurora 极光",
+    "url": "https://reactbits.dev/backgrounds/aurora",
+    "source_file": "code_items.json",
+    "category": "3D与沉浸"
+  },
+  {
+    "number": 31,
+    "id": "ui-55f58232ad43",
+    "name": "Magic UI：Animated Beam",
+    "url": "https://magicui.design/docs/components/animated-beam",
+    "source_file": "code_items.json",
+    "category": "图形与图标"
+  },
+  {
+    "number": 32,
+    "id": "ui-0f77dedc1387",
+    "name": "Aceternity：Container Scroll",
+    "url": "https://ui.aceternity.com/live-preview/container-scroll-animation-demo",
+    "source_file": "code_items.json",
+    "category": "滚动与叙事"
+  },
+  {
+    "number": 33,
+    "id": "ui-9d54bcf05870",
+    "name": "Revolut：卡片就绪动画",
+    "url": "https://60fps.design/shots/revolut-card-ready-animation",
+    "source_file": "site_items.json",
+    "category": "3D与沉浸"
+  },
+  {
+    "number": 34,
+    "id": "ui-140fc544f362",
+    "name": "Circle：头像气泡开场",
+    "url": "https://60fps.design/shots/circle-splash-bubbles-pop-interaction",
+    "source_file": "site_items.json",
+    "category": "微交互"
+  },
+  {
+    "number": 35,
+    "id": "ui-d820b453d412",
+    "name": "Brick：翻转价值主张文字",
+    "url": "https://60fps.design/shots/brick-intro-value-prop-text-flip-interaction",
+    "source_file": "site_items.json",
+    "category": "文字与排版"
+  },
+  {
+    "number": 36,
+    "id": "ui-d7a5cc1cd78f",
+    "name": "Plasma：卡片展开为底部抽屉",
+    "url": "https://60fps.design/shots/plasma-duo-style-bottom-sheet-open-interaction",
+    "source_file": "site_items.json",
+    "category": "微交互"
+  },
+  {
+    "number": 37,
+    "id": "ui-57ca2e085802",
+    "name": "Duolingo：雕塑奖励揭晓",
+    "url": "https://60fps.design/shots/duolingo-sparkle-sculpt-pop-interaction",
+    "source_file": "site_items.json",
+    "category": "游戏与趣味"
+  },
+  {
+    "number": 38,
+    "id": "ui-b2a8d702c04f",
+    "name": "CRED：票券滑杆",
+    "url": "https://60fps.design/shots/cred-ticket-pop-on-slider-interaction",
+    "source_file": "site_items.json",
+    "category": "微交互"
+  },
+  {
+    "number": 39,
+    "id": "ui-e3321dd7d244",
+    "name": "Revolut：脉冲边框功能引导",
+    "url": "https://60fps.design/shots/revolut-revpoints-feature-coachmark-border-pulse-interaction",
+    "source_file": "site_items.json",
+    "category": "微交互"
+  },
+  {
+    "number": 40,
+    "id": "ui-caaf74386611",
+    "name": "Run Receipt：手写签名收据",
+    "url": "https://60fps.design/shots/run-receipt-signature-interaction",
+    "source_file": "site_items.json",
+    "category": "微交互"
+  },
+  {
+    "number": 41,
+    "id": "ui-055c60eb2b7c",
+    "name": "X：活动点赞角色动画",
+    "url": "https://60fps.design/shots/x-campaign-hashtag-based-grok-bot-like-button-interaction",
+    "source_file": "site_items.json",
+    "category": "图形与图标"
+  },
+  {
+    "number": 42,
+    "id": "ui-668f8999c28f",
+    "name": "Platen：拟物打字机引导",
+    "url": "https://60fps.design/shots/platen-typewriter-intro-how-to-interaction",
+    "source_file": "site_items.json",
+    "category": "微交互"
+  },
+  {
+    "number": 43,
+    "id": "ui-b5c8cfb4d1da",
+    "name": "Airbnb：新功能开场叙事",
+    "url": "https://60fps.design/shots/airbnb-new-intro-sequence",
+    "source_file": "site_items.json",
+    "category": "完整界面"
+  },
+  {
+    "number": 44,
+    "id": "ui-c7817b1d34c1",
+    "name": "Flighty：转机助手抽屉",
+    "url": "https://60fps.design/shots/flighty-connection-assistant-sheet",
+    "source_file": "site_items.json",
+    "category": "微交互"
+  },
+  {
+    "number": 45,
+    "id": "ui-a17fbe72535c",
+    "name": "Flighty：护照黑光分享",
+    "url": "https://60fps.design/shots/flighty-share-passport-blacklight-interaction",
+    "source_file": "site_items.json",
+    "category": "微交互"
+  },
+  {
+    "number": 46,
+    "id": "ui-8bcbfcc38397",
+    "name": "Airbnb：照片弹出滑动",
+    "url": "https://60fps.design/shots/airbnb-photo-pop-and-slide-animation",
+    "source_file": "site_items.json",
+    "category": "画廊与导航"
+  },
+  {
+    "number": 47,
+    "id": "ui-17d881e0f8c8",
+    "name": "拿了个国际小奖，我的个人网站演示",
+    "url": "https://www.bilibili.com/video/BV1hYceeGEuq",
+    "source_file": "video_items.json",
+    "category": "完整界面"
+  },
+  {
+    "number": 48,
+    "id": "ui-51ccda093aae",
+    "name": "Bruno Simon：可驾驶的 3D 作品集",
+    "url": "https://bruno-simon.com",
+    "source_file": "site_items.json",
+    "category": "3D与沉浸"
+  },
+  {
+    "number": 49,
+    "id": "ui-3497e5de3ffb",
+    "name": "神兽管理局：中国神话交互网页",
+    "url": "https://www.bilibili.com/video/BV1Ka4y1o7aS",
+    "source_file": "video_items.json",
+    "category": "完整界面"
+  },
+  {
+    "number": 50,
+    "id": "ui-bb0e56e581a0",
+    "name": "Lusion：3D 视觉叙事工作室",
+    "url": "https://lusion.co",
+    "source_file": "site_items.json",
+    "category": "3D与沉浸"
+  },
+  {
+    "number": 51,
+    "id": "ui-d6016c26685c",
+    "name": "UI 动效作品集：消消美食街",
+    "url": "https://www.bilibili.com/video/BV1zSfPYwEev",
+    "source_file": "video_items.json",
+    "category": "游戏与趣味"
+  },
+  {
+    "number": 52,
+    "id": "ui-23cc7dc75f79",
+    "name": "Anime.js",
+    "url": "https://animejs.com",
+    "source_file": "code_items.json",
+    "category": "组件与合集"
+  },
+  {
+    "number": 53,
+    "id": "ui-1dd72ecf061a",
+    "name": "React Bits · 逐字分裂入场",
+    "url": "https://reactbits.dev/text-animations/split-text",
+    "source_file": "ui_example_items.json",
+    "category": "文字与排版"
+  },
+  {
+    "number": 54,
+    "id": "ui-949d273b626d",
+    "name": "Lenis",
+    "url": "https://lenis.dev",
+    "source_file": "code_items.json",
+    "category": "滚动与叙事"
+  },
+  {
+    "number": 55,
+    "id": "ui-9b7cf84ef53c",
+    "name": "React Bits · 文字从模糊中浮现",
+    "url": "https://reactbits.dev/text-animations/blur-text",
+    "source_file": "ui_example_items.json",
+    "category": "文字与排版"
+  },
+  {
+    "number": 56,
+    "id": "ui-a63fac0e9aeb",
+    "name": "CPDD：搞怪个人介绍网页演示",
+    "url": "https://www.bilibili.com/video/BV1Ne41177jP",
+    "source_file": "video_items.json",
+    "category": "完整界面"
+  },
+  {
+    "number": 57,
+    "id": "ui-4d919983838b",
+    "name": "Gelatin Water：实时水体",
+    "url": "https://gelatin.games/ultrawater",
+    "source_file": "direct_demo_items.json",
+    "category": "3D与沉浸"
+  },
+  {
+    "number": 58,
+    "id": "ui-e4c2a95b44f2",
+    "name": "React Bits · 金属扫光文字",
+    "url": "https://reactbits.dev/text-animations/shiny-text",
+    "source_file": "ui_example_items.json",
+    "category": "文字与排版"
+  },
+  {
+    "number": 59,
+    "id": "ui-9ababc9aff17",
+    "name": "Stripe：支付产品的界面展示",
+    "url": "https://stripe.com",
+    "source_file": "site_items.json",
+    "category": "完整界面"
+  },
+  {
+    "number": 60,
+    "id": "ui-df8cff75a02d",
+    "name": "Ocarina：陶笛音乐交互",
+    "url": "https://ocarina.thibaut-lefrancois.com",
+    "source_file": "direct_demo_items.json",
+    "category": "微交互"
+  },
+  {
+    "number": 61,
+    "id": "ui-a5ff7281c987",
+    "name": "React Bits · 滚动悬浮字形",
+    "url": "https://reactbits.dev/text-animations/scroll-float",
+    "source_file": "ui_example_items.json",
+    "category": "滚动与叙事"
+  },
+  {
+    "number": 62,
+    "id": "ui-0882f2127bb3",
+    "name": "2026 届游戏 UI 动效作品集",
+    "url": "https://www.bilibili.com/video/BV1JybpzXESe",
+    "source_file": "video_items.json",
+    "category": "游戏与趣味"
+  },
+  {
+    "number": 63,
+    "id": "ui-65372db0f58b",
+    "name": "Asteroid Field：小行星群穿行",
+    "url": "https://instanced-mesh-showcase.vercel.app",
+    "source_file": "direct_demo_items.json",
+    "category": "3D与沉浸"
+  },
+  {
+    "number": 64,
+    "id": "ui-3ba0dffea03e",
+    "name": "React Bits · 弧面拖拽画廊",
+    "url": "https://reactbits.dev/components/circular-gallery",
+    "source_file": "ui_example_items.json",
+    "category": "画廊与导航"
+  },
+  {
+    "number": 65,
+    "id": "ui-b14c1c2c5d85",
+    "name": "curtains.js",
+    "url": "https://curtainsjs.com",
+    "source_file": "code_items.json",
+    "category": "3D与沉浸"
+  },
+  {
+    "number": 66,
+    "id": "ui-0af47fc0e91d",
+    "name": "UI 动效：项目作品与 3D/2D 交互合集",
+    "url": "https://www.bilibili.com/video/BV1vHUaBMEyr",
+    "source_file": "video_items.json",
+    "category": "游戏与趣味"
+  },
+  {
+    "number": 67,
+    "id": "ui-3924f0d6acc6",
+    "name": "Screen Studio：录屏产品演示",
+    "url": "https://screen.studio",
+    "source_file": "site_items.json",
+    "category": "完整界面"
+  },
+  {
+    "number": 68,
+    "id": "ui-4e01d5ff26ed",
+    "name": "React Bits · 可甩动的卡片堆",
+    "url": "https://reactbits.dev/components/stack",
+    "source_file": "ui_example_items.json",
+    "category": "微交互"
+  },
+  {
+    "number": 69,
+    "id": "ui-b2f29e967d3c",
+    "name": "React Three Rapier",
+    "url": "https://react-three-rapier.pmnd.rs",
+    "source_file": "code_items.json",
+    "category": "3D与沉浸"
+  },
+  {
+    "number": 70,
+    "id": "ui-fe20a3b519fd",
+    "name": "APP 展示视频与动效练习：健康检测概念",
+    "url": "https://www.bilibili.com/video/BV1Q54y1q7oi",
+    "source_file": "video_items.json",
+    "category": "完整界面"
+  },
+  {
+    "number": 71,
+    "id": "ui-0d31a6bc9274",
+    "name": "Family：钱包 App 展示",
+    "url": "https://family.co",
+    "source_file": "site_items.json",
+    "category": "完整界面"
+  },
+  {
+    "number": 72,
+    "id": "ui-eb7ca3f10e1f",
+    "name": "React Bits · 球面无限菜单",
+    "url": "https://reactbits.dev/components/infinite-menu",
+    "source_file": "ui_example_items.json",
+    "category": "画廊与导航"
+  },
+  {
+    "number": 73,
+    "id": "ui-9a3213274725",
+    "name": "useAnimations",
+    "url": "https://useanimations.com",
+    "source_file": "code_items.json",
+    "category": "图形与图标"
+  },
+  {
+    "number": 74,
+    "id": "ui-db4cb0a5985a",
+    "name": "星际公民：飞船内部 FUI 与 HUD 界面",
+    "url": "https://www.bilibili.com/video/BV1op4y1w7U5",
+    "source_file": "video_items.json",
+    "category": "游戏与趣味"
+  },
+  {
+    "number": 75,
+    "id": "ui-b3ded1fce7e1",
+    "name": "Apple Vision Pro：空间界面与硬件叙事",
+    "url": "https://www.apple.com/apple-vision-pro",
+    "source_file": "site_items.json",
+    "category": "滚动与叙事"
+  },
+  {
+    "number": 76,
+    "id": "ui-f1bef44a4595",
+    "name": "Slop New York：城市漫游界面",
+    "url": "https://mrdoob.github.io/slop-newyork",
+    "source_file": "direct_demo_items.json",
+    "category": "3D与沉浸"
+  },
+  {
+    "number": 77,
+    "id": "ui-09b8e5c8fc79",
+    "name": "React Bits · 流线光丝背景",
+    "url": "https://reactbits.dev/backgrounds/threads",
+    "source_file": "ui_example_items.json",
+    "category": "粒子与背景"
+  },
+  {
+    "number": 78,
+    "id": "ui-c0582b491f4b",
+    "name": "Granim.js",
+    "url": "https://sarcadass.github.io/granim.js",
+    "source_file": "code_items.json",
+    "category": "粒子与背景"
+  },
+  {
+    "number": 79,
+    "id": "ui-53917ae3cd60",
+    "name": "iPhone Air：产品细节展示",
+    "url": "https://www.apple.com/iphone-air",
+    "source_file": "site_items.json",
+    "category": "滚动与叙事"
+  },
+  {
+    "number": 80,
+    "id": "ui-6c9e83016c0b",
+    "name": "Cyber Web City：霓虹城市",
+    "url": "https://greggman.github.io/cyber-web-city",
+    "source_file": "direct_demo_items.json",
+    "category": "3D与沉浸"
+  },
+  {
+    "number": 81,
+    "id": "ui-17fa4426bd69",
+    "name": "React Bits · 虹彩流动背景",
+    "url": "https://reactbits.dev/backgrounds/iridescence",
+    "source_file": "ui_example_items.json",
+    "category": "粒子与背景"
+  },
+  {
+    "number": 82,
+    "id": "ui-0215dd1a15c7",
+    "name": "CSS Loaders",
+    "url": "https://css-loaders.com",
+    "source_file": "code_items.json",
+    "category": "微交互"
+  },
+  {
+    "number": 83,
+    "id": "ui-29445988dff2",
+    "name": "Cuberto：数字产品与品牌案例",
+    "url": "https://cuberto.com",
+    "source_file": "site_items.json",
+    "category": "完整界面"
+  },
+  {
+    "number": 84,
+    "id": "ui-1b8203feea6c",
+    "name": "Sketch Material：手绘材质",
+    "url": "https://r3f-sketch-material.vercel.app",
+    "source_file": "direct_demo_items.json",
+    "category": "3D与沉浸"
+  },
+  {
+    "number": 85,
+    "id": "ui-4c946fb95576",
+    "name": "React Bits · 可推动的物理球池",
+    "url": "https://reactbits.dev/backgrounds/ballpit",
+    "source_file": "ui_example_items.json",
+    "category": "游戏与趣味"
+  },
+  {
+    "number": 86,
+    "id": "ui-24346d293643",
+    "name": "Animista",
+    "url": "https://animista.net",
+    "source_file": "code_items.json",
+    "category": "组件与合集"
+  },
+  {
+    "number": 87,
+    "id": "ui-95d2fee06f2d",
+    "name": "Instrument：品牌与产品作品集",
+    "url": "https://www.instrument.com",
+    "source_file": "site_items.json",
+    "category": "完整界面"
+  },
+  {
+    "number": 88,
+    "id": "ui-6ebabc779110",
+    "name": "React Bits · 发光能量球",
+    "url": "https://reactbits.dev/backgrounds/orb",
+    "source_file": "ui_example_items.json",
+    "category": "粒子与背景"
+  },
+  {
+    "number": 89,
+    "id": "ui-c199fadc02e3",
+    "name": "Are.na：内容收集工具的界面表达",
+    "url": "https://www.are.na",
+    "source_file": "site_items.json",
+    "category": "完整界面"
+  },
+  {
+    "number": 90,
+    "id": "ui-801a0fbdfac7",
+    "name": "React Bits · 像素旋涡背景",
+    "url": "https://reactbits.dev/backgrounds/balatro",
+    "source_file": "ui_example_items.json",
+    "category": "粒子与背景"
+  },
+  {
+    "number": 91,
+    "id": "ui-566fa506f20c",
+    "name": "Soft Labor：模糊文字聚焦",
+    "url": "https://www.softlabor.biz",
+    "source_file": "site_items.json",
+    "category": "文字与排版"
+  },
+  {
+    "number": 92,
+    "id": "ui-541e51945da2",
+    "name": "Aceternity · Apple 风卡片展开",
+    "url": "https://ui.aceternity.com/components/apple-cards-carousel",
+    "source_file": "ui_example_items.json",
+    "category": "画廊与导航"
+  },
+  {
+    "number": 93,
+    "id": "ui-18b0fa1dbf3b",
+    "name": "XK Studio：时间轴视频导航",
+    "url": "https://xk.studio",
+    "source_file": "site_items.json",
+    "category": "画廊与导航"
+  },
+  {
+    "number": 94,
+    "id": "ui-a39f83263ec8",
+    "name": "Procedural Tokyo：程序化东京",
+    "url": "https://jeantimex.github.io/tokyo",
+    "source_file": "direct_demo_items.json",
+    "category": "3D与沉浸"
+  },
+  {
+    "number": 95,
+    "id": "ui-31fd229e3d11",
+    "name": "Aceternity · 层叠人物推荐卡",
+    "url": "https://ui.aceternity.com/components/animated-testimonials",
+    "source_file": "ui_example_items.json",
+    "category": "微交互"
+  },
+  {
+    "number": 96,
+    "id": "ui-b45ba93c8c76",
+    "name": "Tiger Dingsun：散落卡片与列表",
+    "url": "https://tiger.exposed",
+    "source_file": "site_items.json",
+    "category": "画廊与导航"
+  },
+  {
+    "number": 97,
+    "id": "ui-207dfcdc830a",
+    "name": "Under the Sea：鱼群水下世界",
+    "url": "https://underthesea.wawasensei.dev",
+    "source_file": "direct_demo_items.json",
+    "category": "3D与沉浸"
+  },
+  {
+    "number": 98,
+    "id": "ui-0793b922a485",
+    "name": "Aceternity · 滚动时间轴",
+    "url": "https://ui.aceternity.com/components/timeline",
+    "source_file": "ui_example_items.json",
+    "category": "滚动与叙事"
+  },
+  {
+    "number": 99,
+    "id": "ui-c0afd7e81e51",
+    "name": "Oliver Du Puy：悬停切换图像",
+    "url": "https://www.oliverdupuy.com",
+    "source_file": "site_items.json",
+    "category": "画廊与导航"
+  },
+  {
+    "number": 100,
+    "id": "ui-2efe37c30237",
+    "name": "Sakura Fantasy：樱花幻想",
+    "url": "https://sakura.billpwchan.art",
+    "source_file": "direct_demo_items.json",
+    "category": "粒子与背景"
+  },
+  {
+    "number": 101,
+    "id": "ui-8cabc3e367ea",
+    "name": "Aceternity · 粘性滚动内容揭示",
+    "url": "https://ui.aceternity.com/components/sticky-scroll-reveal",
+    "source_file": "ui_example_items.json",
+    "category": "滚动与叙事"
+  },
+  {
+    "number": 102,
+    "id": "ui-f66f8f9dde17",
+    "name": "Andrew Trousdale：节点式作品导航",
+    "url": "https://andrewtrousdale.com",
+    "source_file": "site_items.json",
+    "category": "画廊与导航"
+  },
+  {
+    "number": 103,
+    "id": "ui-48e8d5e95eeb",
+    "name": "Smear Frames：拖影运动短片",
+    "url": "https://smear.niccolofanton.dev",
+    "source_file": "direct_demo_items.json",
+    "category": "图形与图标"
+  },
+  {
+    "number": 104,
+    "id": "ui-2aefe0b037d8",
+    "name": "Aceternity · 悬浮 Dock 导航",
+    "url": "https://ui.aceternity.com/components/floating-dock",
+    "source_file": "ui_example_items.json",
+    "category": "画廊与导航"
+  },
+  {
+    "number": 105,
+    "id": "ui-b8c708813544",
+    "name": "MUDA：伸缩的滚动导航",
+    "url": "https://muda.co",
+    "source_file": "site_items.json",
+    "category": "滚动与叙事"
+  },
+  {
+    "number": 106,
+    "id": "ui-5609589aa1b6",
+    "name": "Clearwater：清澈水面",
+    "url": "https://aureliengmz.github.io/clearwater",
+    "source_file": "direct_demo_items.json",
+    "category": "3D与沉浸"
+  },
+  {
+    "number": 107,
+    "id": "ui-55988ec0ea1c",
+    "name": "Aceternity · 路径流动光束",
+    "url": "https://ui.aceternity.com/components/background-beams",
+    "source_file": "ui_example_items.json",
+    "category": "粒子与背景"
+  },
+  {
+    "number": 108,
+    "id": "ui-efd05ea8e03d",
+    "name": "Any Given Moment：表盘式导航",
+    "url": "https://www.anygivenmoment.co",
+    "source_file": "site_items.json",
+    "category": "画廊与导航"
+  },
+  {
+    "number": 109,
+    "id": "ui-e15e1231d634",
+    "name": "Aquarium：交互水族箱",
+    "url": "https://aquarium.wawasensei.dev",
+    "source_file": "direct_demo_items.json",
+    "category": "3D与沉浸"
+  },
+  {
+    "number": 110,
+    "id": "ui-7d061e0d3c0f",
+    "name": "Aceternity · 黏液式搜索输入",
+    "url": "https://ui.aceternity.com/components/gooey-input",
+    "source_file": "ui_example_items.json",
+    "category": "微交互"
+  },
+  {
+    "number": 111,
+    "id": "ui-fe8da2074788",
+    "name": "E.F Productions：联系表式作品集",
+    "url": "https://www.erinfeeproductions.com",
+    "source_file": "site_items.json",
+    "category": "画廊与导航"
+  },
+  {
+    "number": 112,
+    "id": "ui-08c95a12888e",
+    "name": "Sandboard：可交互沙面",
+    "url": "https://sand.scottsun.io",
+    "source_file": "direct_demo_items.json",
+    "category": "粒子与背景"
+  },
+  {
+    "number": 113,
+    "id": "ui-e2491a40721d",
+    "name": "Aceternity · 折射液态玻璃",
+    "url": "https://ui.aceternity.com/components/liquid-glass",
+    "source_file": "ui_example_items.json",
+    "category": "微交互"
+  },
+  {
+    "number": 114,
+    "id": "ui-9b396f2e6cb9",
+    "name": "Ballet National de Marseille：舞蹈式排版",
+    "url": "https://www.ballet-de-marseille.com",
+    "source_file": "site_items.json",
+    "category": "文字与排版"
+  },
+  {
+    "number": 115,
+    "id": "ui-743daa184b39",
+    "name": "Magic UI · 点阵旋转地球",
+    "url": "https://magicui.design/docs/components/globe",
+    "source_file": "ui_example_items.json",
+    "category": "3D与沉浸"
+  },
+  {
+    "number": 116,
+    "id": "ui-0f227fa7ab32",
+    "name": "Archive for Space：层级空间布局",
+    "url": "https://archiveforspace.com",
+    "source_file": "site_items.json",
+    "category": "完整界面"
+  },
+  {
+    "number": 117,
+    "id": "ui-9f60013410a7",
+    "name": "Magic UI · 逐条进入的通知列表",
+    "url": "https://magicui.design/docs/components/animated-list",
+    "source_file": "ui_example_items.json",
+    "category": "微交互"
+  },
+  {
+    "number": 118,
+    "id": "ui-796ec287b73a",
+    "name": "iPhone Duo：折叠产品概念",
+    "url": "https://emotion-iphone-duo.vercel.app",
+    "source_file": "direct_demo_items.json",
+    "category": "完整界面"
+  },
+  {
+    "number": 119,
+    "id": "ui-7522b5a84afd",
+    "name": "Magic UI · 轨道环绕图标",
+    "url": "https://magicui.design/docs/components/orbiting-circles",
+    "source_file": "ui_example_items.json",
+    "category": "图形与图标"
+  },
+  {
+    "number": 120,
+    "id": "ui-0bfa5d352e7b",
+    "name": "Magic UI · 放大式 Dock",
+    "url": "https://magicui.design/docs/components/dock",
+    "source_file": "ui_example_items.json",
+    "category": "画廊与导航"
+  },
+  {
+    "number": 121,
+    "id": "ui-d161b13c3253",
+    "name": "Footballs in Motion：足球材质展示",
+    "url": "https://footballs.nestorrig.com",
+    "source_file": "direct_demo_items.json",
+    "category": "3D与沉浸"
+  },
+  {
+    "number": 122,
+    "id": "ui-baeb5460bd08",
+    "name": "Magic UI · 鼠标聚光卡片",
+    "url": "https://magicui.design/docs/components/magic-card",
+    "source_file": "ui_example_items.json",
+    "category": "微交互"
+  },
+  {
+    "number": 123,
+    "id": "ui-eec82fa506e5",
+    "name": "Volatile Nexus：玻璃环与方块",
+    "url": "https://dasprinzip.com/tinker/day42",
+    "source_file": "direct_demo_items.json",
+    "category": "微交互"
+  },
+  {
+    "number": 124,
+    "id": "ui-7e7ff97f26fe",
+    "name": "Magic UI · 数字滚动计数",
+    "url": "https://magicui.design/docs/components/number-ticker",
+    "source_file": "ui_example_items.json",
+    "category": "文字与排版"
+  },
+  {
+    "number": 125,
+    "id": "ui-bbccfd90347b",
+    "name": "ABYSSAL：极端海况模拟",
+    "url": "https://token-gremlin.github.io/natural-disasters",
+    "source_file": "direct_demo_items.json",
+    "category": "粒子与背景"
+  },
+  {
+    "number": 126,
+    "id": "ui-27dea1de97d6",
+    "name": "Magic UI · 流光边框",
+    "url": "https://magicui.design/docs/components/border-beam",
+    "source_file": "ui_example_items.json",
+    "category": "微交互"
+  },
+  {
+    "number": 127,
+    "id": "ui-61cb677cd36a",
+    "name": "Garden Anomaly：玻璃气泡花园",
+    "url": "https://dasprinzip.com/tinker/day41",
+    "source_file": "direct_demo_items.json",
+    "category": "微交互"
+  },
+  {
+    "number": 128,
+    "id": "ui-e3c31c7d6d8e",
+    "name": "Magic UI · 彩纸庆祝反馈",
+    "url": "https://magicui.design/docs/components/confetti",
+    "source_file": "ui_example_items.json",
+    "category": "游戏与趣味"
+  },
+  {
+    "number": 129,
+    "id": "ui-c2736412f97f",
+    "name": "WebGPU Glass：玻璃材质演示",
+    "url": "https://webgpu-glass-material.vercel.app",
+    "source_file": "direct_demo_items.json",
+    "category": "3D与沉浸"
+  },
+  {
+    "number": 130,
+    "id": "ui-c270aff4a215",
+    "name": "Dogstudio：艺术与技术工作室",
+    "url": "https://dogstudio.co",
+    "source_file": "ui_example_items.json",
+    "category": "完整界面"
+  },
+  {
+    "number": 131,
+    "id": "ui-573154b5067f",
+    "name": "Predator Cloak：隐形折射材质",
+    "url": "https://predator-material.vercel.app",
+    "source_file": "direct_demo_items.json",
+    "category": "3D与沉浸"
+  },
+  {
+    "number": 132,
+    "id": "ui-4e88ede10b9b",
+    "name": "KPR：科幻终端世界观",
+    "url": "https://kprverse.com",
+    "source_file": "ui_example_items.json",
+    "category": "完整界面"
+  },
+  {
+    "number": 133,
+    "id": "ui-2e3d0d998a80",
+    "name": "Ramen Dumplings：汤碗物理场景",
+    "url": "https://spacemagik.github.io/dumplings",
+    "source_file": "direct_demo_items.json",
+    "category": "游戏与趣味"
+  },
+  {
+    "number": 134,
+    "id": "ui-6d083cf56f52",
+    "name": "Craftz.dog：简洁的个人主页",
+    "url": "https://www.craftz.dog",
+    "source_file": "ui_example_items.json",
+    "category": "完整界面"
+  },
+  {
+    "number": 135,
+    "id": "ui-b2f517a59c2e",
+    "name": "The Boiler Room：机械物理空间",
+    "url": "https://isaac-mason.github.io/the-boiler-room",
+    "source_file": "direct_demo_items.json",
+    "category": "3D与沉浸"
+  },
+  {
+    "number": 136,
+    "id": "ui-087591dcb63e",
+    "name": "Resn：创意数字体验",
+    "url": "https://resn.co.nz",
+    "source_file": "ui_example_items.json",
+    "category": "3D与沉浸"
+  },
+  {
+    "number": 137,
+    "id": "ui-9e767068d032",
+    "name": "Lively Crossing：街口微缩场景",
+    "url": "https://isaac-mason.github.io/lively-crossing",
+    "source_file": "direct_demo_items.json",
+    "category": "3D与沉浸"
+  },
+  {
+    "number": 138,
+    "id": "ui-5e6fbd66477a",
+    "name": "makemepulse：动态项目呈现",
+    "url": "https://www.makemepulse.com",
+    "source_file": "ui_example_items.json",
+    "category": "完整界面"
+  },
+  {
+    "number": 139,
+    "id": "ui-0cc6d2ba682b",
+    "name": "3D Wave Grid：立方体波浪",
+    "url": "https://projects.arkon.digital/threejs/wavy-cubes",
+    "source_file": "direct_demo_items.json",
+    "category": "粒子与背景"
+  },
+  {
+    "number": 140,
+    "id": "ui-7a9b87feed3d",
+    "name": "Long Hoang：互动 3D 作品集",
+    "url": "https://longhoang-lyo.com",
+    "source_file": "ui_example_items.json",
+    "category": "3D与沉浸"
+  },
+  {
+    "number": 141,
+    "id": "ui-b0088e943672",
+    "name": "Volumetric Light：体积光空间",
+    "url": "https://cullenwebber.github.io/three-volumetric-light",
+    "source_file": "direct_demo_items.json",
+    "category": "粒子与背景"
+  },
+  {
+    "number": 142,
+    "id": "ui-219f076ebd6c",
+    "name": "Jordan Breton：空间式作品集",
+    "url": "https://jordan-breton.com",
+    "source_file": "ui_example_items.json",
+    "category": "3D与沉浸"
+  },
+  {
+    "number": 143,
+    "id": "ui-ab19158c63db",
+    "name": "Boing-boing Box：弹性盒子",
+    "url": "https://dasprinzip.com/tinker/day38",
+    "source_file": "direct_demo_items.json",
+    "category": "微交互"
+  },
+  {
+    "number": 144,
+    "id": "ui-ee1276049ea5",
+    "name": "Teahu：宇宙视听旅程",
+    "url": "https://www.teahu-experience.com",
+    "source_file": "ui_example_items.json",
+    "category": "3D与沉浸"
+  },
+  {
+    "number": 145,
+    "id": "ui-a1f7b314c3d6",
+    "name": "WebGPU：页面形变转场",
+    "url": "https://page-transitions-with-webgpu-vanilla-js.crnacura.workers.dev",
+    "source_file": "direct_demo_items.json",
+    "category": "滚动与叙事"
+  },
+  {
+    "number": 146,
+    "id": "ui-74f8e32a12f1",
+    "name": "Bilal：三维个人作品集",
+    "url": "https://bilal.show",
+    "source_file": "ui_example_items.json",
+    "category": "3D与沉浸"
+  },
+  {
+    "number": 147,
+    "id": "ui-a7da9f1edca8",
+    "name": "Soo-ah：可探索的房间作品集",
+    "url": "https://www.sooahs-room-folio.com",
+    "source_file": "ui_example_items.json",
+    "category": "3D与沉浸"
+  },
+  {
+    "number": 148,
+    "id": "ui-b8898e99e311",
+    "name": "Three Particles：粒子文字",
+    "url": "https://cullenwebber.github.io/three-particles",
+    "source_file": "direct_demo_items.json",
+    "category": "文字与排版"
+  },
+  {
+    "number": 149,
+    "id": "ui-09ccb1b57138",
+    "name": "Merouane Bali：3D 作品集",
+    "url": "https://merodev.net",
+    "source_file": "ui_example_items.json",
+    "category": "3D与沉浸"
+  },
+  {
+    "number": 150,
+    "id": "ui-110330ade674",
+    "name": "CMS Cube Gallery：立方体图集",
+    "url": "https://gsap-cubic-scrollable-image-gallery.webflow.io",
+    "source_file": "direct_demo_items.json",
+    "category": "画廊与导航"
+  },
+  {
+    "number": 151,
+    "id": "ui-467aafe12500",
+    "name": "Keychron：3D 键盘配置体验",
+    "url": "https://keyboard.jingfu.design",
+    "source_file": "ui_example_items.json",
+    "category": "3D与沉浸"
+  },
+  {
+    "number": 152,
+    "id": "ui-8567bcd97c24",
+    "name": "Gravity Trail：重力图片轨迹",
+    "url": "https://madewithgsap.com/codrops",
+    "source_file": "direct_demo_items.json",
+    "category": "微交互"
+  },
+  {
+    "number": 153,
+    "id": "ui-343699d0a0dd",
+    "name": "磁轴键盘开关：滚动拆解",
+    "url": "https://jingfu.design/work/keyboard-switch",
+    "source_file": "ui_example_items.json",
+    "category": "3D与沉浸"
+  },
+  {
+    "number": 154,
+    "id": "ui-aa7b5b2b960d",
+    "name": "Palantir：球面轨迹透镜",
+    "url": "https://palantir-seven.vercel.app",
+    "source_file": "direct_demo_items.json",
+    "category": "微交互"
+  },
+  {
+    "number": 155,
+    "id": "ui-f44518156a80",
+    "name": "CD 光谱衍射：可转动唱片",
+    "url": "https://jingfu.design/work/cd",
+    "source_file": "ui_example_items.json",
+    "category": "3D与沉浸"
+  },
+  {
+    "number": 156,
+    "id": "ui-5f87327e79c2",
+    "name": "iMoss：数字苔藓球",
+    "url": "https://imoss.bio",
+    "source_file": "direct_demo_items.json",
+    "category": "3D与沉浸"
+  },
+  {
+    "number": 157,
+    "id": "ui-6f869f3cfe11",
+    "name": "Patatap：声音与形状触发",
+    "url": "https://patatap.com",
+    "source_file": "ui_example_items.json",
+    "category": "游戏与趣味"
+  },
+  {
+    "number": 158,
+    "id": "ui-3a15aa4704ca",
+    "name": "Video Wall：三维视频墙",
+    "url": "https://threejs-video-wall.vercel.app",
+    "source_file": "direct_demo_items.json",
+    "category": "画廊与导航"
+  },
+  {
+    "number": 159,
+    "id": "ui-3bc3484bac3c",
+    "name": "Typatone：会发声的文字界面",
+    "url": "https://typatone.com",
+    "source_file": "ui_example_items.json",
+    "category": "游戏与趣味"
+  },
+  {
+    "number": 160,
+    "id": "ui-10c0b6ed284a",
+    "name": "False Earth：程序化地球",
+    "url": "https://false-earth.mingjyunhung.com",
+    "source_file": "direct_demo_items.json",
+    "category": "3D与沉浸"
+  },
+  {
+    "number": 161,
+    "id": "ui-aecaaf336422",
+    "name": "Oimo Bubbles：互动泡泡",
+    "url": "https://oimo.io/works/bubbles",
+    "source_file": "ui_example_items.json",
+    "category": "粒子与背景"
+  },
+  {
+    "number": 162,
+    "id": "ui-4a95a5f582a5",
+    "name": "Ink Whale：线描鲸鱼",
+    "url": "https://the-ink-whale.vercel.app",
+    "source_file": "direct_demo_items.json",
+    "category": "3D与沉浸"
+  },
+  {
+    "number": 163,
+    "id": "ui-59d79b3758da",
+    "name": "Fluid Particles：粒子流体",
+    "url": "https://david.li/fluid",
+    "source_file": "ui_example_items.json",
+    "category": "粒子与背景"
+  },
+  {
+    "number": 164,
+    "id": "ui-accd2682376f",
+    "name": "Astro Barba：连续页面转场",
+    "url": "https://page-transitions-astro-barba-gsap.crnacura.workers.dev",
+    "source_file": "direct_demo_items.json",
+    "category": "滚动与叙事"
+  },
+  {
+    "number": 165,
+    "id": "ui-48e705da8f67",
+    "name": "Resend：开发者产品官网",
+    "url": "https://resend.com",
+    "source_file": "ui_example_items.json",
+    "category": "完整界面"
+  },
+  {
+    "number": 166,
+    "id": "ui-e9661d945c3d",
+    "name": "Music Player：立体播放列表",
+    "url": "https://gobzzzmusicplayer2024.vercel.app",
+    "source_file": "direct_demo_items.json",
+    "category": "完整界面"
+  },
+  {
+    "number": 167,
+    "id": "ui-fbd758c6f863",
+    "name": "Supabase：数据产品界面展示",
+    "url": "https://supabase.com",
+    "source_file": "ui_example_items.json",
+    "category": "完整界面"
+  },
+  {
+    "number": 168,
+    "id": "ui-6529347d85fd",
+    "name": "Framer：画布与网站编辑器展示",
+    "url": "https://www.framer.com",
+    "source_file": "ui_example_items.json",
+    "category": "完整界面"
+  },
+  {
+    "number": 169,
+    "id": "ui-f7882d197a19",
+    "name": "Async Transitions：异步页面转场",
+    "url": "https://async-page-transitions.crnacura.workers.dev",
+    "source_file": "direct_demo_items.json",
+    "category": "滚动与叙事"
+  },
+  {
+    "number": 170,
+    "id": "ui-d8864b187c86",
+    "name": "Cursor：多界面产品演示",
+    "url": "https://cursor.com",
+    "source_file": "ui_example_items.json",
+    "category": "完整界面"
+  },
+  {
+    "number": 171,
+    "id": "ui-1d2765a299ff",
+    "name": "Shoe Finder：球鞋浏览界面",
+    "url": "https://shoe-finder-wine.vercel.app",
+    "source_file": "direct_demo_items.json",
+    "category": "完整界面"
+  },
+  {
+    "number": 172,
+    "id": "ui-78d862c0e7c0",
+    "name": "Portal：滚动空间穿越",
+    "url": "https://r3f-lusion-portal.vercel.app",
+    "source_file": "direct_demo_items.json",
+    "category": "滚动与叙事"
+  },
+  {
+    "number": 173,
+    "id": "ui-531932f4a16e",
+    "name": "Glass Attraction：玻璃球聚合",
+    "url": "https://r3f-rapier-ball-of-glass.vercel.app",
+    "source_file": "direct_demo_items.json",
+    "category": "微交互"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "number": 30,
+    "id": "ui-464ab000e19f",
+    "name": "React Bits：Aurora 极光",
+    "url": "https://reactbits.dev/backgrounds/aurora",
+    "result": "pass",
+    "action": "重播官方8.6秒视频，并定位约4秒处对照首帧。",
+    "observed": "首帧均匀垂落的绿蓝极光，在中段变成中央下沉、两侧抬高的流动光带。",
+    "notes": "原交互预览在减少动画模式下静止；通过的是官方效果录像。",
+    "replacement_url": "https://reactbits.dev/assets/video/aurora.mp4",
+    "kind": "视频"
+  },
+  {
+    "number": 53,
+    "id": "ui-1dd72ecf061a",
+    "name": "React Bits · 逐字分裂入场",
+    "url": "https://reactbits.dev/text-animations/split-text",
+    "result": "pass",
+    "action": "播放官方5秒录像，并检查约0.9秒和2秒画面。",
+    "observed": "早段只有半透明下移的He字符，随后完整Hello, you!进入并对齐。",
+    "notes": "原交互预览在减少动画模式下跳过入场；通过的是官方效果录像。",
+    "replacement_url": "https://reactbits.dev/assets/video/splittext.mp4",
+    "kind": "视频"
+  },
+  {
+    "number": 55,
+    "id": "ui-9b7cf84ef53c",
+    "name": "React Bits · 文字从模糊中浮现",
+    "url": "https://reactbits.dev/text-animations/blur-text",
+    "result": "pass",
+    "action": "播放官方录像并定位约1秒处。",
+    "observed": "约1秒处Isn't this呈现明显模糊且后半句尚未出现，完成帧整句清晰。",
+    "replacement_url": "https://reactbits.dev/assets/video/blurtext.mp4",
+    "kind": "视频",
+    "notes": "收录官方效果录像，未声称本机已复现完整交互版本。"
+  },
+  {
+    "number": 58,
+    "id": "ui-e4c2a95b44f2",
+    "name": "React Bits · 金属扫光文字",
+    "url": "https://reactbits.dev/text-animations/shiny-text",
+    "result": "pass",
+    "action": "播放官方录像并对比约1秒与2秒处。",
+    "observed": "灰色Shiny Text Effect在后段Effect位置出现明确白色亮带，其他字符仍灰色。",
+    "replacement_url": "https://reactbits.dev/assets/video/shinytext.mp4",
+    "kind": "视频",
+    "notes": "原预览受减少动画偏好影响；官方录像实际扫光已确认。"
+  },
+  {
+    "number": 61,
+    "id": "ui-a5ff7281c987",
+    "name": "React Bits · 滚动悬浮字形",
+    "url": "https://reactbits.dev/text-animations/scroll-float",
+    "result": "pass",
+    "action": "播放官方录像并定位中段。",
+    "observed": "React Bits整句与中段从底部以错位/拉伸方式浮起的React字形均清晰可见。",
+    "replacement_url": "https://reactbits.dev/assets/video/scrollfloat.mp4",
+    "kind": "视频",
+    "notes": "通过的是官方效果录像；原页面减少动画分支不播放滚动拉伸。"
+  },
+  {
+    "number": 81,
+    "id": "ui-17fa4426bd69",
+    "name": "React Bits · 虹彩流动背景",
+    "url": "https://reactbits.dev/backgrounds/iridescence",
+    "result": "pass",
+    "action": "重播官方7秒录像，对比开头与约4秒处。",
+    "observed": "紫蓝虹彩液面的斜向褶皱旋转、拉伸，中央紫色尖端位置明显变化。",
+    "replacement_url": "https://reactbits.dev/assets/video/iridescence.mp4",
+    "kind": "视频",
+    "notes": "原交互页在减少动画模式下停止主要自动运动；通过的是官方录像。"
+  },
+  {
+    "number": 88,
+    "id": "ui-6ebabc779110",
+    "name": "React Bits · 发光能量球",
+    "url": "https://reactbits.dev/backgrounds/orb",
+    "result": "pass",
+    "action": "播放官方7秒录像，对比起始与约3秒画面。",
+    "observed": "光环高亮从右下移至左侧，紫色能量边缘同时变形。",
+    "replacement_url": "https://reactbits.dev/assets/video/orb.mp4",
+    "kind": "视频",
+    "notes": "原交互页减少动画模式抑制时间、旋转、悬停；通过的是官方录像。"
+  }
+]

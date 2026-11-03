@@ -1,0 +1,326 @@
+[
+  {
+    "url": "https://examples.motion.dev/react/app-store",
+    "suggested_description": "山景卡片放大成中央详情面板，正文随之显现、背景变暗；参考列表内容进入阅读状态的连续过渡。",
+    "access_notes": "打开页面即可查看演示。"
+  },
+  {
+    "url": "https://www.vantajs.com/",
+    "suggested_description": "从彩色鸟群切换到低多边形水面，背景与参数面板同步更新；适合对比不同动态背景的视觉气氛。",
+    "access_notes": "打开页面即可查看演示。"
+  },
+  {
+    "url": "https://sonner.emilkowal.ski/",
+    "suggested_description": "连续触发通知后，卡片在右下角逐层叠放，后方卡片缩小露边；参考紧凑通知队列的层级。",
+    "access_notes": "点击Render a toast查看通知演示。"
+  },
+  {
+    "url": "https://vaul.emilkowal.ski/",
+    "suggested_description": "白色抽屉滑出时，后方页面缩小并变暗；向下拖动把手关闭，背景恢复原位。",
+    "access_notes": "点击Open Drawer后可拖动关闭。原项目已停止维护，收录作视觉与交互参考。"
+  },
+  {
+    "url": "https://kokonutui.com/docs/buttons/slide-to-confirm",
+    "suggested_description": "将滑块拖到右端，按钮变色并进入带旋转指示的处理中状态；参考有明确终点的操作反馈。",
+    "access_notes": "页面内为组件演示，Paying仅是模拟状态。"
+  },
+  {
+    "url": "https://kokonutui.com/docs/inputs/detent-dial",
+    "suggested_description": "调节旋钮时，温度数字、内侧指针和外圈高亮刻度同步变化；让连续参数更容易读懂。",
+    "access_notes": "打开页面即可查看演示。"
+  },
+  {
+    "url": "https://kokonutui.com/docs/cards/liquid-gauge",
+    "suggested_description": "拖动液位改变填充高度，百分比、已用容量和空余比例同步更新；适合有触感的数据卡。",
+    "access_notes": "打开页面即可查看演示。"
+  },
+  {
+    "url": "https://reactbits.dev/backgrounds/aurora",
+    "suggested_description": "绿蓝极光由垂落光幕变为中央下沉、两侧抬高的流动光带，适合柔和的抽象背景。",
+    "access_notes": "可观看官方效果录像；原交互预览在本环境的减少动画模式下静止。"
+  },
+  {
+    "url": "https://magicui.design/docs/components/animated-beam",
+    "suggested_description": "紫色光束沿图标间的连接路径流动，用路径和节点表达产品集成与数据关系。",
+    "access_notes": "可观看官方效果录像；原文档预览的彩色光束在本环境不够清楚。"
+  },
+  {
+    "url": "https://animejs.com/",
+    "suggested_description": "机械表盘中的线条与点阵持续变化，滚动后进入镜头结构的三维拆解；把精密图形与滚动叙事结合。",
+    "access_notes": "打开页面即可查看演示。",
+    "suggested_name": "Anime.js：机械表盘与结构拆解"
+  },
+  {
+    "url": "https://lenis.dev/",
+    "suggested_description": "黑粉配色的星空与手部场景中，大字随滚动揭示，正文与背景构图联动；参考长页面的视觉节奏。",
+    "access_notes": "打开页面即可查看演示。",
+    "suggested_name": "Lenis：星空手部滚动叙事"
+  },
+  {
+    "url": "https://curtainsjs.com/",
+    "suggested_description": "全屏舞台灯光照片通过点击切换为灯光装置画面，适合参考摄影作品的场景衔接。",
+    "access_notes": "从官网进入Slideshow with a displacement shader示例，点击Click me切换。",
+    "suggested_name": "curtains.js：全屏照片切换"
+  },
+  {
+    "url": "https://react-three-rapier.pmnd.rs/",
+    "suggested_description": "向紫色三维落球板加入球体，观察物件碰撞、下落与底部堆积；适合物理反馈参考。",
+    "access_notes": "点击ball加入球体。主要参考物理场景，控制面板偏实验工具。",
+    "suggested_name": "React Three Rapier：三维落球板"
+  },
+  {
+    "url": "https://useanimations.com/",
+    "suggested_description": "点击线条图标，让带弧线的过渡状态收束成菜单横线；适合参考小控件的状态反馈。",
+    "access_notes": "交互示例区可直接点击预览；已核查代表性切换，未遍历全部图标。"
+  },
+  {
+    "url": "https://animista.net/",
+    "suggested_description": "文字从灰色、压缩字距的状态展开为清晰标题，适合比较字距与透明度共同完成的入场。",
+    "access_notes": "进入Start后选择TEXT，再查看tracking-in-expand。",
+    "suggested_name": "Animista：文字字距展开"
+  },
+  {
+    "url": "https://www.kubai.design/pro-threads/",
+    "suggested_description": "输入文字即可生成细密光丝字形，材质与调参面板并列呈现；适合标题、品牌图形与壁纸参考。",
+    "access_notes": "打开页面即可查看演示。",
+    "suggested_name": "PRO Threads：光丝字形生成器"
+  },
+  {
+    "url": "https://atelier-north.crnacura.workers.dev/",
+    "suggested_description": "奶油底配钴蓝大字，滚入项目区时标题由错位重复收束，建筑照片从像素块变清晰；适合编辑式建筑作品集。",
+    "access_notes": "虚构建筑工作室的界面演示，可直接浏览。"
+  },
+  {
+    "url": "https://isle-thorne-collective.crnacura.workers.dev/",
+    "suggested_description": "全幅家居摄影与克制导航构成商店界面，购物车以顶部浮层展开，并带动背景布局响应。",
+    "access_notes": "虚构家具商店演示，购物车用于界面参考。"
+  },
+  {
+    "url": "https://angelolibero.github.io/liquid-lens/",
+    "suggested_description": "不规则融合轮廓包裹熔岩图像，边缘与内部扭曲持续变化；适合液态透镜和折射材质参考。",
+    "access_notes": "打开页面即可查看演示。"
+  },
+  {
+    "url": "https://ocarina.thibaut-lefrancois.com/",
+    "suggested_description": "复古像素风木屋里呈现立体陶笛，按键时音符控件高亮，曲目菜单展开五线谱面板。",
+    "access_notes": "首次加载可能较慢；已核查画面和按键反馈，未核听音色。"
+  },
+  {
+    "url": "https://greggman.github.io/cyber-web-city/",
+    "suggested_description": "霓虹楼群、雪粒和飞行汽车构成夜景，切换镜头可从外部追踪进入驾驶舱，HUD随视角更新。",
+    "access_notes": "场景加载后按C切换已核查的镜头模式。"
+  },
+  {
+    "url": "https://jeantimex.github.io/tokyo/",
+    "suggested_description": "东京城市模型在写实纹理与浅色抽象块体间切换，车站、铁路和密集街区形成清晰的空间层次。",
+    "access_notes": "首次载入较慢；场景使用城市地理数据，不宜理解为全部建筑随机生成。",
+    "suggested_name": "Tokyo：城市模型与材质切换"
+  },
+  {
+    "url": "https://underthesea.wawasensei.dev/",
+    "suggested_description": "月夜鱼群、水面反射和渔夫小舟组成钓鱼场景，点击水面触发抛竿，HUD出现诱饵镜头小窗。",
+    "access_notes": "首次鱼群资源准备可能较久，进入场景后可点击水面。",
+    "suggested_name": "Under the Sea：月夜鱼群与钓鱼场景"
+  },
+  {
+    "url": "https://sakura.billpwchan.art/",
+    "suggested_description": "笔触圆环与樱花入口引入山水河道，小舟前进，水波和灯笼倒影持续变化；适合柔和的场景叙事。",
+    "access_notes": "首次入口需要较长资源准备。"
+  },
+  {
+    "url": "https://aquarium.wawasensei.dev/",
+    "suggested_description": "水族箱以玻璃、水体焦散和水下地形建立材质层次；触发后玻璃碎裂飞散，水流向外倾泻。",
+    "access_notes": "进入场景后按Space查看已核查的破裂与漏水效果。"
+  },
+  {
+    "url": "https://dasprinzip.com/tinker/day42/",
+    "suggested_description": "透明虹彩圆环、金色立方粒子与地板倒影构成三维装置，拖动可旋转视角并观察粒子位置变化。",
+    "access_notes": "打开页面即可查看演示。"
+  },
+  {
+    "url": "https://token-gremlin.github.io/natural-disasters/",
+    "suggested_description": "海面波纹与电影式HUD并置，切换场景时天空光照和镜头随之改变；参考海洋背景与参数界面的配合。",
+    "access_notes": "初始GPU准备较久；已核查平静海面到日出场景，未遍历全部灾害。",
+    "suggested_name": "ABYSSAL：海面与天空场景"
+  },
+  {
+    "url": "https://dasprinzip.com/tinker/day41",
+    "suggested_description": "梦幻花园中的蓝色透明球可拖动转向，球面经纬线、折射纹理与轮廓随视角改变。",
+    "access_notes": "打开页面即可查看演示。",
+    "suggested_name": "Garden Anomaly：透明球与花园折射"
+  },
+  {
+    "url": "https://spacemagik.github.io/dumplings/",
+    "suggested_description": "雨夜暖光餐桌上，拟人饺子围着汤碗活动，蒸汽持续升起；拖动视角可查看微型餐桌场景。",
+    "access_notes": "可直接旋转场景；夹取动作尚未确认。"
+  },
+  {
+    "url": "https://isaac-mason.github.io/the-boiler-room/",
+    "suggested_description": "暖色手绘锅炉房里，黑色煤块小生物与尘粒持续活动，拖动可从正面转为俯视；适合童话场景与群体角色参考。",
+    "access_notes": "打开页面即可查看演示。",
+    "suggested_name": "The Boiler Room：手绘锅炉房与小生物"
+  },
+  {
+    "url": "https://isaac-mason.github.io/lively-crossing/",
+    "suggested_description": "手绘风街口中的行人持续穿行，拖动视角查看树荫、建筑与侧面道路；适合城市氛围和群体运动参考。",
+    "access_notes": "打开页面即可查看演示。",
+    "suggested_name": "Lively Crossing：手绘街口与行人"
+  },
+  {
+    "url": "https://cullenwebber.github.io/three-volumetric-light/",
+    "suggested_description": "手部模型托起发光点阵，手势和颗粒持续变化，斜向体积光与浮尘营造柔和的舞台感。",
+    "access_notes": "打开页面即可查看演示。",
+    "suggested_name": "Volumetric Light：手部点阵与体积光"
+  },
+  {
+    "url": "https://dasprinzip.com/tinker/day38/",
+    "suggested_description": "透明箱体内的蓝黄软球在交互后重新分布并变形，箱体转向与地面反射同步变化。",
+    "access_notes": "打开页面即可查看演示。",
+    "suggested_name": "Boing-boing Box：透明箱中的软球"
+  },
+  {
+    "url": "https://cullenwebber.github.io/three-particles/",
+    "suggested_description": "彩色粒子由紧密团块扩散为多臂结构，位置与拖影持续变化；适合抽象动态主视觉。",
+    "access_notes": "打开页面即可查看演示。",
+    "suggested_name": "Three Particles：彩色粒子团"
+  },
+  {
+    "url": "https://madewithgsap.com/codrops",
+    "suggested_description": "指针移动时生成连续图片拖尾，图片随后下落离开画面；适合创意作品集的趣味光标反馈。",
+    "access_notes": "演示可直接体验；页面含推广弹窗与教程外链。"
+  },
+  {
+    "url": "https://false-earth.mingjyunhung.com/",
+    "suggested_description": "星空下的宇航员穿行于银色草海，草叶持续起伏，可在第一与第三人称间切换；适合动态植被和镜头设计参考。",
+    "access_notes": "首次校准和加载可能较慢；进入后W移动、C切换视角。",
+    "suggested_name": "False Earth：宇航员与银色草海"
+  },
+  {
+    "url": "https://page-transitions-astro-barba-gsap.crnacura.workers.dev/",
+    "suggested_description": "极简页面以超大标题和彩色背景区分Index、Works和Team，导航时比较页面退出与进入的节奏。",
+    "access_notes": "这是可操作的转场演示，每页以标题和署名为主。",
+    "suggested_name": "Astro Barba：大字与色块页面转场"
+  },
+  {
+    "url": "https://async-page-transitions.crnacura.workers.dev/",
+    "suggested_description": "艺术品编号、标题和信息行随页面切换重新揭示，以文字层级和超大数字组织转场。",
+    "access_notes": "打开页面即可查看演示。",
+    "suggested_name": "Async Transitions：艺术品编号转场"
+  },
+  {
+    "url": "https://shoe-finder-wine.vercel.app/",
+    "suggested_description": "球鞋图片排成球面图库，底部品牌筛选触发淡出、重排和商品替换；适合探索式商品浏览。",
+    "access_notes": "展示为带空间布局的商品图片，可用底部品牌标签筛选。",
+    "suggested_name": "Shoe Finder：球面球鞋图库"
+  },
+  {
+    "url": "https://r3f-rapier-ball-of-glass.vercel.app/",
+    "suggested_description": "透明多边形拼片组成单个玻璃球，拖动带来转向与局部扰动，随后趋于完整球形。",
+    "access_notes": "打开页面即可查看演示。",
+    "suggested_name": "Glass Attraction：玻璃拼片球"
+  },
+  {
+    "url": "https://reactbits.dev/backgrounds/ballpit",
+    "suggested_description": "柔光球体组成物理球池，指针划过会挤开球群并留下暂时空隙；适合有触感的互动背景。",
+    "access_notes": "打开页面即可查看演示。"
+  },
+  {
+    "url": "https://dogstudio.co/",
+    "suggested_description": "蓝紫三维犬与枝叶围绕大型衬线标题，打开菜单时模型转向并出现全屏导航；参考品牌主视觉与导航的联动。",
+    "access_notes": "打开页面即可查看演示。"
+  },
+  {
+    "url": "https://kprverse.com/",
+    "suggested_description": "科幻角色插画配合终端风框线和大字排版，滚动让首屏收缩为多尺寸图片卡与分栏故事。",
+    "access_notes": "首次加载较久，进入后可滚动查看故事分区。"
+  },
+  {
+    "url": "https://www.craftz.dog/",
+    "suggested_description": "窄栏个人资料与头像上方放置体素桌面和人物，拖动即可转动插画；在轻量个人页里加入可探索的小场景。",
+    "access_notes": "打开页面即可查看演示。"
+  },
+  {
+    "url": "https://longhoang-lyo.com/",
+    "suggested_description": "黑色等距城市与荧光绿标题作为开场，点击后转入机器人、锥桶、紫树与草地构成的鲜亮三维场景。",
+    "access_notes": "已核查开场到场景的切换；本环境未确认完整移动操控。"
+  },
+  {
+    "url": "https://www.teahu-experience.com/",
+    "suggested_description": "低多边形浮岛在进入后推进为路径上的第一人称视角，房屋、街灯与发光传送门组成探索场景。",
+    "access_notes": "已核查视觉入场与镜头转场，未核听音频或验证全部章节。",
+    "suggested_name": "Teahu：浮岛与路径视角转场"
+  },
+  {
+    "url": "https://www.sooahs-room-folio.com/",
+    "suggested_description": "欢迎卡缩入空间后移开，露出粉紫房间、书桌、电脑和木质导航牌，拖动可改变观察角度。",
+    "access_notes": "可直接查看房间与入场效果；钢琴声音尚未核查。"
+  },
+  {
+    "url": "https://keyboard.jingfu.design/",
+    "suggested_description": "木侧框键盘以完整三维模型呈现，滚动改变镜头距离，选择色块后键帽配色与选中环同步更新。",
+    "access_notes": "可直接查看模型并切换配色；RGB、拆解和按键声音尚未逐项核查。",
+    "suggested_name": "Keychron：三维键盘配色体验"
+  },
+  {
+    "url": "https://jingfu.design/work/keyboard-switch",
+    "suggested_description": "透明紫色磁轴开关在黑底大字前移动并转向，外壳与内部弹簧清晰可见，强调精密结构与材质。",
+    "access_notes": "已核查模型运动；完整零件拆解未在记录中确认。",
+    "suggested_name": "磁轴键盘开关：透明结构与模型运动"
+  },
+  {
+    "url": "https://jingfu.design/work/cd",
+    "suggested_description": "拖动光盘时，蓝绿虹彩转成银色盘面与细长衍射光带，透明盘心和盘缘保持清晰。",
+    "access_notes": "可直接拖动观察材质变化；无需上传自己的封面。"
+  },
+  {
+    "url": "https://oimo.io/works/bubbles/",
+    "suggested_description": "线条气泡持续生成、变形并聚成多边形泡沫簇，拖动可改变吹气器位置；适合轻量物理交互参考。",
+    "access_notes": "打开页面即可查看演示。",
+    "suggested_name": "Oimo Bubbles：线条吹泡泡实验"
+  },
+  {
+    "url": "https://resend.com/",
+    "suggested_description": "黑色衬线标题与半透明按钮配合暗部光照，滚动揭示立体结构、精细信封图标、金色标题和语言标签。",
+    "access_notes": "打开页面即可查看演示。"
+  },
+  {
+    "url": "https://supabase.com/",
+    "suggested_description": "深色产品卡以绿色强调选中状态，Table Editor切换到SQL Editor时，描边与演示内容同步更新。",
+    "access_notes": "官网内可切换产品演示，无需执行数据库操作。"
+  },
+  {
+    "url": "https://www.framer.com/",
+    "suggested_description": "蓝色发光动态主视觉接上三栏设计画布，页面层级、代理输入和中心网页并列展示；适合复杂编辑器的官网呈现。",
+    "access_notes": "打开页面即可查看演示。"
+  },
+  {
+    "url": "https://reactbits.dev/text-animations/split-text",
+    "suggested_description": "文字拆为字母或单词，错开节奏进入；适合首屏标题和段落揭示。",
+    "access_notes": "此条通过的是官方效果录像；原交互预览受本环境减少动画模式影响。"
+  },
+  {
+    "url": "https://reactbits.dev/text-animations/blur-text",
+    "suggested_description": "文字逐步从模糊变清晰，以柔和的焦点变化替代硬切换。",
+    "access_notes": "此条通过的是官方效果录像；原交互预览受本环境减少动画模式影响。"
+  },
+  {
+    "url": "https://reactbits.dev/text-animations/shiny-text",
+    "suggested_description": "窄光带扫过文字表面，适合按钮、状态标签和低强度强调。",
+    "access_notes": "此条通过的是官方效果录像；原交互预览受本环境减少动画模式影响。"
+  },
+  {
+    "url": "https://reactbits.dev/text-animations/scroll-float",
+    "suggested_description": "标题随滚动逐字浮起，参考字形位置与阅读进度的配合。",
+    "access_notes": "此条通过的是官方效果录像；原交互预览受本环境减少动画模式影响。"
+  },
+  {
+    "url": "https://reactbits.dev/backgrounds/iridescence",
+    "suggested_description": "柔和虹彩在平面上流动，适合克制的产品首屏和抽象色彩参考。",
+    "access_notes": "此条通过的是官方效果录像；原交互预览受本环境减少动画模式影响。"
+  },
+  {
+    "url": "https://reactbits.dev/backgrounds/orb",
+    "suggested_description": "以流动光带构成球形视觉中心，适合 AI 状态、语音助手和首屏主视觉。",
+    "access_notes": "此条通过的是官方效果录像；原交互预览受本环境减少动画模式影响。"
+  }
+]
