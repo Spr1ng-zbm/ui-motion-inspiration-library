@@ -1,0 +1,1149 @@
+[
+  {
+    "name": "Bruno Simon：可驾驶的 3D 作品集",
+    "url": "https://bruno-simon.com/",
+    "platform": "独立站",
+    "category": "3D与沉浸",
+    "tags": [
+      "Three.js",
+      "WebGPU",
+      "驾驶",
+      "作品集"
+    ],
+    "description": "用驾驶小车探索作品与场景，把作品集导航变成可游玩的空间。参考 3D 导航、触控说明与探索式信息组织。",
+    "kind": "作品",
+    "evidence_url": "https://bruno-simon.com/",
+    "verification": "页面信息",
+    "thumbnail_url": "https://bruno-simon.com/social/share-image.png?cb=a",
+    "checked_at": "2026-11-03",
+    "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
+    "http_status": 200,
+    "http_final_url": "https://bruno-simon.com/",
+    "featured": true
+  },
+  {
+    "name": "Lusion：3D 视觉叙事工作室",
+    "url": "https://lusion.co/",
+    "platform": "独立站",
+    "category": "3D与沉浸",
+    "tags": [
+      "WebGL",
+      "3D",
+      "品牌",
+      "整站"
+    ],
+    "description": "品牌项目把 3D、交互与动画结合；适合比较沉浸首屏、产品发布和完整项目叙事。",
+    "kind": "作品",
+    "evidence_url": "https://lusion.co/",
+    "verification": "页面信息",
+    "thumbnail_url": "https://lusion.co/assets/meta/social_sharing.jpg",
+    "checked_at": "2026-11-03",
+    "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
+    "http_status": 200,
+    "http_final_url": "https://lusion.co/",
+    "featured": true
+  },
+  {
+    "name": "Linear：产品工作流与官网展示",
+    "url": "https://linear.app/",
+    "platform": "独立站",
+    "category": "完整界面",
+    "tags": [
+      "SaaS",
+      "任务管理",
+      "产品展示"
+    ],
+    "description": "官网直接呈现任务、状态、评论与团队工作流，适合研究复杂 SaaS 如何组织产品演示和界面层级。",
+    "kind": "作品",
+    "evidence_url": "https://linear.app/",
+    "verification": "页面信息",
+    "thumbnail_url": "https://linear.app/api/og/main?title=Linear&v=4",
+    "checked_at": "2026-11-03",
+    "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
+    "http_status": 200,
+    "http_final_url": "https://linear.app/",
+    "featured": true
+  },
+  {
+    "name": "Stripe：支付产品的界面展示",
+    "url": "https://stripe.com/",
+    "platform": "独立站",
+    "category": "完整界面",
+    "tags": [
+      "金融",
+      "SaaS",
+      "指标",
+      "官网"
+    ],
+    "description": "把支付、账单、用量等不同产品界面组织成统一官网；适合金融 SaaS、指标卡片和多产品内容布局。",
+    "kind": "作品",
+    "evidence_url": "https://stripe.com/",
+    "verification": "页面信息",
+    "thumbnail_url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/media/stripe.37119086.jpg",
+    "checked_at": "2026-11-03",
+    "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
+    "http_status": 200,
+    "http_final_url": "https://stripe.com/en-hk"
+  },
+  {
+    "name": "Raycast：键盘与命令面板展示",
+    "url": "https://www.raycast.com/",
+    "platform": "独立站",
+    "category": "完整界面",
+    "tags": [
+      "效率工具",
+      "键盘",
+      "命令面板"
+    ],
+    "description": "官网以键盘、快捷操作和扩展目录解释产品。适合命令面板、效率工具和快捷键可视化参考。",
+    "kind": "作品",
+    "evidence_url": "https://www.raycast.com/",
+    "verification": "页面信息",
+    "thumbnail_url": "https://www.raycast.com/opengraph-image-pwu6ef.png?opengraph-image.1f-98etzkaz5s.png",
+    "checked_at": "2026-11-03",
+    "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
+    "http_status": 200,
+    "http_final_url": "https://www.raycast.com/"
+  },
+  {
+    "name": "Screen Studio：录屏产品演示",
+    "url": "https://screen.studio/",
+    "platform": "独立站",
+    "category": "完整界面",
+    "tags": [
+      "录屏",
+      "产品演示",
+      "缩放"
+    ],
+    "description": "官网展示缩放、镜头运动、声音与画框如何组合成产品演示；适合研究 UI 宣传片的呈现方式。",
+    "kind": "作品",
+    "evidence_url": "https://screen.studio/",
+    "verification": "页面信息",
+    "thumbnail_url": "https://screen.studio/opengraph-image?4dbb513afe306dc0",
+    "checked_at": "2026-11-03",
+    "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
+    "http_status": 200,
+    "http_final_url": "https://screen.studio/"
+  },
+  {
+    "name": "Family：钱包 App 展示",
+    "url": "https://family.co/",
+    "platform": "独立站",
+    "category": "完整界面",
+    "tags": [
+      "移动端",
+      "钱包",
+      "产品视频"
+    ],
+    "description": "移动钱包功能、连接流程与产品视频的展示入口，适合研究金融 App 的功能叙事和界面包装。",
+    "kind": "作品",
+    "evidence_url": "https://family.co/",
+    "verification": "页面信息",
+    "thumbnail_url": "https://family.co/preview.png",
+    "checked_at": "2026-11-03",
+    "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
+    "http_status": 200,
+    "http_final_url": "https://family.co/"
+  },
+  {
+    "name": "Apple Vision Pro：空间界面与硬件叙事",
+    "url": "https://www.apple.com/apple-vision-pro/",
+    "platform": "独立站",
+    "category": "滚动与叙事",
+    "tags": [
+      "空间UI",
+      "硬件",
+      "长页面"
+    ],
+    "description": "大幅产品画面、分段标题与空间体验说明组合成完整介绍；参考硬件细节如何与界面体验交替呈现。",
+    "kind": "作品",
+    "evidence_url": "https://www.apple.com/apple-vision-pro/",
+    "verification": "页面信息",
+    "thumbnail_url": "https://www.apple.com/v/apple-vision-pro/l/images/meta/apple-vision-pro-us__f28gp8ey4vam_og.png?202609132103",
+    "checked_at": "2026-11-03",
+    "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
+    "http_status": 200,
+    "http_final_url": "https://www.apple.com/apple-vision-pro/"
+  },
+  {
+    "name": "iPhone Air：产品细节展示",
+    "url": "https://www.apple.com/iphone-air/",
+    "platform": "独立站",
+    "category": "滚动与叙事",
+    "tags": [
+      "硬件",
+      "产品页",
+      "摄影"
+    ],
+    "description": "从外观、相机到性能的分段内容及影片入口，适合研究硬件营销页的视觉节奏和功能分组。",
+    "kind": "作品",
+    "evidence_url": "https://www.apple.com/iphone-air/",
+    "verification": "页面信息",
+    "thumbnail_url": "https://www.apple.com/v/iphone-air/k/images/meta/iphone-air_overview__dwhg6l117yqa_og.png?202611021140",
+    "checked_at": "2026-11-03",
+    "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
+    "http_status": 200,
+    "http_final_url": "https://www.apple.com/iphone-air/"
+  },
+  {
+    "name": "Cuberto：数字产品与品牌案例",
+    "url": "https://cuberto.com/",
+    "platform": "独立站",
+    "category": "完整界面",
+    "tags": [
+      "工作室",
+      "品牌",
+      "App",
+      "案例"
+    ],
+    "description": "可从项目入口对比数字产品、品牌网站和移动产品设计；适合查完整案例的视觉统一与产品包装。",
+    "kind": "作品",
+    "evidence_url": "https://cuberto.com/",
+    "verification": "页面信息",
+    "thumbnail_url": "https://cuberto.com/cover.png",
+    "checked_at": "2026-11-03",
+    "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
+    "http_status": 200,
+    "http_final_url": "https://cuberto.com/"
+  },
+  {
+    "name": "Instrument：品牌与产品作品集",
+    "url": "https://www.instrument.com/",
+    "platform": "独立站",
+    "category": "完整界面",
+    "tags": [
+      "工作室",
+      "品牌",
+      "作品集"
+    ],
+    "description": "品牌、产品、营销三类项目并列展示，适合比较不同业务如何共用作品集结构与视频入口。",
+    "kind": "作品",
+    "evidence_url": "https://www.instrument.com/",
+    "verification": "页面信息",
+    "thumbnail_url": "https://a-us.storyblok.com/f/1004432/1200x630/e7ff102c87/000.png/m/1200x630/filters:format(png)/",
+    "checked_at": "2026-11-03",
+    "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
+    "http_status": 200,
+    "http_final_url": "https://www.instrument.com/"
+  },
+  {
+    "name": "Are.na：内容收集工具的界面表达",
+    "url": "https://www.are.na/",
+    "platform": "独立站",
+    "category": "完整界面",
+    "tags": [
+      "内容工具",
+      "卡片",
+      "知识库"
+    ],
+    "description": "用内容块和频道说明捕捉、整理、搜索与连接的流程，适合收藏工具、知识库与卡片式内容产品。",
+    "kind": "作品",
+    "evidence_url": "https://www.are.na/",
+    "verification": "页面信息",
+    "thumbnail_url": "https://www.are.na/og-image.png",
+    "checked_at": "2026-11-03",
+    "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
+    "http_status": 200,
+    "http_final_url": "https://www.are.na/"
+  },
+  {
+    "name": "Recent（原 Godly）",
+    "url": "https://recent.design/websites",
+    "platform": "灵感平台",
+    "category": "灵感索引",
+    "tags": [
+      "精选",
+      "网站",
+      "视觉"
+    ],
+    "description": "网站与数字作品精选入口，按行业寻找整体风格；官方已说明接替 Godly。",
+    "kind": "灵感库",
+    "evidence_url": "https://recent.design/websites",
+    "verification": "页面信息",
+    "thumbnail_url": "https://recent.design/og.png",
+    "checked_at": "2026-11-03",
+    "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
+    "http_status": 200,
+    "http_final_url": "https://recent.design/websites",
+    "featured": true
+  },
+  {
+    "name": "Awwwards",
+    "url": "https://www.awwwards.com/",
+    "platform": "灵感平台",
+    "category": "灵感索引",
+    "tags": [
+      "获奖",
+      "整站",
+      "WebGL"
+    ],
+    "description": "获奖网站、动效、滚动、WebGL 等分类入口；适合找完整站点和制作团队。",
+    "kind": "灵感库",
+    "evidence_url": "https://www.awwwards.com/",
+    "verification": "页面信息",
+    "thumbnail_url": "https://assets.awwwards.com/assets/images/pages/about-certificates/awwwards.jpg",
+    "checked_at": "2026-11-03",
+    "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
+    "http_status": 200,
+    "http_final_url": "https://www.awwwards.com/"
+  },
+  {
+    "name": "Mobbin",
+    "url": "https://mobbin.com/",
+    "platform": "灵感平台",
+    "category": "灵感索引",
+    "tags": [
+      "App",
+      "流程",
+      "真实产品"
+    ],
+    "description": "真实 App 与网站界面参考，适合从页面、流程与产品类型寻找可落地布局；部分内容需账号或订阅。",
+    "kind": "灵感库",
+    "evidence_url": "https://mobbin.com/",
+    "verification": "页面信息",
+    "thumbnail_url": "https://cdn.sanity.io/images/7b5292cr/production/ad36b255f55774117dd68cfba7cfc447be19f5b5-1200x630.png?w=1200&h=630",
+    "checked_at": "2026-11-03",
+    "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
+    "http_status": 200,
+    "http_final_url": "https://mobbin.com/"
+  },
+  {
+    "name": "Siteinspire",
+    "url": "https://www.siteinspire.com/",
+    "platform": "灵感平台",
+    "category": "灵感索引",
+    "tags": [
+      "排版",
+      "极简",
+      "网格"
+    ],
+    "description": "可按排版、极简、网格和网站类型筛选，适合找安静且完成度高的整体界面。",
+    "kind": "灵感库",
+    "evidence_url": "https://www.siteinspire.com/",
+    "verification": "页面信息",
+    "thumbnail_url": "",
+    "checked_at": "2026-11-03",
+    "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
+    "http_check_error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "name": "Landbook",
+    "url": "https://land-book.com/",
+    "platform": "灵感平台",
+    "category": "灵感索引",
+    "tags": [
+      "落地页",
+      "区块",
+      "移动端"
+    ],
+    "description": "整站、区块、移动界面与 Motion 分类齐全，可结合行业、风格与颜色筛选。",
+    "kind": "灵感库",
+    "evidence_url": "https://land-book.com/",
+    "verification": "页面信息",
+    "thumbnail_url": "",
+    "checked_at": "2026-11-03",
+    "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
+    "http_check_error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "name": "60fps：真实 App 动效库",
+    "url": "https://60fps.design/",
+    "platform": "灵感平台",
+    "category": "灵感索引",
+    "tags": [
+      "微交互",
+      "App",
+      "视频"
+    ],
+    "description": "按手势、元素和效果检索真实 App 交互，特别适合抽屉、按钮、图表与引导流程；部分内容需订阅。",
+    "kind": "灵感库",
+    "evidence_url": "https://60fps.design/",
+    "verification": "页面信息",
+    "thumbnail_url": "https://framerusercontent.com/images/ICYS2f0rsJ9iOphXyUh94ULRS8Y.gif",
+    "checked_at": "2026-11-03",
+    "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
+    "http_status": 200,
+    "http_final_url": "https://60fps.design/",
+    "featured": true
+  },
+  {
+    "name": "HOVERSTAT.ES",
+    "url": "https://www.hoverstat.es/",
+    "platform": "灵感平台",
+    "category": "灵感索引",
+    "tags": [
+      "实验性",
+      "导航",
+      "排版"
+    ],
+    "description": "聚焦实验性的网页设计与交互，适合找非常规导航、文字和作品集布局。",
+    "kind": "灵感库",
+    "evidence_url": "https://www.hoverstat.es/",
+    "verification": "页面信息",
+    "thumbnail_url": "",
+    "checked_at": "2026-11-03",
+    "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
+    "http_status": 200,
+    "http_final_url": "https://www.hoverstat.es/"
+  },
+  {
+    "name": "One Page Love",
+    "url": "https://onepagelove.com/",
+    "platform": "灵感平台",
+    "category": "灵感索引",
+    "tags": [
+      "单页",
+      "落地页",
+      "区块"
+    ],
+    "description": "单页网站和区块精选，适合研究作品集、应用和活动页如何在一页内讲清楚。",
+    "kind": "灵感库",
+    "evidence_url": "https://onepagelove.com/",
+    "verification": "页面信息",
+    "thumbnail_url": "https://onepagelove.com/wp-content/uploads/opl-social-covers/cfdd4a257db8c3c9d1fd2171c53ea530249cc82cadae6170b91f4fc281e7218d.jpg",
+    "checked_at": "2026-11-03",
+    "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
+    "http_status": 200,
+    "http_final_url": "https://onepagelove.com/"
+  },
+  {
+    "name": "Minimal Gallery",
+    "url": "https://minimal.gallery/",
+    "platform": "灵感平台",
+    "category": "灵感索引",
+    "tags": [
+      "极简",
+      "品牌",
+      "作品集"
+    ],
+    "description": "强调美观与功能的网页精选，适合极简作品集、品牌和产品界面的风格探索。",
+    "kind": "灵感库",
+    "evidence_url": "https://minimal.gallery/",
+    "verification": "页面信息",
+    "thumbnail_url": "",
+    "checked_at": "2026-11-03",
+    "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
+    "http_check_error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>"
+  },
+  {
+    "name": "Lapa Ninja",
+    "url": "https://www.lapa.ninja/",
+    "platform": "灵感平台",
+    "category": "灵感索引",
+    "tags": [
+      "落地页",
+      "电商",
+      "Bento"
+    ],
+    "description": "按 SaaS、3D、电商、渐变、Bento 等分类寻找落地页，适合快速比较同类设计。",
+    "kind": "灵感库",
+    "evidence_url": "https://www.lapa.ninja/",
+    "verification": "页面信息",
+    "thumbnail_url": "",
+    "checked_at": "2026-11-03",
+    "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
+    "http_check_error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "name": "Landingfolio",
+    "url": "https://www.landingfolio.com/",
+    "platform": "灵感平台",
+    "category": "灵感索引",
+    "tags": [
+      "落地页",
+      "组件",
+      "Figma"
+    ],
+    "description": "落地页灵感与组件并列，可从整页设计继续找到具体区块结构；模板与组件有不同使用条件。",
+    "kind": "灵感库",
+    "evidence_url": "https://www.landingfolio.com/",
+    "verification": "页面信息",
+    "thumbnail_url": "https://landingfolio.com/og-home.jpg",
+    "checked_at": "2026-11-03",
+    "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
+    "http_status": 200,
+    "http_final_url": "https://www.landingfolio.com/"
+  },
+  {
+    "name": "Three.js Journey：学生作品精选",
+    "url": "https://threejs-journey.com/selection/1",
+    "platform": "灵感平台",
+    "category": "灵感索引",
+    "tags": [
+      "Three.js",
+      "作品集",
+      "3D"
+    ],
+    "description": "Bruno Simon 维护的作品精选，链接到真实 3D 作品与展示视频，适合寻找可探索的空间场景。",
+    "kind": "灵感库",
+    "evidence_url": "https://threejs-journey.com/selection/1",
+    "verification": "页面信息",
+    "thumbnail_url": "https://threejs-journey.com/assets/social/share-image-selection.png?cb=b",
+    "checked_at": "2026-11-03",
+    "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
+    "http_status": 200,
+    "http_final_url": "https://threejs-journey.com/selection/1"
+  },
+  {
+    "name": "D3 官方可视化画廊",
+    "url": "https://observablehq.com/@d3/gallery",
+    "platform": "灵感平台",
+    "category": "灵感索引",
+    "tags": [
+      "图表",
+      "数据",
+      "交互"
+    ],
+    "description": "由 D3 作者维护的可视化实例入口，适合把图表交互作为 UI 灵感而不只看装饰动画。",
+    "kind": "灵感库",
+    "evidence_url": "https://observablehq.com/@d3/gallery",
+    "verification": "页面信息",
+    "thumbnail_url": "",
+    "checked_at": "2026-11-03",
+    "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
+    "http_check_error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "name": "Soft Labor：模糊文字聚焦",
+    "url": "https://www.softlabor.biz/",
+    "platform": "独立站",
+    "category": "文字与排版",
+    "tags": [
+      "SVG",
+      "模糊",
+      "文字"
+    ],
+    "description": "文字从模糊到清晰的 SVG 交互，适合研究阅读与悬停反馈。",
+    "kind": "作品",
+    "evidence_url": "https://www.hoverstat.es/",
+    "verification": "索引描述",
+    "thumbnail_url": "https://storage.ghost.io/c/97/5c/975ce841-23f0-4caf-b81b-8189221fb005/content/images/2025/05/sl_linkedin-profile.png",
+    "checked_at": "2026-11-03",
+    "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
+    "http_status": 200,
+    "http_final_url": "https://www.softlabor.biz/"
+  },
+  {
+    "name": "XK Studio：时间轴视频导航",
+    "url": "https://xk.studio/",
+    "platform": "独立站",
+    "category": "画廊与导航",
+    "tags": [
+      "时间轴",
+      "视频",
+      "作品集"
+    ],
+    "description": "时间轴显示播放进度，并通过滚动切换视频作品。",
+    "kind": "作品",
+    "evidence_url": "https://www.hoverstat.es/",
+    "verification": "索引描述",
+    "thumbnail_url": "",
+    "checked_at": "2026-11-03",
+    "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
+    "http_status": 200,
+    "http_final_url": "https://xk.studio/"
+  },
+  {
+    "name": "Tiger Dingsun：散落卡片与列表",
+    "url": "https://tiger.exposed/",
+    "platform": "独立站",
+    "category": "画廊与导航",
+    "tags": [
+      "卡片",
+      "列表",
+      "作品集"
+    ],
+    "description": "作品从散落堆叠切换为有序列表，适合比较自由探索与信息检索。",
+    "kind": "作品",
+    "evidence_url": "https://www.hoverstat.es/",
+    "verification": "索引描述",
+    "thumbnail_url": "",
+    "checked_at": "2026-11-03",
+    "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
+    "http_status": 200,
+    "http_final_url": "https://tiger.exposed/"
+  },
+  {
+    "name": "Oliver Du Puy：悬停切换图像",
+    "url": "https://www.oliverdupuy.com/",
+    "platform": "独立站",
+    "category": "画廊与导航",
+    "tags": [
+      "悬停",
+      "建筑",
+      "摄影"
+    ],
+    "description": "在横幅图像上使用悬停切换，适合建筑和摄影作品集。",
+    "kind": "作品",
+    "evidence_url": "https://www.hoverstat.es/",
+    "verification": "索引描述",
+    "thumbnail_url": "",
+    "checked_at": "2026-11-03",
+    "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
+    "http_status": 200,
+    "http_final_url": "https://www.oliverdupuy.com/"
+  },
+  {
+    "name": "Andrew Trousdale：节点式作品导航",
+    "url": "https://andrewtrousdale.com/",
+    "platform": "独立站",
+    "category": "画廊与导航",
+    "tags": [
+      "节点",
+      "关系",
+      "作品集"
+    ],
+    "description": "将节点连接与文字索引结合，适合跨领域项目关系的展示。",
+    "kind": "作品",
+    "evidence_url": "https://www.hoverstat.es/",
+    "verification": "索引描述",
+    "thumbnail_url": "https://andrewtrousdale.com/media/site/0bbd3b0fda-1727721696/at.jpg",
+    "checked_at": "2026-11-03",
+    "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
+    "http_status": 200,
+    "http_final_url": "https://andrewtrousdale.com/"
+  },
+  {
+    "name": "MUDA：伸缩的滚动导航",
+    "url": "https://muda.co/",
+    "platform": "独立站",
+    "category": "滚动与叙事",
+    "tags": [
+      "滚动",
+      "导航",
+      "形变"
+    ],
+    "description": "导航随滚动拉伸和压缩，适合研究活跃状态的动态反馈。",
+    "kind": "作品",
+    "evidence_url": "https://www.hoverstat.es/",
+    "verification": "索引描述",
+    "thumbnail_url": "",
+    "checked_at": "2026-11-03",
+    "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
+    "http_status": 200,
+    "http_final_url": "https://muda.co/"
+  },
+  {
+    "name": "Any Given Moment：表盘式导航",
+    "url": "https://www.anygivenmoment.co/",
+    "platform": "独立站",
+    "category": "画廊与导航",
+    "tags": [
+      "表盘",
+      "机械",
+      "作品集"
+    ],
+    "description": "以拨盘浏览项目，让导航拥有机械刻度感。",
+    "kind": "作品",
+    "evidence_url": "https://www.hoverstat.es/",
+    "verification": "索引描述",
+    "thumbnail_url": "https://cdn.sanity.io/images/ooesksxl/production/9db2c622af66b62413bd00bace37dacef4eeb0a1-1536x1920.jpg?w=1200&h=630&fit=crop",
+    "checked_at": "2026-11-03",
+    "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
+    "http_status": 200,
+    "http_final_url": "https://www.anygivenmoment.co/"
+  },
+  {
+    "name": "E.F Productions：联系表式作品集",
+    "url": "https://www.erinfeeproductions.com/",
+    "platform": "独立站",
+    "category": "画廊与导航",
+    "tags": [
+      "摄影",
+      "波纹",
+      "字标"
+    ],
+    "description": "摄影联系表布局结合行悬停波纹和变形字标。",
+    "kind": "作品",
+    "evidence_url": "https://www.hoverstat.es/",
+    "verification": "索引描述",
+    "thumbnail_url": "https://cdn.sanity.io/images/82o0p5xw/production/981b9b13afe9f0afc083667d1bf175a90b968b1e-1200x630.png?w=1200&h=630&fit=crop&auto=format",
+    "checked_at": "2026-11-03",
+    "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
+    "http_status": 200,
+    "http_final_url": "https://www.erinfeeproductions.com/"
+  },
+  {
+    "name": "Ballet National de Marseille：舞蹈式排版",
+    "url": "https://www.ballet-de-marseille.com/",
+    "platform": "独立站",
+    "category": "文字与排版",
+    "tags": [
+      "3D文字",
+      "叠层",
+      "文化"
+    ],
+    "description": "大字、粘性叠层与循环 3D 文字标题，适合文化活动网站。",
+    "kind": "作品",
+    "evidence_url": "https://www.hoverstat.es/",
+    "verification": "索引描述",
+    "thumbnail_url": "https://cdn.sanity.io/images/0y1zvzj4/production/e9843c7ed00ca7ce6add6dde39778433ac3885c1-3999x2666.jpg?rect=0,284,3999,2099&w=1200&h=630&fit=max&auto=format",
+    "checked_at": "2026-11-03",
+    "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
+    "http_status": 200,
+    "http_final_url": "https://www.ballet-de-marseille.com/"
+  },
+  {
+    "name": "Archive for Space：层级空间布局",
+    "url": "https://archiveforspace.com/",
+    "platform": "独立站",
+    "category": "完整界面",
+    "tags": [
+      "建筑",
+      "层级",
+      "布局"
+    ],
+    "description": "以多个层级的可见关系表达建筑空间，适合探索结构化作品展示。",
+    "kind": "作品",
+    "evidence_url": "https://www.hoverstat.es/",
+    "verification": "索引描述",
+    "thumbnail_url": "https://archiveforspace.com/wp-content/uploads/2025/02/cropped-Google-Profile-1.png",
+    "checked_at": "2026-11-03",
+    "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
+    "http_status": 200,
+    "http_final_url": "https://archiveforspace.com/"
+  },
+  {
+    "name": "Apple Health：健康引导拼合",
+    "url": "https://60fps.design/shots/apple-health-longevity-intro-animation",
+    "platform": "灵感平台",
+    "category": "微交互",
+    "tags": [
+      "引导",
+      "图形",
+      "拼合"
+    ],
+    "description": "不同健康主题的图形依次展开，再拼合为完整圆形图；参考分阶段引导如何汇总成一个视觉结论。",
+    "kind": "案例",
+    "evidence_url": "https://60fps.design/shots/apple-health-longevity-intro-animation",
+    "verification": "页面信息",
+    "thumbnail_url": "https://framerusercontent.com/images/ICYS2f0rsJ9iOphXyUh94ULRS8Y.gif",
+    "checked_at": "2026-11-03",
+    "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
+    "http_status": 200,
+    "http_final_url": "https://60fps.design/shots/apple-health-longevity-intro-animation",
+    "featured": true
+  },
+  {
+    "name": "Revolut：卡片就绪动画",
+    "url": "https://60fps.design/shots/revolut-card-ready-animation",
+    "platform": "灵感平台",
+    "category": "3D与沉浸",
+    "tags": [
+      "金融",
+      "3D卡片",
+      "成功状态"
+    ],
+    "description": "渐变表面收拢为透视卡片，成功文案与按钮同步进入；适合开户完成或数字卡发放反馈。",
+    "kind": "案例",
+    "evidence_url": "https://60fps.design/shots/revolut-card-ready-animation",
+    "verification": "页面信息",
+    "thumbnail_url": "https://framerusercontent.com/images/ICYS2f0rsJ9iOphXyUh94ULRS8Y.gif",
+    "checked_at": "2026-11-03",
+    "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
+    "http_status": 200,
+    "http_final_url": "https://60fps.design/shots/revolut-card-ready-animation"
+  },
+  {
+    "name": "Circle：头像气泡开场",
+    "url": "https://60fps.design/shots/circle-splash-bubbles-pop-interaction",
+    "platform": "灵感平台",
+    "category": "微交互",
+    "tags": [
+      "社群",
+      "气泡",
+      "弹性"
+    ],
+    "description": "头像和话题气泡交替弹出并重排，适合社群产品的开场与活跃氛围表达。",
+    "kind": "案例",
+    "evidence_url": "https://60fps.design/shots/circle-splash-bubbles-pop-interaction",
+    "verification": "页面信息",
+    "thumbnail_url": "https://framerusercontent.com/images/ICYS2f0rsJ9iOphXyUh94ULRS8Y.gif",
+    "checked_at": "2026-11-03",
+    "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
+    "http_status": 200,
+    "http_final_url": "https://60fps.design/shots/circle-splash-bubbles-pop-interaction"
+  },
+  {
+    "name": "Brick：翻转价值主张文字",
+    "url": "https://60fps.design/shots/brick-intro-value-prop-text-flip-interaction",
+    "platform": "灵感平台",
+    "category": "文字与排版",
+    "tags": [
+      "文字",
+      "翻转",
+      "引导"
+    ],
+    "description": "引导标题循环切换动词，适合将多个使用场景压缩到同一句主文案。",
+    "kind": "案例",
+    "evidence_url": "https://60fps.design/shots/brick-intro-value-prop-text-flip-interaction",
+    "verification": "页面信息",
+    "thumbnail_url": "https://framerusercontent.com/images/ICYS2f0rsJ9iOphXyUh94ULRS8Y.gif",
+    "checked_at": "2026-11-03",
+    "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
+    "http_status": 200,
+    "http_final_url": "https://60fps.design/shots/brick-intro-value-prop-text-flip-interaction"
+  },
+  {
+    "name": "Runmo：里程圆环与统计切换",
+    "url": "https://60fps.design/shots/runmo-distance-wheel-fill-interaction",
+    "platform": "灵感平台",
+    "category": "微交互",
+    "tags": [
+      "仪表盘",
+      "进度",
+      "数字"
+    ],
+    "description": "切换年份时圆环进度和数字同步变化，适合运动统计、目标进度及时间范围比较。",
+    "kind": "案例",
+    "evidence_url": "https://60fps.design/shots/runmo-distance-wheel-fill-interaction",
+    "verification": "页面信息",
+    "thumbnail_url": "https://framerusercontent.com/images/ICYS2f0rsJ9iOphXyUh94ULRS8Y.gif",
+    "checked_at": "2026-11-03",
+    "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
+    "http_status": 200,
+    "http_final_url": "https://60fps.design/shots/runmo-distance-wheel-fill-interaction",
+    "featured": true
+  },
+  {
+    "name": "Plasma：卡片展开为底部抽屉",
+    "url": "https://60fps.design/shots/plasma-duo-style-bottom-sheet-open-interaction",
+    "platform": "灵感平台",
+    "category": "微交互",
+    "tags": [
+      "抽屉",
+      "共享元素",
+      "弹性"
+    ],
+    "description": "优惠卡片变形为详情抽屉，背景变暗模糊；适合保持列表与详情之间的空间关系。",
+    "kind": "案例",
+    "evidence_url": "https://60fps.design/shots/plasma-duo-style-bottom-sheet-open-interaction",
+    "verification": "页面信息",
+    "thumbnail_url": "https://framerusercontent.com/images/ICYS2f0rsJ9iOphXyUh94ULRS8Y.gif",
+    "checked_at": "2026-11-03",
+    "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
+    "http_status": 200,
+    "http_final_url": "https://60fps.design/shots/plasma-duo-style-bottom-sheet-open-interaction"
+  },
+  {
+    "name": "Duolingo：雕塑奖励揭晓",
+    "url": "https://60fps.design/shots/duolingo-sparkle-sculpt-pop-interaction",
+    "platform": "灵感平台",
+    "category": "游戏与趣味",
+    "tags": [
+      "奖励",
+      "吉祥物",
+      "粒子"
+    ],
+    "description": "石块在烟尘与闪光中揭晓吉祥物雕塑，再用弹跳强调奖励；参考成就系统的揭晓时刻。",
+    "kind": "案例",
+    "evidence_url": "https://60fps.design/shots/duolingo-sparkle-sculpt-pop-interaction",
+    "verification": "页面信息",
+    "thumbnail_url": "",
+    "checked_at": "2026-11-03",
+    "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
+    "http_check_error": "<urlopen error timed out>"
+  },
+  {
+    "name": "CRED：票券滑杆",
+    "url": "https://60fps.design/shots/cred-ticket-pop-on-slider-interaction",
+    "platform": "灵感平台",
+    "category": "微交互",
+    "tags": [
+      "滑杆",
+      "粒子",
+      "数字"
+    ],
+    "description": "拖动金属滑杆时票券粒子弹出，数量与金额同步更新；适合有触感的数值选择器。",
+    "kind": "案例",
+    "evidence_url": "https://60fps.design/shots/cred-ticket-pop-on-slider-interaction",
+    "verification": "页面信息",
+    "thumbnail_url": "https://framerusercontent.com/images/ICYS2f0rsJ9iOphXyUh94ULRS8Y.gif",
+    "checked_at": "2026-11-03",
+    "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
+    "http_status": 200,
+    "http_final_url": "https://60fps.design/shots/cred-ticket-pop-on-slider-interaction"
+  },
+  {
+    "name": "Revolut：脉冲边框功能引导",
+    "url": "https://60fps.design/shots/revolut-revpoints-feature-coachmark-border-pulse-interaction",
+    "platform": "灵感平台",
+    "category": "微交互",
+    "tags": [
+      "引导",
+      "脉冲",
+      "遮罩"
+    ],
+    "description": "遮罩与发光圆形边框依次强调操作按钮；适合研究分步引导的聚焦方式。",
+    "kind": "案例",
+    "evidence_url": "https://60fps.design/shots/revolut-revpoints-feature-coachmark-border-pulse-interaction",
+    "verification": "页面信息",
+    "thumbnail_url": "https://framerusercontent.com/images/ICYS2f0rsJ9iOphXyUh94ULRS8Y.gif",
+    "checked_at": "2026-11-03",
+    "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
+    "http_status": 200,
+    "http_final_url": "https://60fps.design/shots/revolut-revpoints-feature-coachmark-border-pulse-interaction"
+  },
+  {
+    "name": "Run Receipt：手写签名收据",
+    "url": "https://60fps.design/shots/run-receipt-signature-interaction",
+    "platform": "灵感平台",
+    "category": "微交互",
+    "tags": [
+      "签名",
+      "画布",
+      "收据"
+    ],
+    "description": "绘制签名后收起画布，将签名放进收据；适合研究输入结果在主界面中的连续呈现。",
+    "kind": "案例",
+    "evidence_url": "https://60fps.design/shots/run-receipt-signature-interaction",
+    "verification": "页面信息",
+    "thumbnail_url": "https://framerusercontent.com/images/ICYS2f0rsJ9iOphXyUh94ULRS8Y.gif",
+    "checked_at": "2026-11-03",
+    "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
+    "http_status": 200,
+    "http_final_url": "https://60fps.design/shots/run-receipt-signature-interaction"
+  },
+  {
+    "name": "X：活动点赞角色动画",
+    "url": "https://60fps.design/shots/x-campaign-hashtag-based-grok-bot-like-button-interaction",
+    "platform": "灵感平台",
+    "category": "图形与图标",
+    "tags": [
+      "点赞",
+      "粒子",
+      "角色"
+    ],
+    "description": "点赞触发角色弹跳与粒子爆发，再回到红心状态；适合社交反应与活动彩蛋。",
+    "kind": "案例",
+    "evidence_url": "https://60fps.design/shots/x-campaign-hashtag-based-grok-bot-like-button-interaction",
+    "verification": "页面信息",
+    "thumbnail_url": "https://framerusercontent.com/images/ICYS2f0rsJ9iOphXyUh94ULRS8Y.gif",
+    "checked_at": "2026-11-03",
+    "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
+    "http_status": 200,
+    "http_final_url": "https://60fps.design/shots/x-campaign-hashtag-based-grok-bot-like-button-interaction"
+  },
+  {
+    "name": "Platen：拟物打字机引导",
+    "url": "https://60fps.design/shots/platen-typewriter-intro-how-to-interaction",
+    "platform": "灵感平台",
+    "category": "微交互",
+    "tags": [
+      "拟物",
+      "主题",
+      "长按"
+    ],
+    "description": "长按打字机横杆投射光束并演示主题变化，适合把模式切换融入拟物控制。",
+    "kind": "案例",
+    "evidence_url": "https://60fps.design/shots/platen-typewriter-intro-how-to-interaction",
+    "verification": "页面信息",
+    "thumbnail_url": "https://framerusercontent.com/images/ICYS2f0rsJ9iOphXyUh94ULRS8Y.gif",
+    "checked_at": "2026-11-03",
+    "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
+    "http_status": 200,
+    "http_final_url": "https://60fps.design/shots/platen-typewriter-intro-how-to-interaction"
+  },
+  {
+    "name": "Airbnb：新功能开场叙事",
+    "url": "https://60fps.design/shots/airbnb-new-intro-sequence",
+    "platform": "灵感平台",
+    "category": "完整界面",
+    "tags": [
+      "引导",
+      "设备框",
+      "转场"
+    ],
+    "description": "模拟设备中依次展示住宿、体验与服务，最后放大为实际界面；参考演示与可操作状态的衔接。",
+    "kind": "案例",
+    "evidence_url": "https://60fps.design/shots/airbnb-new-intro-sequence",
+    "verification": "页面信息",
+    "thumbnail_url": "https://framerusercontent.com/images/ICYS2f0rsJ9iOphXyUh94ULRS8Y.gif",
+    "checked_at": "2026-11-03",
+    "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
+    "http_status": 200,
+    "http_final_url": "https://60fps.design/shots/airbnb-new-intro-sequence"
+  },
+  {
+    "name": "Flighty：转机助手抽屉",
+    "url": "https://60fps.design/shots/flighty-connection-assistant-sheet",
+    "platform": "灵感平台",
+    "category": "微交互",
+    "tags": [
+      "旅行",
+      "时间轴",
+      "抽屉"
+    ],
+    "description": "收起说明时，时间轴和详细行程同步重排，箭头旋转反馈状态；适合信息密集型底部抽屉。",
+    "kind": "案例",
+    "evidence_url": "https://60fps.design/shots/flighty-connection-assistant-sheet",
+    "verification": "页面信息",
+    "thumbnail_url": "https://framerusercontent.com/images/ICYS2f0rsJ9iOphXyUh94ULRS8Y.gif",
+    "checked_at": "2026-11-03",
+    "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
+    "http_status": 200,
+    "http_final_url": "https://60fps.design/shots/flighty-connection-assistant-sheet"
+  },
+  {
+    "name": "Flighty：护照黑光分享",
+    "url": "https://60fps.design/shots/flighty-share-passport-blacklight-interaction",
+    "platform": "灵感平台",
+    "category": "微交互",
+    "tags": [
+      "旅行",
+      "卡片",
+      "光效"
+    ],
+    "description": "切换黑光后，护照航线、统计与印章呈现紫色荧光，模拟隐形墨水被照亮；适合纪念卡片与分享彩蛋。",
+    "kind": "案例",
+    "evidence_url": "https://60fps.design/shots/flighty-share-passport-blacklight-interaction",
+    "verification": "页面信息",
+    "thumbnail_url": "https://framerusercontent.com/images/ICYS2f0rsJ9iOphXyUh94ULRS8Y.gif",
+    "checked_at": "2026-11-03",
+    "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
+    "http_status": 200,
+    "http_final_url": "https://60fps.design/shots/flighty-share-passport-blacklight-interaction"
+  },
+  {
+    "name": "Airbnb：触感标签按钮",
+    "url": "https://60fps.design/shots/airbnb-tactile-tab-button-interaction",
+    "platform": "灵感平台",
+    "category": "微交互",
+    "tags": [
+      "导航",
+      "按钮",
+      "触感"
+    ],
+    "description": "点击胶囊标签时先弹性缩小，选中高亮滑动，骨架卡片淡入实际内容；适合导航切换与加载反馈。",
+    "kind": "案例",
+    "evidence_url": "https://60fps.design/shots/airbnb-tactile-tab-button-interaction",
+    "verification": "页面信息",
+    "thumbnail_url": "",
+    "checked_at": "2026-11-03",
+    "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
+    "http_check_error": "<urlopen error timed out>",
+    "featured": true
+  },
+  {
+    "name": "Airbnb：照片弹出滑动",
+    "url": "https://60fps.design/shots/airbnb-photo-pop-and-slide-animation",
+    "platform": "灵感平台",
+    "category": "画廊与导航",
+    "tags": [
+      "照片",
+      "卡片堆",
+      "画廊"
+    ],
+    "description": "照片堆最上层卡片放大、旋转并滑到后方，其余照片前移补位；适合循环画廊与卡片式故事。",
+    "kind": "案例",
+    "evidence_url": "https://60fps.design/shots/airbnb-photo-pop-and-slide-animation",
+    "verification": "页面信息",
+    "thumbnail_url": "",
+    "checked_at": "2026-11-03",
+    "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
+    "http_check_error": "<urlopen error timed out>"
+  },
+  {
+    "name": "D3：可缩放旭日图",
+    "url": "https://observablehq.com/@d3/zoomable-sunburst",
+    "platform": "独立站",
+    "category": "微交互",
+    "tags": [
+      "D3",
+      "数据",
+      "层级",
+      "钻取"
+    ],
+    "description": "按层级探索环状旭日图，适合文件、组织和内容分类的钻取界面；页面提供可编辑示例。",
+    "kind": "案例",
+    "evidence_url": "https://observablehq.com/@d3/zoomable-sunburst",
+    "verification": "页面信息",
+    "thumbnail_url": "",
+    "checked_at": "2026-11-03",
+    "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
+    "http_check_error": "HTTP Error 429: Too Many Requests",
+    "featured": true
+  },
+  {
+    "name": "D3：可缩放矩形树图",
+    "url": "https://observablehq.com/@d3/zoomable-treemap",
+    "platform": "独立站",
+    "category": "微交互",
+    "tags": [
+      "D3",
+      "数据",
+      "树图",
+      "缩放"
+    ],
+    "description": "通过矩形面积与层级缩放探索数据，适合资源分配和内容结构的可视化面板。",
+    "kind": "案例",
+    "evidence_url": "https://observablehq.com/@d3/zoomable-treemap",
+    "verification": "页面信息",
+    "thumbnail_url": "",
+    "checked_at": "2026-11-03",
+    "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
+    "http_check_error": "<urlopen error timed out>"
+  },
+  {
+    "name": "D3：动态条形排名",
+    "url": "https://observablehq.com/@d3/bar-chart-race",
+    "platform": "独立站",
+    "category": "微交互",
+    "tags": [
+      "D3",
+      "排名",
+      "数据",
+      "时间"
+    ],
+    "description": "条形随时间更新排名，适合学习数据变更时如何保持对象的可追踪性。",
+    "kind": "案例",
+    "evidence_url": "https://observablehq.com/@d3/bar-chart-race",
+    "verification": "页面信息",
+    "thumbnail_url": "",
+    "checked_at": "2026-11-03",
+    "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
+    "http_check_error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "name": "Earth：全球风场与海洋",
+    "url": "https://earth.nullschool.net/",
+    "platform": "独立站",
+    "category": "粒子与背景",
+    "tags": [
+      "地图",
+      "风场",
+      "数据",
+      "粒子"
+    ],
+    "description": "地图支持风、洋流与波浪动画以及时间和图层切换，适合环境数据界面和流向视觉参考。",
+    "kind": "作品",
+    "evidence_url": "https://earth.nullschool.net/",
+    "verification": "页面信息",
+    "thumbnail_url": "",
+    "checked_at": "2026-11-03",
+    "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
+    "http_check_error": "<urlopen error timed out>",
+    "featured": true
+  },
+  {
+    "name": "Globe.GL：交互地球数据层",
+    "url": "https://globe.gl/",
+    "platform": "独立站",
+    "category": "3D与沉浸",
+    "tags": [
+      "Three.js",
+      "地球",
+      "数据",
+      "连线"
+    ],
+    "description": "官方示例涵盖弧线连接、区域填色、高度多边形和昼夜变化，适合全球业务和网络连接界面。",
+    "kind": "案例",
+    "evidence_url": "https://globe.gl/",
+    "verification": "页面信息",
+    "thumbnail_url": "",
+    "checked_at": "2026-11-03",
+    "license_note": "作为视觉参考收录；原站作品、品牌和素材权利属于原作者。",
+    "http_status": 200,
+    "http_final_url": "https://globe.gl/"
+  }
+]

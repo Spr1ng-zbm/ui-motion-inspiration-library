@@ -1,0 +1,14 @@
+__pycache__/
+node_modules/
+.cache/
+*.log
+preview*.png
+github-result.json
+scripts/github_publish.py
+build_code_items.py
+enrich_code_items.py
+finalize_code_items.py
+finalize_video_items.py
+verify_video_metadata.py
+enrich_site_items.py
+build_site_items.py
